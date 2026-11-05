@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Construction Safety Notes</title>
+<style>
+  body { font: 18px/1.5 -apple-system, sans-serif; max-width: 560px; margin: 48px auto; padding: 0 16px; color: #1c1b19; background: #fbfaf7; }
+  a.btn { display: inline-block; padding: 12px 20px; background: #1f4e79; color: #fff; border-radius: 6px; text-decoration: none; font-weight: 600; }
+  li { margin-bottom: 8px; }
+  .small { font-size: 14px; color: #66624f; }
+</style>
+</head>
+<body>
+<h1>Construction safety notes</h1>
+<p>Personal study notes in a side panel, built from public regulations, OSHA investigation reports and enforcement records. Unofficial: not from OSHA or any course provider, and not legal advice.</p>
+<ol>
+  <li>Show the Favorites Bar if it's hidden (Shift-Command-B).</li>
+  <li>Drag this button onto the Favorites Bar: <a class="btn" id="btn" href="#">Safety Notes</a></li>
+  <li>On the page you're reading, click <b>Safety Notes</b>. Click it again to close.</li>
+</ol>
+<p class="small">The panel only adds itself to the page. It sends no input and doesn't read or change anything else there.</p>
+<script>
+  var src = new URL('panel.js', location.href).href;
+  document.getElementById('btn').href = "javascript:(function(){var s=document.createElement('script');s.src='" + src + "?v='+Date.now();document.body.appendChild(s)})();void 0";
+</script>
+</body>
+</html>

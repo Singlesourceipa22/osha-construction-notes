@@ -1,0 +1,375 @@
+{
+ "module": 17,
+ "title": "Personal Protective Equipment",
+ "sources": [
+  {
+   "id": "S1",
+   "title": "29 CFR 1926.95, Criteria for personal protective equipment",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.95"
+  },
+  {
+   "id": "S2",
+   "title": "Federal Register, Personal Protective Equipment in Construction, final rule (Dec. 12, 2024, 89 FR 100321)",
+   "url": "https://www.osha.gov/laws-regs/federalregister/2024-12-12"
+  },
+  {
+   "id": "S3",
+   "title": "29 CFR 1926.100, Head protection",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.100"
+  },
+  {
+   "id": "S4",
+   "title": "29 CFR 1926.101, Hearing protection",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.101"
+  },
+  {
+   "id": "S5",
+   "title": "29 CFR 1926.102, Eye and face protection",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.102"
+  },
+  {
+   "id": "S6",
+   "title": "29 CFR 1926.52, Occupational noise exposure",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.52"
+  },
+  {
+   "id": "S7",
+   "title": "29 CFR 1926.103, Respiratory protection",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.103"
+  },
+  {
+   "id": "S8",
+   "title": "29 CFR 1910.134, Respiratory protection",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.134"
+  },
+  {
+   "id": "S9",
+   "title": "29 CFR 1926.1153, Respirable crystalline silica",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1153"
+  },
+  {
+   "id": "S10",
+   "title": "29 CFR 1926.28, Personal protective equipment",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.28"
+  },
+  {
+   "id": "S11",
+   "title": "29 CFR 1926.96, Occupational foot protection",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.96"
+  },
+  {
+   "id": "S12",
+   "title": "29 CFR 1926.97, Electrical protective equipment",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.97"
+  },
+  {
+   "id": "S13",
+   "title": "OSHA, Protecting Employees from Electric-Arc Flash Hazards (OSHA 4472, 2024)",
+   "url": "https://www.osha.gov/sites/default/files/publications/OSHA4472.pdf"
+  },
+  {
+   "id": "S14",
+   "title": "OSHA news release, Friendswood High School roof collapse citations, Houston (Dec. 14, 2023)",
+   "url": "https://www.osha.gov/news/newsreleases/dallas/20231214"
+  },
+  {
+   "id": "S15",
+   "title": "OSHA news release, Araujo Construction citations, Chicago (Sept. 15, 2026)",
+   "url": "https://www.osha.gov/news/newsreleases/chicago/20260915"
+  },
+  {
+   "id": "S16",
+   "title": "OSHA news release, Everest Scaffolding fatal fall, Brooklyn (June 16, 2021)",
+   "url": "https://www.osha.gov/news/newsreleases/new-york-city/20210616"
+  }
+ ],
+ "sections": [
+  {
+   "heading": "What changed in December 2024: the fit amendment to 1926.95",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "A 2017 course guide will not mention this, so start here. OSHA published a final rule on December 12, 2024 (89 FR 100321) that changed one paragraph of the construction PPE standard, 1926.95(c), effective January 13, 2025 [S2]. The paragraph used to say that PPE must be of safe design and construction for the work to be performed. That sentence is still there as item (1). The new item (2) says the equipment must be selected so that it properly fits each affected employee [S2][S1]."
+    },
+    {
+     "type": "quote",
+     "text": "Is selected to ensure that it properly fits each affected employee.",
+     "source": "S1"
+    },
+    {
+     "type": "p",
+     "text": "The preamble describes the change as a clarification, not a new idea. General industry (1910.132(d)(1)(iii)) and shipyard employment (1915.152(b)(3)) already had an explicit fit requirement, and construction was the odd one out [S2]. OSHA says it treated proper fit as an implicit requirement of the construction standard all along and that the rule makes it explicit [S2]. The practical effect for a site is that an inspector no longer has to argue from the general design-and-construction wording when a harness hangs off a small worker or a glove is two sizes too big. The standard now says it."
+    },
+    {
+     "type": "p",
+     "text": "OSHA's working definition, carried over from the proposal, is that \"properly fits\" means the PPE is the appropriate size to give the employee the necessary protection and does not create additional hazards by being too small or too large [S2]. The preamble's examples of what goes wrong are concrete. Sleeves that are too long or gloves that do not fit can make tools hard to use or get caught in machinery, causing injuries such as fractures or amputations. Garment legs that are too long are a trip hazard. Protective clothing that is too small can leave the wearer under-covered [S2]. OSHA also notes that smaller workers, including some women, often cannot use standard-size PPE, and that larger workers can have fit problems too [S2]."
+    },
+    {
+     "type": "p",
+     "text": "Fall protection harnesses were the item commenters raised most often. Commenters described being issued harnesses that were too large, and one said the employer told them to shrink it down to make it fit [S2]. OSHA also records a commenter who said gloves that were too large for her were caught in a pulley while she worked on an air conditioning unit, causing a wrist sprain, torn ligaments, fractured fingers and nerve damage [S2]. These are comments submitted in the rulemaking, not OSHA findings about any employer. They are useful because they show what the agency was reacting to."
+    },
+    {
+     "type": "p",
+     "text": "What the rule leaves out matters as much. OSHA considered, and declined, adding a requirement to follow the manufacturer's fit instructions. It encourages employers to use them, but the agency said making them mandatory would limit the employer's flexibility in choosing PPE, and the fit duty applies whether or not the manufacturer says anything about fit [S2]. It also declined to prescribe fit criteria for every type of PPE, calling the approach performance-based [S2]. A commenter had asked for a qualified or competent person to determine fit; the final text contains no such requirement [S2]. Where manufacturer guidance is silent, OSHA says employers can often look to consensus standards, and can choose products that come with fit guidance over ones that do not [S2]."
+    },
+    {
+     "type": "quote",
+     "text": "OSHA cannot issue a citation simply because PPE that properly fits is uncomfortable.",
+     "source": "S2"
+    },
+    {
+     "type": "p",
+     "text": "That sentence sits next to a caution. OSHA says comfort matters because comfortable PPE is more likely to be worn and because discomfort can signal poor fit, and that an employee's complaint of discomfort should be taken seriously and may mean the PPE needs a second look [S2]. The preamble also says the employer has an independent duty to see that appropriate PPE is worn whenever the work requires it, whatever the fit [S2]. For enforcement, OSHA said it will apply the guidance it already uses in general industry and maritime [S2]. The preamble does not give a fit checklist."
+    },
+    {
+     "type": "p",
+     "text": "Coordinator reading of this, which is judgment and not a legal requirement: the new text is about selection. It lands on whoever buys and issues PPE, which on a large job is each employer for its own people. What the coordinator can do is make the issue visible before it becomes a citation. Ask at the pre-task or onboarding stage whether each sub stocks a real size range, including harnesses and gloves at the small end. Treat a worker who is cutting, taping or cinching ill-fitting gear as a report to be acted on, not a discipline problem. The preamble's own account of why people modify or abandon PPE that does not fit supports that [S2]."
+    }
+   ]
+  },
+  {
+   "heading": "Who must provide it, and who pays",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The scope sentence in 1926.95(a) is broad. Protective equipment for eyes, face, head and extremities, protective clothing, respiratory devices, and shields and barriers must be provided, used and maintained in sanitary and reliable condition wherever the hazards of the process or environment, chemical hazards, radiological hazards or mechanical irritants call for it [S1]. Section 1926.28 puts the other half on the employer: it is responsible for requiring the wearing of appropriate PPE in all operations with exposure to hazardous conditions, or where the part indicates PPE is needed [S10]. Providing it and requiring it are separate duties, and a site can fail either one."
+    },
+    {
+     "type": "quote",
+     "text": "the protective equipment, including personal protective equipment (PPE), used to comply with this part, shall be provided by the employer at no cost to employees.",
+     "source": "S1"
+    },
+    {
+     "type": "p",
+     "text": "The payment rule has exceptions that matter at the gate on day one. The employer need not pay for non-specialty safety-toe footwear, including steel-toe boots, or non-specialty prescription safety eyewear, provided it permits those items to be worn off the job site [S1]. Everyday clothing such as long sleeves, long pants and normal work boots is not the employer's cost, and neither are items used solely against weather, such as winter coats, gloves, rubber boots, hats, raincoats, ordinary sunglasses and sunscreen [S1]. If the employer provides metatarsal guards and lets a worker choose boots with built-in metatarsal protection, it need not reimburse those boots [S1]. Replacement PPE is on the employer unless the employee lost it or intentionally damaged it [S1]."
+    },
+    {
+     "type": "p",
+     "text": "Two lines in the same paragraph get less attention. If workers bring their own equipment, the employer remains responsible for its adequacy, including maintenance and sanitation [S1]. And the employer may not require an employee to provide or pay for PPE except where one of the exceptions applies [S1]. The standard also says that when another OSHA standard specifies whether the employer pays for particular equipment, that standard's payment provision prevails [S1]. The paragraph's source line shows the payment provisions date to a 2007 rule and the fit change to 2024 [S1]."
+    },
+    {
+     "type": "p",
+     "text": "Coordinator angle, again judgment: on a multi-trade job the duty is employer by employer, so a site-wide PPE rule in the owner's safety plan does not move the cost or the fit obligation off each sub. Where it gets messy is the specialty item that only one trade needs and another trade is standing near. Know which sub owns the purchase for the welding screens, the arc-rated gear, the supplied-air setup, and who is expected to bring what. A scope gap there tends to show up as someone borrowing equipment that was never selected for them."
+    }
+   ]
+  },
+  {
+   "heading": "Head protection",
+   "blocks": [
+    {
+     "type": "quote",
+     "text": "Employees working in areas where there is a possible danger of head injury from impact, or from falling or flying objects, or from electrical shock and burns, shall be protected by protective helmets.",
+     "source": "S3"
+    },
+    {
+     "type": "p",
+     "text": "The standard sets the criteria by reference to ANSI Z89.1. As currently written, the employer must provide head protection meeting any one of three listed editions, 2009, 2003 or 1997 [S3]. For workers exposed to high-voltage shock and burns, the helmet must also meet the electrical insulation section (9.7) of one of those editions [S3]. Anything the employer demonstrates is at least as effective as a helmet built to one of those editions is deemed compliant [S3]. The page's amendment note shows the paragraph was last revised in 2012 [S3]. So the regulation names these editions and nothing newer, and a helmet that carries a different edition marking is a question for the employer to resolve under the \"at least as effective\" clause."
+    },
+    {
+     "type": "p",
+     "text": "The trigger is the possibility of injury from three sources: impact, falling or flying objects, and electrical shock and burns [S3]. On a data center build that wording is the argument for helmets on work that is not overhead at the moment. Three trades stacked on the same bay, a lift moving across the slab and a crew above pulling cable is the standard multi-trade arrangement, and the hazard to the person below belongs to whoever is above. Helmet rules that vary by trade, or are waived inside a finished-looking hall, make the area where the hazard moves around the least predictable."
+    }
+   ]
+  },
+  {
+   "heading": "Eye and face protection",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Section 1926.102 requires each affected employee to use appropriate eye or face protection when exposed to hazards from flying particles, molten metal, liquid chemicals, acids or caustic liquids, chemical gases or vapors, or potentially injurious light radiation [S5]. The phrase \"each affected employee\" is why welding screens and exclusion zones are a coordination problem. The person who is hurt by arc light is often not the welder."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Side protection is required when there is a hazard from flying objects, and detachable clip-on or slide-on side shields are acceptable if they meet the section's requirements [S5].",
+      "Workers who wear prescription lenses must wear protection that incorporates the prescription or that fits over the lenses without disturbing the position of the prescription or protective lenses [S5].",
+      "Eye and face protectors must be distinctly marked to identify the manufacturer, must fit snugly without unduly interfering with movement, must be reasonably comfortable, durable, and capable of being disinfected and cleaned [S5].",
+      "Devices must comply with ANSI/ISEA Z87.1-2010, ANSI Z87.1-2003 or ANSI Z87.1-1989 (R-1998), or be shown to be at least as effective [S5]."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "The standard includes a shade-number table for welding filters. Shielded metal-arc welding with 1/16- to 5/32-inch electrodes is shade 10, gas-shielded arc welding of ferrous metals with the same electrode sizes is shade 12, and the table runs up to shade 14 for the heaviest electrodes and carbon-arc welding. Light cutting up to 1 inch is shade 3 or 4 [S5]. The paragraph also says shades more dense than those listed may be used to suit the individual [S5]. In other words, the table is a guide and a floor, and the right shade for the person is a decision, not a lookup."
+    },
+    {
+     "type": "p",
+     "text": "Lasers get their own rule. Employees whose work exposes them to laser beams must be furnished goggles that protect for the specific wavelength and have an optical density adequate for the energy involved, and the goggles must be labeled with the wavelength, optical density and visible light transmission [S5]. The reading is plain: a pair of generic safety glasses that doesn't state a wavelength and optical density does not satisfy the standard for a laser exposure."
+    },
+    {
+     "type": "p",
+     "text": "Coordinator angle, judgment: the eye hazard that causes trouble on a stacked site is the one produced by a trade that doesn't wear the protection for it. Grinding, cutting and welding throw particles and light into the next work area, and the neighbor's crew is the \"affected employee\". The fix is physical separation, screens and scheduling, set up by whoever owns the hot work, not a reminder in the morning huddle to look away."
+    }
+   ]
+  },
+  {
+   "heading": "Hearing protection and the noise table",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The construction noise rules work in a specific order, and the order is the point. When sound levels exceed Table D-2, the employer must first use feasible administrative or engineering controls. Only if those fail to bring levels within the table must PPE be provided and used [S6]. Section 1926.101 says the same from the PPE side: where it isn't feasible to reduce noise or exposure time to the table values, ear protective devices must be provided and used [S4]."
+    },
+    {
+     "type": "p",
+     "text": "The table is a trade between level and time. Permissible exposure is 90 dBA for 8 hours, 92 for 6, 95 for 4, 97 for 3, 100 for 2, 105 for 1, 110 for half an hour and 115 for a quarter hour or less, measured on the A-scale at slow response [S6]. Impulsive or impact noise should not exceed 140 dB peak sound pressure level [S6]. When exposure is made up of several periods at different levels, the periods are combined using a fraction formula, and if the total exceeds 1 the exposure is over the permissible level [S6]. The standard's worked example has 110 dBA for a quarter hour, 100 dBA for half an hour and 90 dBA for an hour and a half, which sums to 0.938 and passes [S6]. A morning at 100 dBA that looks harmless on its own can use up the whole day's allowance once an afternoon of 95 is added."
+    },
+    {
+     "type": "p",
+     "text": "In all cases where levels exceed the table, a continuing, effective hearing conservation program must be administered [S6]. The section's text does not spell out the components of that program."
+    },
+    {
+     "type": "quote",
+     "text": "Plain cotton is not an acceptable protective device.",
+     "source": "S4"
+    },
+    {
+     "type": "p",
+     "text": "Inserted ear protectors must be fitted or determined individually by competent persons [S4]. That is a fit requirement that predates the 2024 amendment, and a good illustration of how the construction PPE standards already treated fit for some items and left it implicit for others. A box of foam plugs on the gang box with no one checking how they are inserted is a weak answer to a rule that says individually fitted."
+    },
+    {
+     "type": "p",
+     "text": "Coordinator angle, judgment: noise is a trade-stacking problem the way dust is. A saw cutting slab, a crew breaking out an opening and a compressor running in a closed hall add together for everyone in the hall, including people who did nothing noisy. The measured level, not the trade, decides who needs protection, and the person who knows the overlap is the one holding the look-ahead schedule. Reordering which two noisy activities share a bay is an administrative control, which is exactly what the standard asks for before PPE."
+    }
+   ]
+  },
+  {
+   "heading": "Respirators: the program is the protection",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Section 1926.103 is short: its note says the requirements applicable to construction work under that section are identical to those in 1910.134 [S7]. So the construction respirator rule is the general industry rule, and the PPE section matters mostly as a pointer. The silica standard does the same: where it requires respiratory protection, the employer must provide an appropriate respirator complying with the paragraph and 1910.134, and must institute a respiratory protection program under 1910.134 [S9]."
+    },
+    {
+     "type": "p",
+     "text": "The structure of 1910.134 is engineering controls first. Where effective engineering controls are not feasible, or while they are being put in, appropriate respirators must be used [S8]. The employer must provide a respirator to each employee when needed to protect health, must provide ones suitable for the purpose, and is responsible for establishing and maintaining a respiratory protection program covering each employee required to use one [S8]. The program needs a designated administrator qualified by training or experience commensurate with the complexity of the program [S8]."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Selection: the respirator must match the hazard and the workplace and user factors, and must be NIOSH-certified and used within the conditions of its certification [S8].",
+      "Unknown exposure: where the employer cannot identify or reasonably estimate the employee exposure, it must consider the atmosphere immediately dangerous to life or health [S8].",
+      "Medical evaluation: required before the employee is fit tested or required to use the respirator in the workplace, by a physician or other licensed health care professional using a questionnaire or an equivalent exam [S8].",
+      "Fit testing: an employee using a tight-fitting facepiece must pass a qualitative or quantitative fit test before initial use, whenever a different facepiece (size, style, model or make) is used, and at least annually [S8]. An additional test is required when the employee's physical condition changes in ways that could affect fit, such as facial scarring, dental changes, cosmetic surgery or an obvious change in body weight [S8].",
+      "Seal check: employees perform a user seal check each time they put on a tight-fitting respirator [S8]."
+     ]
+    },
+    {
+     "type": "quote",
+     "text": "Facial hair that comes between the sealing surface of the facepiece and the face or that interferes with valve function",
+     "source": "S8"
+    },
+    {
+     "type": "p",
+     "text": "That is the second item in the list of conditions for which the employer shall not permit tight-fitting respirators; the first part of the sentence is the prohibition itself [S8]. The same paragraph covers any condition that interferes with the face-to-facepiece seal, and says that if the employee wears corrective glasses, goggles or other PPE, the employer must make sure it is worn in a way that doesn't break the seal [S8]. This is where PPE items conflict: a respirator, a welding hood, safety glasses and a helmet on the same head."
+    },
+    {
+     "type": "p",
+     "text": "Voluntary use has its own rules. The employer may let employees use a respirator at their request if it determines that use won't itself create a hazard, and must then give them the information in the standard's appendix D and run the parts of a written program needed to make sure they are medically able and that the respirator is cleaned, stored and maintained [S8]. The exception is voluntary use of filtering facepieces, meaning dust masks, which doesn't require inclusion in the written program [S8]. A dust mask someone buys for themselves is lighter treatment than a half-mask someone is handed."
+    },
+    {
+     "type": "p",
+     "text": "For silica, Table 1 of 1926.1153 pairs tasks with controls and, where needed, minimum respirator protection. For handheld power saws of any blade diameter used with integrated water delivery, the table lists no respirator when used outdoors and an assigned protection factor of 10 when used indoors or in an enclosed area [S9]. If the employer fully and properly implements what Table 1 specifies for a task, it is considered in compliance with the respirator selection requirements for silica exposure [S9]. The converse is stated as well: respiratory protection is required for tasks not listed, or where the employer doesn't fully and properly implement the Table 1 controls, in specified situations including exposures above the permissible limit while controls are installed or when feasible controls are insufficient [S9]. The standard also requires a written exposure control plan, an annual review of it, and a designated competent person making frequent and regular inspections of job sites, materials and equipment [S9]."
+    },
+    {
+     "type": "p",
+     "text": "The coordinator takeaway, as judgment: a data center slab or wall penetration cut inside an enclosed hall is the Table 1 indoor case, and the respirator's paperwork has to exist before the saw starts. Medical clearance, a fit test on the model actually issued, and a user who is clean-shaven where the seal sits are three things a coordinator can check at the task start without being a safety professional. Because the fit test is tied to the specific facepiece, a supply swap on the delivery truck quietly voids the test for anyone who gets the substitute."
+    }
+   ]
+  },
+  {
+   "heading": "Foot, hand, arm and body protection",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Foot protection is the shortest section of the subpart: safety-toe footwear must meet the requirements and specifications of American National Standard for Men's Safety-Toe Footwear, Z41.1-1967 [S11]. The page shows the rule dates from 1993, and the standard it adopts is a 1967 edition [S11]. The regulatory text and what a modern boot is certified to are two different things, and the standard's name is evidence of how old the reference is. Pay is separate from specification: non-specialty safety-toe boots are the worker's cost if they can wear them off site [S1]."
+    },
+    {
+     "type": "p",
+     "text": "There is no hand-protection section of the kind 1926.102 is for eyes. Gloves, sleeves and body coverings fall under 1926.95(a), which names protective equipment for extremities and protective clothing wherever hazards call for it, including chemical and radiological hazards and mechanical irritants [S1]. The fit amendment bites hardest here, because gloves and sleeves are the items OSHA's own examples said cause trouble when too big, catching in machinery, or too small, leaving skin exposed [S2]."
+    },
+    {
+     "type": "p",
+     "text": "Rubber insulating gloves, sleeves, blankets and line hose are the exception: 1926.97 regulates them in detail. Each item has to be marked with its class, from Class 00 through Class 4, and with ozone-resistance type [S12]. The in-service rules are the part to remember on a job with energized work. Insulating equipment must be inspected for damage before each day's use and immediately after any incident that could reasonably be suspected of damaging it, and insulating gloves must be given an air test along with the inspection [S12]. Equipment with a hole, tear, puncture or cut may not be used [S12]. The page lists further disqualifying defects beyond that, including ozone cutting or checking [S12]."
+    },
+    {
+     "type": "p",
+     "text": "Body protection is where the arc flash hazard lives, and OSHA's 2024 arc flash guidance is the best current source. Arc flash temperatures can exceed 35,000 degrees Fahrenheit, and most items within 3 feet, including skin and flammable clothing, will burn, melt or vaporize [S13]. The guidance's central claim is the one most people get wrong."
+    },
+    {
+     "type": "quote",
+     "text": "Most arc flash burn injuries occur when the arc ignites flammable clothing and not from the arc itself.",
+     "source": "S13"
+    },
+    {
+     "type": "p",
+     "text": "From that the guidance draws a distinction a general contractor's coordinator needs. Wearing flame-resistant or rubber-insulated PPE does not necessarily provide arc flash protection; specifically rated arc-rated PPE is needed [S13]. What a worker wears under arc-rated gear also matters, because an arc or the molten metal it creates can penetrate seams, closures or flaps and ignite flammable undergarments [S13]. The document is explicit that it is guidance, not a standard, and creates no new legal obligations [S13]."
+    },
+    {
+     "type": "p",
+     "text": "Two other points from the same guidance bear on planning. First, de-energizing is not the same as an electrically safe working condition, and workers often wrongly think they don't need arc-rated PPE because equipment is off [S13]. Second, the guidance notes that existing regulations require employers to assess the workplace for hazards including electric arcs but don't specify the components of the assessment, and it recommends an arc flash study for all employers whose workers may be exposed, not just utility workers [S13]. It names large electrical panels, motor control centers, switchboards, transformers, disconnect fuses and metal-clad switchgear as typical arc flash settings [S13]. On a data center that list reads like the electrical room schedule."
+    },
+    {
+     "type": "p",
+     "text": "The guidance also describes NFPA 70E's four categories of arc-rated PPE, with minimum arc ratings of 4, 8, 25 and 40 cal/cm2 for categories 1 through 4 [S13]. The employer is to select PPE based on the calculated incident energy [S13]. The guidance adds that when workers use PPE, the employer must implement a PPE program under 1910.132 or 1926.95 and 1926.97, addressing the hazard assessment, selection and use, replacement of damaged or worn PPE, and training [S13]. It also says employers must not rely on PPE alone when other effective controls are available [S13]. A coordinator doesn't pick the category. The coordinator makes sure the electrical sub's energized-work plan exists, names the PPE, and is known to the other trades whose people will be in the room."
+    }
+   ]
+  },
+  {
+   "heading": "Three cases",
+   "blocks": [
+    {
+     "type": "case",
+     "title": "Friendswood High School: demolition, silica and respirators (Houston, 2023)",
+     "paragraphs": [
+      "In June 2023 a roof collapsed during demolition at Friendswood High School. Four workers were injured and one later died. OSHA found that supervisors of the general contractor, ICI Construction, and the demolition contractor, Emanuel Enterprises, failed to complete an engineering survey before demolition and allowed work to continue after hazards became apparent [S14].",
+      "OSHA cited both companies for willfully ignoring the engineering survey requirement. It also cited Emanuel Enterprises for three serious violations tied to failing to protect workers from silica exposure and to use respirators properly. Total proposed penalties were $315,643, of which $175,010 was Emanuel's and $140,633 was ICI's [S14]. The release says the companies had 15 business days to comply, request an informal conference or contest, and that the information may not reflect the final status of a case [S14]. It does not say what the respirator failures were, so the details of what went wrong with respirator use cannot be taken from it.",
+      "The PPE citations are the smaller part of this release and the larger part of the lesson. The same job shows an engineering survey that never got finished and respirators that were not used properly. Both are things that should be done before the first cut, and both involve a decision someone else on the site was waiting on [S14]."
+     ],
+     "takeaway": "A demolition scope on a retrofit or an expansion next to live space is where silica, respirators and structural unknowns meet. Before the demolition sub starts, ask for three things in writing: the survey, the silica plan with the task and its Table 1 row, and the respirator program elements for the people on the crew, meaning medical clearance and fit tests for the models in the truck. This is coordinator judgment, not a requirement on the coordinator. The citation list suggests the missing documents and the injuries came from the same place, a start made before the preparation was done."
+    },
+    {
+     "type": "case",
+     "title": "Araujo Construction: repeat head and eye protection findings (Chicago area, 2026)",
+     "paragraphs": [
+      "OSHA investigated two worksites operated by Martin Araujo, doing business as Araujo Construction Corp., in Calumet City, Illinois, and found carpenters and laborers installing roof rafters and sheeting without fall protection, exposed to falls of up to 25 feet [S15].",
+      "The agency cited two willful violations for fall protection. It also cited nine repeat violations for failing to provide head and eye protection, lacking handrails on stairways, and failing to make sure ladders extended three feet above access areas, plus one serious and one other-than-serious violation. Proposed penalties were $265,868 [S15]. The release does not break out how many of the nine repeat items concern head and eye protection. These are proposed penalties and citations, and the employer had 15 business days to comply, hold an informal conference or contest [S15].",
+      "This is residential framing, not a large job, and it is included for the pattern and not the setting. A repeat classification means OSHA treated these as repeats of earlier violations, and the release lists head and eye protection among them [S15]. PPE gaps there sit beside fall protection and access gaps, which is how they often show up: the same site discipline that skips a rail also skips glasses and a helmet."
+     ],
+     "takeaway": "Treat missing eye and head protection as a site-condition signal, not a stand-alone item. When a walk shows safety glasses missing, the next questions are about guardrails, ladders and access, because the cause is usually the same: nobody on that crew owns the daily walk. On a large job, a sub that draws a repeat PPE finding on one inspection is telling the coordinator what the next inspection will find. Judgment, not a legal rule."
+    },
+    {
+     "type": "case",
+     "title": "Everest Scaffolding: a harness that wasn't attached (Brooklyn, 2020)",
+     "paragraphs": [
+      "On November 13, 2020, a 21-year-old laborer fell nearly 50 feet while installing a supported tubular welded frame scaffold during construction of a seven-story building in Brooklyn. OSHA's investigation determined that Everest Scaffolding Inc. of the Bronx failed to ensure the laborer's fall arrest harness was attached, as required [S16].",
+      "OSHA proposed $300,370 in penalties for two willful and two serious violations. The agency found that the company failed to evaluate the feasibility of fall protection and to use feasible fall protection during scaffold erection, did not properly train employees on fall hazards for scaffold work, failed to inspect fall arrest systems before use, and did not determine whether the anchorage for the personal fall arrest systems could support at least 5,000 pounds [S16]. The company contested the findings before the Review Commission [S16]. The release does not say the harness did not fit, or what became of the contest."
+     ],
+     "takeaway": "A harness is only half a system: the other half is the anchorage and a person who connects to it. The release's list is a PPE program in four parts: feasibility of protection, training, inspection before use, and a check on the anchor. A coordinator can audit that list without engineering knowledge, by asking the scaffold or steel sub who inspected the harnesses today, what the anchor is, and who confirmed it. With the 2024 amendment added, the question gets one more line: does it fit this person. The release says nothing about fit in this case, so that line is a general lesson and not a finding."
+    }
+   ]
+  },
+  {
+   "heading": "What a coordinator checks, and what the standards leave to judgment",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Lining the standards up shows that construction PPE is mostly performance language with a few hard edges. Hard edges: the employer pays except for the listed exceptions [S1]; tight-fitting respirators need medical clearance, a fit test and a clear sealing surface [S8]; insulating gloves get an air test and inspection before each day's use [S12]; noise controls come before ear protection [S6]; plain cotton is not hearing protection [S4]; and PPE must now be selected to fit each affected employee [S1]. Soft edges: how to measure fit, which arc category applies, how long a given exposure really is, and whether ear plugs are in properly. Those get decided on the site, by someone, every day."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Fit: ask each sub what size range it stocks, and whether anyone has been told to make do. The preamble's account of workers taping, shrinking or buying their own gear is the failure to look for [S2].",
+      "Payment: confirm no worker is paying for PPE that falls outside the boot, prescription-eyewear and weather-gear exceptions [S1].",
+      "Respirators: for any task needing one, ask for the medical evaluation, the fit test on the issued model and the written program administrator's name [S8].",
+      "Noise: when two noisy activities share an area, treat the schedule overlap as a control to decide, since controls come before ear protection [S6].",
+      "Electrical: for energized work, ask to see the plan and the arc-rated gear it names, and ask what is worn under it [S13].",
+      "Insulating gloves: ask whether today's inspection and air test happened [S12]."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Limits of the sources are worth stating. The 1926.100 head protection text names ANSI editions through 2009 [S3]. The foot protection text names a 1967 standard [S11]. The arc flash guidance is advisory [S13]. The fit amendment's preamble speaks of enforcement the way general industry has done it, but gives no checklist [S2]. None of the three news releases describes a PPE citation that turned on fit."
+    }
+   ]
+  }
+ ]
+}

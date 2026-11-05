@@ -1,0 +1,361 @@
+{
+ "module": 15,
+ "title": "Excavations",
+ "sources": [
+  {
+   "id": "S1",
+   "title": "29 CFR 1926.650, Scope, application, and definitions applicable to this subpart",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.650"
+  },
+  {
+   "id": "S2",
+   "title": "29 CFR 1926.651, Specific excavation requirements",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.651"
+  },
+  {
+   "id": "S3",
+   "title": "29 CFR 1926.652, Requirements for protective systems",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.652"
+  },
+  {
+   "id": "S4",
+   "title": "29 CFR 1926 Subpart P Appendix A, Soil Classification",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926SubpartPAppA"
+  },
+  {
+   "id": "S5",
+   "title": "29 CFR 1926 Subpart P Appendix B, Sloping and Benching",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926SubpartPAppB"
+  },
+  {
+   "id": "S6",
+   "title": "OSHA Compliance Directive for the Excavation Standard, CPL 02-00-165 (July 1, 2021)",
+   "url": "https://www.osha.gov/sites/default/files/enforcement/directives/CPL_02-00-165.pdf"
+  },
+  {
+   "id": "S7",
+   "title": "OSHA, Trenching and Excavation topic page",
+   "url": "https://www.osha.gov/trenching-excavation"
+  },
+  {
+   "id": "S8",
+   "title": "OSHA news release, Revoli Construction, Yarmouth cave-in (Apr. 1, 2026)",
+   "url": "https://www.osha.gov/news/newsreleases/osha-national-news-release/20260401"
+  },
+  {
+   "id": "S9",
+   "title": "OSHA news release, A4S LLC, Breckenridge trench fatality citations (May 17, 2022)",
+   "url": "https://www.osha.gov/news/newsreleases/denver/20220517-0"
+  },
+  {
+   "id": "S10",
+   "title": "OSHA news release, A4S LLC owner manslaughter plea (Aug. 30, 2023)",
+   "url": "https://www.osha.gov/news/newsreleases/denver/20230830"
+  },
+  {
+   "id": "S11",
+   "title": "OSHA news release, Triumph Construction, JFK Airport trench deaths (Oct. 16, 2023)",
+   "url": "https://www.osha.gov/news/newsreleases/new-york-city/20231016"
+  },
+  {
+   "id": "S12",
+   "title": "OSHA news release, WBW Construction, Jarrell trench deaths (Dec. 22, 2022)",
+   "url": "https://www.osha.gov/news/newsreleases/dallas/20221222"
+  },
+  {
+   "id": "S13",
+   "title": "OSHA news release, J.D. Wagoner Excavating, Chambersburg trench fatality (Oct. 7, 2026)",
+   "url": "https://www.osha.gov/news/newsreleases/philadelphia/20261007"
+  }
+ ],
+ "sections": [
+  {
+   "heading": "What counts as an excavation on a data center site",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Subpart P applies to all open excavations made in the earth's surface, and the standard says excavations include trenches [S1]. So the rules are not limited to a pipe trench with a crew in it. A mat foundation pit, a duct bank run, a utility vault pit, a generator pad cut and a footing dig all fall under the same three sections, 1926.650, .651 and .652. The definition of an excavation is any man-made cut, cavity, trench or depression in an earth surface formed by earth removal [S1]."
+    },
+    {
+     "type": "p",
+     "text": "The trench definition matters because several rules apply only to trenches. A trench is a narrow excavation, generally deeper than it is wide, and its bottom width is not more than 15 feet. The definition also reaches further: if forms or other structures are built inside an excavation so that the distance from the form to the side of the excavation is 15 feet or less, it is a trench [S1]. The directive OSHA gives its inspectors puts it more simply: all trenches are excavations, but not all excavations are trenches [S6]. A wide mat pit with a formed wall going up inside it can become a trench for the purposes of the egress rule the moment the form is stood."
+    },
+    {
+     "type": "p",
+     "text": "The scale of the problem is why OSHA runs a standing National Emphasis Program on trenching and excavation [S7]. The agency's own releases give the numbers it uses: the Bureau of Labor Statistics counted 166 workers killed in trench collapses from 2011 to 2018 [S10], and OSHA reported that 35 workers died in trenching and excavation work through the end of November 2022, more than double the number in all of 2021 [S12]. The same release says one cubic yard of soil can weigh as much as 3,000 pounds, about a subcompact car, and that collapses happen in seconds [S12]. OSHA's directive states the working assumption behind the rule: there is a potential for a cave-in or collapse in virtually all excavations [S6]."
+    }
+   ]
+  },
+  {
+   "heading": "The competent person is a job, not a title",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Almost every duty in Subpart P routes through the competent person. The definition has two halves, and the second half is the one that fails in practice."
+    },
+    {
+     "type": "quote",
+     "text": "one who is capable of identifying existing and predictable hazards in the surroundings, or working conditions which are unsanitary, hazardous, or dangerous to employees, and who has authorization to take prompt corrective measures to eliminate them.",
+     "source": "S1"
+    },
+    {
+     "type": "p",
+     "text": "OSHA's directive tells inspectors how to test that. To count, a person must have training in and knowledge of soils analysis, the use of protective systems and the requirements of the standard, and must have authority to take prompt measures to abate hazards [S6]. The directive gives an example: a backhoe operator who would otherwise qualify is not a competent person if he lacks the authority to take prompt corrective action [S6]. It also says that in practice there is usually one competent person at the site, often in a supervisory position [S6]."
+    },
+    {
+     "type": "p",
+     "text": "Coordinator note, which is judgment and not a legal requirement: before a sub opens any excavation, get the competent person's name in writing on the pre-task or excavation permit, with a phone number that works during the shift. Check that the named person is on site when employees are in the hole, not 40 minutes away at another job. If your site has a utility sub, a concrete sub and an electrical sub all working in the same excavation corridor, you may have three competent persons for one hole, and the directive's view that a person qualified under one provision may qualify under others does not tell you which of them can order the others' people out [S6]."
+    },
+    {
+     "type": "p",
+     "text": "The inspection duty is the other half. It has to happen before work starts, as needed during the shift, and after every rainstorm or other hazard-increasing event, but only when employee exposure can reasonably be anticipated [S2]. The text is plain about what the person is looking for and what happens if they find it."
+    },
+    {
+     "type": "quote",
+     "text": "Daily inspections of excavations, the adjacent areas, and protective systems shall be made by a competent person for evidence of a situation that could result in possible cave-ins, indications of failure of protective systems, hazardous atmospheres, or other hazardous conditions.",
+     "source": "S2"
+    },
+    {
+     "type": "p",
+     "text": "When the competent person finds such evidence, exposed employees must be removed from the hazardous area until the necessary precautions are in place [S2]. The directive adds detail that a 2017-era guide would not have: it lists changes in the excavation or surrounding conditions, a snowstorm, windstorm, thaw or earthquake, and visible fissures, tension cracks, sloughing, undercutting, water seepage or bulging at the bottom as triggers for another look [S6]. It also says the standard does not require written documentation of the daily inspections [S6]. The directive's discussion of removal is narrower than people assume: only the employees near a newly emerging hazard or unprotected area must be pulled out of a large excavation, not everyone [S6]."
+    }
+   ]
+  },
+  {
+   "heading": "Before the bucket touches dirt: utilities, surface items and adjacent structures",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The rules on underground installations are specific enough to build a checklist from. The estimated location of utilities that may reasonably be expected to be encountered must be determined before the excavation is opened; utility companies or owners must be contacted within established or customary local response times, told about the work and asked to mark their lines; and when the excavation approaches the estimated location, the exact location must be found by safe and acceptable means [S2]. While the excavation is open, the lines must be protected, supported or removed as necessary [S2]. If a utility cannot respond within 24 hours, or the longer period state or local law requires, or cannot establish the exact location, the employer may proceed with caution, provided detection equipment or other acceptable means are used [S2]."
+    },
+    {
+     "type": "p",
+     "text": "The directive tightens how that reads in the field. Underground installations include lines in service or abandoned, plus foundations and underground storage tanks [S6]. Inspectors are told to ask whether 811 was called and to request written verification of the contact, such as an email confirmation, and any location documentation the utility provided [S6]. Owner in the rule means the owner of the utility installation, not the landowner, so a request routed to the landowner does not satisfy it [S6]. Probing with hand tools is not treated as a safe and acceptable method unless used with detection equipment, while non-conductive hand tools, hydro-vacuum excavation and other technologies may qualify when used with appropriate caution [S6]. The directive also flags metal locating rods with uninsulated handles as an electrocution hazard in themselves [S6]."
+    }
+   ]
+  },
+  {
+   "heading": "Soil: why the hole is classified before the protection is chosen",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Soil classification is the step that most often gets skipped, because nothing visible happens when it is skipped. Appendix A requires that each soil and rock deposit be classified by a competent person as stable rock, Type A, Type B or Type C, and that the classification rest on at least one visual and at least one manual analysis [S4]. The categories run from most to least stable. The appendix defines them roughly this way:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Type A is cohesive soil with an unconfined compressive strength of 1.5 tons per square foot or more, such as clay, silty clay and sandy clay, and also cemented soils like caliche and hardpan [S4].",
+      "Type B is cohesive soil between 0.5 and 1.5 tsf, or granular cohesionless soil such as angular gravel, silt, silt loam and sandy loam, and previously disturbed soils that would not be Type C [S4].",
+      "Type C is cohesive soil at 0.5 tsf or less, granular soils including gravel, sand and loamy sand, and submerged soil or soil from which water is freely seeping [S4]."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "The disqualifiers matter more than the definitions. The appendix says no soil is Type A if it is fissured, if it is subject to vibration from heavy traffic, pile driving or similar effects, if it has been previously disturbed, or if it is part of a sloped, layered system where the layers dip into the excavation at 4 horizontal to 1 vertical or steeper [S4]. Now read that against a data center site. The ground has often been graded, proof-rolled, trenched for earlier utilities and backfilled. It has haul trucks, compactors and cranes working near the edge. It has stockpiles. Very little of that ground is undisturbed, unvibrated Type A. Soil that meets Type A strength but is fissured or subject to vibration falls to Type B [S4], and soil previously disturbed is Type B at best [S4]. Coordinator note, as judgment: a sub's plan that assumes Type A on a graded and trafficked pad deserves a question about who classified it and how."
+    },
+    {
+     "type": "quote",
+     "text": "In a layered system, the system shall be classified in accordance with its weakest layer.",
+     "source": "S4"
+    },
+    {
+     "type": "p",
+     "text": "The appendix softens that only in one direction: each layer may be classified individually where a more stable layer lies under a less stable one [S4]. OSHA's own inspectors apply the same logic from the bottom up. The directive explains that the soil at any level of the side wall must support all the soil above it, so the protective system has to suit the classification of the soil at the lowest level; if the bottom is Type C granular soil, the system must be one for Type C even if most of the wall is Type A [S6]. When a competent person classifies from the spoil pile alone, they may be classifying the top two feet of a hole that is nine feet deep."
+    },
+    {
+     "type": "p",
+     "text": "Classification is not a one-time act. If after classifying a deposit the properties, factors or conditions affecting classification change in any way, a competent person must evaluate the changes and reclassify as necessary [S4]. Rain does that. So does a seep from a nearby underground line, and so does a trucking route moved to the edge of the cut."
+    },
+    {
+     "type": "p",
+     "text": "There is a way out of classification altogether. Under the first sloping option, an excavation sloped no steeper than 1.5 horizontal to 1 vertical (34 degrees) needs no classification, because that is the slope for Type C [S3][S5]. The directive notes that an employer using this option can cut the slope without initial testing and classifying the soil [S6]. It costs space and spoil volume, which on a congested site may not be available. That is the real trade: soil classification buys a steeper cut and a smaller footprint."
+    }
+   ]
+  },
+  {
+   "heading": "Protective systems: the five-foot line, the four options and the numbers",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Every employee in an excavation must be protected from cave-ins by an adequate protective system, with two exceptions. One is an excavation made entirely in stable rock. The other is a dig less than 5 feet deep where a competent person's examination of the ground shows no indication of a potential cave-in [S3]."
+    },
+    {
+     "type": "quote",
+     "text": "Excavations are less than 5 feet (1.52m) in depth and examination of the ground by a competent person provides no indication of a potential cave-in.",
+     "source": "S3"
+    },
+    {
+     "type": "p",
+     "text": "Read that exception closely. It is not an exemption for shallow holes. It depends on someone having examined the ground and found nothing. The directive's citation policy has the same shape: a citation is considered for work in a hole 5 feet or deeper, and also for work in a shallower hole where a competent person failed to assess that there was no indication of a potential cave-in [S6]. A 4-foot hole in a fissured, wet or recently backfilled trench is not covered by the exception. The directive adds that, if the exceptions are not met and employees are exposed in an unprotected excavation, no further evidence of a cave-in hazard has to be documented, since the hazard exists in virtually all excavations [S6]."
+    },
+    {
+     "type": "p",
+     "text": "The employer then has four routes for sloping and benching and four for support, shield and other systems [S3]. For slopes: the 1.5:1 option, the appendix A and B route, designs from other tabulated data, and a design by a registered professional engineer [S3]. For supports and shields: timber shoring or aluminum hydraulic shoring designed to the appendices or manufacturer's data, other tabulated data, manufacturer's tabulated data, and an engineer's design [S3]. The detail that gets lost is the paperwork. Where an option rests on tabulated data, at least one copy identifying the registered professional engineer who approved the data must be kept at the jobsite during construction of the protective system [S3]. The same rule applies to an engineer's own design: at least one copy at the jobsite while the system is built, and later available to the Secretary on request [S3]. For a trench box, the manufacturer's tabulated data is the document an inspector will ask the foreman to produce. Your coordinator check is whether it is on the site."
+    },
+    {
+     "type": "p",
+     "text": "Appendix B's table gives the maximum allowable slopes for excavations less than 20 feet deep. Stable rock may be vertical (90 degrees); Type A is 3/4:1 (53 degrees); Type B is 1:1 (45 degrees); Type C is 1.5:1 (34 degrees) [S5]. There is a short-term slope of 1/2:1 (63 degrees) for Type A excavations 12 feet or less in depth, where short term means open 24 hours or less; for Type A over 12 feet deep, the short-term slope is 3/4:1 [S5]. Sloping or benching deeper than 20 feet must be designed by a registered professional engineer [S5]. Signs of distress change the arithmetic, and the appendix defines distress as fissures in the face or adjacent ground, subsidence at the edge, slumping, bulging or heaving at the bottom, spalling, or ravelling, where small amounts of material trickle down the face. When distress shows, the slope must be cut back to at least 1/2:1 less steep than the maximum allowable slope [S5]."
+    }
+   ]
+  },
+  {
+   "heading": "Shoring, shields and the work that happens around them",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Most of the fatal cases in this module involve a protective system that was missing, damaged or not built to its design. The rules that govern the middle stage, installation and use, are where trade coordination matters most."
+    },
+    {
+     "type": "p",
+     "text": "Members of a support system must be securely connected to prevent sliding, falling, kickouts or other predictable failure. Systems must be installed and removed so that employees are protected from cave-ins and from being struck by members, and individual members must not be loaded beyond their design [S3]. In a trench, installation of a support system must be closely coordinated with the excavation [S3], and digging may go no more than 2 feet below the bottom of the support members, and then only if the system is designed for the forces at the full trench depth and there is no sign of soil loss from behind or below the system [S3]. Shields get the same 2-foot allowance with the same condition [S3]."
+    },
+    {
+     "type": "p",
+     "text": "Two shield rules catch crews who are busy. Employees must not be in a shield while it is being installed, removed or moved vertically, and they must be protected from cave-ins when entering or leaving the shielded area [S3]. A trench box protects people inside it; it does not protect them on the way in. The directive also says an employee may not stay in a trench box underneath a load being lowered into the trench by a backhoe, because 1926.651(e) bars employees from being underneath loads handled by lifting or digging equipment [S6]. Pipe being set into a box is a slung load."
+    },
+    {
+     "type": "quote",
+     "text": "Removal shall begin at, and progress from, the bottom of the excavation. Members shall be released slowly so as to note any indication of possible failure of the remaining members of the structure or possible cave-in of the sides of the excavation.",
+     "source": "S3"
+    },
+    {
+     "type": "p",
+     "text": "Damaged equipment has its own rule. Materials and equipment used for protective systems must be free from damage or defects that might impair their function, and manufactured items must be used and maintained consistent with the manufacturer's recommendations [S3]. When a protective-system component is damaged, a competent person examines it and evaluates suitability for continued use; if the competent person cannot assure it will support the intended loads, it must be removed from service and evaluated and approved by a registered professional engineer before returning to service [S3]. Revoli Construction was cited for using a damaged protective system, among other violations, after a fatal collapse in 2025 [S8]. A dented or bent box on a rental yard return is not a cosmetic problem."
+    }
+   ]
+  },
+  {
+   "heading": "Egress, spoil, water, air and traffic",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Trench excavations 4 feet or deeper need a stairway, ladder, ramp or other safe means of egress positioned so employees travel no more than 25 feet laterally to reach it [S2]. The directive says that an egress point is inadequate if the area is larger than 25 feet and employees would reasonably be expected to venture beyond that distance from it, even if no one was seen beyond 25 feet [S6]. It also says lifting equipment is not a safe means of egress, so a backhoe bucket does not count, and aluminum forms are not to be used as egress [S6]. An earth ramp at the sloped end of a trench may count only if it was designed for the purpose, considering slope, depth, soil and conditions [S6]. A structural ramp for people must be designed by a competent person, and one used by equipment must be designed by a competent person qualified in structural design [S2]."
+    },
+    {
+     "type": "p",
+     "text": "The spoil rule is short and gets cited constantly. It is a rule about placing material on the surface, not about a depth of hole."
+    },
+    {
+     "type": "quote",
+     "text": "Protection shall be provided by placing and keeping such materials or equipment at least 2 feet (.61 m) from the edge of excavations, or by the use of retaining devices that are sufficient to prevent materials or equipment from falling or rolling into excavations, or by a combination of both if necessary.",
+     "source": "S2"
+    },
+    {
+     "type": "p",
+     "text": "The directive tells inspectors to look at spoil piles, other materials and equipment within 2 feet of the edge and to document why the setback was not followed [S6]. It also says the rule protects employees in addition to the cave-in rules: if soil is not placed, sloped, scaled or benched away from protection systems, employees may be exposed to rolling or loose soil [S6]. Two feet is a floor. The surcharge rule for sloped cuts says a competent person decides how far below the maximum slope a cut must be once loads are present [S5]. On a data center site, the places where the dirt goes tend to be disputed ground: the laydown yard is full and the next sub needs the corridor. Spoil next to the trench is the usual result. Both the Revoli release and the Chambersburg release list spoil or materials near the edge among the violations [S8][S13]."
+    },
+    {
+     "type": "p",
+     "text": "Water is a separate trigger. Employees shall not work in excavations with accumulated or accumulating water unless adequate precautions have been taken, which could include special support or shield systems, water removal to control the level, or a safety harness and lifeline [S2]. If water removal equipment is the control, that equipment and the operation must be monitored by a competent person, and excavations subject to runoff from heavy rains need inspection by a competent person [S2]. Soil that is submerged or freely seeping is Type C by definition [S4], so water in the hole changes the required slope or the required system, not only the mud. The directive notes that mere presence of water, with no employee exposure, is not a violation of this section [S6]."
+    },
+    {
+     "type": "p",
+     "text": "Atmospheric testing is required before entry into excavations deeper than 4 feet where oxygen deficiency (an atmosphere with less than 19.5 percent oxygen) or another hazardous atmosphere exists or could reasonably be expected to exist, with landfill areas and areas where hazardous substances are stored nearby named as examples [S2]. Precautions include respiratory protection or ventilation, and ventilation must also be used to prevent exposure to flammable gas above 20 percent of the lower flammable limit; when controls are used, testing must continue as often as needed to ensure the air stays safe [S2]. Emergency rescue equipment, such as breathing apparatus, a harness and line or a basket stretcher, must be readily available where hazardous atmospheres exist or may reasonably be expected to develop, and it must be attended when in use [S2]."
+    }
+   ]
+  },
+  {
+   "heading": "Case: Yarmouth, Massachusetts, 2025",
+   "blocks": [
+    {
+     "type": "case",
+     "title": "Revoli Construction, Yarmouth, Massachusetts",
+     "paragraphs": [
+      "OSHA's investigation of the Nov. 18, 2025 incident found that workers from Revoli Construction Co. Inc. were removing sandy soil and installing steel plates outside of a trench. While they worked, the backfilled sand collapsed and trapped two workers inside the trench. One was engulfed and died [S8].",
+      "OSHA cited the company for seven willful, 33 repeat and 17 serious violations. The release lists the subjects: no safe way out of the trench, inadequate cave-in protection, unsupported underground utilities, spoil piles within two feet of the excavation, failure to install a shoring system per its design, use of a damaged protective system, and numerous electrical and fall hazards [S8]. Proposed penalties totaled $4,699,362 [S8]. The release states that the company can contest the findings before the Occupational Safety and Health Review Commission, and it says the penalties are proposed. It does not give the depth of the trench, the soil type or who the competent person was [S8]."
+     ],
+     "takeaway": "Treat surface work at the edge of an open trench as part of the trench hazard, not a separate task. When plates, spoil or equipment work is scheduled on the edge, the coordinator's question to the competent person is whether anyone is still below, and the answer should be no until the edge work is finished. Ask for the shoring design and compare it to what is in the ground, and have damaged components pulled before the shift."
+    }
+   ]
+  },
+  {
+   "heading": "Case: Breckenridge, Colorado, 2021",
+   "blocks": [
+    {
+     "type": "case",
+     "title": "A4S LLC, Breckenridge: a site that had already told them",
+     "paragraphs": [
+      "On Nov. 16, 2021, a trench collapsed as workers installed sewer pipe in a Breckenridge neighborhood. One worker was fatally injured. A second rescued himself and bystanders rescued a third [S9]. OSHA determined that other trenches on the same project had caved in on previous occasions in the months before [S9]. A later release quotes the OSHA regional solicitor saying the safety equipment that could have saved the worker was lying unused near the trench when it collapsed [S10].",
+      "OSHA issued three willful citations to A4S LLC in May 2022 and one serious citation for no safe exit within 25 lateral feet of workers. The two releases are not identical on the willful items: both list not ensuring a competent person inspected the excavation and not having a protective system, and the third item is failing to perform an inspection in the May 2022 release [S9] and failing to instruct employees in recognizing and avoiding unsafe conditions in the 2023 release [S10]. OSHA proposed $449,583 in penalties and placed the company in its Severe Violator Enforcement Program [S9][S10]. The Area Director said the company continued to expose workers to the same conditions after the fatality [S9].",
+      "The criminal outcome is in the 2023 release. After a criminal referral by the Department of Labor, the owner pleaded guilty to manslaughter on Aug. 3, 2023, with sentencing set for November; the release says he agreed to forfeit any future ownership, leadership or management position involving trenching or excavation or the oversight of workplace safety and health [S10]. The release does not state the sentence."
+     ],
+     "takeaway": "A prior cave-in on the same project is a signal that the next one is already scheduled. A coordinator who hears 'that trench slid last week' has learned something the competent person may already know, and it should trigger a stop and a reclassification, not a shrug. Keep a running list of every collapse, slough and near-miss in the excavation log. On a multi-sub site, ask each sub whether they have had one."
+    }
+   ]
+  },
+  {
+   "heading": "Case: JFK Airport, 2023, and the slab in the trench",
+   "blocks": [
+    {
+     "type": "case",
+     "title": "Triumph Construction, JFK Airport",
+     "paragraphs": [
+      "On April 3, 2023, two employees of a Bronx water and sewer contractor were fatally injured in a trench at John F. Kennedy International Airport. They were removing soil from below a concrete slab located within the trench when the slab broke apart and collapsed on them [S11].",
+      "OSHA found that Triumph Construction Corp. failed to support the slab, failed to instruct employees on safe methods to remove it and provide supervision to ensure those methods were followed, and failed to build the excavation's protective system based on designs in accordance with OSHA standards [S11]. It cited four serious violations with $59,153 in proposed penalties; the release says the company could contest [S11].",
+      "The Long Island and Queens area director's comment is the useful part. He said demolition of existing structures must be carefully planned, that shoring systems must be built according to their design, and that employers must make a good faith effort to recognize, evaluate and control hazards as conditions change [S11]. The release does not say how the slab got there, who had put it in, or how large it was."
+     ],
+     "takeaway": "Existing concrete in or over an excavation is a load nobody drew. It shows up on data center and campus projects as old slabs, thrust blocks, duct bank encasements and abandoned vaults. Put 'what is in the ground that we did not install' on the pre-dig walkthrough, and treat any plan to undermine it as a separate task with its own supervision and its own written method."
+    }
+   ]
+  },
+  {
+   "heading": "Case: Jarrell, Texas, 2022, and the labor supplier",
+   "blocks": [
+    {
+     "type": "case",
+     "title": "WBW Construction and a staffing agency, Jarrell",
+     "paragraphs": [
+      "On June 28, 2022, a large section of a 23-foot-deep unprotected trench collapsed at a residential site in Jarrell, Texas, and two workers installing sewer lines were crushed [S12]. OSHA found WBW Construction LLC willfully violated federal law by failing to have a trench protective system and by not providing an exit point within 25 feet inside the trench. It also issued four serious citations for ladders not used as designed, inspections not as frequent as required, water not removed from the trench and no first aid training [S12]. Proposed penalties were $250,272, and OSHA placed the company in its Severe Violator Enforcement Program [S12].",
+      "The two workers had been provided by a temporary staffing company, Sedona Staffing Services. OSHA issued Sedona one serious citation for not inspecting the job sites, with proposed penalties of $9,324 [S12]. The release does not describe what an inspection by the agency would have been expected to look like, and it does not say whether the workers had excavation training."
+     ],
+     "takeaway": "Labor suppliers show up on large jobs in dozens of ways: general laborers, flaggers, hole watchers. If a staffed worker is going into a trench, the host's competent person still owns the hole. The staffing company's exposure on this release was about not inspecting the site. That is a prompt to ask who has actually walked the work and when, and to put agency workers into the pre-task briefing."
+    }
+   ]
+  },
+  {
+   "heading": "What the enforcement record says about where jobs fail",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The Chambersburg, Pennsylvania release of October 7, 2026 adds a recent pattern. OSHA's investigation found workers installing a storm sewer 12 feet below ground in a trench that was not adequately protected; when a trench wall failed, soil engulfed one worker. The agency issued a willful citation for failure to protect workers from cave-ins and repeat citations for failing to assign a competent person to conduct daily trench inspections and for removing employees from hazardous conditions. It issued serious citations for lack of training, no safe way out, materials within two feet of the edge and failure to restrain roll-in hazards. Proposed penalties were $254,884 [S13]. As with the other releases, these are proposed, and the employer had the right to contest [S13]."
+    }
+   ]
+  },
+  {
+   "heading": "What changed since a 2017 guide, and what did not",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The text of Subpart P is old. The page for 1926.651 shows amendments dated 1989 and 1994 [S2], and the directive says OSHA issued the revised Subpart P on Oct. 31, 1989 [S6]. If your course guide is a 2017 printing, the numbers in it, 5 feet, 4 feet, 25 feet, 2 feet, 20 feet, and the soil types and slopes, are what apply today."
+    },
+    {
+     "type": "p",
+     "text": "What has changed is enforcement and interpretation. OSHA's compliance directive for the excavation standard, CPL 02-00-165, took effect July 1, 2021, and replaced the 1990 instruction CPL 02-00-087 [S6]. Its summary of changes lists new inspection guidance and citation policy for specific provisions, general inspection procedures and the inclusion of standard interpretations [S6]. Several points above come from it and may not be in an older guide: lifting equipment is not safe egress, probing with hand tools alone is not an acceptable utility locate, daily inspections have no written-record requirement, an exposed-employee citation does not need extra proof of a cave-in hazard, and the Subpart AA confined-space rule does not apply to trenches [S6]. The National Emphasis Program on trenching and excavation, CPL 02-00-161, dates from October 1, 2018, and remains in the agency's trenching resources [S7]. OSHA's topic page lists a 2026 Trench Safety Stand Down for June 15 to 19 [S7]."
+    }
+   ]
+  },
+  {
+   "heading": "A coordinator's walk of the hole",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Everything above reduces to checks you can run in a ten-minute walk, none of which require engineering judgment. These are advice from the module's reading, not OSHA requirements stated as such."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Who is the competent person for this hole today, are they here, and can they stop the work? The standard defines the role by knowledge and by authority to correct hazards [S1].",
+      "Is there a locate record: the 811 ticket, any utility response in writing, and the plan for finding exact locations as the dig approaches them? [S2][S6]",
+      "What soil was this classified as, by whom, with what tests, and when was it last re-evaluated? Has rain, seepage or a new haul route changed the answer? [S4]",
+      "Which protective system is in the ground, and is its design data, the manufacturer's tabulated data or the engineer's design, on site? [S3]",
+      "Is anything within 2 feet of the edge: spoil, pipe, a light tower, a roller? [S2]",
+      "Can everyone in a trench 4 feet or deeper reach a ladder or ramp within 25 feet? [S2]",
+      "Is there water, a generator, a landfill, a gas line or a sewer nearby, and has the air been tested where the conditions call for it? [S2][S6]",
+      "Is anyone working above anyone else on a slope or bench, standing on the edge while others are below, or under a load? [S3][S2]",
+      "If this stays open longer than planned, does the protection still comply? [S5]"
+     ]
+    }
+   ]
+  }
+ ]
+}

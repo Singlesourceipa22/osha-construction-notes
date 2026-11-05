@@ -1,0 +1,315 @@
+{
+ "module": 18,
+ "title": "Confined Space Entry",
+ "sources": [
+  {
+   "id": "S1",
+   "title": "29 CFR 1926.1201, Scope",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1201"
+  },
+  {
+   "id": "S2",
+   "title": "29 CFR 1926.1202, Definitions",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1202"
+  },
+  {
+   "id": "S3",
+   "title": "29 CFR 1926.1203, General requirements",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1203"
+  },
+  {
+   "id": "S4",
+   "title": "29 CFR 1926.1204, Permit-required confined space program",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1204"
+  },
+  {
+   "id": "S5",
+   "title": "29 CFR 1926.1205, Permitting process",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1205"
+  },
+  {
+   "id": "S6",
+   "title": "29 CFR 1926.1206, Entry permit",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1206"
+  },
+  {
+   "id": "S7",
+   "title": "29 CFR 1926.1207, Training",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1207"
+  },
+  {
+   "id": "S8",
+   "title": "29 CFR 1926.1208, Duties of authorized entrants",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1208"
+  },
+  {
+   "id": "S9",
+   "title": "29 CFR 1926.1209, Duties of attendants",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1209"
+  },
+  {
+   "id": "S10",
+   "title": "29 CFR 1926.1210, Duties of entry supervisors",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1210"
+  },
+  {
+   "id": "S11",
+   "title": "29 CFR 1926.1211, Rescue and emergency services",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1211"
+  },
+  {
+   "id": "S12",
+   "title": "OSHA, Confined Spaces in Construction: Frequently Asked Questions (updated June 1, 2016)",
+   "url": "https://www.osha.gov/confined-spaces-construction/faq"
+  },
+  {
+   "id": "S13",
+   "title": "OSHA news release, Alabama sewer manhole fatalities (Feb. 17, 2026)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20260217"
+  },
+  {
+   "id": "S14",
+   "title": "OSHA news release, Edmund, Oklahoma manhole fatalities (Dec. 7, 2022)",
+   "url": "https://www.osha.gov/news/newsreleases/dallas/20221207"
+  },
+  {
+   "id": "S15",
+   "title": "OSHA news release, Converse, Texas crawl space fatality (July 13, 2026)",
+   "url": "https://www.osha.gov/news/newsreleases/dallas/20260713"
+  },
+  {
+   "id": "S16",
+   "title": "OSHA Fatal Facts No. 12, Asphyxiation in Sewer Line Manhole (2015)",
+   "url": "https://www.osha.gov/sites/default/files/publications/OSHA3819.pdf"
+  }
+ ],
+ "sections": [
+  {
+   "heading": "Deciding what counts as a confined space",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The first duty under Subpart AA is a judgment call that has to happen before anyone works near the space: a competent person must identify every confined space the employer's people may work in, and identify which of them are permit spaces, \"including testing as necessary\" [S3]. The standard applies to construction at any worksite with one or more confined spaces, and it carves out work already regulated by the excavation, underground construction and diving subparts [S1]. On a large build the interesting question is what the rule means by a confined space, because the list of examples in the scope section reads like a data center equipment schedule: pits for elevator, pump or valve equipment, manholes for electrical or communication utilities, tanks, transformer vaults, HVAC ducts, chillers, step up transformers, turbines, enclosed beams, drilled shafts, air receivers and boilers [S1]. That list is a note to the scope paragraph, not a limit on it."
+    },
+    {
+     "type": "p",
+     "text": "The definition has three parts, and all three must be true: the space is large enough that an employee can bodily enter it, it has limited or restricted means of entry or exit, and it is not designed for continuous employee occupancy [S2]. \"Limited or restricted\" is broader than a small hatch. The definition counts trip hazards, poor illumination, slippery floors, inclining surfaces and ladders as conditions that can impede movement in or out [S2]. A below-grade vault with a vertical ladder and one lid qualifies before anyone has tested anything."
+    },
+    {
+     "type": "p",
+     "text": "Most confined spaces are not permit spaces. A permit-required confined space is a confined space with at least one of four characteristics: it contains or can contain a hazardous atmosphere, it contains a material that could engulf an entrant, its walls or floor converge so an entrant could be trapped or asphyxiated, or it holds any other recognized serious safety or health hazard [S2]. The practical weight of the standard falls on the permit spaces. OSHA's FAQ says the vast majority of the requirements apply only to them, and that once a competent person has evaluated a confined space and found no permit is needed, the employer's remaining duty is to reevaluate it if its use or configuration changes in a way that could add hazards, or if there is some indication the first evaluation was inadequate [S12]. The standard says the same thing in its own words [S3]."
+    },
+    {
+     "type": "p",
+     "text": "Two points from the FAQ matter for a coordinator because they come up at the pre-task meeting. First, the competent person who has to go into a space to assess it must treat it as a permit space if a hazard that would make it one is reasonably foreseeable; if one turns up unforeseen during the assessment, the space becomes a permit space from that moment [S12]. Second, an employer does not have to physically examine every space of a repeated configuration if the competent person can reliably tell from the configuration whether the listed hazards are present [S12]. The FAQ gives that answer in the setting of residential home building with wood framing, and it defines that setting narrowly [S12]. Do not stretch that to a hall of identical electrical rooms; the FAQ does not."
+    }
+   ]
+  },
+  {
+   "heading": "Three employers, one set of information: host, controlling contractor, entry employer",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The 2015 construction rule is built around information passing between three roles, and the roles are defined by what the employer does, not by its contract title. The host employer is the one that owns or manages the property where the work is taking place [S2]. The controlling contractor is the employer with overall responsibility for construction at the worksite [S2]. An entry employer is any employer that decides its employees will enter a permit space [S2]. The definitions add that if the controlling contractor owns or manages the property it is both controlling contractor and host employer, and that there is never more than one host employer; where an owner has transferred the required information to a property management entity, OSHA treats the manager as host for as long as it manages the property [S2]. On a data center build for an owner-operator, the host is usually the owner or its facilities arm and the controlling contractor is the general contractor or construction manager at risk, but the definitions turn on who owns, manages and has overall responsibility, so confirm the labels against the contracts instead of assuming them [S2]."
+    },
+    {
+     "type": "p",
+     "text": "The sequence of duties runs in one direction before entry and back again afterward. Before entry operations begin, the host employer must give the controlling contractor, if it has the information, the location of each known permit space, the hazards or potential hazards in each or the reason it is a permit space, and any precautions the host or any earlier controlling contractor or entry employer used [S3]. The controlling contractor must obtain that information and then pass it to each entity entering a permit space and to others on the site [S3]. The quote below is the wording that creates the second group."
+    },
+    {
+     "type": "quote",
+     "text": "Provide the following information to each entity entering a permit space and any other entity at the worksite whose activities could foreseeably result in a hazard in the permit space:",
+     "source": "S3"
+    },
+    {
+     "type": "p",
+     "text": "The second group is the one that catches trade stacking. The controlling contractor's notice does not stop at the crew that will go into the vault. It also goes to whoever is working near it in a way that could change what is inside: the crew running a generator or pump at the lid, the hot work in the adjacent room, the contractor flushing or filling a line that connects to the space. OSHA's FAQ uses the example of a generator running near the entrance of a confined space causing carbon monoxide to build up inside, and says the controlling contractor is responsible for making sure employers outside a space know not to create hazards in it [S12]. The standard also puts a duty on the other side: where employees of more than one employer work in or around a permit space, the entry employer's program must include procedures, developed in consultation with the controlling contractor, so one employer's employees do not endanger another's [S4]."
+    },
+    {
+     "type": "p",
+     "text": "Each entry employer then has two jobs before entry. It must obtain the controlling contractor's information about permit space hazards and entry operations, and it must tell the controlling contractor what permit space program it will follow and what hazards it is likely to meet or create [S3]. The controlling contractor and the entry employers must coordinate whenever more than one entity is entering at the same time, or whenever entry happens at the same time as other activities that could foreseeably create a hazard in the space [S3]. Afterward the loop closes: the controlling contractor debriefs each entity that entered about the program followed and the hazards confronted or created, the entry employer is required to inform the controlling contractor in a timely manner, and the controlling contractor then apprises the host of what was exchanged [S3]."
+    },
+    {
+     "type": "p",
+     "text": "Two limits on these duties are easy to miss. A note to the paragraph says a host employer or controlling contractor that has no employees in a confined space is not required to enter it to collect the information [S3]. And if no controlling contractor is present on the site, the controlling contractor's role passes to the host employer or to the employer that arranges for another employer's people to do the permit space work [S3]."
+    },
+    {
+     "type": "p",
+     "text": "A coordinator does not have to be the legal controlling contractor to be the person who makes this flow work. In practice the information moves or fails to move at the point where the schedule is built. Judgment, not a rule: if the three-week lookahead lists a task inside or at the opening of a vault, tank, duct or pit, there should be a line saying who is the entry employer, where the permit will be posted, and which other tasks within reach of the space need to be told. When no one can name the entry employer, that is the signal."
+    },
+    {
+     "type": "p",
+     "text": "There is also a duty for the employer that is not going in. An employer that identifies or receives notice of a permit space and has not authorized its employees to work in it must take effective measures to prevent those employees from entering [S3]. It must also inform its exposed employees by danger signs or equally effective means, and tell the controlling contractor in a manner other than posting [S3]."
+    },
+    {
+     "type": "quote",
+     "text": "An employer cannot avoid the duties of the standard merely by refusing to decide whether its employees will enter a permit space, and OSHA will consider the failure to so decide to be an implicit decision to allow employees to enter those spaces if they are working in the proximity of the space.",
+     "source": "S2"
+    },
+    {
+     "type": "p",
+     "text": "That note, under the definition of entry employer, removes the option of staying silent [S2]. A sub that says it has not decided whether its electricians will go into the vault, while they work beside the open lid, has decided. For a coordinator, it means an ambiguous plan is treated as an entry plan, so ambiguity is worth resolving in the coordination meeting instead of at the manhole."
+    }
+   ]
+  },
+  {
+   "heading": "Hazardous atmospheres and the tests that matter",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The definition of a hazardous atmosphere is an operational list, not a general idea of bad air. It covers an atmosphere that may expose employees to death, incapacitation, impaired ability to self-rescue, injury or acute illness from any of these: flammable gas, vapor or mist above 10 percent of its lower flammable limit; airborne combustible dust at or above its lower flammable limit, which the definition says can be approximated as dust obscuring vision at 5 feet or less; oxygen below 19.5 percent or above 23.5 percent; a substance above a published permissible exposure limit or dose that could result in exposure over that limit; or any other atmospheric condition that is immediately dangerous to life or health [S2]. The definition also says a concentration that cannot cause death, incapacitation, impairment, injury or acute illness through its health effects is outside it [S2]."
+    },
+    {
+     "type": "p",
+     "text": "Testing has a fixed order and a fixed timing. The evaluation required of the entry employer is to test first for oxygen, then for combustible gases and vapors, and then for toxic gases and vapors [S4]. Testing happens before changes are made to the space's natural ventilation and before entry is authorized [S4]. Then the atmosphere is monitored continuously unless the employer can show that continuous monitoring equipment for the hazard is not commercially available, or that periodic monitoring is frequent enough to keep conditions safe; if periodic monitoring is used it has to be frequent enough that acceptable entry conditions are maintained throughout the entry [S4]. Continuous monitoring is one of the five changes OSHA lists between the construction rule and the general industry rule [S12]. Entrants or their representatives may observe the testing, get the results at once, and ask for reevaluation if the evaluation looks inadequate [S4]."
+    },
+    {
+     "type": "quote",
+     "text": "When testing for atmospheric hazards, test first for oxygen, then for combustible gases and vapors, and then for toxic gases and vapors;",
+     "source": "S4"
+    },
+    {
+     "type": "p",
+     "text": "Ventilation and control are treated carefully. The standard defines ventilation as controlling a hazardous atmosphere with continuous forced-air mechanical systems that meet the construction ventilation standard [S2]. The entry employer must confirm that if ventilation fails, monitoring will catch the rise in time for entrants to exit [S4]. A hazardous atmosphere is treated as a prohibited condition during entry unless the employer can demonstrate that PPE will provide effective protection for each employee and supplies the PPE [S2]. PPE is never counted as a control; the definition of control says so directly [S2]. If the atmosphere cannot be brought below 10 percent of the lower flammable limit, the program note allows entry only if the space is inerted so that the entire atmosphere is non-combustible, the employees use PPE for other atmospheric hazards such as oxygen deficiency, and all physical hazards are eliminated or isolated [S4]. The definition of inerting adds that this procedure produces an atmosphere that is immediately dangerous to life or health because it is oxygen deficient [S2]."
+    },
+    {
+     "type": "case",
+     "title": "Edmund, Oklahoma: a new manhole, a missed test, and a second death",
+     "paragraphs": [
+      "On June 14, 2022, an employee of Belt Construction Inc. climbed into a newly installed sewer manhole to conduct testing and lost consciousness; a second employee followed to rescue the first and also lost consciousness, and both later died [S14]. The manhole was 20 feet below ground and the release describes the men as having died of lack of oxygen [S14].",
+      "OSHA's investigators found that the company did not complete required planning before allowing workers to enter. The release says that in pre-entry planning a confined space must be tested, including to find out whether ventilation is needed, and that the company also failed to provide rescue equipment, did not train workers on confined space entry procedures, and did not obtain the permits required by federal law [S14]. OSHA cited six serious and two willful violations and proposed penalties of $287,150, and the release states the company had 15 business days to comply, ask for an informal conference or contest [S14]. ",
+      "The release says the first employee climbed in to conduct testing [S14]."
+     ],
+     "takeaway": "A task called \"test the new manhole\" is an entry task. Plan it with the same permit, attendant and retrieval line as any other, and ask who tests before the first person goes in. A new structure is not a clean structure: the release reports oxygen deprivation in a manhole that had just been installed [S14]. When a crew lead says the second person went in to help, the plan failed earlier, at the attendant and rescue arrangement."
+    },
+    {
+     "type": "p",
+     "text": "A separate OSHA case summary, written without naming the employer, shows how little needs to go wrong. In the Fatal Facts report, a foreman died of asphyxiation in a manhole about 20 feet 8 inches deep on a sanitary sewer installation. The four-person crew was working in an inactive system on a jobsite that had been unoccupied for more than a week, the manhole was newly constructed and not yet connected to an active sewer, and it still held a hazardous atmosphere [S16]. The summary lists the likely causes: workers were not trained to recognize confined space hazards, the atmosphere was not assessed before or during entry, proper ventilation was not used, protective and emergency equipment was not provided, and no attendant was stationed outside to monitor and call for help [S16]. A second worker who entered to help became disoriented and climbed out after a coworker used a fan to blow fresh air into the manhole [S16]. The report states that the case was selected as representative of improper work practices and that its recommendations do not necessarily reflect the legal outcome [S16]. It records no competent safety monitoring on site and no safety and health program in effect [S16]."
+    }
+   ]
+  },
+  {
+   "heading": "Other hazards: physical, engulfment, and what other trades induce",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Atmosphere gets the attention because it kills quietly, but the permit-space definition has three other triggers, and each shows up on large projects. The standard defines a physical hazard as an existing or potential hazard that can cause death or serious physical damage, with examples including mechanical, electrical, hydraulic and pneumatic energy, radiation, temperature extremes, engulfment, noise, inwardly converging surfaces and explosives [S2]. It also counts chemicals that cause serious damage through skin or eye contact instead of inhalation [S2]. Engulfment is the surrounding and capture of a person by a liquid or finely divided flowable solid that can fill or plug the respiratory system or exert enough force to kill by strangulation, constriction, crushing or suffocation [S2]."
+    },
+    {
+     "type": "p",
+     "text": "The control for these is isolation, defined narrowly. Isolation means employees in the space are completely protected against the release of energy and material into it and against contact with a physical hazard, by means such as blanking or blinding, misaligning or removing sections of lines, pipes or ducts, a double block and bleed system, lockout or tagout of all energy sources, blocking or disconnecting mechanical linkages, or barriers [S2]. A closed valve alone is not on that list. Double block and bleed means two in-line valves closed and locked or tagged, with a drain or vent between them opened and locked or tagged [S2]. Blanking or blinding means a solid plate that completely covers the bore and can withstand the maximum pressure of the line [S2]. On a plant with chilled water, fuel oil and fire-protection loops running through shared vaults and pits, the question for the permit is whether each pipe that could discharge into the space has a blind or a double block and bleed, and who locked it."
+    },
+    {
+     "type": "p",
+     "text": "Engulfment needs its own early-warning system when the hazard cannot be isolated. The standard requires the entry employer to provide a system that continuously monitors for non-isolated engulfment hazards and alerts entrants and attendants in time to exit [S4]. An early-warning system is defined by example as alarms from remote sensors or lookouts with equipment for immediately communicating with entrants and attendants [S2]. OSHA's FAQ illustrates the point with a storm sewer: a storm upstream could cause flash flooding, and an electronic sensor or an observer posted upstream can warn the crew in time [S12]."
+    },
+    {
+     "type": "p",
+     "text": "Induced hazards come from outside the space. The permit space definition and the multi-employer duties exist partly for them, and the controlling contractor must tell not only the entry crew but also any other entity whose activities could foreseeably produce a hazard in the space [S3]. The FAQ's generator example is the standard case [S12]. The standard also requires the entry employer to provide barriers where necessary to protect entrants from external hazards such as pedestrian or vehicle traffic at an opening [S4]."
+    },
+    {
+     "type": "case",
+     "title": "Converse, Texas: a crawl space, a mini-excavator, and a staffing firm",
+     "paragraphs": [
+      "OSHA opened an inspection after a January 7, 2026 incident at Converse Elementary School. A D L Bandy Constructors Inc. employee was removing accumulated dirt from the school's crawl space with a mini excavator when he became trapped between the equipment and a concrete beam and suffered fatal injuries [S15]. Pacesetters Personnel Services also supplied workers for the project to help remove the dirt [S15].",
+      "OSHA cited Bandy for one willful violation, for removing the rollover protective structures from the mini excavators and adding fabricated parts so they would fit in the crawl space, and for 15 serious violations related to confined space hazards [S15]. The release lists those as failing to identify and evaluate permit-required confined spaces, conduct required atmospheric testing, provide adequate ventilation and communication, train employees, designate confined space personnel, and implement required entry and rescue procedures [S15]. Pacesetters received two serious violations, for failing to ensure permit-required confined space entry procedures were followed and for failing to provide confined space training to temporary workers assigned to the project [S15]. Proposed penalties were $276,399 for Bandy and $23,170 for Pacesetters, and the release says the companies could comply, ask for an informal conference or contest [S15]. The release is a proposal; it does not state a final outcome and it does not say what the atmosphere in the space was.",
+      "The fatal injury here was a crushing hazard, not bad air. The citations nonetheless run through identification, testing, ventilation, communication, training and rescue, which are the general structure of the permit space program [S15]."
+     ],
+     "takeaway": "A crawl space or plenum on a mechanical or electrical floor is where the confined space question gets skipped, because nobody calls it a confined space. Equipment brought in to fit a tight space, as the mini excavators were here, changes the hazard picture and should trigger a fresh look at the space. The case also shows that the labor supplier is not off the hook: a staffing firm was cited for temporary workers who were not trained. When a sub brings agency labor to a space task, ask who trained them for it, and ask the question before they go in."
+    }
+   ]
+  },
+  {
+   "heading": "Permits, roles, and who stands where",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Every permit space entry under the full program needs a written permit prepared by the entry employer, signed before entry by the entry supervisor named on it, and posted at the entry portal or made available by another equally effective means so entrants can confirm the preparations are done [S5]. The permit's duration cannot exceed the time needed to finish the task it names [S5]. The permit must identify the space, the purpose, the date and authorized duration, the entrants by name or by a roster or tracking system that lets the attendant tell quickly who is inside, the attendant by name, the entry supervisor by name with signature or initials, the hazards, the isolation and control measures, the acceptable entry conditions, the test results with the names or initials of the testers and times, the rescue services and how to summon them, the communication procedures, the equipment, and any other permits issued, such as hot work [S6]."
+    },
+    {
+     "type": "p",
+     "text": "The supervisor can end a permit in different ways. The entry supervisor cancels the permit when the work is done; suspends or cancels it and fully reassesses the space when a condition not allowed by the permit arises in or near the space and is temporary and does not change the space's configuration or create new hazards; and cancels it when a not-allowed condition arises that does not meet those terms [S5]. The suspension option is new in construction. OSHA's FAQ lists it as one of the five changes from the general industry rule, and says the space must be returned to the entry conditions on the permit before reentry [S12]. The employer keeps canceled permits at least one year, notes any problems on the permit, and reviews the program within a year after each entry, and may do one annual review for all entries in a 12-month period [S5][S4]."
+    },
+    {
+     "type": "p",
+     "text": "Three roles are defined by duties. The entry supervisor verifies, by checking the permit entries, that the tests and procedures it specifies are done before endorsing it, verifies that rescue services are available and that the means of summoning them work, terminates entry as required, removes unauthorized people, and, when responsibility for the entry is transferred and at intervals set by the hazards, checks that entry stays consistent with the permit [S10]. The definition note lets the duty pass from one person to another during an entry, and the supervisor must check at each transfer that entry still matches the permit [S2][S10]."
+    },
+    {
+     "type": "p",
+     "text": "The attendant stays outside and keeps an accurate count of entrants, communicates with them to assess status, and orders evacuation if there is a prohibited condition, if the behavioral effects of exposure are apparent in an entrant, if a situation outside the space could endanger entrants, or if the attendant cannot perform all attendant duties [S9]. The attendant summons rescue as soon as it appears entrants may need help to escape, warns off unauthorized people, performs non-entry rescue as the employer's procedure specifies, and performs no duty that interferes with watching the entrants [S9]. One attendant may cover more than one permit space, from any location, if the duties can be effectively performed for each, and the program has to include the means by which the attendant can respond to an emergency in one space without distraction from the others [S4]. That is a staffing question for the coordinator: an attendant who is also the flagger, the fire watch or the person fetching tools is not meeting the last duty on the list [S9]."
+    },
+    {
+     "type": "p",
+     "text": "The authorized entrant must understand the hazards and their signs, use the required equipment, communicate with the attendant, alert the attendant to any warning sign or symptom of exposure or any prohibited condition, and exit as quickly as possible when ordered, when symptoms or a prohibited condition appear, or when an alarm sounds [S8]. Training must come before the first assignment and again when duties, entry operations or demonstrated gaps change; it must be in a language and vocabulary the employee understands, and records show names, trainers and dates [S7]."
+    },
+    {
+     "type": "quote",
+     "text": "Entry includes ensuing work activities in that space and is considered to have occurred as soon as any part of the entrant's body breaks the plane of an opening into the space, whether or not such action is intentional or any work activities are actually performed in the space.",
+     "source": "S2"
+    },
+    {
+     "type": "p",
+     "text": "This definition closes the argument that a worker only leaned in, only reached in, or only went in to look [S2]. For a coordinator it sets the line at the lid. A person who puts a head and shoulders into a vault to read a gauge has entered, and the permit has to cover that person or the reading has to be taken another way."
+    },
+    {
+     "type": "case",
+     "title": "Mobile, Alabama: three in the manhole, one comes out",
+     "paragraphs": [
+      "On August 11, 2025, three Construction Labor Services workers were installing and repairing sewer lines inside a manhole when they were overcome by sewer gas and became unresponsive. One regained consciousness and self-rescued; the other two died [S13]. OSHA's investigators determined the employer lacked confined space entry programs, procedures, training and emergency response plans, including plans to determine acceptable entry conditions [S13].",
+      "OSHA cited the company with 16 serious violations and proposed penalties of $257,707 on February 17, 2026, and the release notes that penalties and citations may be adjusted as the case proceeds and that the company could contest [S13]. The release does not describe the controlling contractor or the owner on the project, and it does not say whether any other employer was on the site.",
+      "The outcome that separates the survivor from the two who died is in the release's own wording: one worker regained consciousness and managed to self-rescue [S13]. The release gives no information on how that happened, and none on whether an attendant or retrieval system was present."
+     ],
+     "takeaway": "The citation text describes an employer with no program at all, and that makes the point for a coordinator: the failure sits before the entry, at the moment the sub was allowed to start without a program. Ask for the entry employer's written program and training records before the task begins, not after an incident. The standard requires the written program to be available before and during entry operations for inspection by employees and their representatives [S3]. Treat a sub that cannot produce one as not ready to start the task."
+    }
+   ]
+  },
+  {
+   "heading": "Entry, exit and rescue",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Rescue is where good plans on paper fall apart, and the standard makes it the entry employer's problem with specific tests. Non-entry rescue is the default."
+    },
+    {
+     "type": "quote",
+     "text": "Non-entry rescue is required unless the retrieval equipment would increase the overall risk of entry or would not contribute to the rescue of the entrant.",
+     "source": "S11"
+    },
+    {
+     "type": "p",
+     "text": "The retrieval system requirements follow. Each entrant wears a chest or full body harness with a retrieval line attached at the center of the back near shoulder level, above the head, or at another point that gives a profile small enough for removal; wristlets or anklets are allowed only if the employer can demonstrate that a harness is infeasible or creates a greater hazard [S11]. The other end of the line is attached to a mechanical device or fixed point outside the space so that rescue can begin as soon as the rescuer knows it is needed, and a mechanical device must be available for vertical spaces more than 5 feet deep [S11]. Equipment that is unsuitable for retrieval, including lines likely to tangle with other entrants' lines or lines that will not work because of the space's internal configuration, must not be used [S11]. Where non-entry rescue is chosen, the employer must confirm before entry that emergency assistance would be available if non-entry rescue fails; where it is not chosen, the employer must designate an entry rescue service [S11]."
+    },
+    {
+     "type": "p",
+     "text": "Choosing a rescue service takes evaluation, not just a phone number. The employer must evaluate whether a prospective rescuer can respond to a summons in a timely manner given the hazards, and whether the service is proficient with rescue tasks and equipment for the type of space, and must choose one that can reach the victims in a time frame appropriate to the hazard, is equipped and proficient, and agrees to notify the employer immediately if it becomes unavailable [S11]. The employer must inform the service of the hazards it may meet and give it access to the permit spaces so it can plan and practice [S11]. The standard sets \"timely\" by hazard, not by a number [S11]. OSHA's FAQ adds that employers who rely on local emergency services must arrange for the responders to give advance notice if they will be unavailable for a period, for example because they are responding to another emergency or attending department-wide training [S12]. If the plan names the local fire department as the rescue service, the open question is whether anyone has ever called them to ask."
+    },
+    {
+     "type": "p",
+     "text": "The designated rescuers have their own duties. Employees designated to provide rescue must be given PPE and trained in its use, trained in assigned rescue duties and as authorized entrants, trained in first aid and CPR with at least one certified member available, and must practice rescues at least once every 12 months using dummies, manikins or actual persons removed from the actual or representative permit spaces; practice is not required if they properly performed a rescue in the same or a similar space in the last 12 months [S11]. Everyone else is trained in the danger of attempting rescues they are not authorized to perform [S7], and the program must include procedures for preventing unauthorized personnel from attempting a rescue [S4]. The attendant may not enter to rescue, unless relieved by another attendant and trained and equipped for it, when the program allows attendant entry [S9]."
+    }
+   ]
+  },
+  {
+   "heading": "Entry without a full permit, reclassification, and what is current",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The standard has a path for a permit space that does not need the full program. An employer may skip the program, permit and rescue sections if it can demonstrate that all physical hazards are eliminated or isolated by engineering controls so the only hazard is an actual or potential atmospheric one, that continuous forced air ventilation alone is sufficient to keep the space safe, that entrants can exit safely if the ventilation stops, and that monitoring and inspection data support those conclusions; if an initial entry is needed to get the data, that entry must follow the full program [S3]. The entries made under this path have their own rules: test with a calibrated direct-reading instrument for oxygen, flammable gases and vapors, and potential toxic contaminants, in that order; permit no hazardous atmosphere while anyone is inside; ventilate continuously from a clean source, directed at where the employee is or will be; monitor continuously unless the entry employer can show it is not commercially available or periodic monitoring is sufficient; and have every entrant leave immediately if a hazard is detected, with the space evaluated and protection put in place before any later entry [S3]. A written certification with the date, location and signature of the person certifying must be made before entry and made available to entrants [S3]."
+    },
+    {
+     "type": "quote",
+     "text": "Control of atmospheric hazards through forced air ventilation does not constitute elimination or isolation of the hazards.",
+     "source": "S3"
+    },
+    {
+     "type": "p",
+     "text": "Ventilation alone does not reclassify a space. Reclassification from permit to non-permit space is possible only when a competent person determines that the space poses no actual or potential atmospheric hazards, that the other hazards have been eliminated or isolated without entry unless entry is infeasible, and that the basis is documented in a certification with date, location and signature available to entrants [S3]. If hazards arise in a reclassified space, everyone leaves and the space is reevaluated [S3]. The reclassification lasts only as long as the hazards stay eliminated or isolated [S3]. A coordinator who sees a space tagged \"cleared\" a month ago should ask whether the certification exists and whether anything has been connected to the space since."
+    },
+    {
+     "type": "p",
+     "text": "On what has changed since a 2017 course guide: Subpart AA took effect on August 3, 2015, and OSHA's FAQ says that before it the only confined space requirement in construction was training, which OSHA judged inadequate because injuries and deaths continued [S12]. A guide dated 2017 should therefore already reflect the rule. Where an older course module or a general industry reference used for training differs, the construction rule controls for construction work, and an employer doing both construction and general industry work in confined spaces meets OSHA requirements by meeting Subpart AA [S12]. The five differences OSHA lists from the general industry rule are the multi-employer coordination provisions, a competent person to evaluate the worksite and identify confined spaces, continuous atmospheric monitoring where possible, continuous monitoring of engulfment hazards, and permit suspension instead of only cancellation [S12]. The FAQ was last updated June 1, 2016, so it does not speak to anything after that date; the regulation pages cited here show each section's last amendment as May 4, 2015 [S3]."
+    }
+   ]
+  }
+ ]
+}

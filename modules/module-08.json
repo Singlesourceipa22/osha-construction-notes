@@ -1,0 +1,422 @@
+{
+ "module": 8,
+ "title": "Tools: Hand and Power",
+ "sources": [
+  {
+   "id": "S1",
+   "title": "29 CFR 1926.300, General requirements",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.300"
+  },
+  {
+   "id": "S2",
+   "title": "29 CFR 1926.301, Hand tools",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.301"
+  },
+  {
+   "id": "S3",
+   "title": "29 CFR 1926.302, Power-operated hand tools",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.302"
+  },
+  {
+   "id": "S4",
+   "title": "29 CFR 1926.303, Abrasive wheels and tools",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.303"
+  },
+  {
+   "id": "S5",
+   "title": "29 CFR 1926.304, Woodworking tools",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.304"
+  },
+  {
+   "id": "S6",
+   "title": "29 CFR 1926.305, Jacks - lever and ratchet, screw, and hydraulic",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.305"
+  },
+  {
+   "id": "S7",
+   "title": "29 CFR 1926.95, Criteria for personal protective equipment",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.95"
+  },
+  {
+   "id": "S8",
+   "title": "29 CFR 1926.102, Eye and face protection",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.102"
+  },
+  {
+   "id": "S9",
+   "title": "29 CFR 1926.1153, Respirable crystalline silica",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1153"
+  },
+  {
+   "id": "S10",
+   "title": "29 CFR 1926.21, Safety training and education",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.21"
+  },
+  {
+   "id": "S11",
+   "title": "OSHA letter of interpretation, powder-actuated tool training (Mar. 10, 2006)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/2006-03-10-1"
+  },
+  {
+   "id": "S12",
+   "title": "OSHA letter of interpretation, unattended powder-actuated tools (May 11, 2005)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/2005-05-11-1"
+  },
+  {
+   "id": "S13",
+   "title": "OSHA letter of interpretation, gas-actuated fastening tools (Dec. 21, 2005)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/2005-12-21"
+  },
+  {
+   "id": "S14",
+   "title": "OSHA letter of interpretation, pneumatic angle-drive cutting tool guard (Dec. 11, 2001)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/2001-12-11-1"
+  },
+  {
+   "id": "S15",
+   "title": "OSHA letter of interpretation, pneumatic tools for cleaning forms and decks (Jan. 19, 2005)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/2005-01-19-2"
+  },
+  {
+   "id": "S16",
+   "title": "OSHA Struck-By fatal facts, Accident Summary No. 2 (powder-actuated tool)",
+   "url": "https://www.osha.gov/sites/default/files/StruckBy_4FatalFacts.pdf"
+  },
+  {
+   "id": "S17",
+   "title": "OSHA news brief, Brookens Construction LLC, Appleton WI (Oct. 23, 2023)",
+   "url": "https://www.osha.gov/news/newsreleases/osha-news-brief/20231023"
+  },
+  {
+   "id": "S18",
+   "title": "OSHA news release, Araujo Construction Corp., Calumet City IL (Nov. 10, 2022)",
+   "url": "https://www.osha.gov/news/newsreleases/chicago/20221110"
+  },
+  {
+   "id": "S19",
+   "title": "OSHA news release, T & T Pipeline Co. Inc., New Smyrna Beach FL (Sept. 23, 2026)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20260923"
+  },
+  {
+   "id": "S20",
+   "title": "OSHA Multi-Employer Citation Policy, CPL 02-00-124",
+   "url": "https://www.osha.gov/enforcement/directives/cpl-02-00-124"
+  }
+ ],
+ "sections": [
+  {
+   "heading": "Subpart I is short, and the tool belongs to whoever picked it up",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Hand and power tools sit in 29 CFR 1926 Subpart I, sections 1926.300 through 1926.307. The first sentence of the general section is the one that matters on a multi-trade job: all hand and power tools and similar equipment must be maintained in a safe condition, whether the employer or the employee furnished them [S1]. A plumber's own grinder, a carpenter's own saw and a rental rotary hammer are all inside the rule. The coordinator does not own those tools, but the coordinator walks past them every day, and on a large build the tools arrive in the hands of a sub's crew you met last week."
+    },
+    {
+     "type": "p",
+     "text": "Most of the standard is plain engineering: guards stay on, switches shut the tool off when you let go, air hoses are rated for the pressure, jacks are blocked. What makes tool injuries a coordination problem is the setting. A powder-actuated tool is fired in a space where another trade is working on the far side of a wall. A grinder runs in a hall where the next crew is pulling cable. Compressed air blows dust into an area that was just cleaned for commissioning. The rule text is mostly about the tool. The incidents in this module are mostly about what was next to the tool."
+    },
+    {
+     "type": "p",
+     "text": "This module walks the standard in the order a site actually trips over it: guards and switches, the tool types that carry specific rules (powder-actuated, pneumatic, hydraulic, abrasive wheel, woodworking, jacks), and the PPE that the tool standard hands off to other subparts. Three real cases are included. Where this module gives an opinion about what a coordinator should do, it is judgment and not a requirement in the text."
+    }
+   ]
+  },
+  {
+   "heading": "Hand tools: the rule is about the tool you let stay in use",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Section 1926.301 is four sentences long. Employers may not issue or permit the use of unsafe hand tools. Wrenches, including adjustable, pipe, end and socket wrenches, cannot be used once the jaws are sprung to the point that slippage occurs. Impact tools such as drift pins, wedges and chisels have to be kept free of mushroomed heads. Wooden handles must be free of splinters or cracks and kept tight in the tool [S2]."
+    },
+    {
+     "type": "p",
+     "text": "Notice the verbs. The standard does not stop at issuing: the employer cannot permit the use of an unsafe tool [S2]. A foreman who sees a cracked handle in a worker's hand and says nothing has permitted it. That is the core of the standard for coordinators, because on a data center job you will see far more tools than you can inspect, and what you can do is make removal from service routine instead of a confrontation."
+    }
+   ]
+  },
+  {
+   "heading": "Guards and switches: the two rules that stop a tool from hurting the person next to it",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Section 1926.300(b) covers guarding. The first and most used rule is short enough to quote."
+    },
+    {
+     "type": "quote",
+     "text": "When power operated tools are designed to accommodate guards, they shall be equipped with such guards when in use.",
+     "source": "S1"
+    },
+    {
+     "type": "p",
+     "text": "The words that carry the weight are \"designed to accommodate.\" If the manufacturer built a place for a guard, the guard goes on. A letter of interpretation shows how far OSHA takes this. An inquirer wanted to cut PVC pipe from the inside with a 4- or 6-inch diamond blade on a pneumatic angle-drive tool. The tool had been designed for and supplied with a blade guard, but the guard made the job awkward in the tight space. OSHA's answer was that the standard requires the guard to be used during the hole cutting and cut-off operations. It added that other tool and blade combinations might fit the job better, including battery-powered cut-off tools, and that a lighter air whip could make the angle drive easier to maneuver [S14]. In other words, the fix for \"the guard is in the way\" is a different tool, not a missing guard [S14]."
+    },
+    {
+     "type": "p",
+     "text": "The same section requires belts, gears, shafts, pulleys, sprockets, spindles, drums, flywheels, chains and other moving parts of equipment to be guarded if exposed to contact or if they otherwise create a hazard [S1]. It also lists a rule that matters on mechanical-heavy jobs: when the blades of a fan are less than 7 feet above the floor or working level, the blades must be guarded, with guard openings no larger than half an inch [S1]. Temporary fans and air movers get set on floors in finished or near-finished halls for drying, curing and cooling. A fan at floor level is a fan with exposed blades unless the guard is on and the openings are small. This is a cheap, visible item for a coordinator to add to a daily walk."
+    },
+    {
+     "type": "p",
+     "text": "Switches are the second piece, and the text is a ladder by tool type [S1]. Hand-held powered platen sanders, grinders with wheels 2 inches in diameter or less, routers, planers, laminate trimmers, nibblers, shears, scroll saws and jigsaws with blade shanks a quarter inch wide or less may have only a positive on-off control [S1]. Drills, tappers, fastener drivers, grinders with wheels over 2 inches, disc sanders, belt sanders, reciprocating saws, saber saws and similar tools must have a momentary contact on-off control. They may have a lock-on only if turnoff can be accomplished by a single motion of the same finger or fingers that turn it on [S1]. Everything else hand-held, such as circular saws, chain saws and percussion tools without positive accessory holding means, needs a constant pressure switch that shuts off power when pressure is released [S1]. Concrete vibrators, concrete breakers, powered tampers, jackhammers, rock drills and similar tools are excepted [S1]."
+    },
+    {
+     "type": "p",
+     "text": "The practical read: a 4.5-inch angle grinder is in the middle category, and a worker who has taped or zip-tied a trigger on is defeating the safety the rule is built around. A paddle switch with a lock-on is acceptable only if one motion of the same fingers turns it off [S1]. Defeated switches are easy to spot from a distance and are a good indicator of how a sub's foreman treats everything else."
+    }
+   ]
+  },
+  {
+   "heading": "Powder-actuated tools: the nail that traveled twenty-seven feet",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Powder-actuated tools get their own paragraph in the standard, 1926.302(e), with twelve numbered rules. Only employees trained in the operation of the particular tool may operate it. The tool must be tested each day before loading to see that its safety devices work, following the manufacturer's procedure. A tool found not in proper working order, or one that develops a defect during use, must be removed from service immediately. Tools may not be loaded until just prior to the intended firing time, and neither loaded nor empty tools may be pointed at any employee, with hands kept clear of the open barrel end [S3]. Fasteners must not be driven into very hard or brittle materials, and the list in the standard includes cast iron, glazed tile, surface-hardened steel, glass block, live rock, face brick and hollow tile [S3]. Driving into materials that are easily penetrated is to be avoided unless they are backed by something that prevents the fastener from passing completely through and creating a flying missile hazard on the other side [S3]. Tools may not be used in an explosive or flammable atmosphere [S3]."
+    },
+    {
+     "type": "case",
+     "title": "Powder-actuated fastener through a hollow wall",
+     "paragraphs": [
+      "OSHA's Struck-By fatal facts collection includes a summary of a death in which a carpenter apprentice, age 22, was killed when a nail fired from a powder-actuated tool struck him in the head [S16]. The summary says the tool operator was trying to anchor a plywood form in preparation for pouring a concrete wall. He fired the gun, and the nail passed through the hollow wall and traveled some twenty-seven feet before striking the victim [S16].",
+      "The summary lists what was missing. The tool operator had never received training in the proper use of the tool, and none of the employees in the area were wearing personal protective equipment [S16]. The form lists no designated competent person on site, no employer safety and health program, no training and education for employees, and no worksite inspection [S16]. The crew size was 17 and the job was a union worksite [S16]. The summary has no date, and it states that the case was selected as representative of fatalities caused by improper work practices and is not necessarily recent. It also says the legal aspects were resolved and the case is closed. The inspection results section is marked \"not listed on original,\" so this source does not say what OSHA cited [S16].",
+      "Read the sequence rather than the headline. A form was being anchored, the operator fired into a hollow wall, and the nail kept going. Everything the summary says was missing was missing before the trigger pull: training, protection for the people in the area, a competent person, an inspection [S16]."
+     ],
+     "takeaway": "The standard puts the training duty on the employer who owns the tool, and puts the physical exclusion problem on whoever controls the area. On your jobs the latter is often you. Before a sub starts firing into walls, decks or forms, find out who is on the other side. Have the sub's foreman clear it or barricade it, and have the foreman name the operator and show the training record. Anchoring a form into a wall that someone else is working behind is a trade-stacking problem, not just a tool problem."
+    },
+    {
+     "type": "p",
+     "text": "Three letters of interpretation tighten the text, and a coordinator who handles tool paperwork should know them."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Training. The standard requires that only employees trained in the particular tool operate it, but says nothing about who must do the training. OSHA's answer to whether the manufacturer's representative must conduct it was that the standard does not require that, and that the trainer need not meet the competent person definition. As a practical matter, the trainer needs enough knowledge of the tool and enough training ability to convey it, and has to be able to identify and explain the hazards of the tool and how to use it safely [S11].",
+      "Unattended. The standard says loaded tools shall not be left unattended, and Part 1926 does not define unattended in Subpart I. OSHA's 2005 letter reasoned from the hazard, which is a worker who is not knowledgeable or authorized picking the tool up. It gave an example: an authorized worker has loaded a cartridge designed to shoot a nail into concrete, and an unauthorized worker uses it on a 2x4 in a framed wall, so the nail goes through and strikes someone on the other side. The tool is considered attended when the authorized worker is in view of the tool and less than 25 feet away [S12]. That 25-foot figure comes from the letter, not from the text of the standard [S12].",
+      "Fuel-actuated tools. The training sentence in 1926.302(e)(1) applies to powder-actuated tools. A fuel-actuated fastening tool falls under the fuel powered tools paragraph, which has no training requirement, but OSHA said the general training duty in 1926.21(b)(2) still applies, so the employee must be instructed in recognition and avoidance of unsafe conditions for that tool [S13][S10]."
+     ]
+    },
+    {
+     "type": "quote",
+     "text": "Loaded tools shall not be left unattended.",
+     "source": "S3"
+    }
+   ]
+  },
+  {
+   "heading": "Pneumatic tools and compressed air: hose, whip, and the dust you blow into the next trade",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The pneumatic rules in 1926.302(b) are ten paragraphs, and most are about things that fly or whip when something lets go [S3]. The tool must be secured to the hose or whip by some positive means to prevent accidental disconnection. Safety clips or retainers must be securely installed and maintained on pneumatic impact tools so attachments are not accidentally expelled [S3]. Pneumatically driven nailers, staplers and similar tools with automatic fastener feed that operate at more than 100 psi at the tool must have a safety device on the muzzle that prevents ejecting fasteners unless the muzzle is in contact with the work surface [S3]. The manufacturer's safe operating pressure for hoses, pipes, valves, filters and fittings cannot be exceeded [S3]. All hoses over half an inch inside diameter must have a safety device at the source of supply or branch line to reduce pressure in case of hose failure [S3]. Using hoses, or electric cords, to hoist or lower tools is not permitted [S3]."
+    },
+    {
+     "type": "p",
+     "text": "Compressed air for cleaning has one of the most violated sentences in the subpart."
+    },
+    {
+     "type": "quote",
+     "text": "Compressed air shall not be used for cleaning purposes except where reduced to less than 30 p.s.i. and then only with effective chip guarding and personal protective equipment",
+     "source": "S3"
+    },
+    {
+     "type": "p",
+     "text": "The standard says the 30 psi limit does not apply for concrete form, mill scale and similar cleaning purposes [S3]. A 2005 letter to a manufacturer of a handheld pneumatic cleaning tool for concrete forms, bridge decks and roads confirms that reading and points out that the chip guard requirement still applies. It also says that applicability of construction standards is often keyed to a particular activity rather than the type of equipment [S15]. The same letter notes that Subpart I does not contain a provision on dead-man triggers for that kind of pneumatic cleaning tool [S15]."
+    },
+    {
+     "type": "p",
+     "text": "Where this lands on a data center build: blowing down a slab or a pan with an air hose before an inspection is routine, and it is also routine to do it with the nozzle open and no eye protection on the next crew in the aisle. Whether the cleaning falls under the form-cleaning exception or the 30 psi limit depends on what is being cleaned [S3][S15]. A coordinator's useful move is to schedule air-cleaning when the area is cleared, instead of arguing the exception after someone is hit."
+    }
+   ]
+  },
+  {
+   "heading": "Nail guns and eye protection: what a repeat citation tells a general contractor",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Eye protection for nail gun operators turns up in OSHA releases about residential framing and roofing, which is not data center work. The reason to read them anyway is the structure of the enforcement. In each, the inspector found a tool-protection failure sitting beside a bigger supervision failure."
+    },
+    {
+     "type": "case",
+     "title": "A general contractor and the subcontractor's roof",
+     "paragraphs": [
+      "OSHA opened an inspection with general contractor Brookens Construction LLC on May 12, 2023, after inspectors saw a worker shingling a residential roof without fall protection on Ridgeview Drive in Appleton, Wisconsin. The worker was employed by a subcontractor, Eaglevision LLC of Elgin, Illinois [S17].",
+      "OSHA found the general contractor failed to perform site inspections to make sure its subcontractors followed safety procedures. It also found workers exposed to flying debris while using pneumatic nail guns without eye protection, a damaged ladder in use, and no training on fall hazards [S17]. OSHA cited two willful, two serious and one other-than-serious violation and proposed $132,593 in penalties. The release says Brookens had been cited in 2019 and 2022 for similar hazards in three separate inspections [S17]. The employer had 15 business days to comply, ask for an informal conference, or contest before the Occupational Safety and Health Review Commission [S17].",
+      "What the brief does not say: it does not say whose employees were using the nail guns, and it does not give the section numbers of each violation. Those are proposed citations that could still have been contested, so treat them as OSHA's findings at the time and not a finding of liability [S17]."
+     ],
+     "takeaway": "The detail that belongs to a coordinator is the failed inspection duty. The general contractor's project manager was on site, and OSHA's findings centered on not requiring subs to follow the rules, not on a missing pair of glasses. Under OSHA's multi-employer policy, a controlling employer is one with general supervisory authority over the worksite, including the power to correct violations or require others to correct them, and control can be established by contract or by exercise of control in practice [S20]. If you hold the schedule and the sign-offs, you may be treated as holding that role, so a cheap, regular, written walk-through is protection for the workers and for the company."
+    },
+    {
+     "type": "quote",
+     "text": "A controlling employer must exercise reasonable care to prevent and detect violations on the site.",
+     "source": "S20"
+    },
+    {
+     "type": "p",
+     "text": "A second release shows the same pattern with a roofing contractor as the employer. OSHA inspected Araujo Construction Corp. of Calumet City, Illinois, three times in 2022 at residential framing jobs in Lake Zurich and Wheeling and proposed $277,524 for two willful, four repeat and six serious violations [S18]. Most of it was falls. The release also says the company failed to make sure workers using air-powered nail guns wore eye, head and face protection, and did not train workers on forklift use [S18]. These were proposed penalties the company could contest [S18]. The nail gun item is small next to the fall findings, which is the point: tool PPE failures get found once the inspector is on site for something larger, and a missing pair of glasses at a nail gun is a fair hint to look at fall protection, forklifts and ladders next."
+    }
+   ]
+  },
+  {
+   "heading": "PPE that the tool standard hands off to other subparts",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Section 1926.300(c) says employees using hand and power tools who are exposed to the hazard of falling, flying, abrasive and splashing objects, or to harmful dusts, fumes, mists, vapors or gases must be provided with the particular PPE necessary to protect them from the hazard, and that all PPE must meet the requirements and be maintained according to Subparts D and E [S1]. The standard does not list the PPE for each tool. It points you to the hazard."
+    },
+    {
+     "type": "p",
+     "text": "The eye and face rule in 1926.102 adds specifics. The employer must ensure each affected employee uses appropriate eye or face protection when exposed to hazards from flying particles, molten metal, liquid chemicals, acids or caustic liquids, chemical gases or vapors, or potentially injurious light radiation. Where there is a hazard from flying objects, the eye protection has to provide side protection, though detachable side protectors such as clip-on or slide-on side shields are acceptable. People who wear prescription lenses on eye-hazard operations need protection that incorporates the prescription or fits over their lenses without disturbing the position of either [S8]. Eye and face PPE must be distinctly marked to identify the manufacturer [S8]."
+    },
+    {
+     "type": "p",
+     "text": "Two PPE points are worth checking against a 2017 course guide, and the sources confirm only part of what changed. First, PPE payment: under 1926.95(d), the employer must provide PPE at no cost to employees, with exceptions for non-specialty safety-toe footwear and non-specialty prescription safety eyewear if the employer permits them to be worn off the job site, for everyday clothing and for ordinary weather gear. The employer must pay for replacement PPE unless the employee lost or intentionally damaged it [S7]. The page gives February 13, 2008 as the effective date for that payment rule, so it predates the 2017 guide [S7]."
+    },
+    {
+     "type": "p",
+     "text": "Second, fit. The current text of 1926.95(c) requires employers to ensure that all PPE is of safe design and construction for the work to be performed, and is selected to ensure that it properly fits each affected employee [S7]. The page's amendment history ends with a Federal Register entry of December 12, 2024 (89 FR 100346), but the page itself does not say what that amendment changed, so it is not stated here that the amendment created the fit language [S7]. What you can rely on is the current text. If a sub's crew is wearing one-size gloves, loose goggles or glasses that fall off when they look down, the employer has a fit problem under the text as it reads now [S7]."
+    }
+   ]
+  },
+  {
+   "heading": "Abrasive wheels: ring test, guard, rest, and eye protection",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Section 1926.303 is the abrasive wheel rule, and it is where a grinder's rotating wheel gets treated as a possible bomb. All grinding machines must be supplied with enough power to maintain spindle speed at safe levels under normal operation, and must have safety guards that meet the ANSI B7.1-1970 code and paragraph (d) [S4]. The guard must cover the spindle end, nut and flange projections and be mounted to keep proper alignment with the wheel, and the strength of its fastenings must exceed the strength of the guard, with narrow exceptions for operations where the work itself provides protection and for portable saws [S4]."
+    },
+    {
+     "type": "p",
+     "text": "The standard sets angular exposure limits for bench and floor-stand wheels used for external grinding: not more than 90 degrees, except where work requires contact below the horizontal plane of the spindle, where exposure cannot exceed 125 degrees, and in either case it begins not more than 65 degrees above the horizontal plane. The guards must be strong enough to withstand the effect of a bursting wheel [S4]. For portable abrasive wheels, the maximum exposure is 180 degrees [S4]. Floor and bench grinders must have rigidly supported, readily adjustable work rests kept no more than one-eighth inch from the wheel surface, and the rest must not be adjusted with the wheel in motion [S4]. The one-eighth inch gap exists to prevent the work from jamming between the wheel and the rest, which may cause wheel breakage [S4]."
+    },
+    {
+     "type": "p",
+     "text": "Three rules concern the wheel itself and are the ones usually skipped on a busy job. All abrasive wheels must be closely inspected and ring-tested before mounting to ensure they are free from cracks or defects. Wheels must fit freely on the spindle and not be forced on, and the spindle nut should be tightened only enough to hold the wheel in place. When safety flanges are required, they may be used only with wheels designed to fit the flanges [S4]. All employees using abrasive wheels must have eye protection under Subpart E, except when permanently attached eye shields on the bench or floor stand give adequate protection [S4]."
+    }
+   ]
+  },
+  {
+   "heading": "Silica from grinders, saws and drills: the rule that moved",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Silica is the largest change for tool work since a 2017 course guide. Respirable crystalline silica in construction has its own standard, 1926.1153, and its Table 1 lists the exposure control methods specified for each tool [S9]. The core paragraph is below."
+    },
+    {
+     "type": "quote",
+     "text": "the employer shall fully and properly implement the engineering controls, work practices, and respiratory protection specified for the task on Table 1",
+     "source": "S9"
+    },
+    {
+     "type": "p",
+     "text": "The sentence continues with an exception: unless the employer assesses and limits the exposure of the employee to respirable crystalline silica under the standard's exposure assessment paragraph [S9]. So an employer either follows the table for the task or does the assessment and keeps exposure within the limit. There is no third option of ignoring the dust."
+    },
+    {
+     "type": "p",
+     "text": "What the table calls for, tool by tool, from the source [S9]:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Stationary masonry saws: an integrated water delivery system that continuously feeds water to the blade. No respirator in the table [S9].",
+      "Handheld power saws, any blade diameter: integrated water delivery to the blade. Respirator not required in the table outdoors for shifts of 4 hours or less, APF 10 outdoors for more than 4 hours, and APF 10 indoors or in an enclosed area regardless of duration [S9].",
+      "Handheld grinders for mortar removal: a commercially available shroud and dust collection system. The collector must provide 25 cubic feet per minute or more of airflow per inch of wheel diameter, with a filter of 99 percent efficiency or greater and a cyclonic pre-separator or filter-cleaning mechanism [S9].",
+      "Handheld grinders for other uses: either an integrated water delivery system feeding the grinding surface (outdoor tasks only), or the same shroud and dust collection arrangement as above, with an APF 10 respirator only for shifts over 4 hours indoors or in an enclosed area [S9].",
+      "Jackhammers and handheld powered chipping tools: water at the point of impact, or a shroud with dust collection that moves the airflow the tool manufacturer recommends or more, with a filter of 99 percent efficiency or greater and a filter-cleaning mechanism. APF 10 respirators apply indoors or when the work runs over 4 hours outdoors [S9].",
+      "Handheld and stand-mounted drills, including impact and rotary hammer drills: a commercially available shroud or cowling with a dust collection system [S9]."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Concrete is where a data center build hits this: slab cutting for penetrations, core drilling, anchor holes for tray and rack supports, chipping to chase a conduit and grinding of a slab or a pad. The table has a row for each of these tools. For a handheld power saw used indoors or in an enclosed area, the table puts a respirator in the picture regardless of how long the task takes [S9]."
+    },
+    {
+     "type": "p",
+     "text": "What a coordinator can do. Silica is a coordination problem because the dust travels. A crew chipping concrete in a hall puts dust into the air of the crew pulling cable twenty feet away, and the second crew's employer has no table row for that exposure. The first crew's employer is the one the table speaks to. Sequence the wet or shrouded work away from other trades where you can, and ask each sub, before the work starts, which Table 1 row covers the task and which dust control they rented. If the answer is a dry saw, hold the start."
+    }
+   ]
+  },
+  {
+   "heading": "Woodworking tools: the saw on the deck",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Section 1926.304 reads like a shop standard, but site-built carpentry, formwork and temporary shops put these tools on every large job. All fixed power-driven woodworking tools must have a disconnect switch that can be locked or tagged in the off position. Circular saws over 20 inches in diameter, or ones operating over 10,000 peripheral feet per minute, must have the operating speed etched or permanently marked, and may not be operated at another speed [S5]."
+    },
+    {
+     "type": "p",
+     "text": "The portable saw rule is the one that applies to nearly every carpenter on site. All portable power-driven circular saws must have guards above and below the base plate or shoe. The upper guard covers the saw to the depth of the teeth, except for the minimum arc required to let the base tilt for bevel cuts. The lower guard also covers the saw to the depth of the teeth, except for the minimum arc to allow proper retraction and contact with the work. When the tool is withdrawn from the work, the lower guard must automatically and instantly return to the covering position [S5]."
+    },
+    {
+     "type": "p",
+     "text": "The sentence about the lower guard returning \"automatically and instantly\" is the one to check by looking at the saw [S5]. A lower guard that is pinned, wedged or taped open is not meeting it. Combine that with the constant pressure switch requirement for circular saws in 1926.300(d)(3) and the picture is clear: a circular saw is supposed to stop when released, with a guard that closes behind it [S1][S5]."
+    }
+   ]
+  },
+  {
+   "heading": "Jacks: load raised, load secured, right now",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Section 1926.305 covers lever and ratchet, screw, and hydraulic jacks. Rated capacity must be legibly marked on all jacks and not exceeded, and every jack must have a positive stop to prevent overtravel [S6]. When it is necessary to provide a firm foundation, the base of the jack must be blocked or cribbed, and where the metal cap of a jack might slip, a wood block goes between the cap and the load [S6]. The operating rule is a short sentence."
+    },
+    {
+     "type": "quote",
+     "text": "After the load has been raised, it shall be cribbed, blocked, or otherwise secured at once.",
+     "source": "S6"
+    },
+    {
+     "type": "p",
+     "text": "The remaining items are maintenance. Hydraulic jacks exposed to freezing temperatures must be supplied with adequate antifreeze liquid, and all jacks must be lubricated at regular intervals. Inspections depend on service conditions but must be no less frequent than: once every six months for constant or intermittent use at one locality; when sent out and when returned for jacks sent out of the shop for special work; and immediately before and immediately after use of a jack subjected to abnormal load or shock. Repair and replacement parts must be examined for possible defects, and out-of-order jacks must be tagged and not used until repaired [S6]."
+    },
+    {
+     "type": "p",
+     "text": "OSHA's equipment standard backs up the blocking rule from another side. In the 2005 letter on unattended equipment, OSHA quotes 1926.600(a)(3)(i), which says that heavy machinery, equipment or parts held aloft by slings, hoists or jacks must be substantially blocked or cribbed to prevent falling or shifting before employees are permitted to work under or between them [S12]. That is the standard to point to when a supervisor says the load \"won't go anywhere\" on the jack alone [S12]."
+    },
+    {
+     "type": "p",
+     "text": "On a data center job, the jacks that matter are the ones used to skid and level heavy electrical and mechanical equipment, such as transformers, switchgear lineups, generators and cooling units. These are heavy, they are installed in cramped rooms, and several trades want the space at once. This is judgment, not the standard's wording: the question for a coordinator is whether anyone has a person under or beside a jacked load while another trade works next to them. The standard calls for cribbing at once. The schedule pressure goes the other way, because the crew wants to move to the next lift. If the sequence plan for an equipment set shows a gap between the raise and the cribbing, that gap is the thing to fix."
+    }
+   ]
+  },
+  {
+   "heading": "Changeover: the moment a bit gets swapped",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The next case is not a hand-tool case, but it sits in the same family: a worker was killed while changing a part on a powered machine [S19]."
+    },
+    {
+     "type": "case",
+     "title": "Replacing a drill bit on a horizontal drilling machine",
+     "paragraphs": [
+      "OSHA's release says that on March 17, 2026, employees of T & T Pipeline Co. Inc., an Orlando-based pipeline installation contractor, were replacing a drill bit on a horizontal drilling machine at a New Smyrna Beach worksite. The pipe stem began to rotate and fatally struck an employee [S19].",
+      "OSHA cited the employer with a willful violation for exposing employees to struck-by hazards when working on a horizontal directional drilling machine and proposed $165,514 in penalties [S19]. The release is brief. It does not name the standard, does not say how the machine was energized at the time, and does not say what the company's procedures were. It also notes the case figures may not reflect current or final status and that the company had 15 business days to comply, ask for a conference or contest [S19].",
+      "Because the source stops there, the cause is not guessed at here. What is on the page is simple: bit replacement, rotation started or continued, one person killed, and a willful classification [S19]."
+     ],
+     "takeaway": "A bit change, a blade change and a hose change all put hands near something that can move. The coordinator's question is not what a lockout procedure says. It is whether the crew doing the changeover has stopped the machine in a way that cannot start again while they are in contact with it, and whether anyone else, such as an operator in the cab or an apprentice at the controls, can restart it. Ask the question on the first day with a new rig or crew, before the rig is on the schedule's critical path."
+    }
+   ]
+  },
+  {
+   "heading": "What this looks like when the coordinator walks it",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "This list is built from the rules above. None of it is a requirement on the coordinator personally; it is what to look at in order to keep the controlling employer's duty of reasonable care from being hollow [S20]."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Guards: portable circular saws with the lower guard free to snap back; angle grinders with the guard installed; fans under 7 feet from the floor with covered blades and openings no larger than half an inch [S1][S5].",
+      "Switches: no tape, wire or zip ties on a trigger or paddle [S1].",
+      "Powder-actuated tools: who is the trained operator, what is on the other side of the surface, and where is the tool when the operator walks away. A loaded tool the operator cannot see, or is more than 25 feet from, is outside what OSHA's letter treats as attended [S3][S12].",
+      "Air: hose whips and positive tool connections; clips on impact tools; muzzle safety on nailers over 100 psi; no air cleaning above 30 psi without chip guarding and PPE except for form-type cleaning [S3].",
+      "Wheels: who changes them, and how they ring-test; work rests within one-eighth inch [S4].",
+      "Eyes and fit: side protection for flying objects, prescription coverage, and PPE that fits the worker wearing it [S7][S8].",
+      "Dust: the Table 1 row for each concrete or masonry task and the water or collector that goes with it [S9].",
+      "Jacks: rated capacity marked, base blocked, load cribbed at once, out-of-order units tagged [S6].",
+      "Changeover: who isolates the machine when a bit, blade or attachment is being changed, and who can restart it [S19]."
+     ]
+    }
+   ]
+  }
+ ]
+}

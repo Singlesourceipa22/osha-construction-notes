@@ -1,0 +1,393 @@
+{
+ "module": 1,
+ "title": "Intro to OSHA",
+ "sources": [
+  {
+   "id": "S1",
+   "title": "OSHA Penalties",
+   "url": "https://www.osha.gov/penalties"
+  },
+  {
+   "id": "S2",
+   "title": "OSHA Multi-Employer Citation Policy, CPL 02-00-124",
+   "url": "https://www.osha.gov/enforcement/directives/cpl-02-00-124"
+  },
+  {
+   "id": "S3",
+   "title": "OSHA Field Operations Manual, Chapter 3 (Inspection Procedures)",
+   "url": "https://www.osha.gov/enforcement/directives/cpl-02-00-163/chapter-3"
+  },
+  {
+   "id": "S4",
+   "title": "OSHA Field Operations Manual, Chapter 6 (Penalties and Debt Collection)",
+   "url": "https://www.osha.gov/enforcement/directives/cpl-02-00-163/chapter-6"
+  },
+  {
+   "id": "S5",
+   "title": "29 CFR 1926.16, Rules of construction",
+   "url": "https://www.law.cornell.edu/cfr/text/29/1926.16"
+  },
+  {
+   "id": "S6",
+   "title": "29 U.S.C. 660, Judicial review (includes Section 11(c))",
+   "url": "https://www.law.cornell.edu/uscode/text/29/660"
+  },
+  {
+   "id": "S7",
+   "title": "29 U.S.C. 666, Civil and criminal penalties",
+   "url": "https://www.law.cornell.edu/uscode/text/29/666"
+  },
+  {
+   "id": "S8",
+   "title": "29 CFR 1977.5, Persons protected by section 11(c)",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1977/1977.5"
+  },
+  {
+   "id": "S9",
+   "title": "29 CFR 1977.6, Unprotected activities distinguished",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1977/1977.6"
+  },
+  {
+   "id": "S10",
+   "title": "29 CFR 1977.9, Complaints under or related to the Act",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1977/1977.9"
+  },
+  {
+   "id": "S11",
+   "title": "29 CFR 1977.12, Exercise of any right afforded by the Act",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1977/1977.12"
+  },
+  {
+   "id": "S12",
+   "title": "29 CFR 1977.15, Filing of complaint for discrimination",
+   "url": "https://www.law.cornell.edu/cfr/text/29/1977.15"
+  },
+  {
+   "id": "S13",
+   "title": "29 CFR 1903.7, Conduct of inspections",
+   "url": "https://www.law.cornell.edu/cfr/text/29/1903.7"
+  },
+  {
+   "id": "S14",
+   "title": "29 CFR 1903.8, Representatives of employers and employees",
+   "url": "https://www.law.cornell.edu/cfr/text/29/1903.8"
+  },
+  {
+   "id": "S15",
+   "title": "29 CFR 1904.39, Reporting fatalities, hospitalizations, amputations and losses of an eye",
+   "url": "https://www.law.cornell.edu/cfr/text/29/1904.39"
+  },
+  {
+   "id": "S16",
+   "title": "29 CFR 1904.35, Employee involvement",
+   "url": "https://www.law.cornell.edu/cfr/text/29/1904.35"
+  },
+  {
+   "id": "S17",
+   "title": "29 U.S.C. 658, Citations",
+   "url": "https://www.law.cornell.edu/uscode/text/29/658"
+  },
+  {
+   "id": "S18",
+   "title": "29 U.S.C. 659, Enforcement procedures",
+   "url": "https://www.law.cornell.edu/uscode/text/29/659"
+  },
+  {
+   "id": "S19",
+   "title": "OSHA news release, Monroe, NY excavation citations (Oct. 13, 2026)",
+   "url": "https://www.osha.gov/news/newsreleases/new-york-city/20261013"
+  },
+  {
+   "id": "S20",
+   "title": "OSHA news release, Tallahassee fatal fall citations (Feb. 2, 2023)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20230202"
+  },
+  {
+   "id": "S21",
+   "title": "OSHA news release, Tara Construction Section 11(c) suit (Mar. 1, 2019)",
+   "url": "https://www.osha.gov/news/newsreleases/boston/20190301"
+  },
+  {
+   "id": "S22",
+   "title": "OSHA news release, Houston asbestos whistleblower orders (Feb. 12, 2026)",
+   "url": "https://www.osha.gov/news/newsreleases/dallas/20260212"
+  },
+  {
+   "id": "S23",
+   "title": "Solis v. Summit Contractors, Inc., No. 07-2191 (8th Cir. Feb. 26, 2009)",
+   "url": "https://www.govinfo.gov/content/pkg/USCOURTS-ca8-07-02191/pdf/USCOURTS-ca8-07-02191-0.pdf"
+  },
+  {
+   "id": "S24",
+   "title": "OSHA, Workers' Right to Refuse Dangerous Work",
+   "url": "https://www.osha.gov/workers/right-to-refuse"
+  }
+ ],
+ "sections": [
+  {
+   "heading": "The inspector arrives and nobody owns the site",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "A compliance officer (CSHO) walking onto a data center build is not walking onto one employer's workplace. The Field Operations Manual tells the CSHO to locate the owner's representative, operator or agent in charge and show credentials, and adds that on construction sites this is most often the general contractor's representative [S3]. On a big job that first badge may land on a project coordinator rather than the superintendent. The CSHO will not wait long: the inspection should not be delayed unreasonably for the employer representative, and if that person is coming from off-site, not more than an hour [S3]. If the workforce starts leaving, the CSHO calls the Area Director, and if no one in charge can be identified the CSHO records the effort and starts the physical inspection anyway [S3]."
+    },
+    {
+     "type": "p",
+     "text": "Entry is rarely the fight people imagine. An employer can ordinarily insist on a warrant, but the Manual lists recognized exceptions, including consent, plain view, an open construction site and exigent circumstances, and says that on a multi-employer worksite valid consent for entry can come from the owner or from another employer with employees there [S3]. On a data center with an owner, a construction manager and dozens of subs, any one of several people can consent, so a coordinator who was never told who is designated to deal with OSHA may find the decision made at the gate by whoever was standing there. If an employer does refuse, the CSHO leaves and reports it to the Area Director, who notifies the Regional Solicitor, the path to a warrant [S3]."
+    },
+    {
+     "type": "p",
+     "text": "The opening conference is meant to be short. The CSHO explains rights, including the chance to join the physical inspection, outlines the scope (private interviews, walkaround, records, closing conference), and says video and audio may be used like notes and photographs [S3]. The injury and illness records are due within four business hours of a request under the recordkeeping rule, but the CSHO need not wait for them before starting the walkaround [S3]. If the walkaround needs to start quickly, the conference shrinks to credentials, purpose, rights and a request for representatives [S3]."
+    },
+    {
+     "type": "p",
+     "text": "Who walks with the CSHO is where multi-employer sites differ from a factory. The regulation lets a different employer and employee representative accompany the CSHO during each phase of an inspection [S14], and the Manual says that is acceptable where more than one employer is present [S3]. A CSHO moving from the mechanical yard to the electrical gallery can pick up a different sub's foreman at each stop, and each speaks for his own employer only. The CSHO resolves any dispute over who the authorized representative is, and can remove anyone whose conduct interferes with a fair and orderly inspection [S14]."
+    },
+    {
+     "type": "quote",
+     "text": "A representative of the employer and a representative authorized by his employees shall be given an opportunity to accompany the Compliance Safety and Health Officer during the physical inspection of any workplace for the purpose of aiding such inspection.",
+     "source": "S14"
+    },
+    {
+     "type": "p",
+     "text": "The employee side is broader than a 2017 guide would say. The current text lets the employee-authorized representative be a third party if the CSHO finds good cause, including the person's knowledge, skills or experience with the hazards or language or communication skills; the CFR note cites 89 FR 22601, April 1, 2024 [S14]. Where information is classified for national security, only persons authorized for it may accompany the CSHO in those areas [S14]."
+    }
+   ]
+  },
+  {
+   "heading": "Interviews, photographs, secrets, and the thing nobody should do first",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The CSHO has statutory authority to question any employee privately, and the Manual tells CSHOs to inform employers that non-managerial employees will be interviewed in private [S3]."
+    },
+    {
+     "type": "p",
+     "text": "The Manual treats a manager sitting in on those interviews as interference, and says that if an employer interferes the CSHO should ask the Area Director to consult the Regional Solicitor about legal action [S3]. Interviews are also how a CSHO learns whether advance notice changed what is being seen [S3]. A coordinator who spends the morning telling every crew to straighten up has handed the CSHO questions for the afternoon."
+    },
+    {
+     "type": "p",
+     "text": "Advance notice is not only a bad idea, it is a crime. The statute makes it an offense for anyone to give advance notice of an inspection without authority from the Secretary or a designee, with a fine of up to $1,000 or up to six months in prison, or both [S7]. The Manual explains the reason: the conditions the Act regulates can be altered or disguised quickly [S3].  If you hear a CSHO is at gate three, the sentence that goes out on the radio should not be a warning to other trades. It should be the name of the person who is handling the visit."
+    },
+    {
+     "type": "quote",
+     "text": "Any person who gives advance notice of any inspection to be conducted under this chapter, without authority from the Secretary or his designees, shall, upon conviction, be punished by a fine of not more than $1,000 or by imprisonment for not more than six months, or by both.",
+     "source": "S7"
+    },
+    {
+     "type": "p",
+     "text": "Data center owners care about confidentiality, and the rules have a place for it. At the start of an inspection the employer may identify areas that contain or could reveal a trade secret, and if the CSHO has no clear reason to doubt it, information from those areas is labeled \"Confidential – Trade Secret\" [S3]. If the employer objects to photographs or video because of trade secrets, the CSHO explains the Section 15 protection and, if the employer still objects, contacts the Area Director [S3]. Confidentiality is raised at the start, by the person authorized to raise it. A sub's foreman improvising a restriction mid-walk is how an inspection turns into a refusal."
+    },
+    {
+     "type": "p",
+     "text": "The CSHO also records who was exposed, what the employer knew and how long the condition existed, and reviews the safety and health management system, which feeds the good-faith penalty reduction [S3]. More than one employer can be cited for the same condition under the two-step process in the 1999 multi-employer directive [S3]."
+    }
+   ]
+  },
+  {
+   "heading": "Who gets cited: creating, exposing, correcting, controlling",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The multi-employer citation policy is a 1999 directive, and it is still the operative document the Field Operations Manual points to [S2][S3]. It says the policy continues existing practice, adds clearer examples, imposes no new duties and leaves the decision to be based on all the relevant facts [S2]. Step one classifies each employer as creating, exposing, correcting or controlling, and an employer can hold several roles at once. Step two asks whether that employer's actions met the duty that comes with the role [S2]. Only exposing employers can be cited under the General Duty Clause [S2]."
+    },
+    {
+     "type": "p",
+     "text": "The roles break down this way, with the directive's own examples doing most of the work."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Creating employer: the one that caused the violative condition. It is citable even if the only people exposed work for other employers [S2]. The directive's example is a contractor that hoists material onto Floor 8 and damages perimeter guardrails. That contractor was not citable because it kept all employees away from the edge and told the controlling employer, though it lacked authority to repair the rail [S2]. Creating a hazard is not a violation by itself if you fence it and report it fast.",
+      "Exposing employer: the one whose own employees are exposed. If another employer created the hazard, it is citable when it knew or should have known and failed to act within its authority; if it cannot fix the hazard, it must ask the creating or controlling employer to correct it, tell its employees, and take reasonable alternative protection [S2]. In the directive's rebar example an electrical sub asked the GC repeatedly, rerouted its crew and was not citable. In its hole example a sub asked for guardrails, was refused, did not use feasible personal fall protection, and was citable [S2].",
+      "Correcting employer: an employer in a common undertaking on the same site that is responsible for correcting a hazard, usually by installing or maintaining safety equipment [S2]. In the directive's 15-story example a carpentry sub inspected every floor twice a day, fixed rails promptly, and was not cited when workers damaged a rail after the afternoon inspection and nobody told it [S2].",
+      "Controlling employer: one with general supervisory authority over the site, including the power to correct violations or require others to, established by contract or by what it does in practice [S2]. This is the role that sits with the GC and the construction manager on a large job, and often with the owner."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Control can also be established by practice rather than contract [S2]; if your coordinators routinely direct trades to stop or fix things, that history is evidence on the question."
+    },
+    {
+     "type": "quote",
+     "text": "The extent of the measures that a controlling employer must implement to satisfy this duty of reasonable care is less than what is required of an employer with respect to protecting its own employees.",
+     "source": "S2"
+    },
+    {
+     "type": "p",
+     "text": "That sentence is the comfort and the trap. Controlling employers are not expected to inspect as often or know the trade as well as their subs [S2]. But how often they must look depends on the project's scale, the pace and how fast hazards change, and what they know about the sub's safety history and expertise [S2]. More frequent inspections are normally needed when the sub has a history of non-compliance, and early in a project with a sub the controlling employer has never worked with; fewer are acceptable with strong indications of effective safety efforts, the best of which is a consistently high level of compliance [S2]."
+    },
+    {
+     "type": "p",
+     "text": "The directive's own tests for reasonable care are three questions: whether the controlling employer inspected at appropriate frequency, whether it had an effective system for promptly correcting hazards, and whether it enforced compliance with a graduated system of enforcement and follow-up inspections [S2]. Example 7 shows why the third matters. A GC that had never worked with the painting sub inspected often enough, found fall protection violations during several inspections, pointed them out to the painter each time, and did nothing more. The directive says the GC took adequate steps to discover violations but failed to take reasonable steps to require correction because it had no graduated system of enforcement, so a citation to the GC was appropriate [S2]. Pointing out the same violation four times is a record of knowledge, not a record of control."
+    },
+    {
+     "type": "p",
+     "text": "The construction rules point the same way. A prime contractor that contracts for full performance assumes the employer obligations in Part 1926 whether or not it subcontracts the work, and the prime can arrange jobsite duties such as first aid with its subs but is never relieved of overall responsibility [S5]."
+    },
+    {
+     "type": "quote",
+     "text": "With respect to subcontracted work, the prime contractor and any subcontractor or subcontractors shall be deemed to have joint responsibility.",
+     "source": "S5"
+    },
+    {
+     "type": "case",
+     "title": "Little Rock dormitory: the GC that saw it, said so, and was cited anyway",
+     "paragraphs": [
+      "Summit Contractors was the general contractor on a college dormitory in Little Rock, Arkansas. It had subcontracted the whole project and had only four employees on the site, a project superintendent and three assistants [S23]. It subcontracted exterior brick masonry to All Phase Construction. On two or three occasions the superintendent saw All Phase employees working on scaffolds with no personal fall protection and no guardrails, and told All Phase to fix it. Each time the crew moved the scaffold, they went back to working without protection [S23].",
+      "In June 2003 an OSHA compliance officer saw All Phase employees working on scaffolds more than ten feet up without fall protection or guardrails. None of Summit's own employees were exposed, and OSHA cited Summit anyway under the controlling employer policy [S23]. Summit's argument was that the construction rule only requires an employer to protect its own employees. The Review Commission split, with two of three opinions agreeing with Summit and vacating the citation [S23]. The Eighth Circuit granted the Secretary's petition, vacated the Commission's order and sent the case back for further proceedings [S23]. The court's ruling was about whether the regulation allows the controlling-employer citation. The opinion does not report what happened on remand, so the final outcome is not stated here."
+     ],
+     "takeaway": "A superintendent who sees a violation, mentions it, and watches it return when the scaffold moves has built the best possible evidence that he knew and did not use his authority. Treat a repeat finding as an escalation trigger: written notice to the sub's management, a stated consequence, a follow-up check. Having four people on site, or nobody exposed, did not protect Summit."
+    },
+    {
+     "type": "case",
+     "title": "Tallahassee roof trusses: the prime, the framer and the crane company",
+     "paragraphs": [
+      "On August 17, 2022 a 31-year-old laborer employed by Big Hammer fell 12 feet and died while installing roof trusses at a multifamily development in Tallahassee. A crane had released a truss and the worker was trying to upright it [S20]. OSHA's investigation found three employers whose failures it said might have prevented the death, and cited the prime contractor, Mad Dog Design and Construction Company, and two subcontractors, Big Hammer and Forgotten Coast Crane Service [S20].",
+      "The prime received one serious violation for allowing workers to erect and brace trusses standing on the top plates and truss components with no fall protection system, proposed penalty $6,250 [S20]. Big Hammer received serious violations for failing to ensure fall protection, for inadequate storage and installation of prefabricated trusses, and for letting unqualified employees give hand signals for crane operations, $25,001 proposed [S20]. The crane company received two serious violations, for not proof-testing custom hooks used to hoist 45-foot trusses and for not maintaining communication with the crane operator, $8,037 proposed [S20]. The employers had 15 business days to comply, ask for an informal conference or contest; these are proposed penalties, and the release gives no outcome [S20]."
+     ],
+     "takeaway": "The prime was cited for a fall hazard its framing sub's crew was working under, in a sequence the prime did not perform. The failures were split across employers: signaling by the framer, rigging by the crane company, fall protection by the prime and the framer. A pre-lift check that names who signals, whose rigging is proof-tested and what the fall plan is for the crew at the truss, before the crane picks, closes the handoff gap nobody owns."
+    }
+   ]
+  },
+  {
+   "heading": "How citations and penalties play out",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "A citation must be issued with reasonable promptness, in writing, describing the violation with particularity and fixing a reasonable abatement time, and no later than six months after the violation occurred [S17]. The Secretary then notifies the employer by certified mail of any proposed penalty, and the employer has fifteen working days from receipt to contest. If it does not, and no employee or employee representative files a notice, the citation and penalty become a final order not subject to review by any court or agency [S18]. Each citation must be posted at or near each place the violation occurred [S17]."
+    },
+    {
+     "type": "p",
+     "text": "The maximums, per the OSHA penalties page: the page says they are the maximum amounts, with the annual inflation adjustment, that may be assessed after Jan. 15, 2026 [S1]. Its table lists $16,550 per violation for serious, other-than-serious and posting violations, $16,550 per day beyond the abatement date for failure to abate, and $165,514 per violation for willful or repeated violations [S1]. The table heading on that page still reads 2024 while its introduction names Jan. 15, 2026 [S1], so confirm the figure on the live page before quoting it."
+    },
+    {
+     "type": "quote",
+     "text": "Below are the maximum penalty amounts, with the annual adjustment for inflation, that may be assessed after Jan. 15, 2026.",
+     "source": "S1"
+    },
+    {
+     "type": "p",
+     "text": "The Act's own base numbers are up to $7,000 for a serious violation and up to $70,000 for a willful or repeated one, with a $5,000 floor per willful violation; the page above is those figures after decades of inflation adjustment [S1][S7]. The Act also carries criminal penalties, including up to six months in prison for a willful violation that causes an employee's death (more after a prior conviction) and for knowingly false statements in required records [S7]. That is why the accuracy of what you hand over on inspection day matters beyond the citation."
+    },
+    {
+     "type": "p",
+     "text": "The maximum is not what most employers are proposed. The Field Operations Manual starts from a gravity-based penalty and applies adjustment factors one after another: history, good faith, quick-fix and size [S4]. Size is the one that makes a small sub pay less than a national GC for the same hazard: the reduction is 70 percent for 1 to 10 employees, 60 for 11 to 25, 30 for 26 to 100, 10 for 101 to 250 and none at 251 or more, counted across all the employer's workplaces over the prior 12 months [S4]."
+    },
+    {
+     "type": "p",
+     "text": "History moves the number 10 percent either way: a reduction for an employer inspected in the past five years with no serious violations, an increase for serious high-gravity citations that became final orders in that window, never above the statutory maximum [S4]. Good faith is where a documented program pays: 25 percent normally requires a written safety and health management system covering management commitment and employee involvement, worksite analysis, hazard prevention and control, and training, and 15 percent applies to a documented effective system with incidental deficiencies [S4]. Good faith is erased by a willful finding, a repeat or a failure to abate anywhere in the inspection, by high-gravity serious violations, by no real program, and by failing to report a fatality, inpatient hospitalization, amputation or loss of an eye as required [S4]. That last one surprises people: a missed report costs the discount on every other citation."
+    },
+    {
+     "type": "p",
+     "text": "Reporting has hard clocks. A work-related death must be reported within eight hours, and an inpatient hospitalization, amputation or loss of an eye within twenty-four, to the nearest Area Office, the 800 number or online [S15]. A crash in a construction work zone is reportable [S15]. The rule speaks to the employer of the injured worker, so on a shared site decide before an incident who calls for which crew and who confirms it was made."
+    },
+    {
+     "type": "p",
+     "text": "Quick-fix is the part a coordinator can influence in the first hours. It applies to construction employers for other-than-serious, low-gravity serious and moderate-gravity serious violations that are abated immediately, meaning the day the CSHO points the hazard out or within 24 hours, with corrective action that is permanent and substantial rather than temporary or cosmetic; it does not apply to high-gravity serious or willful items [S4]. Quickly corrected violations also carry no abatement certification requirement [S3]. So: fix it in front of the CSHO, make it durable, and tell the CSHO it is done."
+    },
+    {
+     "type": "p",
+     "text": "Escalation comes through failure to abate, willful and repeat findings. Failure-to-abate penalties arise when a prior citation is a final order and the same condition is found uncorrected on re-inspection [S4]. Willful violations get no good-faith reduction, and the Act's own failure-to-correct penalty runs per day the failure continues [S4][S7], so an abatement date on an open item is a schedule commitment."
+    },
+    {
+     "type": "case",
+     "title": "Monroe, New York: five subs and a GC on a 75-foot excavation",
+     "paragraphs": [
+      "On October 13, 2026 OSHA announced citations against six employers at a planned 408,000-square-foot mixed-use building on an 18-acre site in Monroe, New York, known as Monroe Commons or the Magna Square development, with combined proposed penalties of $648,094 [S19]. OSHA had responded to an allegation of struck-by and collapse hazards at a large excavation, which had a steep, unstable embankment nearly 75 feet high that was not adequately sloped or shored [S19].",
+      "The release describes 23 serious and five willful citations to the general contractor and five subcontractors, covering cave-in, struck-by and chemical hazards, failure to shield employees from falling or rolling rock and soil, and no daily excavation inspections by a competent person [S19]. Advanced Plan and Build, Parkstone and Obstacle Systems (operating as Drip Drop Waterproofing) and The Paving Masters were cited as willful for exposing employees to cave-in and struck-by hazards from an unprotected excavation, and Advanced Plan and Build and The Paving Masters as willful for failing to ensure that an excavation 21 to 75 feet deep was designed by a registered professional engineer [S19]. Century Max, DelValle and Prime Structure received serious citations [S19].",
+      "Proposed penalties ranged from $19,151 (DelValle) and $19,860 (Prime Structure) up to $198,615 (Parkstone and Obstacle) and $188,684 (The Paving Masters) [S19]. The employers have 15 business days to comply, request an informal conference or contest [S19]. The release does not say which of the six is the general contractor, and these are citations as issued, not adjudicated findings."
+     ],
+     "takeaway": "Six employers in one hole means six separate proposed penalties, with the willful items driving the totals. The upstream job is confirming that a competent person's daily excavation inspection exists, is documented per employer and is posted, that an engineer designed anything deep enough to need it, and that someone makes the stop-work call when slope or shoring does not match the plan."
+    }
+   ]
+  },
+  {
+   "heading": "Retaliation on construction sites: Section 11(c) and its neighbors",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Crews are transient and subs are replaceable, so on construction a worker can be removed from a job by a phone call that never touches payroll. The OSH Act's anti-retaliation provision is short: it bars any person from discharging or discriminating against an employee for filing a complaint, causing a proceeding, testifying, or exercising any right afforded by the Act [S6]."
+    },
+    {
+     "type": "quote",
+     "text": "No person shall discharge or in any manner discriminate against any employee because such employee has filed any complaint or instituted or caused to be instituted any proceeding under or related to this chapter",
+     "source": "S6"
+    },
+    {
+     "type": "p",
+     "text": "Three features matter on a multi-employer site. First, the statute says no person, and the regulation says the employee need not be an employee of the discriminator, with employment judged on economic realities [S6][S8]. A GC or owner that gets a sub's worker barred from the site over a safety complaint is not outside the rule just because the worker was not its employee. Whether a given fact pattern is covered is a legal question for counsel, but the text does not draw the line at the payroll. Second, causation is but-for: protected activity need not be the sole reason; if the action would not have happened but for it, 11(c) is violated, though protection does not shield an employee from discipline for legitimate reasons [S9]. Third, good-faith complaints to the employer are protected [S10], as is cooperating in an inspection interview [S11]."
+    },
+    {
+     "type": "p",
+     "text": "Injury reporting has its own ban. The recordkeeping rule requires a reasonable procedure for reporting injuries that would not deter a reasonable employee, requires employers to tell employees they have the right to report and that discrimination for reporting is prohibited, and says an employer must not discharge or discriminate against an employee for reporting a work-related injury or illness [S16]. The Field Operations Manual notes that some safety incentive and disincentive policies can discourage reporting and can violate both 11(c) and the recordkeeping rules [S3]. On a data center job with a safety bonus tied to zero recordables, that sentence is aimed at you."
+    },
+    {
+     "type": "p",
+     "text": "A complaint must be filed within 30 days after the violation, and untimely complaints are ordinarily presumed stale unless there is a basis for tolling such as concealment or a continuing violation; a pending grievance or a filing with another agency does not toll it [S12]. The Secretary must notify the complainant of a determination within 90 days [S6]. If the Secretary finds a violation, the Secretary sues in federal district court, which can order all appropriate relief including reinstatement with back pay [S6]."
+    },
+    {
+     "type": "p",
+     "text": "Refusing to work is protected only narrowly. The general rule is that the Act gives no right to walk off the job over potential hazards, since the employer will ordinarily fix a reported condition and the employee can request an inspection [S11]. The exception covers a good-faith refusal with no reasonable alternative, where a reasonable person would see a real danger of death or serious injury, there is no time for regular enforcement channels, and the employee has, where possible, asked the employer to correct it [S11]. OSHA tells workers to ask for correction or reassignment, say they will not work until it is fixed, and stay at the worksite until ordered to leave [S24]. How the foreman and coordinator respond in the next ten minutes becomes the record."
+    },
+    {
+     "type": "case",
+     "title": "Boston contractor: injury report, OSHA inquiry, then an arrest",
+     "paragraphs": [
+      "In February 2019 the Department of Labor sued Tara Construction Inc. and its chief executive in federal court in Massachusetts. The complaint alleged that an employee fell from a ladder on March 29, 2017, was seriously injured, and reported the injury to the defendants, after which OSHA made an inquiry into the employer [S21]. The Department alleged that shortly afterward the defendants initiated a law enforcement investigation and facilitated the employee's detainment by immigration authorities. The CEO arranged for the employee to meet him at the company's office, and the employee was arrested immediately after leaving the building [S21].",
+      "OSHA's Whistleblower Protection Program investigation concluded that the defendants' actions retaliated for protected activity and would dissuade a reasonable worker from reporting an injury, according to the release. The suit asked for back wages, interest, compensatory and punitive damages, a neutral reference, expungement of the adverse action, and notice to employees of their rights [S21]. The release states allegations; it does not report a court outcome."
+     ],
+     "takeaway": "The protected activity here was reporting an injury and causing OSHA to look. The adverse action did not look like a termination at all. A coordinator should assume that anything done to a worker after a report, a complaint or an interview will be read as possibly connected, including reassignment, a schedule change, a badge deactivation, or a call to another party. If a decision about a worker is warranted for legitimate reasons, document the reasons before the report or independent of it, and run the decision past someone who is not the person the worker complained about."
+    },
+    {
+     "type": "p",
+     "text": "Not every construction retaliation order is an 11(c) case. In February 2026 the Department of Labor ordered Rise Construction LLC and Niko Group LLC, two Houston-based construction companies, and their owners to reinstate two workers fired after raising asbestos concerns (training, certification, protective equipment, illegal dumping) during hotel repairs after Hurricane Beryl; OSHA found retaliation under the Clean Air Act, the Solid Waste Disposal Act and the Toxic Substances Control Act and ordered more than $200,000 in back wages and interest, plus compensatory and punitive damages [S22]. The release says OSHA enforces 25 whistleblower statutes [S22]. A worker who says material is being dumped illegally is raising an environmental concern as well as a safety one, and it may run on a different statute with different remedies. Route those concerns to a compliance lead, not a foreman."
+    }
+   ]
+  },
+  {
+   "heading": "When the compliance officer shows up: the coordinator's sequence",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "What follows is judgment, built on the rules above, not a legal requirement or legal advice; your counsel and contract may add steps. It turns the Manual's description of an inspection into a plan for a site no single employer owns."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Verify and call. Check credentials, ask the purpose and scope of the visit, and call the person your company has designated for OSHA visits [S3][S13]. Do not call other trades to warn them [S7].",
+      "Hold the clock, not the gate. If the designated representative is off-site you have about an hour [S3]. Keep the CSHO at a safe location with an escort, and provide the orientation and PPE the CSHO is required to use [S13].",
+      "Establish who speaks for whom. The owner, the GC and each sub at the place being inspected may be employers with their own rights, and the CSHO can use a different representative for each phase [S3][S14]. Tell the subs' foremen they represent their own firms on the walk.",
+      "Raise confidentiality once, at the start. If the owner has proprietary areas, say so at the opening conference so the CSHO can label material from them as trade secret information [S3]. Do not improvise restrictions mid-walk.",
+      "Walk with the CSHO and keep your own record: locations, which employer's crew, photographs, statements. The CSHO records who was exposed, what the employer knew and how long a condition existed [S3].",
+      "Fix what can be fixed in front of the CSHO. Quick-fix needs immediate, permanent abatement the CSHO can verify [S4]. Be careful that abatement does not simply move a hazard onto another trade.",
+      "Leave interviews alone, and do not debrief workers about what they said. Interviews are private by right [S3], and asking a worker what he told the CSHO can become evidence in an 11(c) file [S6].",
+      "Hand over records you actually have, and hand them over accurately [S3][S7]. At the closing conference, listen and write; do not commit to abatement dates for work you do not control [S3].",
+      "After: the contest clock is fifteen working days from receipt [S18], so log the receipt date for every employer's citation, name an abatement owner for each item, and document a graduated response if an item stalls."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Before citations arrive, sort what the CSHO saw by the four roles: which employer created each condition, whose employees were exposed, who was responsible for correcting it, who controlled the area. The directive's second step turns on actions, so pull the timeline: whether the creating employer fenced the area, whether the exposing employer asked for correction and provided alternatives, whether the correcting employer had a reasonable inspection routine, and whether the controlling employer had a graduated enforcement system [S2]. If your log shows the same trade warned about the same hazard on four dates with nothing between warning and the next walk, the Summit facts apply to you [S23][S2]."
+    },
+    {
+     "type": "p",
+     "text": "The records that make step two come out well are ordinary ones: a per-shift inspection log naming the employer who must correct each finding; a ladder of consequences (verbal, written, stop-work, removal) that is actually used; each sub's onboarding and training evidence, since the directive makes a sub's history and program a factor in how closely the controlling employer must look [S2]; an agreed answer to who calls OSHA after a serious incident [S15]; and a written route, set before the first complaint, for worker complaints from every employer on the site, with the 11(c) timeline attached [S6][S12][S16]."
+    }
+   ]
+  },
+  {
+   "heading": "What has changed since a 2017 guide",
+   "blocks": [
+    {
+     "type": "list",
+     "items": [
+      "Penalty maximums rise with the annual inflation adjustment; the current page lists $16,550 for serious and $165,514 for willful or repeated, for penalties assessed after Jan. 15, 2026, with the table-heading caveat above [S1].",
+      "The walkaround representatives rule was amended in April 2024 to let a non-employee representative join on a showing of good cause [S14].",
+      "The multi-employer directive is still the 1999 text the Field Operations Manual cites [S2][S3]."
+     ]
+    }
+   ]
+  }
+ ]
+}

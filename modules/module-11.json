@@ -1,0 +1,348 @@
+{
+ "module": 11,
+ "title": "Fire Protection and Prevention",
+ "sources": [
+  {
+   "id": "S1",
+   "title": "29 CFR 1926.150, Fire protection",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.150"
+  },
+  {
+   "id": "S2",
+   "title": "29 CFR 1926.151, Fire prevention",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.151"
+  },
+  {
+   "id": "S3",
+   "title": "29 CFR 1926.152, Flammable liquids",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.152"
+  },
+  {
+   "id": "S4",
+   "title": "29 CFR 1926.153, Liquefied petroleum gas (LP-Gas)",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.153"
+  },
+  {
+   "id": "S5",
+   "title": "29 CFR 1926.154, Temporary heating devices",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.154"
+  },
+  {
+   "id": "S6",
+   "title": "29 CFR 1926.352, Fire prevention (welding and cutting)",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.352"
+  },
+  {
+   "id": "S7",
+   "title": "29 CFR 1926.24, Fire protection and prevention",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.24"
+  },
+  {
+   "id": "S8",
+   "title": "29 CFR 1926.35, Employee emergency action plans",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.35"
+  },
+  {
+   "id": "S9",
+   "title": "OSHA FatalFacts No. 19, Confined Space Fire (2023)",
+   "url": "https://www.osha.gov/sites/default/files/publications/OSHA_FF-4278.pdf"
+  },
+  {
+   "id": "S10",
+   "title": "OSHA news release, South Marine Systems fire hazards aboard the Cuyahoga (Sept. 16, 2024)",
+   "url": "https://www.osha.gov/news/newsreleases/chicago/20240916"
+  },
+  {
+   "id": "S11",
+   "title": "OSHA, Green Job Hazards: Weather Insulating/Sealing",
+   "url": "https://www.osha.gov/green-jobs/weather"
+  },
+  {
+   "id": "S12",
+   "title": "OSHA Hazard Information Bulletin, Fire Hazard of Polyurethane and Other Organic Foam Insulation (May 10, 1989)",
+   "url": "https://www.osha.gov/publications/hib19890510"
+  },
+  {
+   "id": "S13",
+   "title": "OSHRC, Parnon Construction, Inc., Docket No. 12485 (Apr. 5, 1977)",
+   "url": "https://www.oshrc.gov/decisions/parnon-construction-inc/parnon-construction-inc/"
+  },
+  {
+   "id": "S14",
+   "title": "OSHA letter of interpretation to Ryland Building Company (Apr. 19, 1993)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/1993-04-19-2"
+  },
+  {
+   "id": "S15",
+   "title": "OSHA letter of interpretation to Kulback's Construction (May 26, 1995)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/1995-05-26-1"
+  },
+  {
+   "id": "S16",
+   "title": "OSHA, Fire Protection and Prevention (roofing contractor guidance)",
+   "url": "https://www.osha.gov/sites/default/files/2019-03/fireprotection.pdf"
+  },
+  {
+   "id": "S17",
+   "title": "OSHA, Fire Watch Duties during Hot Work (shipyard fact sheet)",
+   "url": "https://www.osha.gov/sites/default/files/publications/OSHA4188.pdf"
+  }
+ ],
+ "sections": [
+  {
+   "heading": "Fire protection is a program the employer owns, and on a large job that means several programs at once",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The construction standard puts the fire problem on the employer in two places. The general rule says the employer is responsible for developing and maintaining an effective fire protection and prevention program at the job site through all phases of construction, repair, alteration or demolition, and must make sure the equipment Subpart F calls for is available [S7]. Section 1926.150 repeats the point in its own words [S1]."
+    },
+    {
+     "type": "quote",
+     "text": "As fire hazards occur, there shall be no delay in providing the necessary equipment.",
+     "source": "S1"
+    },
+    {
+     "type": "p",
+     "text": "That sentence is the one that matters on a data center build. The hazard does not arrive on a schedule you set. It arrives when a pipefitter starts cutting near a pallet of packaging, when a generator fuel tank is delivered ahead of its containment, or when drywall closes in an area where the sprinkler drops are not yet live. The standard says there is no delay allowed once the hazard exists, which means the equipment has to be ordered, located and inspected before the crew that creates the hazard mobilizes. The standard also says firefighting equipment must be conspicuously located, access to it must be maintained at all times, and defective equipment must be immediately replaced [S1]."
+    },
+    {
+     "type": "p",
+     "text": "The standard also contemplates something most small sites never use: where warranted by the project, the employer provides a trained and equipped firefighting organization, a fire brigade, to assure adequate protection to life [S1]. The text does not say what level of project triggers it, so the call falls to the people running the job."
+    },
+    {
+     "type": "p",
+     "text": "A written emergency action plan is a separate requirement. Section 1926.35 says it must cover the actions employers and employees take to ensure safety from fire and other emergencies, with escape routes, accounting for everyone after evacuation, who performs rescue and medical duties, the preferred means of reporting fires, and who to contact for questions [S8]. The plan has to be reviewed with each employee initially, when responsibilities change, and when the plan changes [S8]. On a multi-employer site the weak point is that last trigger. The plan changes every time a stair tower is closed, a floor goes live, or a gate is moved, and the review usually does not follow."
+    }
+   ]
+  },
+  {
+   "heading": "What OSHA's own teaching material says about ignition sources",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "OSHA's roofing guidance is built around the three-element fire triangle: heat or an ignition source, fuel, and oxygen. It says that if one element is absent or removed, fire will not start or, if already burning, will go out [S16]. The useful part is what it lists as ignition sources. Torches are obvious. The publication also names static electricity and grinding, and equipment that radiates heat, such as kettles, catalytic converters and mufflers [S16]. Fuel includes wood, paper, trash and clothing, flammable liquids such as gasoline or solvents, and flammable gases such as propane or natural gas [S16]."
+    },
+    {
+     "type": "p",
+     "text": "A coordinator reads that list as a site map. Muffler and catalytic converter heat means a gas-powered lift or utility vehicle parked on dunnage or over dry debris is an ignition source nobody logged. Grinding sparks travel, and the people below the grinder are usually a different company. The publication's roofing framing is its own, but its logic carries: the site has fuel and oxygen in abundance, so the control is keeping heat away from fuel, and the person who knows where the heat is going to be is the one holding the permit or the work plan [S16]."
+    },
+    {
+     "type": "p",
+     "text": "The same publication sorts fires into classes by fuel. Class A is ordinary combustibles like paper, trash, some plastics, wood and cloth. Class B is flammable gases or liquids such as propane, oil and gasoline. Class C is energized electrical components. Class D is metal. Class K is cooking oils and fats [S16]. It warns that the wrong extinguisher can make an emergency worse, and gives the example of failing to use a C-rated extinguisher on energized electrical components, which can electrify the extinguishing material [S16]. The roofing document does not discuss data halls, so applying the classes there is a reading, not something the source says."
+    }
+   ]
+  },
+  {
+   "heading": "Hot work is where the program fails first",
+   "blocks": [
+    {
+     "type": "case",
+     "title": "Two crews, one fire path: the pulp tower fire at a paper mill",
+     "paragraphs": [
+      "OSHA's FatalFacts No. 19 describes two contract workers who died of smoke inhalation and multiple blunt-force injuries during maintenance on the inner walls of a connected pair of pulp bleaching towers at a paper mill [S9]. This was an industrial plant, not a construction site, and the document cites general industry standards. It is in here because the sequence is the one a coordinator watches for on a build with several subs working inside the same structure.",
+      "Two contract crews had been hired. The \"upflow\" crew was installing new fiber reinforced plastic (FRP) with a flammable resin, and the \"downflow\" crew was sandblasting to prepare for new FRP [S9]. The resin was not hardening fast enough because of cold weather, so one upflow worker used an electric heat gun to warm it. The heat gun fell into the resin bucket, and the resin ignited on contact [S9]. The upflow crew evacuated. One member tried to smother the fire with the bucket's plastic lid, but the lid and bucket melted and spilled burning resin onto the scaffolding [S9].",
+      "The towers were connected by a crossover pipe but were treated as separate structures, and they were not isolated, so the fire spread through the pipe into the other tower where the downflow crew was working [S9]. A lack of communication between the crews left two downflow workers trapped. The heat caused the support scaffolding to collapse and fall about 94 feet onto them [S9].",
+      "OSHA's list of likely causes starts with permits. The mill issued confined space entry permits to the contractors, but the contractors did not identify the heat gun as an ignition source and did not complete a hot work permit, and cold work options for the slow-curing resin were not considered [S9]. OSHA states the resin's flashpoint was 79 degrees F, which makes it a flammable liquid under the flammable liquids standard, and says it considers FRP combustible [S9]. The list also includes no communication between contractors about concurrent work activities or planned changes, no fire extinguisher immediately available during the hot work, and failure to complete required sections of the entry permit, including a designated entry supervisor [S9]. The document notes some of its information came from the Chemical Safety Board's final report [S9]."
+     ],
+     "takeaway": "The heat gun was not recognized as an ignition source, and no hot work permit was completed for it [S9]. Ask each sub which of their tools heat material to a flame or ignition point and add them by name. Then look at the drawings for any connection between spaces that two crews treat as separate (a crossover pipe here, a shared plenum, cable tray or chase on a build). Crews working on both sides of a connection are one work area for fire purposes, and the coordinator is often the only person who sees both schedules."
+    },
+    {
+     "type": "p",
+     "text": "The construction welding standard states the baseline. Objects to be welded, cut or heated are moved to a safe location when practical, and when they cannot be, movable fire hazards in the vicinity are taken to a safe place or otherwise protected [S6]. If fire hazards cannot be removed, positive means must confine the heat, sparks and slag and protect the immovable hazards [S6]. No welding, cutting or heating is allowed where flammable paints, other flammable compounds or heavy dust concentrations create a hazard [S6]. Suitable extinguishing equipment must be immediately available in the work area and maintained for instant use [S6]."
+    },
+    {
+     "type": "quote",
+     "text": "When the welding, cutting, or heating operation is such that normal fire prevention precautions are not sufficient, additional personnel shall be assigned to guard against fire while the actual welding, cutting, or heating operation is being performed, and for a sufficient period of time after completion of the work to ensure that no possibility of fire exists.",
+     "source": "S6"
+    },
+    {
+     "type": "p",
+     "text": "Notice what this does and does not say. It requires a fire guard when normal precautions are not enough, and requires that guard to be instructed on the specific anticipated hazards and how to use the equipment provided [S6]. It does not set a number of minutes, and it does not say who counts as the guard. That leaves the contract documents to supply what the standard leaves open. The shipyard fire watch fact sheet shows what a firmer version looks like: the person doing the hot work cannot be the fire watch, a fire watch cannot perform other duties, and the fire watch has the authority to stop work [S17]. That sheet is about shipyard employment under a different standard, so it is a model, not the construction rule [S17]."
+    },
+    {
+     "type": "p",
+     "text": "On the aftermath period, OSHA's roofing guidance says fire-watch inspections for torch-applied roofing should continue at least two hours after the last torch is turned off, and that employees should never torch directly to combustible decks or materials [S16]. That is guidance for torch roofing, not a general construction number. The welding standard also adds two rules that surprise people. When hot work is on a wall, floor or ceiling, the same precautions apply on the opposite side as on the working side, since sparks or heat transfer can start a fire in the adjacent area [S6]. And in enclosed spaces, the gas to the torch is positively shut off outside the space whenever the torch is unattended for a substantial period such as lunch, and overnight and at shift change the torch and hose are removed from the confined space [S6]."
+    },
+    {
+     "type": "case",
+     "title": "A welder, a fire watch and no shared language: cargo hold fire at Ashtabula",
+     "paragraphs": [
+      "OSHA's September 16, 2024 news release describes a fire that erupted while a crew welded paint off a bulkhead in the cargo hold of the vessel Cuyahoga, moored at the Port of Ashtabula, Ohio, in March 2024 [S10]. OSHA found the employer, South Marine Systems, did not designate a competent person able to identify hazards, had no marine chemist present to test for hazardous atmospheres before welding started, and did not stop work when small fires began [S10]. Many crewmembers who had been working below were on a lunch break and avoided being trapped [S10]. A ship repair job falls under OSHA's shipyard standards, not Subpart F, but the failures translate directly.",
+      "The listed findings include failing to determine the flammability of the coating on the bulkhead before hot work, failing to provide a 1-1/2 inch or larger fire hose with fog nozzle, failing to develop a fire safety plan, and failing to train fire watch employees on the basics of fighting a fire [S10]. One finding is about people rather than equipment: OSHA says the company did not ensure that a Chinese-speaking employee performing hot work could communicate with a Spanish-speaking employee conducting fire watch [S10].",
+      "OSHA cited 15 serious violations and one other-than-serious violation and proposed $164,540 in penalties [S10]. These are citations and proposed penalties; the release does not say how the company responded, and the Coast Guard and the National Transportation Safety Board had opened separate investigations at the time of the release [S10]."
+     ],
+     "takeaway": "A fire watch who cannot talk to the welder is not a fire watch. When a crew with mixed languages comes onto a hot work scope, the permit check should include a question to both people: how will you tell each other to stop. The release also shows the coating question coming first. Before a torch or grinder touches painted or coated steel, someone has to know what the coating is. On a data center that includes factory finishes on pre-fabricated skids and the fireproofing or insulation behind the surface being cut."
+    }
+   ]
+  },
+  {
+   "heading": "Portable and fixed equipment: the numbers, and what they were written for",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Subpart F's portable equipment numbers are specific. A fire extinguisher rated not less than 2A is provided for each 3,000 square feet of the protected building area or major fraction of it, and travel distance from any point to the nearest extinguisher cannot exceed 100 feet [S1]. One or more extinguishers rated not less than 2A go on each floor, and in multistory buildings at least one is adjacent to a stairway [S1]. Where more than 5 gallons of flammable or combustible liquids or 5 pounds of flammable gas are in use on the jobsite, a 10B extinguisher must be within 50 feet, though that does not apply to the integral fuel tanks of motor vehicles [S1]. Extinguishers and water drums subject to freezing must be protected from freezing [S1]. Listed or approved extinguishers from a nationally recognized testing laboratory must be used [S1]."
+    },
+    {
+     "type": "p",
+     "text": "The standard has substitutes, which are worth knowing because they come up when a floor has no extinguisher and someone proposes a hose. A 55-gallon open drum of water with two fire pails can substitute for a 2A extinguisher [S1]. If fire hose connections are not compatible with local firefighting equipment, the contractor provides adapters [S1]. On a remote campus the responding department may not match the temporary standpipe fittings."
+    },
+    {
+     "type": "p",
+     "text": "OSHA has told employers what the equipment rules are for. A 1993 letter says the provisions of 1926.150 are oriented toward large structures where a fire in one part or level could trap employees in another part who are unaware of the hazard and egress is difficult, and that in smaller structures the equipment is there to help employees quickly eliminate a small fire and escape, not to save the building [S14]. The same letter says an extinguisher kept in a truck and not in the house does not satisfy OSHA's concerns, and that in a small building under 3,000 square feet with no welding, cutting or open flame heaters, one centrally located extinguisher within 100 feet of all crews would be a de minimis violation [S14]. A data center is the large-structure case the letter describes. A separate 1995 letter says 1926.150 sets no specific weight or size for extinguishers on construction equipment and that the fire prevention plan should include a hazard assessment to decide what equipment is needed [S15]. The letters say they explain requirements and do not create new obligations [S14]."
+    },
+    {
+     "type": "case",
+     "title": "An extinguisher citation that failed: Parnon Construction",
+     "paragraphs": [
+      "In a 1977 decision, the Occupational Safety and Health Review Commission considered whether a masonry subcontractor violated the 2A-per-3,000-square-feet requirement [S13]. The Commission held that the extinguisher provision must be read with the general rule that fire equipment is provided as fire hazards occur, and concluded that compliance with the extinguisher provision is not required until a fire hazard exists at the construction site [S13].",
+      "The facts were light on fuel. The building had no roof, door frames or window casings, and the cement block walls were not complete. It contained only a minimal amount of combustible materials, such as a wooden scaffold built on one wall, material wrappings and plastic concrete shields. Employees could leave the unenclosed structure immediately and smoke would pass freely into open air [S13]. The judge's finding that the Secretary had failed to prove a fire hazard was affirmed, and one commissioner dissented in part on the reading of 1926.150 [S13]."
+     ],
+     "takeaway": "A bare block shell and a data hall full of cable, packaging and energized gear are opposite ends of that decision. The ruling is 1977 Commission precedent, and the document here is a single decision, so it is not a statement of current enforcement policy. The point for a coordinator is where the line between the two sits. The fire hazard begins when combustibles accumulate and people are enclosed, and from that day the equipment is due. Build the schedule so that the extinguishers, the water supply and the alarm are in place before the first enclosed, loaded floor, not after the first incident."
+    },
+    {
+     "type": "p",
+     "text": "The water supply is the part that cannot be bought at the last minute. A temporary or permanent supply of sufficient volume, duration and pressure to operate the firefighting equipment must be available as soon as combustible materials accumulate, and underground water mains are to be installed, completed and made available as soon as practicable [S1]. The sprinklers are the bigger lever. If the facility includes automatic sprinkler protection, the installation shall closely follow the construction and be placed in service as soon as applicable laws permit following completion of each story [S1]. Standpipes in structures where they are required are brought up as soon as applicable laws permit and maintained so they are always ready for fire protection use, with Siamese fire department connections on the outside at street level, conspicuously marked, and at least one standard hose outlet at each floor [S1]."
+    },
+    {
+     "type": "quote",
+     "text": "Sprinkler control valves shall be checked daily at close of work to ascertain that the protection is in service.",
+     "source": "S1"
+    },
+    {
+     "type": "p",
+     "text": "That daily check is written for demolition and alteration, where existing sprinkler systems are retained in service as long as reasonable and valve operation is permitted only to properly authorized persons [S1]. On a renovation or a data center expansion into a live building, that is the impairment rule. A ceiling crew that closes a valve to move a drop and goes home has switched off the building's protection, and the standard puts the valve check at close of work [S1]. A tag system and a named person who signs the close-of-work check turn that sentence into something a coordinator can audit."
+    },
+    {
+     "type": "p",
+     "text": "Alarm and cutoff rules are short. The employer must establish an alarm system, such as a telephone system or siren, by which employees and the local fire department can be alerted, and the alarm code and reporting instructions must be conspicuously posted at phones and at employee entrances [S1]. Fire walls and exit stairways required for completed buildings are given construction priority, and fire doors with automatic closing devices are hung on openings as soon as practicable [S1]. Fire cutoffs are retained in buildings under alteration or demolition until operations necessitate removing them [S1]. The sequencing point is the stairs: if the exit stairs are late, the evacuation path for every floor above is the thing the schedule borrowed from."
+    }
+   ]
+  },
+  {
+   "heading": "Storage: where liquids, gas and materials are allowed to sit",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Flammable liquids have quantity thresholds that a coordinator can check from a walk. Only approved containers and portable tanks may be used for storage and handling [S3]. Approved safety cans or Department of Transportation approved containers must be used for quantities of 5 gallons or less, with exceptions for highly viscid materials, and for one gallon or less the original container may be used [S3]. Flammable liquids may not be stored in areas used for exits, stairways or normal safe passage [S3]."
+    },
+    {
+     "type": "quote",
+     "text": "No more than 25 gallons of flammable liquids shall be stored in a room outside of an approved storage cabinet.",
+     "source": "S3"
+    },
+    {
+     "type": "p",
+     "text": "Over 25 gallons goes in an approved cabinet, labeled in conspicuous lettering \"Flammable-Keep Away from Open Flames\" [S3]. No more than 60 gallons of Category 1, 2 and/or 3 flammable liquids or 120 gallons of Category 4 flammable liquids may be in any one cabinet, and no more than three such cabinets in a single storage area, with excess going to an inside storage room [S3]. OSHA's roofing publication paraphrases the cabinet label differently from the standard, so use the standard's wording on the sign [S16][S3]. The category matters because the quantity differs by a factor of two. The SDS tells the site which category a fuel, solvent or adhesive falls into, and the standard text here does not classify specific products [S3]."
+    },
+    {
+     "type": "p",
+     "text": "Outdoors, containers of not more than 60 gallons each may total up to 1,100 gallons in any one pile or area, piles are separated by 5 feet, and piles cannot be nearer than 20 feet to a building [S3]. Within 200 feet of each pile there must be a 12-foot-wide access way for fire control apparatus [S3]. Portable tanks must be at least 20 feet from any building [S3]. Fuel for generators and lifts is the common case on a large campus build; whether a permanent generator tank falls under another code is outside what this page says."
+    },
+    {
+     "type": "p",
+     "text": "Fire control at storage is separate from the site extinguisher count. A 20-B extinguisher must be outside and not more than 10 feet from the door of any room used to store more than 60 gallons of flammable liquids, and a 20-B extinguisher must be 25 to 75 feet from an outside flammable liquid storage area [S3]. Use at the point of final use: closed containers when not in use, prompt cleanup of leaks and spills, and no open flames or other ignition sources within 50 feet of Category 1, 2 or 3 liquid use unless conditions warrant greater clearance [S3]."
+    },
+    {
+     "type": "p",
+     "text": "LP-gas has a hard line: storage of LPG within buildings is prohibited [S4]. Welding on LP-gas containers is prohibited [S4]. Portable heaters including salamanders must have an automatic device that shuts off gas to the main burner, and pilot if used, on flame failure [S4]. Heaters other than integral heater-container units go at least 6 feet from any LP-gas container, and where two or more heater-container units share an unpartitioned area on a floor, their containers are separated by at least 20 feet [S4]."
+    },
+    {
+     "type": "p",
+     "text": "Combustible materials outdoors have geometry rules. Piles are no higher than 20 feet, driveways between and around piles are at least 15 feet wide and kept clear, and spacing produces a maximum grid unit of 50 by 150 feet [S2]. No combustible material is stored outdoors within 10 feet of a building or structure, the site is kept clear of unnecessary combustibles and weeds, and fire extinguishers rated not less than 2A are placed so the maximum travel to the nearest is 100 feet [S2]. Indoors, storage must not obstruct means of exit, noncompatible materials that may create a fire hazard are segregated by a barrier with one-hour fire resistance, and aisle space is maintained to accommodate the widest vehicle that may be used within the building for firefighting [S2]."
+    },
+    {
+     "type": "quote",
+     "text": "Clearance of at least 36 inches shall be maintained between the top level of the stored material and the sprinkler deflectors.",
+     "source": "S2"
+    },
+    {
+     "type": "p",
+     "text": "The rest of indoor storage works the same way in the standard: clearance around lights and heating units to prevent ignition, 24 inches around the path of travel of fire doors unless a barricade is provided, and no material stored within 36 inches of a fire door opening [S2]. Equipment arrives in packaging and on pallets, so the 36 inch rule is mostly a delivery-planning problem."
+    },
+    {
+     "type": "p",
+     "text": "Temporary buildings have their own rules, which matter for office and storage trailers on a big site. No temporary building may be placed where it adversely affects a means of exit [S2]. Those located inside another building must be noncombustible or combustible with at least one hour of fire resistance [S2]. Those located elsewhere, and not used for flammable liquids, flammable gases, explosives or blasting agents or similar hazardous uses, must be at least 10 feet from another building or structure, and groups not exceeding 2,000 square feet in aggregate are treated as a single temporary building [S2]. A trailer village that grows in increments is how that aggregate rule gets crossed without anyone deciding to."
+    }
+   ]
+  },
+  {
+   "heading": "Temporary heat",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Winter work on a large build runs on temporary heaters, and Subpart F has more about them than people remember. Fresh air must be supplied in sufficient quantities to maintain worker health and safety, with mechanical ventilation where natural supply is inadequate, and when heaters are used in confined spaces, special care is required to provide sufficient ventilation for proper combustion and to limit temperature rise [S5]. Heaters must be installed with clearance to combustibles not less than Table F-4, which lists 12 inches at the sides and rear and 18 at the chimney connector for circulating room heaters, and 36 inches at the sides and rear and 18 at the chimney connector for radiant room heaters, unless the heater is listed for lesser clearances [S5]."
+    },
+    {
+     "type": "p",
+     "text": "Heaters not suitable for use on wood floors cannot be set directly on them or other combustible materials, and must rest on suitable insulating material or at least 1 inch of concrete, extending 2 feet or more past the heater in all directions [S5]. Heaters near combustible tarpaulins, canvas or similar coverings are to be at least 10 feet from them, with the coverings securely fastened to prevent ignition or upsetting of the heater by wind [S5]. Heaters must be level unless the manufacturer's markings permit otherwise [S5]."
+    },
+    {
+     "type": "quote",
+     "text": "Solid fuel salamanders are prohibited in buildings and on scaffolds.",
+     "source": "S5"
+    },
+    {
+     "type": "p",
+     "text": "Flammable liquid-fired heaters must have a primary safety control that stops fuel flow on flame failure, and barometric or gravity oil feed is not considered a primary safety control [S5]. Heaters designed for barometric or gravity oil feed may be used only with the integral tanks [S5]. Internal combustion engine equipment must have exhausts well away from combustible materials, with at least 6 inches between exhaust piping and combustible material when piped outside the building [S2]. Smoking is prohibited at or in the vicinity of operations which constitute a fire hazard, with a conspicuous \"No Smoking or Open Flame\" posting [S2]."
+    }
+   ]
+  },
+  {
+   "heading": "Spray foam and other materials that burn faster than the plan assumes",
+   "blocks": [
+    {
+     "type": "case",
+     "title": "An attic, two drums and a hose: spray foam fire in Massachusetts",
+     "paragraphs": [
+      "OSHA's green jobs page on insulating and sealing records a case in which a 41-year-old worker from Springfield, Massachusetts was killed when the spray foam chemicals he was spraying in a home attic caught fire [S11]. The worker, who was with a Vermont insulation company, had run a hose from two 50-gallon drums of chemicals outside the house into the attic. The page says it is believed the vapors of the spray chemicals ignited and engulfed the attic [S11].",
+      "Two coworkers who smelled smoke ran upstairs to remove him but could not because of the flames and smoke. Firefighters could not reach him by ladder on the porch roof, broke into the side window, pulled him out unconscious, and performed CPR. He was pronounced dead at the hospital that night [S11]. The page attributes the account to a May 2008 newspaper report and does not name the company or list citations, so what caused the ignition is stated only as a belief [S11]."
+     ],
+     "takeaway": "OSHA's page lists fires as one of the unique hazards of spray polyurethane foam alongside isocyanate exposure, and says the same controls apply to spray-on polystyrene because styrene is flammable [S11]. Spray foam shows up in building envelope work and in fire-stopping and sealing details. When a sub's scope includes it, ask what ignition sources are allowed in the space, who else is working there, and how ventilation is handled, before the first drum comes in."
+    },
+    {
+     "type": "p",
+     "text": "A 1989 OSHA hazard bulletin gives the fire-science side. It says rigid polyurethane and polyisocyanurate foams burn rapidly when ignited and produce intense heat, dense smoke and gases that are irritating, flammable or toxic, mainly carbon monoxide [S12]. It says all organic cellular plastics, whether or not they contain fire retardants, should be considered combustible, and that terms like fire-retardant or self-extinguishing describe performance under small fire exposure and do not reflect hazards under large-scale fire [S12]. In building construction, it identifies the concerns as storage of exposed foam, incomplete installation, improper application and disposal, poor housekeeping, and the potential for open flame exposure from allied trades [S12]. Its main precaution is to prohibit ignition sources such as open flames, cutting and welding torches, high intensity heat sources and smoking, and to observe the supplier's safety recommendations in addition to OSHA's minimum fire protection requirements [S12]."
+    },
+    {
+     "type": "p",
+     "text": "The phrase to carry from that bulletin is allied trades. The foam installer does not control the welder on the next scope, and the welder's permit does not mention the foam. On the schedule they look like different activities. In the building they are one fire."
+    }
+   ]
+  },
+  {
+   "heading": "What is current, and what has not moved",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Subpart F is old text that has been left largely alone. The history lines on the pages show 1926.150 as originally from 1979, with amendments in 1993 and 1996, and 1926.151 with an amendment in 1986 [S1][S2]. Some of the referenced standards are dated too. Section 1926.150 ties extinguisher inspection and maintenance to NFPA No. 10A-1970 [S1], and 1926.152 refers to 1969 and 1970 editions of NFPA documents for storage rooms, doors and tank venting [S3]. The pages do not say a later edition substitutes, so the safe reading is that the construction rule stays tied to the editions it names while owners, insurers and local fire officials may require newer ones. Their requirements are not in the sources here."
+    },
+    {
+     "type": "p",
+     "text": "What has moved is mostly vocabulary. Section 1926.152 uses Category 1, 2, 3 and 4 flammable liquids, and the quantity limits differ by category [S3]. For construction hot work, the working sentence is still the one about additional personnel [S6]. Expect the current text to read the same on extinguishers, sprinklers, storage and heaters, and expect the practical bar on large owner-controlled jobs to be set by the contract."
+    }
+   ]
+  },
+  {
+   "heading": "A coordinator's pass, in the order the fire happens",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "This section is practice advice, not legal requirement. It uses the sources above to decide what to look at."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Before mobilization: list every hot work tool by trade, including heat guns, grinders and torch-applied materials, since the Evergreen fire started with a tool not on anyone's list [S9]. Put them in the permit scope by name.",
+      "At the permit: name the person who watches, confirm that person is not the one working, and confirm both can communicate. The Ashtabula release is the reason to ask the language question out loud [S10][S17].",
+      "At the work area: check what is on the other side of the wall or floor, since the welding standard requires the same precautions there [S6], and what the coating or substrate is before heat touches it [S10].",
+      "At the schedule: pull the sprinkler, standpipe, stair and water supply dates and compare them to when combustibles get enclosed. The standard ties each to a trigger, per story or as soon as combustibles accumulate [S1].",
+      "At the end of the shift: have the person who closed any sprinkler valve sign that it is back in service, since the standard puts the check at close of work [S1].",
+      "At the yard and laydown: measure pile height, driveway width and distance to buildings against 20 feet, 15 feet and 10 feet [S2]. Check how much liquid is in each room against 25 gallons [S3].",
+      "At the heaters: confirm the clearance table, the tarp distance, and the ventilation, and confirm no solid fuel salamanders are inside [S5].",
+      "After the permit closes: the watch continues for a period the standard calls sufficient [S6]. Set that period in the contract documents instead of leaving it to each foreman."
+     ]
+    }
+   ]
+  }
+ ]
+}

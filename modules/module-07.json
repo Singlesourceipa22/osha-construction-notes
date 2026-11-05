@@ -1,0 +1,350 @@
+{
+ "module": 7,
+ "title": "Materials Handling",
+ "sources": [
+  {
+   "id": "S1",
+   "title": "29 CFR 1926.250, General requirements for storage",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
+  },
+  {
+   "id": "S2",
+   "title": "29 CFR 1926.251, Rigging equipment for material handling",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.251"
+  },
+  {
+   "id": "S3",
+   "title": "29 CFR 1926.252, Disposal of waste materials",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.252"
+  },
+  {
+   "id": "S4",
+   "title": "29 CFR 1926.602, Material handling equipment",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.602"
+  },
+  {
+   "id": "S5",
+   "title": "29 CFR 1910.178, Powered industrial trucks (paragraph (l), operator training)",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.178"
+  },
+  {
+   "id": "S6",
+   "title": "29 CFR 1926.21, Safety training and education",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.21"
+  },
+  {
+   "id": "S7",
+   "title": "29 CFR 1926.20, General safety and health provisions",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.20"
+  },
+  {
+   "id": "S8",
+   "title": "29 CFR 1926.32, Definitions",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.32"
+  },
+  {
+   "id": "S9",
+   "title": "OSHA news release, Ballard Contractors, Moundville, AL (July 9, 2024)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20240709"
+  },
+  {
+   "id": "S10",
+   "title": "OSHA news release, Archer Western - De Moya JV II, Clearwater, FL (Apr. 18, 2022)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20220418"
+  },
+  {
+   "id": "S11",
+   "title": "OSHA news release, Granite & Marble Services and ARC Building Partners, Bayonne, NJ (May 23, 2024)",
+   "url": "https://www.osha.gov/news/newsreleases/new-york-city/20240523"
+  },
+  {
+   "id": "S12",
+   "title": "OSHA investigation of the Sept. 10, 2012 partial collapse at 227 Carlton Avenue, Brooklyn",
+   "url": "https://www.osha.gov/sites/default/files/2019-12/2012_R_09_pg1-21.pdf"
+  },
+  {
+   "id": "S13",
+   "title": "OSHA letter of interpretation, stacked brick and block shipping units (Feb. 6, 2008)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/2008-02-06"
+  },
+  {
+   "id": "S14",
+   "title": "OSHA letter of interpretation, materials stored on scaffolds (Oct. 30, 2003)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/2003-10-30"
+  },
+  {
+   "id": "S15",
+   "title": "OSHA Instruction STD 03-06-002, interim storage of concrete forms and shoring (1978)",
+   "url": "https://www.osha.gov/enforcement/directives/std-03-06-002"
+  },
+  {
+   "id": "S16",
+   "title": "OSHA Ergonomics, Standards and Enforcement FAQs",
+   "url": "https://www.osha.gov/ergonomics/faqs"
+  },
+  {
+   "id": "S17",
+   "title": "OSHA letter of interpretation, ergonomic hazards in sonography (Mar. 18, 2024)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/2024-03-18"
+  },
+  {
+   "id": "S18",
+   "title": "OSHA eTool for Electrical Contractors, Materials Handling: Heavy Lifting",
+   "url": "https://www.osha.gov/etools/electrical-contractors/materials-handling/heavy"
+  },
+  {
+   "id": "S19",
+   "title": "OSHA Technical Manual, Section VII, Chapter 1 (Back disorders and injuries)",
+   "url": "https://www.osha.gov/otm/section-7-ergonomics/chapter-1"
+  },
+  {
+   "id": "S20",
+   "title": "OSHA Multi-Employer Citation Policy, CPL 02-00-124",
+   "url": "https://www.osha.gov/enforcement/directives/cpl-02-00-124"
+  },
+  {
+   "id": "S21",
+   "title": "29 CFR 1926.25, Housekeeping",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.25"
+  },
+  {
+   "id": "S22",
+   "title": "29 CFR 1926.600, Equipment",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.600"
+  }
+ ],
+ "sections": [
+  {
+   "heading": "Start with the floor, not the pile",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Storage rules in the construction standard read like housekeeping, and that is why they get skipped. Read them as a load-path problem instead. The general storage standard says materials stored in tiers must be stacked, racked, blocked, interlocked or otherwise secured to prevent sliding, falling or collapse, and that the weight of stored materials on floors inside buildings must not exceed maximum safe load limits [S1]. It also requires employers to conspicuously post maximum safe floor load limits, in pounds per square foot, in storage areas, except where the storage is on a floor or slab on grade [S1]. On a data center build that exception matters: most of what the site stores sits on slab on grade, and the moment it moves to an elevated deck, a mezzanine or a roof, the posted-limit requirement applies and so does the question of who decided the deck could take it."
+    },
+    {
+     "type": "p",
+     "text": "The posting rule has a second carve-out: it is not required for storage areas in all single-family residential structures and wood-framed multi-family residential structures [S1]. The page's amendment history ends with a May 14, 2019 entry (84 FR 21577) [S1]. The source does not say what that entry changed, only that the current text is what is quoted here. Check any older course handout against the current section rather than against memory."
+    },
+    {
+     "type": "p",
+     "text": "Three placement rules sit under the load rule. The first is the edge and opening setback."
+    },
+    {
+     "type": "quote",
+     "text": "Material stored inside buildings under construction shall not be placed within 6 feet of any hoistway or inside floor openings, nor within 10 feet of an exterior wall which does not extend above the top of the material stored.",
+     "source": "S1"
+    },
+    {
+     "type": "p",
+     "text": "In practice, this is a laydown-plan rule. On a large shell with open slab edges and temporary hoist openings, the staging areas that look convenient are the ones near the opening where the crane or telehandler lands the pallet. The plan has to show the setback, and someone has to walk it after each delivery, because a delivery lands where the operator can reach, not where the plan says [S1]. The rest of the section is shorter: aisles and passageways must be kept clear and in good repair for equipment and people, ramps or grading must be used where road or working levels differ, noncompatible materials must be segregated, and storage areas must be kept free of accumulations that create trip, fire, explosion or pest hazards [S1]."
+    },
+    {
+     "type": "p",
+     "text": "The same standard gives specific numbers that a coordinator can put into a trade partner's delivery requirements. Bagged materials are stacked by stepping back layers and cross-keying at least every 10 bags high. Loose brick stacks may not exceed 7 feet and are tapered back 2 inches per foot above 4 feet. Masonry blocks stacked above 6 feet are tapered back one half block per tier. Lumber piles stay at or under 20 feet, or 16 feet if handled manually, on level, solidly supported sills, and used lumber has its nails pulled before stacking. Pipe, bar stock, poles and structural steel that are not racked must be stacked and blocked to prevent spreading or tilting [S1]. The standard also says materials on scaffolds or runways must not exceed supplies needed for immediate operations [S1]."
+    }
+   ]
+  },
+  {
+   "heading": "One deck, one pallet delivery: Carlton Avenue",
+   "blocks": [
+    {
+     "type": "case",
+     "title": "227 Carlton Avenue, Brooklyn, September 10, 2012",
+     "paragraphs": [
+      "OSHA's Directorate of Construction investigated a partial collapse at a five-townhouse project, each unit four stories, built with load-bearing masonry walls and 10-inch cold-formed steel C-joists. The collapse killed one employee and seriously injured another at about 9:20 a.m. [S12]. The general contractor, Professional Grade Construction Group, was also placing the joists. S&B Masonry was the masonry contractor [S12].",
+      "The masonry crew had been sent to the fourth-floor deck of one unit to build party walls and front and rear walls. Some blocks and two half-full jumbo bags of sand were already on that deck from the previous Friday. A boom truck then delivered at least four to eight pallets of blocks, three to four pallets of cement bags and three to four jumbo bags of sand, directed by the owner of the masonry company [S12]. Witnesses disagreed on whether blocks were hand-unloaded while the pallet hung just above the deck. They agreed that the cement and sand were set straight down and not moved [S12]. Soon after the last sand bag landed near the front of the building, the front 20 feet of the fourth floor collapsed, and the floors below failed in sequence down to the basement [S12].",
+      "The report puts numbers on it. By the supplier's figures a pallet of 10-inch solid blocks weighed about 5,000 pounds on a 4 by 5 foot footprint, roughly 250 pounds per square foot. A pallet of 40 cement bags weighed about 3,000 pounds, and a jumbo bag of sand about 2,200 pounds [S12]. OSHA estimated about 21,500 pounds of materials fell with the collapse [S12].",
+      "The design was not the problem. The report found the engineer's design loads met the 2008 New York City code and that the specified members were correctly proportioned if built as detailed [S12]. The joists, though, were not braced as the drawings and the manufacturer required. Blocking was provided only at the ends and not every 10 feet, bottom straps were not at 7-foot intervals, the critical top straps were mostly missing, and a temporary steel deck that replaced plywood was barely screwed to the joists, so it gave no lateral support [S12]. OSHA's calculations for the 18 foot 9 inch joists gave about 77 pounds per square foot ultimate capacity if braced at 5 feet from the ends, a likely scenario, against about 107 if braced at 7 feet as required [S12].",
+      "A fourth party shows up in the findings. The owner's special inspector filed six inspection reports on the joists between July 30 and September 6, 2012, each with the identical remark that the installation was found in accordance with the documents. The report says there were no documents showing the person who made the field visits had credentials to inspect cold-formed steel framing, and that the PE-stamped reports were misleading and contributed to the collapse [S12]. The report concludes the building collapsed because the joists were not braced as required and because the masonry contractor placed excessive materials on the deck without ascertaining its load capacity [S12]. It also states the usual allocation: the engineer of record answers for the completed structure, while the contractor answers for stability during construction [S12]. The sources do not state what citations followed, so none are stated here."
+     ],
+     "takeaway": "The framer finished a deck, the inspector signed it, the mason needed material at the work face. Nobody owned the question of what the deck could carry that morning. A coordinator closes that gap by making elevated storage a permit-style decision: no pallets onto any elevated deck, temporary decking or partially braced framing until the responsible engineer or GC superintendent has said yes to a stated weight and location. Treat a 'passed inspection' as a statement about a date, and ask what has changed since, including substituted decking."
+    },
+    {
+     "type": "p",
+     "text": "Two points from the case apply directly to a data center. First, heavy delivered materials there are not blocks. They are cable reels, busway, battery cabinets, switchgear sections and chillers, and the weight-per-square-foot arithmetic the report does with a pallet and a jumbo bag is the same arithmetic. Second, the failure came during a delivery, not during a period of obvious storage. The dangerous moment is when the hoist or truck lands the load, so the check has to happen before the pick, not after the stack is up."
+    }
+   ]
+  },
+  {
+   "heading": "Storage questions that get argued, and what OSHA has said",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Banded and shrink-wrapped shipping units. A 2008 letter to the Mason Contractors Association answered whether the tiered-storage rule and the brick and block tapering rules apply to units stored two or three pallets high as shipped. OSHA said the tiered-storage rule applies to all materials stored in tiers, that the listed methods are not exclusive, and that shrink-wrapping or banding the bricks or blocks and stacking the pallets as adequate for flatbed shipping typically qualifies as otherwise secured [S13]. The tapering requirements do not apply when the tiering rule is met by other methods [S13]. For a coordinator the useful part is the reasoning: a wrapped unit is secured by the evenness of the pieces, the wrap and the pallet together. A pallet whose wrap has been cut open and half used no longer has that, and the loose-stack numbers apply again [S13]."
+    },
+    {
+     "type": "p",
+     "text": "Material on scaffolds overnight. The 2003 letter defines immediate operations in the scaffold-storage rule as work that will be done in the shift, and says the plain language prohibits staging masonry on a scaffold for the next day [S14]. It then adds that, because the current scaffold standard addresses the associated hazards in detail, storage for more than one shift's work is considered a de minimis violation as long as every requirement in that scaffold standard is met [S14]. A footnote says de minimis violations do not draw citations [S14]. Read the condition. It is the scaffold standard's full compliance, including load capacity, falling object protection and the competent person's pre-shift inspection, that makes overnight storage tolerable [S14]."
+    },
+    {
+     "type": "p",
+     "text": "The same letter says something a coordinator can use. A controlling contractor may require a subcontractor to meet stricter scaffold requirements than OSHA's, because OSHA standards are minimum requirements, and may prohibit scaffold storage entirely even where it would be only de minimis. The letter adds that OSHA can enforce only what its standards require [S14]. So a site rule like 'nothing stays on a scaffold at end of shift' is a contract and site-rules matter, enforced by the GC, and not a federal requirement. Say which it is when you write it, because a sub who thinks it is OSHA will argue the wrong point."
+    },
+    {
+     "type": "p",
+     "text": "Forms and shoring at the edge. A 1978 OSHA instruction, still listed on the site as a current directive, covers a recurring argument. Equipment used to shore newly placed concrete, including forms, jacks, clamps and base plates that are in use, is equipment under the concrete standards, and the material-storage setback applies only in a static situation [S15]. When stripped forms and shoring are bundled near an open-sided floor so a crane can lift them to the next tier, they are in-process equipment, but bundles left overnight or longer must be anchored and braced against displacement in any direction, and all periphery guards must be in place except while bundles are being removed through the opening [S15]. Equipment sitting on the site for an indefinite period, not in use as process equipment, falls under the storage rule [S15]. The directive says application depends on conditions the inspector finds at the time [S15]. It is 1978 text, so treat it as a framework for the argument, not as a recent statement of enforcement."
+    }
+   ]
+  },
+  {
+   "heading": "Rigging: what has to be true before the hook leaves the ground",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The sling standard covers slings made of alloy steel chain, wire rope, natural or synthetic fiber rope of conventional three-strand construction, and synthetic web in nylon, polyester and polypropylene [S2]. Crane rules are a separate subpart that this module does not cover, so what follows is about the sling and the hardware, which are the same whether the hook is on a crane, a boom truck or a gantry."
+    },
+    {
+     "type": "quote",
+     "text": "Rigging equipment for material handling shall be inspected prior to use on each shift and as necessary during its use to ensure that it is safe.",
+     "source": "S2"
+    },
+    {
+     "type": "p",
+     "text": "That is the first of two inspections. The sling paragraph separately requires that each day before use the sling and all fastenings and attachments be inspected for damage or defects by a competent person designated by the employer, with additional inspections during use where service conditions warrant, and immediate removal of damaged slings [S2]. The standard defines a competent person as one capable of identifying existing and predictable hazards who has authorization to take prompt corrective measures [S8]. The authorization half of that definition is what coordinators should check. A rigger who can see a damaged sling but cannot pull it off a sub's truck is not the competent person in the sense the definition means [S8]."
+    },
+    {
+     "type": "p",
+     "text": "Identification markings are the item that fails most visibly. Rigging equipment must have permanently affixed, legible identification markings from the manufacturer showing the recommended safe working load, must not be loaded beyond it, and must not be used without legible markings [S2]. Chain slings need durable identification of size, grade, rated capacity and manufacturer, and a thorough periodic inspection at intervals no longer than 12 months, with a record kept of the most recent month each was inspected [S2]. Job or shop hooks, links and makeshift fasteners formed from bolts or rods are prohibited on chain slings [S2]. Wire rope is not to be used if, in any length of eight diameters, visible broken wires exceed 10 percent of the total, or if it shows excessive wear, corrosion or defect [S2]. Shock loading is prohibited, and a sling may not be pulled from under a load resting on it [S2]. Custom grabs, hooks, clamps or other lifting accessories for items like modular panels and prefabricated structures must be marked with safe working loads and proof-tested to 125 percent of rated load before use [S2]."
+    },
+    {
+     "type": "p",
+     "text": "That last item is where a data center differs from a standard commercial job. Prefabricated electrical rooms, skidded power equipment and modular components get lifted with lifting frames and spreader beams that were built or modified for the job. A coordinator who sees a custom lifting accessory in a submittal should ask for the marked safe working load and the proof-test record before the pick date, not at the pick [S2]."
+    },
+    {
+     "type": "case",
+     "title": "Ballard Contractors, Moundville, Alabama (release July 9, 2024)",
+     "paragraphs": [
+      "A worker for Ballard Contractors was guiding an 8,575-pound shipping container into place at a job site near Tuscaloosa when one of the chains lifting the box snapped. The container fell, and the worker, 65 years old, was fatally injured [S9]. OSHA's investigation found the company did not ensure the rigging was rated for the container's weight, permitted an employee to work near or beneath a moving load, let workers use steel chain slings and a four-way chain lift with no identification plates or load ratings, did not perform periodic sling inspections, and did not ensure fall protection while workers connected rigging to an overhead crane at 11 feet [S9].",
+      "The company received citations for eight violations, and then entered an informal settlement agreement with OSHA, resolving the citations and penalties [S9]. The release does not give the penalty amount or say what the settlement required, and it does not say who owned the container or who engaged Ballard to place it [S9]."
+     ],
+     "takeaway": "The unrated chain was the cause the release gives, but the worker's position was the exposure. Someone stood where a failure of the rigging would land on him. A coordinator reviewing a lift plan should ask two separate questions: is every piece of rigging marked and rated for the load, and where does each person stand during the pick and the set. The second question catches the first one failing. The plan should also say how a load gets guided in without anyone beneath it, such as tag lines or a landing zone staged in advance."
+    },
+    {
+     "type": "case",
+     "title": "Archer Western - De Moya JV II, Clearwater, Florida (release April 18, 2022)",
+     "paragraphs": [
+      "A 47-year-old carpenter died on October 6, 2021 on the Pinellas Gateway Express project. He and five other employees were working inside a trench box cutting concrete piles with a gas-powered chop saw. A pile was attached to a crane with a damaged wire rope sling, and during the cutting it broke free and struck the worker in the chest, pinning him against the wall [S10].",
+      "OSHA cited the employer for letting workers remain in the danger zone while tension was applied to a crane load, contrary to the crane manufacturer's procedures. It cited failure to train workers to recognize and avoid unsafe conditions, failure to train or qualify the signal person before directing the crane, failure to ensure the operator and signal person agreed on hand signals before the lift, and using a wire rope sling with damaged capacity information tags. Proposed penalties were $60,084 [S10]. The release says the company had 15 business days to comply, request an informal conference or contest [S10]. It does not report the outcome."
+     ],
+     "takeaway": "The cutting task and the lifting task were treated as one job, performed by one crew, at the same time. A worker with a saw was effectively part of the rigging system, because the crane was holding the pile he was cutting. On a large site this is the handoff problem: the crane operator and signal person belong to one scope, the cutting to another, and the person in the trench box to a third. If a pick is going to hold a load under tension while other trades work on it, the coordinator's job is to make that visible on the daily plan and make it a stop-work item before it starts. Also check the tags. A sling with damaged capacity tags is, under the sling standard, equipment without legible markings [S2]."
+    }
+   ]
+  },
+  {
+   "heading": "Powered equipment on the pad: haul roads, forklifts and telehandlers",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The equipment standard says no employer shall move construction equipment or vehicles on an access roadway or grade unless it is constructed and maintained to accommodate them safely, and emergency access ramps and berms must be built to restrain and control runaway vehicles [S4]. Lift trucks and stackers must have rated capacity posted where the operator can see it, those ratings may not be exceeded, and no modification that affects capacity or safe operation may be made without the manufacturer's written approval [S4]."
+    },
+    {
+     "type": "quote",
+     "text": "No modifications or additions which affect the capacity or safe operation of the equipment shall be made without the manufacturer's written approval.",
+     "source": "S4"
+    },
+    {
+     "type": "p",
+     "text": "Other items from the same section matter on busy pads. Unauthorized personnel may not ride on powered industrial trucks, and a safe place to ride must be provided where riding is authorized [S4]. Trucks that elevate personnel need a firmly secured safety platform, a way for personnel on the platform to shut off power to the truck, and protection from falling objects [S4]. Bidirectional machines need a horn that is distinguishable from background noise, and earthmoving or compacting equipment with an obstructed rear view may not be used in reverse unless it has a distinguishable reverse alarm in operation or an employee signals that it is safe [S4]. The general equipment section adds that parked equipment needs the parking brake set, with wheels chocked on inclines, and that suspended or held-aloft machinery or parts must be blocked or cribbed before anyone works under or between them [S22]. It also sets overhead power line clearances: 10 feet for lines at or below 50 kV, more above that, and a designated person to watch clearance where the operator cannot judge it visually [S22]."
+    },
+    {
+     "type": "case",
+     "title": "Granite & Marble Services and ARC Building Partners, Bayonne, New Jersey (release May 23, 2024)",
+     "paragraphs": [
+      "A 39-year-old worker stepped onto an elevated platform to unload materials and fell from the fifth level of a multi-unit residential building under construction in October 2023. OSHA found the platform was not fully secured against tipping or being dislodged from a telehandler's forks, that fall protection was missing, and that the platform was used without the telehandler manufacturer's prior written approval [S11]. The subcontractor, Granite & Marble Services, received four serious violations. After an informal conference it settled, affirming the four violations, paying $13,500 and agreeing to enhanced abatement and a safety program and fall protection plan [S11].",
+      "OSHA also inspected the general contractor, ARC NJ LLC, operating as ARC Building Partners. It cited ARC for two serious violations: failing to ensure the platform was secured to the forklift, and not getting the manufacturer's written approval before attaching the platform to the telehandler. Proposed penalties were $22,584, and ARC filed a notice of contest with the Review Commission [S11]. Since the contest was pending as of the release, no violation has been established against ARC by that document."
+     ],
+     "takeaway": "The case shows both a subcontractor's liability and a general contractor's, for the same attachment, on one lift. The material delivery and the use of the telehandler as a work platform were separate decisions that merged at the edge of the building. Nobody asked whose approval covered using the machine that way. The multi-employer policy explains why the general contractor is looked at. It describes a controlling employer as one with general supervisory authority over the worksite, with power to correct violations or require others to correct them, and says a controlling employer must exercise reasonable care to prevent and detect violations [S20]. That policy also says the extent of what a controlling employer must do is less than what an employer owes its own employees, and that factors such as the scale of the project affect how closely it must look [S20]. The practical conclusion is judgment, not OSHA's position: the general contractor's reasonable care here would include a rule that no personnel basket, platform or other attachment goes on a lifting machine without the manufacturer's written approval on file."
+    }
+   ]
+  },
+  {
+   "heading": "Operator training and the 2017-guide checklist",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The construction equipment standard has a heading for powered industrial truck operator training that points back to general industry: the requirements applicable to construction work under that paragraph are identical to those in 1910.178(l) [S4]. That paragraph requires the employer to ensure each operator is competent, as shown by completing training and evaluation, before operating a truck except for training purposes. Trainees may operate only under direct supervision of someone with the knowledge, training and experience to train and evaluate, and only where it does not endanger the trainee or others [S5]. Training must combine formal instruction, practical training and evaluation of the operator's performance in the workplace [S5]."
+    },
+    {
+     "type": "p",
+     "text": "Two features of the content list matter on a large site. Initial training must cover workplace-related topics, including surface conditions, load stability, stacking and unstacking, pedestrian traffic, narrow aisles and restricted places, ramps and sloped surfaces, and closed environments where poor ventilation or maintenance could build up carbon monoxide or diesel exhaust [S5]. A telehandler operator who learned on a warehouse truck has not been trained on a muddy slab with pedestrians, and the standard names those conditions [S5]. The sources do not say whether a particular telehandler job is governed by the industrial truck provisions or by the crane rules, and the answer can turn on how the machine is used, so check before you assume which applies."
+    },
+    {
+     "type": "p",
+     "text": "Refresher training and evaluation is required when the operator is observed operating unsafely, has had an accident or near miss, has had an evaluation showing unsafe operation, is assigned a different type of truck, or when workplace conditions change in a way that could affect safe operation. The performance evaluation must happen at least once every three years [S5]. The employer must certify that each operator was trained and evaluated, and the certification must show the operator's name, the training date, the evaluation date and the identity of the trainer or evaluator [S5]. This is the one check that can be done from a binder: ask each sub for the certification of every operator on the site, and match the equipment type to the training."
+    },
+    {
+     "type": "p",
+     "text": "A related general rule applies across all trades. The employer must instruct each employee in recognizing and avoiding unsafe conditions and the regulations applicable to the work environment, and workers who handle poisons, caustics and other harmful substances, or flammable liquids, gases or toxic materials, must be instructed in safe handling [S6]. Separately, the accident-prevention rule requires programs providing for frequent and regular inspections of job sites, materials and equipment by competent persons the employers designate, bans use of noncompliant machinery, tools, material or equipment unless it is tagged or locked out or physically removed, and permits only employees qualified by training or experience to operate equipment and machinery [S7]."
+    }
+   ]
+  },
+  {
+   "heading": "Disposal of waste and the debris that nobody owns",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The disposal standard has three physical controls and two housekeeping rules. Where material is dropped more than 20 feet to any point outside the exterior walls, an enclosed chute of wood or equivalent must be used, and the standard defines an enclosed chute as a slide closed on all sides [S3]. Where debris is dropped through floor holes without chutes, the landing area must be fully barricaded."
+    },
+    {
+     "type": "quote",
+     "text": "When debris is dropped through holes in the floor without the use of chutes, the area onto which the material is dropped shall be completely enclosed with barricades not less than 42 inches high and not less than 6 feet back from the projected edge of the opening above.",
+     "source": "S3"
+    },
+    {
+     "type": "p",
+     "text": "The same paragraph requires warning signs at each level and bars removal in the lower area until debris handling above has stopped [S3]. The coordination issue is the last sentence. Whoever is dropping debris from the upper floor and whoever is clearing the lower area are usually different contractors working to different crews, and a sequence rule like this one is violated by scheduling and not by any one person's bad judgment. Put debris-drop windows on the daily plan and tell the lower-level trades when the window opens and closes [S3]."
+    },
+    {
+     "type": "p",
+     "text": "The rest is housekeeping. Scrap lumber, waste and rubbish must be removed from the immediate work area as work progresses, burning must comply with local fire regulations, and solvent waste, oily rags and flammable liquids must be kept in fire-resistant covered containers until removed from the site [S3]. The general housekeeping standard adds that form and scrap lumber with protruding nails and other debris be kept cleared from work areas, passageways and stairs, that combustible scrap be removed at regular intervals with safe means provided, that containers be provided for collection and separation of waste, and that containers for garbage and for oily, flammable or hazardous wastes be covered [S21]. The storage standard has its own rule that storage areas be free of accumulations that create trip, fire, explosion or pest hazards [S1]."
+    },
+    {
+     "type": "p",
+     "text": "The sources for this module include no debris-disposal case, so none is offered here. Every trade creates waste, and the party that sets the cleanup schedule and dumpster locations is the one with power to correct the condition [S20]."
+    }
+   ]
+  },
+  {
+   "heading": "Manual handling and ergonomics: what is and isn't a rule",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "OSHA has no specific ergonomics standard. A 2024 letter says so directly and says repetitive motion and awkward posture hazards may be addressed under Section 5(a)(1), the General Duty Clause [S17]. OSHA's own FAQ says it will use the General Duty Clause to cite ergonomic hazards, lists the four criteria it applies (that a hazard exists, that it is recognized, that it is causing or likely to cause serious physical harm, and that a feasible means exists to reduce it), and says OSHA will not focus its enforcement efforts on employers making good faith efforts to reduce ergonomic hazards [S16]. The same FAQ says Congress rescinded the original ergonomics rule and the Congressional Review Act prohibits a substantially similar rule [S16]."
+    },
+    {
+     "type": "p",
+     "text": "The FAQ also says OSHA has cited companies with corporate commitments to lowering ergonomic hazards that failed to implement them at specific sites, and that the General Duty Clause applies to conditions at individual worksites [S16]. That is the most direct statement the sources offer about site-level coordination. A subcontractor's company-wide lifting policy does not protect a particular site where the work is being done differently."
+    },
+    {
+     "type": "p",
+     "text": "Numbers on lifting come from guidance, not a rule. OSHA's eTool for electrical contractors says lifting loads heavier than about 50 pounds increases the risk of injury and recommends mechanical means such as forklifts or duct lifts for spools, transformers, switchgear and conduit, plus pallet jacks and hand trucks for transport [S18]. It says to place manually lifted materials at about mid-thigh to mid-chest height, to have suppliers break down loads before delivery, and, if lifting more than 50 pounds, to use two or more people [S18]. This is written for one trade and is not a legal limit, and the eTool cites 2001 injury data [S18]. The OSHA Technical Manual says manual materials handling is the principal source of compensable injuries in the American work force and that four out of five of these injuries affect the lower back, and recommends engineering controls such as changing the height of a pallet or shelf, reducing the size or weight of the objects, and using conveyors or carts for horizontal motion [S19]. The Technical Manual passage is not dated in the text of the source."
+    },
+    {
+     "type": "p",
+     "text": "What a coordinator controls here is the material path, which is upstream of the worker's back. Specifying delivery in smaller units, staging at working height, getting the telehandler to the point of use and keeping the path clear all change the lift before anyone makes it [S18][S19]. The housekeeping and aisle rules in the storage standard are the enforceable parts of that: aisles and passageways must be kept clear and in good repair [S1]. Poor housekeeping is also a stated ergonomic hazard, since the eTool says it limits access to the object being lifted and forces awkward postures [S18]. Cable reel and conduit staging in a data hall is exactly the case."
+    }
+   ]
+  },
+  {
+   "heading": "What a coordinator checks, in order",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The list below is a synthesis of the sources above, not a regulatory checklist. Each item names the source for its factual part."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Before a delivery lands on an elevated deck: a named person has stated the weight and location, the setback from edges and openings is on the plan, and the temporary decking and bracing are what the engineer assumed [S1][S12].",
+      "Before a pick: every sling and shackle is legibly marked with a working load, the daily competent-person inspection is done by someone who can pull it from service, custom lifting accessories have their proof-test records, and the plan says where each person stands [S2][S8][S9].",
+      "Before any trade works on or near a suspended load: the crane scope and the other scope are on the same plan, the signal person is qualified and the signals are agreed [S10].",
+      "Before a lifting machine carries a platform, basket or other attachment: the manufacturer's written approval is in the file [S4][S11].",
+      "Before a new operator drives: the certification matches the machine type and the evaluation is within three years [S5].",
+      "Before debris is dropped: chute or barricade is up, signs are posted at each level, and the lower trades know the window [S3].",
+      "At each handoff between subs: ask whose rule is this, the OSHA rule or the GC's rule. If it is stricter than the standard, write it in the site rules as the GC's requirement [S14]."
+     ]
+    }
+   ]
+  }
+ ]
+}

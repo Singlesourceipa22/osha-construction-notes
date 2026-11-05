@@ -1,0 +1,361 @@
+{
+ "module": 10,
+ "title": "Stairways and Ladders",
+ "sources": [
+  {
+   "id": "S1",
+   "title": "29 CFR 1926.1050, Scope, application, and definitions (Subpart X)",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1050"
+  },
+  {
+   "id": "S2",
+   "title": "29 CFR 1926.1051, General requirements",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1051"
+  },
+  {
+   "id": "S3",
+   "title": "29 CFR 1926.1052, Stairways",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1052"
+  },
+  {
+   "id": "S4",
+   "title": "29 CFR 1926.1053, Ladders",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1053"
+  },
+  {
+   "id": "S5",
+   "title": "29 CFR 1926.1060, Training requirements",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1060"
+  },
+  {
+   "id": "S6",
+   "title": "OSHA letter of interpretation, fall protection for fixed and portable ladders in construction (Jan. 13, 2000)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/2000-01-13"
+  },
+  {
+   "id": "S7",
+   "title": "OSHA letter of interpretation, multi-employer policy and construction standards (Feb. 6, 2012)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/2012-02-06"
+  },
+  {
+   "id": "S8",
+   "title": "OSHA letter of interpretation, personal fall arrest or ladder safety system on fixed ladders (May 17, 2019)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/2019-05-17"
+  },
+  {
+   "id": "S9",
+   "title": "OSHA letter of interpretation, fixed ladders, rest platforms, cages and wells (Sept. 28, 2021)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/2021-09-28"
+  },
+  {
+   "id": "S10",
+   "title": "OSHA memorandum, interim enforcement guidance for handrail and stair rail systems under 1910.28 and 1910.29 (Feb. 26, 2026)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/2026-02-26"
+  },
+  {
+   "id": "S11",
+   "title": "OSHA news release, OJR Construction, Brighton, Mass. (May 13, 2024)",
+   "url": "https://www.osha.gov/news/newsreleases/boston/20240513"
+  },
+  {
+   "id": "S12",
+   "title": "OSHA news release, Primetime Construction settlement, Paterson, N.J. (May 7, 2024)",
+   "url": "https://www.osha.gov/news/newsreleases/new-york-city/20240507"
+  },
+  {
+   "id": "S13",
+   "title": "OSHA news release, Araujo Construction, Calumet City, Ill. (Sept. 15, 2026)",
+   "url": "https://www.osha.gov/news/newsreleases/chicago/20260915"
+  },
+  {
+   "id": "S14",
+   "title": "OSHA news release, Orchids Builders, Rockledge, Fla. (July 23, 2026)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20260723"
+  },
+  {
+   "id": "S15",
+   "title": "OSHA news release, GA&L Construction and The Rinaldi Group, Miami (June 21, 2019)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20190621"
+  },
+  {
+   "id": "S16",
+   "title": "OSHA news release, Stettinius Construction, Naples, Fla. (May 7, 2019)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20190507"
+  },
+  {
+   "id": "S17",
+   "title": "OSHA news release, NOR-D LLC, Macon, Ga. (June 25, 2024)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20240625"
+  }
+ ],
+ "sections": [
+  {
+   "heading": "The 19-inch trigger and the clause about timing",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The first rule in the subpart is the one that decides whether anyone has to think about a ladder at all. A stairway or ladder is required at every personnel point of access where there is a break in elevation of 19 inches or more, unless a ramp, runway, sloped embankment or personnel hoist is provided [S2]. Nineteen inches is lower than most people's idea of a hazard, and it catches the things nobody lists as access: a slab step at a door, a pit edge, a trench-side platform, the gap between a temporary deck and a finished floor. The standard defines point of access broadly, as all areas used for work-related passage from one area or level to another, including doorways, passageways, stairway openings, studded walls and other temporary or permanent openings [S1]."
+    },
+    {
+     "type": "quote",
+     "text": "A stairway or ladder shall be provided at all personnel points of access where there is a break in elevation of 19 inches (48 cm) or more, and no ramp, runway, sloped embankment, or personnel hoist is provided.",
+     "source": "S2"
+    },
+    {
+     "type": "p",
+     "text": "In practice this is a sequencing rule as much as a hardware rule. If the only way from the slab to the second-level deck is a ladder somebody leaned there on Monday, the break in elevation is a point of access under this subpart and the ladder is the stairway. The second paragraph of the rule is the one a coordinator can actually schedule against."
+    },
+    {
+     "type": "quote",
+     "text": "Employers shall provide and install all stairway and ladder fall protection systems required by this subpart and shall comply with all other pertinent requirements of this subpart before employees begin the work that necessitates the installation and use of stairways, ladders, and their respective fall protection systems.",
+     "source": "S2"
+    },
+    {
+     "type": "p",
+     "text": "The words before employees begin the work matter. The stair rails, the handrails and the cages go in with the stairs or ladders, not after the first crew has used them for a week [S2]. On a job where the stair tower arrives as a rental unit and the rail package is a separate delivery, the gap between them is a gap in compliance. Whoever sequences deliveries and installs owns that gap, and it is rarely the safety manager."
+    },
+    {
+     "type": "p",
+     "text": "Three more access rules matter on crowded jobs. Non-permanent spiral stairways cannot be used by employees. When ladders are the only way in or out of a work area for 25 or more employees, or must serve two-way traffic, the site needs a double-cleated ladder or two or more separate ladders. And when a building has only one point of access between levels, that point must stay clear; if work or equipment will restrict it, a second point of access has to be provided and used [S2]. That last one gets violated by stacking: a trade drops a pallet of conduit at the top of the only stair, and nobody sees it as an access problem until someone has to get past it."
+    },
+    {
+     "type": "p",
+     "text": "The scope line is worth knowing. The subpart covers all stairways and ladders used in construction, alteration, repair (including painting and decorating) and demolition [S1]. It does not apply to integral components of equipment covered by Subpart CC, and ladders used on or with scaffolds are handled in the scaffold subpart [S1]. So a ladder question can have three possible homes, and the first job is to establish which one applies."
+    }
+   ]
+  },
+  {
+   "heading": "Temporary stairs: dimensions that get missed",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The stairway standard applies the same geometry to a rental stair tower as to a permanent stair, with a few details specific to temporary work. Stairs that will not be a permanent part of the structure need landings at least 30 inches in the direction of travel and 22 inches wide at every 12 feet or less of vertical rise [S3]. Stairs are installed between 30 and 50 degrees from horizontal [S3]. Riser height and tread depth must be uniform within a flight, including any foundation structure used as one or more treads, and variations cannot exceed one quarter inch in any stairway system [S3]. That last clause is the one that catches site-built access: the first step off a slab, or the last step onto a deck, is usually the one that is off by an inch."
+    },
+    {
+     "type": "p",
+     "text": "A few smaller requirements read like housekeeping and matter more than they look. Where doors or gates open directly on a stairway, there must be a platform, and the door swing cannot reduce its effective width below 20 inches [S3]. All parts of a stairway must be free of hazardous projections such as protruding nails [S3]. Slippery conditions on stairways must be eliminated before the stairs are used to reach other levels [S3]. On a winter job that is a daily task, and it belongs to whoever owns the stair, which on a multi-trade job is often nobody."
+    },
+    {
+     "type": "p",
+     "text": "Rails have their own numbers. A stairway with four or more risers, or rising more than 30 inches, whichever is less, needs at least one handrail and one stairrail system along each unprotected side or edge [S3]. Stairrails installed after March 15, 1991, must be at least 36 inches from the top surface of the rail to the tread, measured in line with the face of the riser at the forward edge of the tread [S3]. A midrail, screen, mesh or intermediate member must fill the space between the top rail and the steps; balusters cannot be more than 19 inches apart, and no other opening in the system can be wider than 19 inches [S3]. Handrails and top rails must withstand at least 200 pounds applied within 2 inches of the top edge in any downward or outward direction [S3]. Handrails sit between 30 and 37 inches above the tread. When the top edge of the stairrail system doubles as the handrail, that height narrows to 36 to 37 inches [S3]. Unprotected sides and edges of stair landings need guardrail systems, with the criteria in the fall protection subpart [S3]."
+    },
+    {
+     "type": "p",
+     "text": "Handrails that will not be permanent need at least 3 inches of clearance from walls, stairrail systems and other objects [S3]. That clearance is why a rail bolted flat to a wall fails: a hand has to be able to wrap around it. Handrails also have to provide an adequate handhold, and rail ends cannot be projection hazards [S3]."
+    },
+    {
+     "type": "p",
+     "text": "The stair rail text has not changed in a long time: the section's history line on the OSHA page ends with amendments in 1991 [S3]. General industry is the part that moved. OSHA published the Walking-Working Surfaces final rule on November 18, 2016, and a February 2026 memorandum says OSHA is still working through handrail and stair rail requirements in 1910.28 and 1910.29 under a 2021 proposed rule, with interim guidance that no citations will issue for existing systems that meet the proposed requirements [S10]. A permanent stair that a data center owner maintains after turnover falls under that rulemaking, not under Subpart X [S10]."
+    },
+    {
+     "type": "p",
+     "text": "The standard's definition of unprotected sides ties the pieces together. For a stairway, it is any side or edge, other than at entrances to points of access, where there is no stairrail system or wall at least 36 inches high; for a landing or ladder platform it is any edge without a wall or guardrail system at least 39 inches high [S1]. A wall that is only 30 inches tall at a stair opening, such as a low curb or a partially framed shaft wall, does not count."
+    },
+    {
+     "type": "p",
+     "text": "There is a shortcut that the standard does not allow. Pan stairs and skeleton metal stairs are common in industrial and mission-critical buildings: the stair arrives early so crews can reach upper levels, with treads or landings to be filled or fitted later."
+    },
+    {
+     "type": "quote",
+     "text": "Except during stairway construction, foot traffic is prohibited on stairways with pan stairs where the treads and/or landings are to be filled in with concrete or other material at a later date, unless the stairs are temporarily fitted with wood or other solid material at least to the top edge of each pan.",
+     "source": "S3"
+    },
+    {
+     "type": "p",
+     "text": "Skeleton metal stairs get the same treatment: no foot traffic except during stair construction unless secured temporary treads and landings long enough to cover the entire tread and landing area are fitted. Temporary treads must be wood or other solid material, installed the full width and depth of the stair [S3]. Metal pan landings and treads that will be filled must be secured in place before filling [S3]. The coordinator's version: a bare pan stair is not an access route, however long it has been up and however many people have been seen walking on it."
+    }
+   ]
+  },
+  {
+   "heading": "Case: handrails \"repeatedly\" missing on Paterson stairs",
+   "blocks": [
+    {
+     "type": "case",
+     "title": "Primetime Construction, Paterson, N.J.",
+     "paragraphs": [
+      "OSHA initially cited Primetime Contractors LLC for four willful violations after inspectors found, in September 2021, workers exposed to fall hazards because construction-site stairways at company worksites repeatedly lacked handrails and stair rails, even after OSHA had counseled the company about the requirements [S12]. The citations concerned five Paterson worksites [S12]. The company contested the citations before the Occupational Safety and Health Review Commission, and the Department of Labor added the parent, Primetime Construction LLC, to the case during litigation [S12].",
+      "In May 2024 the two companies settled. They agreed to pay $215,000 in penalties and to adopt several measures, including a pre-job hazard assessment for each job, 10-hour OSHA training for field employees and 30-hour training for supervisors, a retained safety consultant for periodic worksite audits, and notice to OSHA of upcoming projects [S12]. The release headlines the settlement as affirming willful violations; the release's own account is that the citations were contested and then resolved by stipulated settlement, and the text does not describe a hearing or a finding [S12].",
+      "One of the required measures speaks directly to a coordinator: the companies must require subcontractors to document, with photographs, that compliant handrails and stair rails are in place during the course of work [S12]. The release does not say how the photographs are collected or who reviews them."
+     ],
+     "takeaway": "Stair rails fail in the same place on most multi-trade jobs: a trade removes a rail to move material and does not put it back. A photo requirement from subs turns that into a record with a time stamp. If the general contractor's stairs are used by other trades, the reasonable version of the fix is a stair and ladder walk at set times during the day, with a named person who can order the rail restored or the stair closed. That is the coordinator's judgment about how to meet the standard, not a requirement in the settlement for any other contractor."
+    }
+   ]
+  },
+  {
+   "heading": "Portable ladders: the rules that actually produce citations",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Most ladder citations come from a short list of requirements, and the news releases below repeat the same ones. The top of a portable ladder used for access to an upper landing must extend at least 3 feet above that landing, or be secured at its top to a rigid support that will not deflect with a grasping device such as a grabrail provided. The last sentence of the rule says that in no case should the extension be such that deflection under load would, by itself, cause the ladder to slip off its support [S4]."
+    },
+    {
+     "type": "quote",
+     "text": "When portable ladders are used for access to an upper landing surface, the ladder side rails shall extend at least 3 feet (.9 m) above the upper landing surface to which the ladder is used to gain access; or, when such an extension is not possible because of the ladder's length, then the ladder shall be secured at its top to a rigid support that will not deflect, and a grasping device, such as a grabrail, shall be provided to assist employees in mounting and dismounting the ladder.",
+     "source": "S4"
+    },
+    {
+     "type": "p",
+     "text": "The set-up rules follow. A non-self-supporting ladder is used at an angle where the horizontal distance from the top support to the foot is approximately one quarter of the working length of the ladder; wood job-made ladders with spliced side rails use one-eighth [S4]. Ladders go only on stable, level surfaces unless secured against displacement. On slippery surfaces they must be secured or fitted with slip-resistant feet, and the standard adds that slip-resistant feet are not a substitute for care in placing, lashing or holding a ladder on flat metal or concrete that cannot be kept from getting slippery [S4]. The top of a non-self-supporting ladder is supported equally on both rails unless it has a single support attachment [S4]. The area around the top and bottom must be kept clear [S4]."
+    },
+    {
+     "type": "quote",
+     "text": "Ladders placed in any location where they can be displaced by workplace activities or traffic, such as in passageways, doorways, or driveways, shall be secured to prevent accidental displacement, or a barricade shall be used to keep the activities or traffic away from the ladder.",
+     "source": "S4"
+    },
+    {
+     "type": "p",
+     "text": "That passageway rule is the one a coordinator can solve at planning stage rather than after the fact. A ladder placed in a doorway or corridor that other trades use is a ladder that someone will bump with a cart. The fix is either to secure it or to barricade it; the fix is not to ask people to be careful."
+    },
+    {
+     "type": "p",
+     "text": "Less familiar use rules: ladders cannot be moved, shifted or extended while occupied; the top step of a stepladder is not a step; the user faces the ladder, keeps at least one hand on it, and carries nothing that could cause a loss of balance [S4]. Single-rail ladders are not to be used at all, and ladders cannot be tied together to make a longer one unless designed for it [S4]. Ladders used where the worker or ladder could contact exposed energized electrical equipment need nonconductive side rails [S4]. Where two or more separate ladders reach an elevated work area, they must be offset with a platform or landing between them [S4]."
+    },
+    {
+     "type": "p",
+     "text": "Inspection and defect rules put a name on the responsible person. A competent person must inspect ladders for visible defects periodically and after any occurrence that could affect their safe use [S4]. A portable ladder with structural defects such as broken or missing rungs, split rails or corroded components must be immediately marked as defective or tagged \"Do Not Use\" or similar language, and withdrawn from service until repaired. Repairs must restore the ladder to its original design criteria before it goes back into use [S4]."
+    },
+    {
+     "type": "quote",
+     "text": "Ladders shall be inspected by a competent person for visible defects on a periodic basis and after any occurrence that could affect their safe use.",
+     "source": "S4"
+    },
+    {
+     "type": "p",
+     "text": "The standard does not say how often periodic is. On a large job that means someone has to decide, and the decision should be written down. Ladders brought by subs are the usual gap: they arrive with a trade and leave with it, and no one at the general level has ever looked at them."
+    }
+   ]
+  },
+  {
+   "heading": "Case: a worker, a ladder jack scaffold, and a history OSHA had already written down",
+   "blocks": [
+    {
+     "type": "case",
+     "title": "OJR Construction Inc., Brighton, Mass.",
+     "paragraphs": [
+      "In September 2023 an OJR Construction employee fell about 27 feet and died while carrying materials and climbing a ladder jack scaffold at a Brighton work site [S11]. OSHA's release says the Watertown roofing contractor had been cited in March 2017 and September 2019 for failing to protect employees from fall hazards [S11].",
+      "OSHA's investigation found the company willfully exposed employees to falls by not providing a safety net, personal fall arrest or guardrail systems, and by lacking a program to train employees to recognize and address fall hazards [S11]. The release also lists ladder-related violations on that site: ladder side rails that did not extend at least 3 feet above the upper landing surface being accessed, a failure to barricade the area below the scaffold and ladders where it lay in a pathway of vehicular traffic, a missing competent person on site to ensure the use of fall protection, and debris accumulated at the bottom of ladders [S11]. OSHA cited one willful and 10 serious violations and proposed $88,721 in penalties [S11].",
+      "The release states that OJR contested the citations before the Review Commission [S11]. These are allegations by OSHA at the citation stage. The release does not say which of the listed conditions OSHA believes caused the fall, and it does not describe the specific ladder the worker was on."
+     ],
+     "takeaway": "Read the list of what was cited as a list of things an owner's or general contractor's walk would have found without any incident: ladder rails that stop at the landing, debris at the ladder foot, ladders and scaffolds opening onto a vehicle lane with no barricade, no competent person on site. None of that takes a specialist. A coordinator who sees a ladder jack scaffold on a job can ask one question, which is what the fall protection plan is for the person on it, and the prior-citation history in this release is a reminder to check whether a sub has been cited for the same hazard before awarding it more work."
+    }
+   ]
+  },
+  {
+   "heading": "More cases in the same pattern",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The releases below are shorter, and several are proposed penalties that the employers may have contested. They are useful because the same ladder defects show up with different employers across seven years."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Stettinius Construction, Naples, Fla. (2019): after a worker's fatal fall, OSHA cited the remodeling contractor for failing to provide a fall protection system, failing to train employees on ladder safety and fall hazard recognition, and allowing use of a portable ladder that did not extend above the landing; proposed penalties were $26,142 [S16]. The release does not say what the worker was doing or where the fall happened.",
+      "GA&L Construction Corp. and The Rinaldi Group of Florida, Miami (2019): after a fatal fall from an elevated work platform, OSHA cited the two companies for failing to provide fall protection, failing to conduct regular site inspections, and permitting use of an unsecured extension ladder; combined proposed penalties were $87,327 [S15]. The release cites two employers at one site and does not split the violations between them.",
+      "NOR-D LLC, Macon, Ga. (2024): the fatal fall in this release was through a skylight, not from a ladder. OSHA's list of nine serious violations also included extension ladders that did not reach at least 3 feet above the top of the roof and a ladder with structural defects; the same release says inspectors found the company working without these protections again two months after the fatality [S17]. Proposed penalties were $61,065 [S17].",
+      "Orchids Builders LLC, Rockledge, Fla. (2026): OSHA found ladders with side rails that did not extend at least 36 inches above the roof landing, along with sloped-roof fall hazards on Jan. 21 and Mar. 10, 2026, and cited two willful and four repeat violations with $349,754 proposed [S14]. The release says the employer had been inspected seven times since 2023 and all the cases included fall protection violations [S14]. The 36 inches is the rule's 3 feet [S4]."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Several things recur. Ladder extension above the landing turns up in the OJR, Stettinius, NOR-D, Orchids and Araujo releases [S11][S13][S14][S16][S17], which makes it the most reliable early indicator on a site: it can be checked from ten feet away without touching anything. Ladders turn up in the same citations as fall protection and training failures, so a ladder problem is rarely the only problem [S11][S14][S15][S16][S17]. And several of the companies had prior history, which is the part a coordinator can act on before work starts [S11][S14]."
+    }
+   ]
+  },
+  {
+   "heading": "Case: a repeat employer, stairs and ladders in the same inspection",
+   "blocks": [
+    {
+     "type": "case",
+     "title": "Araujo Construction Corp., Calumet City, Ill.",
+     "paragraphs": [
+      "In a September 2026 release, OSHA reported that it had investigated two worksites operated by Martin Araujo, doing business as Araujo Construction Corp., after finding carpenters and general laborers installing roof rafters and roof sheeting without fall protection, exposed to falls of up to 25 feet [S13]. OSHA cited two willful violations for fall protection [S13].",
+      "The same release lists nine repeat violations for failing to provide head and eye protection, lacking handrails on stairways, and failing to make sure ladders extended three feet above access areas, plus a serious violation for not having safe access to a platform [S13]. OSHA proposed $265,868 in combined penalties, and the employer has 15 business days to comply, request an informal conference or contest the findings [S13]. The release does not say which items were found at which of the two sites, or how many stairways or ladders were involved."
+     ],
+     "takeaway": "Stairs without handrails and ladders that stop at the landing are the cheapest items in the subpart to fix and the easiest to see, which makes them a good proxy for how a sub runs its site generally. If a prospective sub has a history on these, assume the rest of their site discipline is thin and plan more frequent walks."
+    }
+   ]
+  },
+  {
+   "heading": "Fixed ladders and the cage question",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Fixed ladders are where a coordinator on a large industrial or mission-critical job is likely to see equipment that the course's standard may not describe cleanly. A fixed ladder is one that cannot be readily moved or carried because it is an integral part of a building or structure [S1]. The construction standard applies fall protection by length of climb. Where the total climb equals or exceeds 24 feet, a fixed ladder must have ladder safety devices; or self-retracting lifelines with rest platforms at intervals not exceeding 150 feet; or a cage or well with multiple ladder sections, each not more than 50 feet long, offset from adjacent sections, with landing platforms at maximum intervals of 50 feet [S4]. Where the climb is less than 24 feet but the top of the ladder is more than 24 feet above lower levels, the ladder needs a cage, well, ladder safety device or self-retracting lifeline [S4]. OSHA's 2000 interpretation gives the same two triggers and adds that the 24-foot test in the second case is height above lower levels, not length of the ladder itself [S6]."
+    },
+    {
+     "type": "p",
+     "text": "The construction standard's cage and ladder-safety-device details are specific: cages extend 27 to 30 inches from the rung centerline, horizontal bands are no more than 4 feet apart, and the bottom of the cage sits 7 to 8 feet above the access point [S4]. A ladder safety device must withstand an 18-inch drop of a 500-pound weight and limit descending velocity to 7 feet per second or less [S4]. Fixed ladders with structural defects must be withdrawn from service until repaired, and tagging, marking or blocking all meet that [S4]."
+    },
+    {
+     "type": "p",
+     "text": "Where the rule has moved is in general industry, and the difference matters because the person coordinating the commissioning stage of a data center will also touch permanent ladders on rooftops, towers and generator enclosures that will be maintained under the general industry rules. In the general industry fall protection standard, a cage on a fixed ladder installed after November 19, 2018, is no longer acceptable as the means of fall protection; those ladders need a personal fall arrest system or ladder safety system. Cages remain permissible on existing ladders until a cage, well or ladder section needs replacement, and all fixed ladders more than 24 feet up must have one of those systems by November 19, 2036 [S8]. OSHA also says the 24-foot test is based on the distance a worker could fall, not the length of a particular section of ladder, so a ladder that starts 100 feet up a tower and climbs less than 24 feet still needs the system [S8]. Cages may be combined with those systems, but not where they interfere with the operation of the system or with rescue [S9]. Rest platforms on ladders with those systems go at intervals of up to 150 feet, and on caged ladder sections at up to 50 feet [S9]."
+    },
+    {
+     "type": "p",
+     "text": "The construction text in S4 still lists a cage or well as one of the options for a climb of 24 feet or more, so the two bodies of rules read differently today [S4][S8]. This is a comparison of the two texts, not an OSHA statement about what it will do with construction. For the coordinator, the working consequence is on handover: a fixed ladder built under construction rules and later maintained under general industry rules may be one OSHA treats as existing, or one it treats as new, depending on when it was installed, and the person specifying the ladder should know which standard will govern it for the next twenty years. The date to ask about is the installation date."
+    }
+   ]
+  },
+  {
+   "heading": "Fall protection on portable ladders, and what owners ask for",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "OSHA's 2000 letter to a mechanical contractors' association answers a question that comes up on large jobs. Neither the ladder standard nor the fall protection standard requires fall protection for workers working on portable ladders. The same letter says fall protection is not required on fixed ladders below 24 feet either, although OSHA encourages additional protection [S6]. The question came from contractors who said some general contractors in Georgia were requiring personal fall arrest systems for subcontractors on ladders at 6 feet or higher [S6]."
+    },
+    {
+     "type": "p",
+     "text": "That is a useful pattern for a coordinator. An owner or construction manager can set a stricter job rule than the federal one, such as tie-off above a stated height, no ladders above a stated height or ladder permits. The letter treats the issue as an engineering one: in its account, a typical personal fall arrest system anchored above the worker will arrest a fall in 6 feet or less, and the letter explains that a six-foot lanyard anchored at the worker's feet could produce a fall of roughly 14 feet before arrest [S6]. If a site makes tie-off on ladders a rule, the anchor and the system need to be designed for the height at which the rule applies. The letter is from 2000, and the ladder text it interprets reads the same way on the OSHA site today [S4][S6]."
+    }
+   ]
+  },
+  {
+   "heading": "Training, competent persons, and who gets cited",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The training section is short. The employer must provide a training program for each employee using ladders and stairways, as necessary, enabling employees to recognize ladder and stairway hazards and to follow procedures that minimize them [S5]. Employees must be trained by a competent person in the nature of fall hazards in the work area, the correct procedures for erecting, maintaining and disassembling the fall protection systems used, the proper construction, use, placement and care in handling of all stairways and ladders, the maximum intended load-carrying capacities of ladders used, and the standards in the subpart [S5]. Retraining must be provided as necessary so that employees keep the understanding and knowledge they acquired [S5]."
+    },
+    {
+     "type": "p",
+     "text": "The load-capacity item is the one trainers skip. Maximum intended load means the total load of all employees, equipment, tools, materials, transmitted loads and other loads anticipated at any one time [S1]. A tool bag, a pail of material and a worker carrying a conduit bundle up an extension ladder can exceed a ladder's rating without anyone doing the arithmetic. The standard also forbids loading a ladder beyond its maximum intended load or the manufacturer's rated capacity [S4]. Another item that is frequently missed: ladders must be used only for the purpose they were designed for [S4]."
+    },
+    {
+     "type": "p",
+     "text": "On a multi-employer site the training duty sits with each employer, but the citation does not stay there. OSHA's 2012 interpretation of the multi-employer policy says more than one employer may be citable for a hazardous condition, and that an employer whose employees are not exposed can still be covered if it is a creating, correcting or controlling employer [S7]. In the same letter, OSHA says the extent of the measures a controlling employer must take to exercise reasonable care to prevent and detect violations is less than what an employer must do to protect its own employees [S7]. It also says the multi-employer policy may apply to the construction training provisions of 1926.20 and 1926.21 in limited circumstances, such as when a general contractor is contractually obligated to provide training to subcontractors [S7]. The letter does not mention ladders or stairs. The relevance is the structure: the stair and ladder rules set the hazard, and the contract decides who is positioned as controlling."
+    },
+    {
+     "type": "p",
+     "text": "The Primetime settlement fits that structure. A requirement that subcontractors document rail compliance with photographs is a controlling-employer measure in practice, because it is a way for the party with schedule and access authority to detect a violation by someone else [S12]. Whether a particular general contractor's version of that would satisfy OSHA in a particular case is a question the 2012 letter says is decided on the facts and circumstances of each case [S7]."
+    }
+   ]
+  },
+  {
+   "heading": "A coordinator's working list",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "What follows is judgment drawn from the standards and cases above, not a legal requirement. It is meant to be run as a walk, not a meeting."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Count the access points on the schedule's critical path, not just the ones on the drawings. Any break of 19 inches or more without a ramp or hoist needs a stair or ladder, and the stair or ladder needs its rails in place before the first crew uses it [S2].",
+      "At every temporary stair, look at the rails first and the dimensions second: handrail present, stairrail on each open side, midrail or mesh filling the gap, landings at the right intervals, nothing stored at the top or bottom of the only stair [S2][S3].",
+      "Check every pan stair or skeleton stair for temporary treads before it is counted as an access route [S3].",
+      "At every portable ladder in use, look up: three feet of rail above the landing, or secured at the top with a grab device. Then look down: level base, clear footing, no debris, and a barricade if it sits in a lane, doorway or corridor [S4].",
+      "Ask who inspects ladders for each trade and how often. The standard says a competent person, periodically and after anything that could affect safe use; it does not say how often, so someone has to decide [S4].",
+      "For fixed ladders on the building, find out the installation date and which standard governs maintenance later, then write the fall protection method into the closeout documents [S4][S8].",
+      "For any sub with prior fall citations, ask what changed. OJR and Orchids had earlier inspections or citations, and Araujo's nine violations were classed as repeat [S11][S13][S14].",
+      "If the owner's contract sets stricter ladder rules than the federal minimum, make sure the anchor and system the rule implies actually exist where the rule applies [S6]."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "One limit on all of the above. The news releases here report what OSHA alleged or proposed at a point in time. Several note that the employer can contest, and at least one says the employer had done so [S11][S13][S14]. None of the releases lays out a full account of how a given fall happened, so they support conclusions about what the citations said and not about root cause."
+    }
+   ]
+  }
+ ]
+}

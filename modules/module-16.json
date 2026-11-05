@@ -1,0 +1,382 @@
+{
+ "module": 16,
+ "title": "Concrete and Masonry",
+ "sources": [
+  {
+   "id": "S1",
+   "title": "29 CFR 1926.700, Scope, application, and definitions (Subpart Q)",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.700"
+  },
+  {
+   "id": "S2",
+   "title": "29 CFR 1926.701, General requirements",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.701"
+  },
+  {
+   "id": "S3",
+   "title": "29 CFR 1926.702, Requirements for equipment and tools",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.702"
+  },
+  {
+   "id": "S4",
+   "title": "29 CFR 1926.703, Requirements for cast-in-place concrete",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.703"
+  },
+  {
+   "id": "S5",
+   "title": "29 CFR 1926.704, Requirements for precast concrete",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.704"
+  },
+  {
+   "id": "S6",
+   "title": "29 CFR 1926.705, Requirements for lift-slab operations",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.705"
+  },
+  {
+   "id": "S7",
+   "title": "29 CFR 1926.706, Requirements for masonry construction",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.706"
+  },
+  {
+   "id": "S8",
+   "title": "29 CFR 1926.1153, Respirable crystalline silica",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1153"
+  },
+  {
+   "id": "S9",
+   "title": "29 CFR 1926.305, Jacks",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.305"
+  },
+  {
+   "id": "S10",
+   "title": "OSHA engineering report, May 23, 2013 partial collapse of a prestressed concrete double tee, Montgomery Mall, Bethesda, MD",
+   "url": "https://www.osha.gov/sites/default/files/2019-12/2013_r_06.pdf"
+  },
+  {
+   "id": "S11",
+   "title": "OSHA engineering report, August 5, 2002 collapse of a tilt-up wall panel, Greensboro, NC",
+   "url": "https://www.osha.gov/sites/default/files/2019-12/2002_9_27.pdf"
+  },
+  {
+   "id": "S12",
+   "title": "OSHA engineering report, December 16, 1999 fatal collapse of a reinforcing steel cage, I-895 bridge, Richmond, VA",
+   "url": "https://www.osha.gov/sites/default/files/2019-12/2000_05_16.pdf"
+  },
+  {
+   "id": "S13",
+   "title": "OSHA engineering report, December 6, 2007 fatal parking garage collapse, Berkman Plaza 2, Jacksonville, FL",
+   "url": "https://www.osha.gov/sites/default/files/2019-12/2007_12_06.pdf"
+  },
+  {
+   "id": "S14",
+   "title": "OSHA news release, JW Marriott Orlando formwork collapse citations (Mar. 6, 2019)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20190306-0"
+  },
+  {
+   "id": "S15",
+   "title": "OSHA letter of interpretation, bracing of masonry block walls (Feb. 16, 1993)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/1993-02-16-3"
+  },
+  {
+   "id": "S16",
+   "title": "OSHA memorandum on 1926.706 questions, limited access zone (Feb. 6, 1989)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/1989-02-06"
+  },
+  {
+   "id": "S17",
+   "title": "OSHA, Construction Incidents Investigation Engineering Reports",
+   "url": "https://www.osha.gov/construction/engineering"
+  }
+ ],
+ "sections": [
+  {
+   "heading": "Subpart Q is mostly about temporary things",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Read Subpart Q for what it regulates and the pattern shows up fast: forms, shores, reshores, braces, guy wires, jacks, bucket gates, the limited access zone around a green masonry wall. It concerns the weeks when concrete is wet, young or standing only because something else holds it. Subpart Q defines formwork as the whole system of support for fresh or partially cured concrete, including the mold, the shores, reshores, braces and hardware, and it defines reshoring as the operation of placing shoring as the original forms and shores come out, to carry partially cured concrete and construction loads [S1]. Reshoring exists because the schedule wants forms back before the slab is mature."
+    },
+    {
+     "type": "p",
+     "text": "Subpart Q does not stand alone. Its scope paragraph says other relevant provisions of parts 1910 and 1926 apply to concrete and masonry work in addition to the subpart [S1]. The Montgomery Mall case below shows what that means in practice: OSHA's engineers cited the jacks standard, 1926.305, rather than anything in Subpart Q, because the failure was a jack with nothing blocking it [S10][S9]. A pre-task plan built only from Subpart Q misses that."
+    },
+    {
+     "type": "p",
+     "text": "Four of the cases here come from OSHA Directorate of Construction engineering reports, where OSHA posts technical investigations of structural failures [S17]. The reports say what failed and which standard the engineers think was not met. They do not give penalties or contest outcomes."
+    },
+    {
+     "type": "p",
+     "text": "The pattern across every case here is the same, and it is a sequencing pattern. Something temporary was removed, loaded, or never installed, and the next trade in line did not know or was not told. A slab poured without its top bars looks like every other slab, and a wall with unwelded joist seats looks like a wall."
+    }
+   ]
+  },
+  {
+   "heading": "Shoring, reshoring and form removal",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The cast-in-place rules in 1926.703 put the burden on documents and inspections. Formwork must be designed, fabricated, erected, supported, braced and maintained so it can carry all vertical and lateral loads that may reasonably be anticipated, and formwork built to the appendix to the section is deemed to comply [S4]. Drawings or plans, including all revisions, for the jack layout, formwork, shoring, working decks and scaffolds must be available at the jobsite [S4]. "
+    },
+    {
+     "type": "p",
+     "text": "The inspection rule is the one coordinators can actually run. Shoring equipment, including reshoring equipment, must be inspected before erection to see that it meets the formwork drawings, and equipment damaged enough to fall below the required strength cannot be used [S4]. Erected shoring must be inspected immediately before, during and immediately after concrete placement, and anything found damaged or weakened after erection must be reinforced immediately [S4]."
+    },
+    {
+     "type": "quote",
+     "text": "Erected shoring equipment shall be inspected immediately prior to, during, and immediately after concrete placement.",
+     "source": "S4"
+    },
+    {
+     "type": "p",
+     "text": "\"During\" is the word that costs people. The standard does not say who. On a multi-trade deck pour, whoever the plan names has to be standing where they can see the shores, with authority to stop the pump."
+    },
+    {
+     "type": "p",
+     "text": "Shoring details in the same section: sills must be sound, rigid and able to carry the maximum intended load, eccentric loads on shore heads are prohibited unless designed for, and single post shores cannot be adjusted to raise formwork after concrete is placed [S4]."
+    },
+    {
+     "type": "p",
+     "text": "Taking forms and shores off is governed by a separate test. Except for slabs on grade and slip forms, forms and shores cannot come off until the employer determines the concrete has gained enough strength to support its own weight and superimposed loads, and that determination must rest on one of two things: the plans and specifications stipulate removal conditions and those conditions were followed, or the concrete was tested with an appropriate ASTM method and the results show enough strength [S4]. Reshores in turn stay until the concrete they carry has attained adequate strength for all loads on it, and new reshores must go in as the original forms and shores come out whenever the concrete will carry loads beyond its capacity [S4]."
+    },
+    {
+     "type": "quote",
+     "text": "Forms and shores (except those used for slabs on grade and slip forms) shall not be removed until the employer determines that the concrete has gained sufficient strength to support its weight and superimposed loads.",
+     "source": "S4"
+    },
+    {
+     "type": "p",
+     "text": "The sentence does not say the engineer must approve it, name a break-test age, or say who holds the cylinder results. The employer determines. With a concrete sub, a formwork sub, a testing lab and an engineer of record on one job, the employer who strips owns the call, and the call is only as good as the paper that reaches it. A coordinator can make the cylinder results and the stripping release come from the same place every time, in writing, before the stripping crew starts."
+    },
+    {
+     "type": "p",
+     "text": "The related rule in 1926.701(a) is about loading rather than stripping [S2]."
+    },
+    {
+     "type": "quote",
+     "text": "No construction loads shall be placed on a concrete structure or portion of a concrete structure unless the employer determines, based on information received from a person who is qualified in structural design, that the structure or portion of the structure is capable of supporting the loads.",
+     "source": "S2"
+    },
+    {
+     "type": "p",
+     "text": "Construction loads are not only wet concrete from the floor above. Stacked rebar, a pump or crane outrigger, a pallet of block on a young slab are each a construction load. Where heavy mechanical and electrical equipment gets set on early slabs, the question is who the qualified person is and how a request reaches them before the load is on the deck."
+    }
+   ]
+  },
+  {
+   "heading": "Case: Jacksonville parking garage, December 2007",
+   "blocks": [
+    {
+     "type": "case",
+     "title": "Berkman Plaza II garage, Jacksonville, December 6, 2007",
+     "paragraphs": [
+      "At about 6:15 a.m. on December 6, 2007, the sixth level of a poured-in-place, post-tensioned concrete parking garage at 500 East Bay Street in Jacksonville, Florida was being cast when the structure collapsed, killing one construction worker and injuring twenty-one [S13]. The collapse took in all the elevated slabs across the affected bays, and the slabs fell on top of each other with the columns crushed between them [S13].",
+      "The project had many parties, among them a structural engineer of record, a general contractor, a formwork and shoring contractor, a separate formwork designer and several concrete, post-tensioning and reinforcement subcontractors [S13]. The garage had a threshold inspector under the Florida Building Code, whose duties included inspecting shores, reshores and other formwork components [S13]. A second inspector was retained by the shoring contractor to inspect formwork, shoring and reshoring, and both prepared inspection reports [S13].",
+      "The formwork designer's drawings showed reshores extending down to the first level, so that when the sixth level was cast every level below it was shored or reshored [S13]. On or about November 19, 2007 the reshores under the third level were removed, and on the day of the pour the load of the wet concrete and construction loads from the sixth level was carried by the fifth, fourth and third levels [S13]. OSHA says this was the first time concrete was cast on elevated slabs there without reshores down to the first level [S13]. The report records conflicting accounts of why the third-level reshores were pulled [S13].",
+      "The threshold inspector, asked by OSHA why it let the pour go ahead without those reshores, pointed to an email in which the structural engineer of record said reshores were required only under a particular slab needing repair [S13]. The engineer told OSHA the reply was not meant to address reshoring anywhere else, and that means and methods are the contractor's responsibility [S13]. On the engineer's account, then, the reply covered less than the inspector took it to cover.",
+      "The report also records cracks at beam-column joints and in slabs, including one an eyewitness described as running diagonally through a 20-inch third-level slab, and 61 top bars missing from a ramp slab [S13].",
+      "OSHA's conclusions are specific. The reshores under the third level in the collapsed area were removed without a determination by a person knowledgeable in structural design that the third level could carry the loads, and OSHA says the contractor violated 1926.701(a) [S13]. OSHA says that without that removal the incident would not have happened despite a structural design it found extensively deficient [S13]. The shoring subcontractor disregarded the shoring plans prepared for it, and no other shoring plans were available at the site, which OSHA says violated 1926.703(a)(2) [S13]. The threshold inspector, OSHA says, failed to report the missing reshores, and both the inspector and the general contractor failed to resolve what the cracks in the third-level slab meant for its capacity [S13]. The report's last line on this: the absence of reshores was in plain sight of everyone involved [S13]."
+     ],
+     "takeaway": "Several parties could see the missing reshores and each had a reason to think someone else owned the question. The pattern to watch for is a drawing that shows a temporary condition, a field change that removes it, and inspections that report against the paper instead of against what is standing. Make the reshore plan a gated item with a named owner, and require the structural determination before any reshore comes out, not after the pour is scheduled."
+    },
+    {
+     "type": "p",
+     "text": "The release for the 2019 JW Marriott hotel site in Orlando shows the same problem from the enforcement side. Two workers died while pouring concrete on the seventh floor when the support structure collapsed, and OSHA said the two cited contractors had failed to inspect formwork, shoring, working decks and scaffolds before construction to make sure they met the specified formwork drawings [S14]. The general contractor, PCL Construction Services, also received a willful citation, described as the maximum allowed by law, for failing to design, fabricate, erect, support and brace the formwork to carry vertical and lateral loads [S14]. The release gives combined proposed penalties of $157,792 for three violations and says the companies could contest [S14]. The employers of the two dead workers, Puleo's Concrete and C&C Pumping Services, received hazard alert letters recommending a policy of following up with the general contractor to confirm shoring was installed to the latest drawings [S14]. The release does not give the outcome of any contest."
+    },
+    {
+     "type": "p",
+     "text": "The hazard alert letter reads like a coordinator's job description. A pour crew can ask for the latest shoring drawings, and a coordinator can make asking unnecessary by handing the current revision and the inspection sign-off to the pour foreman before the pump is set."
+    }
+   ]
+  },
+  {
+   "heading": "Precast, jacking and the second-line defense",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Precast and tilt-up are covered in 1926.704. The first sentence is the one that decides most cases: precast wall units, structural framing and tilt-up wall panels shall be adequately supported to prevent overturning and collapse until permanent connections are completed [S5]. The rest of the section sets lifting hardware factors. Lifting inserts embedded in tilt-up members must carry at least two times the maximum intended load, inserts in other precast members at least four times, and lifting hardware at least five times [S5]. No employee may be under precast members being lifted or tilted into position except those required for erection [S5]."
+    },
+    {
+     "type": "quote",
+     "text": "Precast concrete wall units, structural framing, and tilt-up wall panels shall be adequately supported to prevent overturning and to prevent collapse until permanent connections are completed.",
+     "source": "S5"
+    },
+    {
+     "type": "p",
+     "text": "\"Until permanent connections are completed\" sets the end of temporary support: not a date, not the crew's judgment, not a test report. The event is the completed connection. \"Adequately supported\" has no number attached, so the erector has to show it, and whoever coordinates the erector should ask for connection status before a brace comes off."
+    },
+    {
+     "type": "case",
+     "title": "Montgomery Mall double tee, May 2013",
+     "paragraphs": [
+      "On May 23, 2013 at about 1:45 p.m., a prestressed concrete double tee partially collapsed while being jacked at the Westlake Garage of the Westfield Montgomery Mall in Bethesda, Maryland, killing one employee and injuring another [S10]. The member was 60 feet long and 9 feet wide and weighed about 42,800 pounds [S10]. It was one of four double tees to be removed to open a hole for a tower crane for new floors above the garage; two on the roof were lifted off by mobile crane, and the two on the second floor were to be reused, so they were removed by jacking and skating [S10]. The general contractor was Whiting-Turner Contracting and the owner was Westfield [S10].",
+      "The first second-floor double tee came out on May 21 in about 15 hours [S10]. On May 22 the general contractor's crew erected eight more shoring towers under the west double tee, four jacking towers and four safety towers, and jacking began about 8:30 a.m. on May 23 [S10]. The safety towers were the second line of defense, supporting the stems as the member rose in roughly 7 to 8 inch cycles [S10]. OSHA says photographs and witness statements indicate the support system and jacking procedure differed from what had been planned [S10].",
+      "About 1:30 p.m. the foreman noticed that a steel beam under a spacer had buckled at the southeast safety tower [S10]. To replace it, he had the worker at the southeast jacking tower raise that corner of the double tee with a single hydraulic jack, without blocking or cribbing [S10]. While two employees were removing the buckled beam, the double tee shifted and fell from the jack [S10].",
+      "OSHA's engineers listed the causes. An 8-inch spacer placed between the double tee stem and the upper beam weakened the support in one direction; the four safety towers had extension frames raised 2 feet without the diagonal braces the manufacturer's instructions require at that extension; and the single-jack re-lift raised the load on the northwest safety tower from about 10.7 kips to 19.7 kips, which buckled its upper beam and started the collapse [S10].  It says the employer did not comply with the jacks standard because the single jack was not blocked or cribbed, and that blocking would have limited the drop [S10].",
+      "The report states its own limits. OSHA's engineers did not have a chance to ask the jacking crew follow-up questions [S10]."
+     ],
+     "takeaway": "The crew had done this successfully two days earlier, and at least four jacking cycles earlier that day [S10]. A repeated procedure feels safe, but re-lifting one corner to swap a buckled beam is a new operation with a different load path. Require that any change to a jacking or shoring procedure stop the work and go back to whoever signed the original plan."
+    },
+    {
+     "type": "p",
+     "text": "The jacks rule in 1926.305(d)(1)(i) is one line: after a load has been raised, it shall be cribbed, blocked or otherwise secured at once [S9]. "
+    },
+    {
+     "type": "p",
+     "text": "Lift-slab is the method where jacking is the whole design. A registered professional engineer with lift-slab experience must plan it, jacking equipment must carry at least two and a half times the load, and the slab must stay within a half inch of level at every support point [S6]. Montgomery Mall was not a lift-slab job, and the report does not cite 1926.705 [S10]. The numbers are still a yardstick when a crew proposes to lift something heavy with a few jacks and a laser level."
+    }
+   ]
+  },
+  {
+   "heading": "Tilt-up: braces come off last",
+   "blocks": [
+    {
+     "type": "case",
+     "title": "Tilt-up wall panel, Greensboro, August 2002",
+     "paragraphs": [
+      "On Monday, August 5, 2002, at about 11:30 a.m., a tilt-up concrete wall weighing roughly 40,000 pounds fell on three workers eating lunch in its shade at a Home Depot under construction at 2912 South Elm-Eugene Street in Greensboro, North Carolina [S11]. The panel was about 23 feet high, 20 feet wide and 6.5 inches thick [S11]. OSHA's engineering page describes it as crushing three workers; neither it nor the report text says how many died [S17][S11].",
+      "About two hours earlier the tilt-up wall subcontractor, at the direction of the tilt-up wall contractor, had removed the pipe braces, relying on a report from the testing agency that the welds between the roof joists and the embed plates in the wall were finished [S11]. The contractor decided the braces were redundant [S11].",
+      "The report says the testing agency's report was wrong. Of three embed plates examined, one had a short tack weld and a short weld in the wrong direction, one had no weld, and one was welded on one side only [S11]. The joist bearings did not match the welds on the plates [S11]. Reportedly, welders were seen welding the joists on the panels on either side of the failed one while rescue was still going on, and OSHA strongly suspects those panels were not welded either [S11].",
+      "The bottom of the wall had no positive support. It was not tied to the slab on grade and had not been grouted over the foundation wall; it stood on shims, and the closure strip of slab that would tie it in had not been cast [S11]. The drawings called for a 1-inch grout space but the space was observed at 2 to 4 inches, and the shims, which OSHA says were not under the wall itself but under the cantilevered heel of the panel, could not be relied on for stability [S11].",
+      "OSHA's conclusion is that the contractor prematurely removed the temporary braces before permanent connections at the top and bottom were made, violating the contract specification, the North Carolina OSH standard, an ANSI standard and tilt-up industry standards [S11]. The report also says the testing agency erred in reporting the welds as complete, and that the tilt-up contractor did not build the foundation wall as the documents required [S11]."
+     ],
+     "takeaway": "The contractor took a third party's status report as proof of a structural condition, and the bottom connection was never part of that report. Treat brace removal as a release with a checklist: top connections verified, grout placed, closure strip cast, then braces. If that means waiting for a slab pour, the braces wait. And keep the lunch area out from under any wall, braced or not."
+    },
+    {
+     "type": "p",
+     "text": "On a tilt-up or precast job the permanent-connection question belongs on the master schedule as a hold point. The Greensboro report cites the contract specification requiring adequate bracing until the steel, joists, deck, backfill and slab leave-out were placed, and a drawing note making the contractor solely responsible for bracing [S11]. The paper said the right thing. The failure was the field handoff."
+    }
+   ]
+  },
+  {
+   "heading": "Reinforcing steel and the 44-foot cage",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Rebar generates two different hazards in Subpart Q. The first is impalement. All protruding reinforcing steel onto and into which employees could fall must be guarded to eliminate the hazard [S2]. The second is stability: reinforcing steel for walls, piers, columns and similar vertical structures must be adequately supported to prevent overturning and collapse, and employers must take measures to keep unrolled wire mesh from recoiling [S4]."
+    },
+    {
+     "type": "quote",
+     "text": "Reinforcing steel for walls, piers, columns, and similar vertical structures shall be adequately supported to prevent overturning and to prevent collapse.",
+     "source": "S4"
+    },
+    {
+     "type": "case",
+     "title": "Reinforcing steel cage, I-895 bridge pier, Richmond, December 1999",
+     "paragraphs": [
+      "On December 16, 1999 at about 2:05 p.m., a 44-foot reinforcing steel cage weighing 80 tons fell over at a bridge pier on the James River crossing of Interstate 895 in Richmond, Virginia, killing one of two workers near the top; the other was thrown clear [S12]. The two were tying the last horizontal bars onto the east face of the cage [S12]. Wind at the time was about 20 to 25 miles per hour, read from the adjacent tower crane [S12].",
+      "The cage had been built in stages. The lower portion was supported by a steel frame until the footing concrete gained strength, and the frame came off around November 4 when the cage stood about 30 feet above the footing [S12]. The vertical extension began on or about December 9, bringing the cage to 43.5 feet [S12]. The partly extended cage was out of plumb, leaning 6 to 8 inches west at the top, so five guy wires of 1/4-inch diameter were installed, which the reinforcing steel erector said were meant only to keep the cage plumb and were not designed as lateral support [S12].",
+      "Tie wires were installed at every third intersection instead of every other one, which the erector said the project design engineer approved because of congestion [S12].",
+      "OSHA concluded that the erector had failed to provide adequate lateral support to the 44-foot cage, that the guy wires were not capable of supporting it laterally, and that this did not comply with 1926.703(d)(1) [S12]."
+     ],
+     "takeaway": "The steel frame came off when the footing gained strength, but the cage kept growing, and guy wires installed to plumb it were left standing in for lateral support. As a free-standing cage gets taller, its lateral support has to be redesigned. Ask the rebar sub for the stability plan at each stage of height, and put wind limits for work at height on the daily plan."
+    },
+    {
+     "type": "p",
+     "text": "The Richmond report is about a bridge pier, and its analysis used airport wind records assumed equal to the site [S12]. The lesson transfers as far as the situation does: tall, free-standing, partly tied reinforcement under wind."
+    }
+   ]
+  },
+  {
+   "heading": "Placement equipment, buckets, pumps and post-tensioning",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "1926.702 is a list of equipment features, most of which a coordinator confirms through the rental or delivery paperwork rather than a stopwatch. Nobody may enter a bulk cement storage facility unless the ejection system is shut down, locked out and tagged [S3]. Manually guided power trowels must shut off when the operator's hands leave the handles [S3]."
+    },
+    {
+     "type": "p",
+     "text": "Concrete pumping systems with discharge pipes need supports designed for 100 percent overload, and compressed air hoses on pumping systems need positive fail-safe joint connectors so sections cannot separate under pressure [S3]. Buckets with hydraulic or pneumatic gates need positive safety latches to prevent accidental dumping [S3]. Bull float handles used where they might touch energized conductors must be nonconductive or insulated, and masonry saws need a semicircular blade guard that retains blade fragments [S3]. And maintenance on compressors, mixers, screens, pumps or similar equipment where inadvertent operation could injure someone requires lockout and tagging with \"Do Not Start\" or similar language [S3]."
+    },
+    {
+     "type": "p",
+     "text": "The people-handling rules in 1926.701 are short. No one rides concrete buckets, no one works under a bucket while it is raised or lowered, and elevated buckets should be routed so that no one, or the fewest possible, is exposed to the falling hazard [S2]. Post-tensioning: no one other than those essential to the operation may be behind the jack during tensioning, and signs and barriers must limit access to the area [S2]. Anyone applying a cement, sand and water mixture through a pneumatic hose must wear protective head and face equipment [S2]."
+    },
+    {
+     "type": "p",
+     "text": "The coordination points are the ones that overlap another trade's area: the bucket route relative to people below, the barricade around a stressing jack, where pumps and trucks stage relative to the deck, and who can stop the pour. The Jacksonville report adds that congestion at beam-column joints produced honeycombing that kept some post-tensioned beams from being stressed [S13]. That looks like a quality problem, and it was also a sign the structure was not behaving like its drawings."
+    }
+   ]
+  },
+  {
+   "heading": "Masonry: the limited access zone and the eight-foot line",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "1926.706 is two rules. A limited access zone is required whenever a masonry wall is being constructed, and walls over eight feet must be braced. The zone must be established before wall construction starts, must equal the wall height plus four feet and run the entire length of the wall, must be on the unscaffolded side, and may be entered only by employees actively engaged in constructing the wall [S7]. "
+    },
+    {
+     "type": "quote",
+     "text": "The limited access zone shall be equal to the height of the wall to be constructed plus four feet, and shall run the entire length of the wall.",
+     "source": "S7"
+    },
+    {
+     "type": "p",
+     "text": "The zone stays in place until the wall is adequately supported to prevent overturning and collapse, unless the wall is over eight feet, in which case it stays until the bracing required for taller walls is in [S7]. Masonry walls over eight feet must be adequately braced against overturning and collapse unless supported so they will not overturn or collapse, and bracing stays until permanent supporting elements are in place [S7]."
+    },
+    {
+     "type": "p",
+     "text": "OSHA's 1993 letter of interpretation settles a common field argument. A Chicago construction safety council asked whether it was acceptable to brace only the side opposite the scaffold and add scaffold-side bracing after the scaffold came down. OSHA answered that all walls over eight feet, not otherwise adequately supported, must be braced against overturning or collapse in either direction [S15]. For walls of eight feet or less, the employer may choose between supporting the wall and establishing the zone; for walls over eight feet, the zone cannot substitute for bracing [S15]. The letter adds that a mason tower scaffold may be easier to brace around than a tubular welded frame [S15], so scaffold choice affects bracing."
+    },
+    {
+     "type": "p",
+     "text": "The 1989 internal memorandum, written when the standard was new, bears on the multi-employer question but is old. It says responsibility for establishing the zone belongs to the employers whose employees are exposed, who must ensure the zone and bracing exist even if another contractor does the marking out [S16]. It says the zone is sized to the unsupported portion of the wall, and that any marking or barrier is acceptable if the intent is met [S16]. It says that if employees of another contractor are exposed and no zone is established, whether the mason is cited depends on a defense test that asks who created the hazard, who could correct it, whether reasonable effort was made to get the controlling contractor to correct it, and whether exposed employees were trained; reasonable effort means in writing or other provable means [S16]. The memo applies an enforcement directive from its own day, CPL 2.45A, so treat it as background on how OSHA reasoned about the zone in 1989, not as current policy [S16]."
+    },
+    {
+     "type": "p",
+     "text": "Where masonry is a small scope, such as a block wall around an electrical room, it is often built late by a small sub in space other trades need. The zone is a physical conflict: it extends the wall height plus four feet along the whole wall, and only people actively engaged in constructing the wall may be in it [S7]. The 1989 memo treats a contractor installing conduit or piping in the wall as part of its construction at the time it is required, and treats other exposure as a citable exposure [S16]. The coordinator's move is to schedule the other trades out of the zone, or to get the wall braced."
+    }
+   ]
+  },
+  {
+   "heading": "Silica, cutting and drilling in concrete and block",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Silica is the change since the 2017 course guides that matters here. The construction silica standard in 1926.1153 became effective June 23, 2016, with obligations (except sample analysis methods) commencing June 23, 2017, and sample analysis requirements commencing June 23, 2018 [S8]. It is the baseline for tasks that cut, grind, drill or chip concrete, block or mortar."
+    },
+    {
+     "type": "p",
+     "text": "The permissible exposure limit is 50 micrograms per cubic meter as an 8-hour time-weighted average, with an action level of 25 [S8]. The employer can meet it two ways: follow Table 1, which lists tasks with specified controls, or measure and limit exposure under the section's assessment rules [S8]. An employer that fully and properly implements Table 1 for a listed task is considered in compliance with the respirator-selection requirements for that exposure [S8]."
+    },
+    {
+     "type": "p",
+     "text": "Table 1 pairs tools with controls. Stationary masonry saws need an integrated water delivery system that feeds the blade continuously, with no respirator required [S8]. Handheld power saws need integrated water, with an APF 10 respirator indoors or in an enclosed area, and outdoors beyond four hours a shift [S8]. Drills need a shroud with dust collection and a HEPA vacuum for cleaning holes, and jackhammers need continuous water or a shroud with dust collection [S8]. Grinders for mortar removal need a shroud with dust collection and a respirator at APF 10 for up to four hours or APF 25 for longer [S8]."
+    },
+    {
+     "type": "p",
+     "text": "Housekeeping matters on a concrete site because the dust comes back. Dry sweeping or dry brushing is not allowed where it could contribute to silica exposure, unless wet sweeping or HEPA vacuuming is not feasible, and compressed air cannot be used to clean clothing or surfaces where it could add to exposure except under limited conditions [S8]. The employer must have a written exposure control plan describing tasks, controls, housekeeping and procedures to restrict access, and must designate a competent person to make frequent and regular inspections of job sites, materials and equipment to implement the plan [S8]. Silica must also be addressed in the employer's hazard communication program [S8]."
+    },
+    {
+     "type": "p",
+     "text": "Table 1's indoor rows are where coordination matters. Enclosed spaces are often shared: one crew cores a slab while another trade works in the same room. The silica plan belongs to each employer, but the room belongs to the site, so which dusty tasks run when, and who else is in the room, is a scheduling question. The standard states the rule for each employer and does not say how a controlling contractor should sequence rooms."
+    }
+   ]
+  },
+  {
+   "heading": "What a coordinator can do with all of this",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "This section is judgment, not citation. It draws on the cases and rules above, and none of it is a legal requirement unless a source above says so."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Keep a hold-point list for temporary support: reshore removal, brace removal on tilt-up and precast, guy wire changes on rebar cages, form stripping. Each names the releasing document and who signs it. Jacksonville and Greensboro both failed at this kind of release [S13][S11].",
+      "When a third party's report is the basis for removing support, ask what exactly was inspected and what was not. Greensboro's welds report was treated as proof of connections the investigation did not find [S11].",
+      "Put current drawings in the foreman's hands. The formwork rule and the Orlando hazard alert letters both turn on working to the latest drawings [S4][S14].",
+      "Gate field fixes. The Montgomery Mall crew changed the operation under load [S10].",
+      "Name who watches the shores while the pump runs [S4].",
+      "Plan construction loads on young slabs early; 1926.701(a) requires the determination before the load is placed [S2].",
+      "Walk the ground under every pour, tilt and masonry wall; the standards set no-go areas for buckets, tilted panels and green masonry [S2][S5][S7].",
+      "Ask each trade that cuts, drills or grinds for its silica plan and competent person, and check shared enclosed spaces [S8]."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Two cautions on reading enforcement from these sources. The engineering reports state which standards the engineers think were violated, but a report is not a citation and they do not give outcomes [S10][S11][S12][S13]. The Orlando news release gives proposed penalties and the company's right to contest, and does not say how it ended [S14]. Where a case here says a standard was violated, it is OSHA's engineers or release speaking, not a court."
+    }
+   ]
+  }
+ ]
+}

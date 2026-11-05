@@ -1,0 +1,329 @@
+{
+ "module": 13,
+ "title": "Scaffolds",
+ "sources": [
+  {
+   "id": "S1",
+   "title": "29 CFR 1926.450, Scope, application and definitions",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.450"
+  },
+  {
+   "id": "S2",
+   "title": "29 CFR 1926.451, General requirements",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.451"
+  },
+  {
+   "id": "S3",
+   "title": "29 CFR 1926.452, Additional requirements for specific types of scaffolds",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.452"
+  },
+  {
+   "id": "S4",
+   "title": "29 CFR 1926.453, Aerial lifts",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.453"
+  },
+  {
+   "id": "S5",
+   "title": "29 CFR 1926.454, Training requirements",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.454"
+  },
+  {
+   "id": "S6",
+   "title": "OSHA Directorate of Construction, Investigation of the March 23, 2015 Mast Climbing Scaffold Collapse during Dismantling at Raleigh, NC",
+   "url": "https://www.osha.gov/sites/default/files/2019-12/2015_r_04.pdf"
+  },
+  {
+   "id": "S7",
+   "title": "OSHA Directorate of Construction, Investigation of the January 10, 2020, Scaffold Collapse in Saipan, CNMI",
+   "url": "https://www.osha.gov/sites/default/files/2023-07/2020_r_01.pdf"
+  },
+  {
+   "id": "S8",
+   "title": "OSHA news release, Everest Scaffolding fatal fall, Brooklyn (June 16, 2021)",
+   "url": "https://www.osha.gov/news/newsreleases/new-york-city/20210616"
+  },
+  {
+   "id": "S9",
+   "title": "OSHA news release, Enerfab and Industrial Services Group, Port of Wilmington (Aug. 8, 2019)",
+   "url": "https://www.osha.gov/news/newsreleases/philadelphia/20190808"
+  },
+  {
+   "id": "S10",
+   "title": "OSHA letter of interpretation, Subpart L and scissors lifts (Feb. 23, 2000)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/2000-02-23-1"
+  },
+  {
+   "id": "S11",
+   "title": "OSHA letter of interpretation, loading materials onto scissor lifts (Jan. 19, 2005)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/2005-01-19-1"
+  },
+  {
+   "id": "S12",
+   "title": "OSHA Scaffolding eTool, Scissor Lifts",
+   "url": "https://www.osha.gov/etools/scaffolding/scissor-lifts"
+  }
+ ],
+ "sections": [
+  {
+   "heading": "Three roles that are not interchangeable",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Subpart L turns on three kinds of people, and on a large job the failures usually happen in the gaps between them. The standard defines a competent person as one who can identify existing and predictable hazards and who has authorization to take prompt corrective measures to eliminate them [S1]. A qualified person is one who has a recognized degree, certificate or professional standing, or who has demonstrated the ability to solve problems related to the work through extensive knowledge, training and experience [S1]. The third role is the trained worker, covered in the training section below. The authorization half of the competent person definition is the part that matters on site: a person who can spot the problem but cannot stop the work or order the fix does not meet it."
+    },
+    {
+     "type": "p",
+     "text": "OSHA's own letter on the subject says the competent person is designated by the employer, and that nothing bars an employer from training its foremen for the role as long as they can identify the hazards and have the authority to act [S10]. So there is no card or license that makes someone competent. The designation is a decision by the employer, and in an enforcement case the question becomes whether that person could actually do what the definition describes. For a coordinator, the practical consequence is that the name on the scaffold tag is a fact worth knowing before the first shift, not after an incident."
+    },
+    {
+     "type": "quote",
+     "text": "Scaffolds shall be erected, moved, dismantled, or altered only under the supervision and direction of a competent person qualified in scaffold erection, moving, dismantling or alteration.",
+     "source": "S2"
+    },
+    {
+     "type": "p",
+     "text": "Read the verbs. Erected, moved, dismantled, altered. The rule is not only about the day a scaffold goes up. Every time a sub adds a level, pulls a tie to get a duct through, removes a guardrail section for a pick, or rolls a tower to the next bay, that is an alteration or a move, and the standard puts a competent person in charge of it [S2]. The same paragraph says the work is to be done by experienced and trained employees selected for it by the competent person [S2]. On a data center with a dozen trades all wanting the same lift of access, the person pulling a brace is rarely the person who erected the scaffold."
+    },
+    {
+     "type": "p",
+     "text": "The qualified person comes in earlier, at design. Scaffolds must be designed by a qualified person and built and loaded in accordance with that design [S2]. Appendix A to the subpart gives non-mandatory criteria an employer can use to comply [S2]. A manufacturer's tower with a load chart brings its design with it. A scaffold built on site from beams and cable does not, and the design has to come from someone."
+    },
+    {
+     "type": "p",
+     "text": "Inspection is the competent person's daily duty. The standard requires inspection for visible defects before each work shift and after any occurrence that could affect structural integrity [S2]. A 2000 letter of interpretation answers the question every large-site coordinator eventually asks, which is what to do with hundreds of erected scaffolds that are not all in use. OSHA's answer was that scaffolds not in use generally need not be inspected daily, but must be inspected before the first shift that uses them and re-inspected at each change of shift, and after any occurrence that could affect them where employees are exposed to a collapse [S10]. In practice that means an inspection tag is evidence about one shift, and a scaffold that sat idle over a long weekend is a scaffold nobody has looked at."
+    },
+    {
+     "type": "quote",
+     "text": "Scaffolds and scaffold components shall be inspected for visible defects by a competent person before each work shift, and after any occurrence which could affect a scaffold's structural integrity.",
+     "source": "S2"
+    }
+   ]
+  },
+  {
+   "heading": "Raleigh, 2015: a mast climber taken down by a different technician than the one who built it",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The best case in OSHA's engineering files for how scaffold failures are really assembled is a 2015 mast climbing platform collapse in Raleigh, North Carolina. It was a 12-story steel-framed building with concrete floor slabs, nearly complete, with glass curtain walls to follow [S6]. It is a mid-rise office job, not a data center, but the contract chain is the same one a coordinator sees on a big build: an owner, a general contractor, a scaffold company, a glazing sub and a temporary hire."
+    },
+    {
+     "type": "case",
+     "title": "Mast climber collapse during dismantling, Raleigh, NC, March 23, 2015",
+     "paragraphs": [
+      "The owner was Dominion Realty Partners, the general contractor Choate Construction Company, and in December 2014 Choate awarded a contract to Associated Scaffolding Company to install six mast climbing platforms [S6]. Associated owned the units, a model called Klimerlite that it had bought in 2007 [S6]. The original purpose was stud framing, detail work, metal panel work and the roof soffit; the report says that a decision was later made to install some glass from the mast climbing platforms at the higher floors because it was convenient and expedient [S6].",
+      "After Associated erected the masts, it leased them to Choate, which operated them. Associated trained employees of Choate and of the glazing contractor Jannawall, then left the site, responsible for assembly and later disassembly but not for operating the platforms [S6]. Associated and Choate together chose where to tie the mast of Tower No. 3 to the building. The tie spacing was 47 feet between the 3rd and 6th floors and 47 feet between the 6th and 9th, against a manufacturer limit of 40 feet [S6]. The report notes that the spacing did not conform from the time of assembly [S6].",
+      "On March 23, 2015, Associated sent a different certified technician to take down Tower No. 3, because the one who had built it was busy elsewhere. The technician was accompanied by a temporary hire [S6]. They removed mast sections from the top down and stacked them on the platform deck. By the 9th floor they had thirteen sections and six ties on the deck, and the technician decided not to go to the ground to unload before continuing. Two Jannawall employees were also on the deck [S6]. The 9th-floor ties were removed from the slab, and as the next step began, the tower leaned away from the building and collapsed at about 11:00 a.m. Three people were killed and the fourth fell onto the roof of a portable toilet and was severely injured [S6].",
+      "OSHA's engineers concluded that the cause was an excessive free-standing height of 47 feet against an allowable 40, combined with a load of roughly 4,260 pounds on a platform limited to 3,000 [S6]. They also found that the platform had been set up in a non-standard configuration with an upper rear extension, and that the contractor had not consulted the manufacturer for a load chart matching that configuration [S6]. The failure of the swing bolts joining the mast sections near the 6th floor triggered the collapse [S6]. The report reaches findings under 29 CFR 1926.451(f)(1) on overloading and 1926.451(c)(1)(ii) on ties installed to the manufacturer's recommendations [S6]. It is an engineering report. It does not state citations or penalties, so none are reported here."
+     ],
+     "takeaway": "Nobody in this chain was missing a rule. The failure was in the handoffs: the person who erected it was not the person who dismantled it, the operator was a different company from the owner of the equipment, and the platform ran in a non-standard configuration without the manufacturer's load chart for it. A coordinator can ask four questions at a handoff: who has the manufacturer's load chart for this configuration, who signed off on the tie plan against the manual's number, what is on the deck right now, and who is the competent person today rather than the person who was here last week."
+    },
+    {
+     "type": "p",
+     "text": "One detail from the Raleigh report is worth knowing for reading the standards. The list of specific scaffold types in 29 CFR 1926.452 runs from pole scaffolds through stilts and has no paragraph for mast climbers [S3]. The Raleigh engineers still held the platform to the general requirements, using the load limit and the manufacturer's tie recommendations as the yardstick [S6]. For mast climbers and similar proprietary equipment, treat the manufacturer's manual as the design. The Raleigh report measured the contractor against it."
+    },
+    {
+     "type": "p",
+     "text": "The sequence at the end is its own lesson. The report concluded that the technician should have unloaded the removed sections to the ground and then come back up to release the 9th-floor ties [S6]. The fatal step was the one that removed lateral support from a mast already carrying more weight than the chart allowed. When a site is dismantling something that other trades are still standing on, the dismantling plan is a sequence, and a coordinator who treats it as a labor task will not see the step that kills people."
+    }
+   ]
+  },
+  {
+   "heading": "Capacity: the four-times and six-times rules",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Capacity is where qualified-person design meets the real load. Each scaffold and component must support its own weight and at least four times the maximum intended load applied or transmitted to it [S2]. Suspension ropes on non-adjustable suspension scaffolds must support at least six times the maximum intended load on that rope [S2]. The defined term matters: maximum intended load is the total of all persons, equipment, tools, materials, transmitted loads and other loads reasonably anticipated at any one time [S1]. Materials staged on a platform because the crane picked early count. So does the crew that arrives to help."
+    },
+    {
+     "type": "p",
+     "text": "Separately, scaffolds and components must not be loaded beyond their maximum intended loads or rated capacities, whichever is less [S2]. The two numbers are different questions. The design says what the scaffold was built to carry. The rating says what the manufacturer will stand behind. The Raleigh report found the second exceeded; the next case is about the first."
+    },
+    {
+     "type": "quote",
+     "text": "Scaffolds shall be designed by a qualified person and shall be constructed and loaded in accordance with that design.",
+     "source": "S2"
+    },
+    {
+     "type": "case",
+     "title": "Material-transfer platform collapse, Saipan, January 10, 2020",
+     "paragraphs": [
+      "Imperial Pacific International, LLC was both the owner of a hotel on Saipan and the general contractor for its expansion, a project that included the casino [S7]. The site used six scaffolds of similar design, all resembling a needle beam scaffold: a frame fixed to a building beam on one side and hung from four cables on the other, used to move material from crane picks into the building [S7]. The scaffolds had different configurations and no specifications or proper engineering drawings, and the one that failed had been used multiple times at the site [S7]. Between locations the contractor disassembled each one, moved it by crane, and reassembled it [S7].",
+      "On January 10, 2020, the failed scaffold, about 17 feet long and 15 feet wide, was attached at the fourth floor of the hotel and loaded with a crate of granite reinforced concrete panels. Three employees were moving material from it into the building [S7]. The cables failed and the platform fell about 10 feet to a concrete floor, injuring all three [S7]. The platform weighed approximately 4,000 pounds and the material on it approximately 12,000 pounds [S7].",
+      "OSHA's engineers, working remotely from the Directorate of Construction while a Honolulu Area Office compliance officer examined the wreckage, found the four support cables corroded and deteriorated, wrapped around beams with sharp corners without padding, with rope clips not installed properly [S7]. The two cables nearer the building slid through their connections, and the two farther away then snapped along with the supports at the building beam [S7]. The engineers' analysis found that the scaffold did not meet the four-times requirement of 1926.451(a)(1), that the cables did not meet the six-times requirement of 1926.451(a)(3), and that there was no engineering design and no available safe loading capacity, contrary to 1926.451(a)(6) [S7]. The report states the geometry and configuration of the platform were not contributing factors [S7]. As with Raleigh, it is an engineering report and does not list citations or penalties."
+     ],
+     "takeaway": "The failure to look for is the improvised, repeat-use platform that nobody drew. Ask whether there is a stamped or at least written design for every material-transfer platform, whether it states a capacity, and whether anybody weighed the crate before it was set down. A platform that gets moved and reassembled between locations is a different scaffold each time unless someone checks it again. Finally, an owner who also acts as the general contractor has no GC above it to ask these questions; on that kind of job the check falls to whoever coordinates."
+    },
+    {
+     "type": "p",
+     "text": "Saipan also shows why the suspension-rope rules exist. The standard requires wire suspension ropes to be inspected by a competent person before each work shift and after any occurrence that could affect their integrity, and lists replacement triggers that include kinks, broken wires, and corrosion that causes loss of more than one-third of the original diameter of the outside wires [S2]. It prohibits repaired wire rope as suspension rope [S2]. It requires at least three wire rope clips a minimum of six rope diameters apart, retightened after initial loading and inspected and retightened at the start of each shift [S2]."
+    }
+   ]
+  },
+  {
+   "heading": "Types and what each one asks of the site",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Subpart L applies to all scaffolds in workplaces covered by Part 1926, with two exceptions: crane or derrick suspended personnel platforms, and aerial lifts, whose criteria are set out exclusively in 1926.453 [S1]. The standard defines a scaffold as any temporary elevated platform, supported or suspended, and its supporting structure including points of anchorage, used for supporting employees or materials or both [S1]. Materials too. A platform that only holds a pallet of panels is a scaffold under the definition."
+    },
+    {
+     "type": "p",
+     "text": "The sorting question for the site is supported or suspended. A supported scaffold stands on a base. That covers frame, tube and coupler, pole and mobile scaffolds, and a suspended one hangs from overhead supports [S1][S3]. Each has its own failure points, and each puts a different demand on the building."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Supported scaffolds: the base must be level, sound, rigid and capable of supporting the loaded scaffold without settling or displacement, bearing on base plates and mud sills or another adequate firm foundation [S2]. Unstable objects may not support scaffolds or platforms [S2]. Front-end loaders and similar machines may not support a platform unless the manufacturer designed them for it, and a forklift may support one only if the entire platform is attached to the fork and the forklift is not moved horizontally while the platform is occupied [S2]. On a data center the slab is the base, and a slab with open trenches or a recent pour is not automatically a level, rigid footing.",
+      "Tipping: a supported scaffold with a height to base width ratio above four to one must be restrained by guying, tying or bracing, installed according to the manufacturer's recommendations or at the closest horizontal member to the 4:1 height and repeated vertically at set intervals, 20 feet for scaffolds three feet wide or less and 26 feet for wider ones [S2]. Where an eccentric load such as a cantilevered work platform is applied, ties, guys, braces or outriggers are required in all circumstances [S2].",
+      "Suspension scaffolds: outrigger beams must be restrained, with inboard ends stabilized by bolts or other direct connections to the floor or roof deck or by counterweights, and where they are not direct-connected they must be secured by tiebacks equivalent in strength to the suspension ropes [S2]. Before use, a competent person must evaluate direct connections and confirm the supporting surface can carry the imposed loads [S2]. Counterweights must be non-flowable and designed as counterweights, so sand, gravel, masonry units and rolls of roofing felt are out, and they must be mechanically secured and not removed until the scaffold is disassembled [S2]. Tiebacks must go to a structurally sound anchorage, and sound anchorages include structural members but not standpipes, vents, other piping systems or electrical conduit [S2]."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "The last item matters on a data center because the building is full of pipe, conduit and cable tray that looks like steel and is not an anchor. The prohibition appears in the suspension-scaffold tieback paragraphs and again in the fall-arrest anchorage paragraph for vertical lifelines, which excludes standpipes, vents, piping, conduit, outrigger beams and counterweights [S2]. Nobody has to be reckless for this to happen; a worker looking for something to clip to will find the nearest overhead run, and the coordinator who has not told the crew what the designated anchors are has left the answer to the worker."
+    },
+    {
+     "type": "p",
+     "text": "Scaffolds also have environmental limits. Work on or from scaffolds during storms or high winds is prohibited unless a competent person has determined it is safe and the employees are protected by a personal fall arrest system or wind screens, and wind screens may be used only if the scaffold is secured against the anticipated wind forces [S2]. Employees may not work on scaffolds covered with snow, ice or other slippery material except to remove it [S2]. Clearance from power lines is three feet for insulated lines under 300 volts and ten feet for higher voltages up to 50 kilovolts, with exceptions only after the utility has de-energized, relocated or covered the lines [S2]. A construction schedule that pushes exterior scaffold work through January or next to a utility feed has made these paragraphs part of the schedule."
+    }
+   ]
+  },
+  {
+   "heading": "Falling from a scaffold, and the erection exception",
+   "blocks": [
+    {
+     "type": "quote",
+     "text": "Each employee on a scaffold more than 10 feet (3.1 m) above a lower level shall be protected from falling to that lower level.",
+     "source": "S2"
+    },
+    {
+     "type": "p",
+     "text": "The ten-foot line is the trigger, and the standard then specifies the protection by scaffold type. Employees on boatswains' chairs, catenary, float, needle beam and ladder jack scaffolds need a personal fall arrest system. Those on single-point and two-point adjustable suspension scaffolds need both a personal fall arrest system and a guardrail system. For all scaffolds not otherwise specified, personal fall arrest systems or guardrails meeting the paragraph (g)(4) criteria are required [S2]. Toprails must withstand at least 200 pounds in any downward or horizontal direction on most scaffolds, and 100 pounds on single-point and two-point suspension scaffolds, and on newer supported scaffolds the toprail must sit between 38 and 45 inches above the platform [S2]. Guardrail systems must be installed before the scaffold is released for use by anyone other than the erection or dismantling crews [S2]."
+    },
+    {
+     "type": "p",
+     "text": "Erection and dismantling follow a different rule. The employer must have a competent person determine the feasibility and safety of providing fall protection for employees erecting or dismantling supported scaffolds, and must provide it where feasible and where it does not create a greater hazard [S2]. Access for erectors is covered by a parallel paragraph: safe access must be provided where feasible and not a greater hazard, with the competent person making the determination based on site conditions and scaffold type, and hook-on or attachable ladders installed as soon as erection has progressed to a point that permits safe installation [S2]. This is a determination with a name attached. It is not a blanket exemption for the people building the scaffold, and a site that cannot show who made the determination is in trouble when someone falls."
+    },
+    {
+     "type": "case",
+     "title": "Fatal fall while erecting a frame scaffold, Brooklyn, November 13, 2020",
+     "paragraphs": [
+      "A 21-year-old laborer fell nearly 50 feet while installing a supported tubular welded frame scaffold during construction of a seven-story building in Brooklyn [S8]. OSHA found that Everest Scaffolding Inc. of the Bronx failed to ensure that the laborer's fall arrest harness was attached, as required [S8].",
+      "OSHA proposed $300,370 in penalties for two willful and two serious violations. The release says the agency found the company failed to evaluate the feasibility of fall protection and failed to use feasible fall protection during erection of a supported scaffold, did not properly train employees on fall hazards, failed to inspect fall arrest systems before use, and did not determine whether the anchorage for personal fall arrest systems could support at least 5,000 pounds [S8]. The company contested OSHA's findings to the Occupational Safety and Health Review Commission, so these are allegations, and the release does not say how the contest ended [S8]."
+     ],
+     "takeaway": "The four findings read like a checklist of what a competent person was supposed to have done before the erector went up: the feasibility call, the training, the equipment inspection and the anchorage check. For a coordinator, the scaffold subcontractor's submittal should show how it makes the erection fall-protection determination, not just that its people own harnesses. A harness that is on but not attached protects no one, and nothing in a pre-task plan changes that unless a foreman watches the first connection."
+    },
+    {
+     "type": "p",
+     "text": "A second fatal-fall release involves two employers on one job. It is an industrial tank renovation, not a building, but the scaffold and fall protection findings are the same kind [S9]."
+    },
+    {
+     "type": "case",
+     "title": "Two contractors cited after a 40-foot scaffold fall, Port of Wilmington, January 2019",
+     "paragraphs": [
+      "In January 2019, employees of Enerfab Process Solutions & Fabricated Products Inc. and Industrial Services Group Inc., doing business as Universal Blastco, were renovating a 1.5 million gallon storage tank at an orange juice processing facility when a Blastco employee fell 40 feet from a scaffold in a fatal injury [S9].",
+      "OSHA issued willful citations to both companies for hazards involving scaffolding and lack of fall protection, and serious citations for electrical, confined space and respiratory protection violations. The companies faced $687,619 in penalties together [S9]. The release says Enerfab submitted a Notice of Contest, and it does not break down which companies were cited for which scaffold items or how the penalty divides between them [S9]."
+     ],
+     "takeaway": "Two employers were cited after one employee fell, and the release lists more than scaffolding: electrical, confined space and respiratory violations came with it. A scaffold failure on a congested job is rarely only a scaffold finding, because the inspection that follows a fatality looks at everything the injured worker was exposed to. A coordinator who has already walked the scaffold with the sub's competent person is also, in effect, checking the other hazards the crew faces on it."
+    }
+   ]
+  },
+  {
+   "heading": "Aerial lifts and scissor lifts are not the same rule",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The standard's aerial lift section covers vehicle-mounted aerial devices used to elevate personnel: extensible boom platforms, aerial ladders, articulating boom platforms, vertical towers and combinations of them [S4]. A scissor lift is not on that list. OSHA said so in a 2000 letter, in direct terms, and it also revoked an earlier statement in its own inspection directive that had said otherwise [S10]."
+    },
+    {
+     "type": "quote",
+     "text": "Because scissors lifts do not fall within any of these categories, scissors lifts are not addressed by the aerial lift provisions of Subpart L.",
+     "source": "S10"
+    },
+    {
+     "type": "p",
+     "text": "The consequence is that the two machines run on different fall-protection rules. For aerial lifts, the rule says a body belt must be worn and a lanyard attached to the boom or basket, with a note that since January 1, 1998, body belts are not acceptable as part of a personal fall arrest system and are acceptable only in a tethering or restraint system [S4]. The 2000 letter reads this as meaning a body belt is permitted only as part of a restraint system and otherwise a body harness with a fall arrest system must be used [S10]. For scissor lifts, which are mobile supported scaffolds, the general scaffold rules apply: employees more than 10 feet above a lower level must be protected by a guardrail or a personal fall arrest system, and tying off is not required where guardrails give the protection [S10][S2]. OSHA's scissor lift eTool says scissor lifts must have guardrails and that workers should stand only on the work platform, never on the guardrails [S12]."
+    },
+    {
+     "type": "p",
+     "text": "The aerial lift paragraph carries a short list of operating rules that foremen often learn only after an inspection. Lift controls are tested each day before use; only authorized persons operate the lift; belting off to an adjacent pole, structure or equipment is not allowed; employees stand firmly on the basket floor and do not sit or climb on the edge or use planks or ladders as a work position; boom and basket load limits from the manufacturer are not exceeded; brakes are set and outriggers placed on pads or a solid surface, with wheel chocks on an incline; and the lift is not moved with the boom elevated and people in the basket unless it is designed for that [S4]. For a coordinator, the phrase to remember is authorized persons. Someone has to have authorized the operator, and that is a list, not a convention."
+    },
+    {
+     "type": "p",
+     "text": "Loading a scissor lift is where data center work shows up in the guidance. A 2005 letter addressed stacking material on a scissor lift so it does not fall in the wind. OSHA said Subpart L requires a qualified person to design a scissor lift but not to oversee loading; the employer must still ensure the lift is loaded in accordance with the design, which means the load cannot exceed the capacity of the scaffold or its components [S11]. The same letter points to the materials-storage rules, under which materials stored in tiers must be stacked, racked, blocked, interlocked or otherwise secured to prevent sliding, falling or collapse, and to the falling-object protection paragraph [S11]. Putting cable reels or a pallet of components on a lift platform is a loading decision against the lift's rated capacity, and the employer's foreman makes it."
+    },
+    {
+     "type": "case",
+     "title": "Scissor lift tip-over in high wind, Notre Dame, 2010",
+     "paragraphs": [
+      "OSHA's scissor lift eTool describes a 2010 incident in which a student who was also an employee of the University of Notre Dame was killed while filming football practice from a scissor lift. The eTool says that, reportedly, the untrained worker raised the lift over 39 feet to film the practice, and that wind gusts that day were more than 50 miles per hour and blew the lift over [S12]. The eTool does not give citations or an investigation outcome.",
+      "The same page says scissor lifts rated for outdoor use are generally limited to wind speeds below 28 miles per hour, and that the manufacturer's instructions usually rule out moving the lift while elevated [S12]."
+     ],
+     "takeaway": "This case is not construction, but the logic carries over to any exterior lift on a large site: a lift's rated wind speed is a work-stop condition, and the person who decides to stop is whoever has authority over the lift crew. On a coordinator's board, wind limit and elevated-lift travel belong in the daily huddle whenever exterior lifts are scheduled."
+    },
+    {
+     "type": "p",
+     "text": "The eTool also flags crushing and electrical positioning. It lists crushing hazards where a moving scissor lift is near a fixed object, where a vehicle and the lift are operating close together, and where the lift passes under a fixed object such as a door frame or support beam. It adds that electricity can arc or jump from a power line to a lift or worker even when neither touches the line [S12]. Overhead structure is the main crush risk inside a data hall, because the ceiling is full of cable tray, bus duct, hangers and ductwork, and the person on the platform is looking at the work rather than the rail height."
+    }
+   ]
+  },
+  {
+   "heading": "Training and retraining",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The training standard has two tiers. Every employee who works on a scaffold must be trained by a person qualified in the subject matter to recognize the hazards of the type of scaffold in use and understand the procedures to control them. That covers electrical, fall and falling-object hazards, the procedures for the fall and falling object protection in use, proper use of the scaffold and handling of materials on it, and the maximum intended load and load-carrying capacities [S5]. Employees who erect, disassemble, move, operate, repair, maintain or inspect scaffolds must be trained by a competent person on the nature of scaffold hazards, the correct procedures, and the design criteria, maximum intended load-carrying capacity and intended use of the scaffold [S5]."
+    },
+    {
+     "type": "p",
+     "text": "The second tier is retraining. When the employer has reason to believe that an employee lacks the skill or understanding needed, retraining is required, including when changes at the worksite present a hazard the employee has not been trained on, when changes in types of scaffolds, fall protection, falling object protection or other equipment present such a hazard, and when inadequacies in the employee's work show lost proficiency [S5]. The 2000 letter gives timing for each trigger: before starting work for a new site's new hazards, as soon as the employer becomes aware of site changes, as soon as equipment changes occur, and as soon as a lack of proficiency becomes apparent [S10]. There is no fixed refresher interval in the standard, and the letter says so [S10]."
+    },
+    {
+     "type": "p",
+     "text": "The training paragraph (a) names the employee who works on a scaffold, which covers a plumber or electrician who never touches the scaffold structure. A trade that works from a scaffold built by another trade is on the hook for its own people's training, and the erecting sub's training does not transfer. On a job where one scaffold serves several trades in sequence, the coordinator's practical question is whether each trade's roster shows training on the specific scaffold type, not a general card."
+    },
+    {
+     "type": "p",
+     "text": "The text of 1926.454 does not mention a 10- or 30-hour card. It calls for training by a qualified person on the type of scaffold in use [S5]."
+    }
+   ]
+  },
+  {
+   "heading": "What has and has not changed since a 2017 course guide",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The history lines on 1926.452 and 1926.454 cite 61 FR 46025 of August 30, 1996 [S3][S5]. The erector fall-protection and access paragraphs carry an effective date of September 2, 1997 [S2]. Most of what a 2017 guide says about the standard is still the text. The page for 1926.452 shows an additional amendment at 85 FR 8736, February 18, 2020 in its history, and the page does not say what that amendment changed [S3]."
+    },
+    {
+     "type": "p",
+     "text": "Two points in the current text of the aerial lift standard still look dated, and a reader should know they are the law as written. Section 1926.453(a)(1) still ties aerial lifts to the 1969 ANSI A92.2 standard [S4]. OSHA's scissor lift eTool, by contrast, refers to the later ANSI A92.3-2006 and A92.6-2006 standards for manufacturing, owning and operating scissor lifts [S12]. The eTool gives them as additional information and does not say they replaced the 1969 reference in the aerial lift rule, so the text of 1926.453 should be read as written."
+    }
+   ]
+  },
+  {
+   "heading": "A coordinator's scaffold checks",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "These are judgment, not legal requirements. They come from reading the cases above for the places each one failed, and they are the questions that cost a few minutes at a daily huddle."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Name the competent person for each scaffold, each shift, and make sure that person has authority to stop a trade. The definition includes authorization to correct, and a name without that authority fails the definition [S1].",
+      "Ask for the design and capacity of any non-manufacturer platform before it is used for materials. Saipan lacked drawings and a stated safe load [S7].",
+      "Hold manufacturer's tie plans and load charts against the field. Raleigh's ties were out of limit from the day the mast was erected [S6].",
+      "When equipment changes hands, or its configuration or the work on it changes, have the load chart and the tie plan reviewed again. At Raleigh the platform ran in a non-standard configuration without a matching load chart, and the report says the manufacturer was not consulted [S6].",
+      "Treat dismantling as a planned sequence with a rule about what is on the deck when ties come off [S6].",
+      "Ask the scaffold sub how it decides fall protection for erectors and who makes the call [S2][S8].",
+      "Keep a short list of approved anchors and put it where the crew can see it. Piping, conduit and vents are not anchorage [S2].",
+      "Keep scissor lifts and boom lifts on separate lists. They have different rules for harnesses and guardrails [S10].",
+      "Put wind limits and overhead clearances in the daily plan whenever lifts are scheduled [S12].",
+      "Check training by scaffold type per trade, since retraining is triggered by site and equipment changes [S5][S10]."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,379 @@
+{
+ "module": 3,
+ "title": "Electrocution Hazards",
+ "sources": [
+  {
+   "id": "S1",
+   "title": "OSHA Construction eTool, Electrical Incidents",
+   "url": "https://www.osha.gov/etools/construction/electrical-incidents"
+  },
+  {
+   "id": "S2",
+   "title": "29 CFR 1926.416, General requirements (electrical)",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.416"
+  },
+  {
+   "id": "S3",
+   "title": "29 CFR 1926.417, Lockout and tagging of circuits",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.417"
+  },
+  {
+   "id": "S4",
+   "title": "29 CFR 1926.404, Wiring design and protection",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.404"
+  },
+  {
+   "id": "S5",
+   "title": "29 CFR 1926.302, Power-operated hand tools",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.302"
+  },
+  {
+   "id": "S6",
+   "title": "29 CFR 1926.1408, Power line safety (up to 350 kV), equipment operations",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1408"
+  },
+  {
+   "id": "S7",
+   "title": "29 CFR 1926.405, Wiring methods, components, and equipment for general use",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.405"
+  },
+  {
+   "id": "S8",
+   "title": "29 CFR 1926.20, General safety and health provisions",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.20"
+  },
+  {
+   "id": "S9",
+   "title": "29 CFR 1926.21, Safety training and education",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.21"
+  },
+  {
+   "id": "S10",
+   "title": "OSHA news release, Concurrent Group, Miami lineman electrocution (July 19, 2023)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20230719"
+  },
+  {
+   "id": "S11",
+   "title": "OSHA news release, U.S. Engineering Services, Kansas City HVAC apprentice electrocution (Jan. 31, 2023)",
+   "url": "https://www.osha.gov/news/newsreleases/kansas-city/20230131"
+  },
+  {
+   "id": "S12",
+   "title": "OSHA news release, Power Factor LLC, Fort Riley solar installer fatality (Jan. 9, 2019)",
+   "url": "https://www.osha.gov/news/newsreleases/kansas-city/20190109"
+  },
+  {
+   "id": "S13",
+   "title": "OSHA news release, Pike Electric, Adger apprentices (Mar. 8, 2022)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20220308"
+  },
+  {
+   "id": "S14",
+   "title": "OSHA news release, Dexter Fortson Associates, Coaling foreman (Dec. 26, 2024)",
+   "url": "https://www.osha.gov/news/newsreleases/birmingham/20241226"
+  },
+  {
+   "id": "S15",
+   "title": "OSHA news release, Primoris T&D Services, Seminole pole contact (Mar. 13, 2026)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20260313"
+  },
+  {
+   "id": "S16",
+   "title": "OSHA letter of interpretation, applicability of the lockout/tagout standards (Nov. 16, 2000)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/2000-11-16"
+  },
+  {
+   "id": "S17",
+   "title": "29 CFR 1926.950, General requirements (power transmission and distribution)",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.950"
+  },
+  {
+   "id": "S18",
+   "title": "29 CFR 1926.403, General requirements (electrical equipment)",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.403"
+  },
+  {
+   "id": "S19",
+   "title": "OSHA letter of interpretation, lockout/tagout and electrical hazards (Aug. 5, 2015)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/2015-08-05"
+  }
+ ],
+ "sections": [
+  {
+   "heading": "The hazard is the path, and the path runs through your people",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Electrocution on a construction site is almost never about someone working on a panel they know is live. The incidents OSHA writes up are mostly about a path nobody drew: a boom that rises into a line nobody marked, a cord with a missing ground pin, a chiller that was switched off at a screen but never isolated. OSHA's construction eTool lists the most frequent causes of electrical injuries as contact with power lines, lack of ground-fault protection, a missing or discontinuous path to ground, equipment not used in the manner prescribed, and improper use of extension and flexible cords [S1]. That list is the skeleton of this module."
+    },
+    {
+     "type": "p",
+     "text": "Every item on it is a coordination failure before it is an electrical one. Someone has to know where the lines are before the crane is set. Someone has to own the temporary power system that forty trades plug into. Someone has to say whose lock is on which disconnect when a commissioning team and an install crew both want the room. The standards put the legal duty on each employer, but on a large job the person who can see all the employers at once is the coordinator."
+    },
+    {
+     "type": "p",
+     "text": "A caution on sources: most releases below announce citations and proposed penalties, and employers can contest them; one says the employer has [S15]. Treat them as OSHA's account at the time of release, and check OSHA's establishment search for how a case ended, as the Primoris release itself suggests [S15]. Advice is labeled as advice."
+    }
+   ]
+  },
+  {
+   "heading": "Overhead lines: the 20-foot decision and who makes it",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The crane rule is the one electrocution standard that reads like a project plan. Before equipment operations begin, the employer must identify the work zone, either by marking its boundaries or by treating the full circle around the equipment out to its maximum working radius as the zone [S6]. Then it has to determine whether any part of the equipment, the load line or the load, including rigging, could get closer than 20 feet to a power line when operated up to that radius [S6]. If it could, the employer picks one of three options: have the utility confirm the line is deenergized and visibly grounded at the worksite, keep everything at least 20 feet away using the listed measures, or work from the voltage-based minimum distances in Table A [S6]."
+    },
+    {
+     "type": "p",
+     "text": "Table A matters because 20 feet is not the answer for every line. For lines up to 50 kV the minimum clearance distance is 10 feet, for over 50 to 200 kV it is 15 feet, for over 200 to 350 kV it is 20 feet, and it climbs to 25, 35 and 45 feet at higher voltages [S6]. Using Table A means knowing the voltage, and the standard puts the burden on the utility: it must provide voltage information within two working days of the employer's request [S6]. That is a schedule item. If the crane lift is on Monday and nobody asked the utility until Friday, the people in the field will be tempted to guess."
+    },
+    {
+     "type": "quote",
+     "text": "The employer must assume that all power lines are energized unless the utility owner/operator confirms that the power line has been and continues to be deenergized and visibly grounded at the worksite.",
+     "source": "S6"
+    },
+    {
+     "type": "p",
+     "text": "Read the last part of that quote carefully. A line is not dead because it looks dead, because someone said it was shut off last month, or because a utility dispatcher said so on the phone. The standard asks for confirmation from the owner or operator that the line has been and continues to be deenergized and visibly grounded at the worksite [S6]. The training requirement backs this up: operators and crew members must be trained that lines are presumed energized and presumed uninsulated unless the owner, operator or a qualified registered engineer confirms otherwise [S6]."
+    },
+    {
+     "type": "p",
+     "text": "When the choice is the 20-foot or Table A route, the standard does not leave it to a toolbox talk. It lists what has to happen together: a planning meeting with the operator and the other workers in the area to review where the lines are and the steps to prevent encroachment, non-conductive tag lines, and an elevated warning line, barricade or line of signs in view of the operator with flags or similar markings at the required distance [S6]. If the operator cannot see that warning line, a dedicated spotter is required in addition to another listed measure [S6]. On top of that, at least one of five measures has to be in place: a proximity alarm, a dedicated spotter in continuous contact with the operator, a device that warns the operator when to stop, a device that automatically limits movement, or an insulating link between the load line and the load [S6]. A dedicated spotter has to have a visual aid for the clearance distance, be positioned to judge it and give timely information [S6]."
+    },
+    {
+     "type": "p",
+     "text": "Operations below a power line are a separate rule. No part of the equipment, load line or load may be below the line unless the employer has confirmed that the utility has deenergized and visibly grounded it, with exceptions that include equipment whose uppermost part, boom at true vertical or fully extended, would be more than 20 feet below the plane of the line (or the Table A distance) [S6]. On a data center site with a new utility feed over the laydown yard where gear is being set, this is likely the rule that quietly gets broken, because lifts get planned around the load and not the swing path. That is judgment, not a rule."
+    },
+    {
+     "type": "p",
+     "text": "The operator training list reads like a summary of how these incidents end: stay in the cab unless there is imminent danger of fire, explosion or another emergency, know the safest way to evacuate equipment that may be energized, understand the danger of the energized zone around the equipment (step potential), and keep crew in the area from approaching or touching the equipment and the load [S6]."
+    }
+   ]
+  },
+  {
+   "heading": "Cases: when the line is in the way of work that was never planned around it",
+   "blocks": [
+    {
+     "type": "case",
+     "title": "A digger derrick under a 7,620-volt line, Miami, January 2023",
+     "paragraphs": [
+      "OSHA's release says a digger derrick truck used by Concurrent Group LLC employees was parked beneath energized overhead power lines when a worker began operating the boom to unload a metal crossbeam [S10]. As the boom was raised it contacted a 7,620-volt line, sending electricity through the truck and into the surrounding ground [S10]. The 32-year-old lineman jumped from the truck and suffered a fatal electrocution [S10].",
+      "OSHA issued five serious citations to the Blue Bell, Pennsylvania company and proposed $40,937 in penalties [S10]. The release lists the alleged failures: allowing employees to operate the truck within the minimum approach distance of non-insulated, energized overhead lines; not designating an observer to warn employees before approach distances were breached; not ensuring protective equipment was in place to ground and insulate the area; and failing to inspect the site and equipment to make certain employees did not approach the lines and to ground all equipment before starting work [S10]. The area director said the company could have prevented the death had it ensured the lines were deenergized before allowing work close to them [S10]. The release does not name the sections cited, and the language about approach distance and observers reads like the utility-line standard rather than the crane standard, so it is not mapped to a section here.",
+      "What the release does show is the order of events. The truck was positioned first and the boom was raised second. Nothing in the account suggests anyone made a decision about the line between those two steps."
+     ],
+     "takeaway": "Position is a decision, and on a crowded site it is made by whoever parks the truck. A coordinator can move that decision earlier by putting lines on the same site logistics plan as laydown, crane pads and delivery routes, and by requiring that any boom truck or crane setup on a shared yard be cleared against the plan before the boom comes off the cradle. That is a practice suggestion, not a regulatory text."
+    },
+    {
+     "type": "case",
+     "title": "A metal rail and an overhead line, Fort Riley, Kansas",
+     "paragraphs": [
+      "Power Factor LLC, a Maryland contractor installing solar panels on a building at Fort Riley, was cited by OSHA after an employee was fatally electrocuted while hoisting a metal rail that came into contact with energized overhead power lines [S12]. OSHA cited it for permitting employees to work close to electrical power circuits without deenergizing and grounding them or guarding them with insulation or other means, and for failing to maintain a safety program with regular jobsite inspections and training to recognize and avoid hazards [S12]. The release lists four serious violations and $39,836 in proposed penalties [S12]. The release is from January 2019 and carries OSHA's note that older releases may not reflect current policy [S12]."
+     ],
+     "takeaway": "This one is not a crane. A long conductive object lifted by hand or a light hoist is the same hazard on a smaller scale, under the general rule quoted below [S2][S12]. When a sub starts handling long metal pieces anywhere near an overhead feed, the question to ask before the first lift is who confirmed the distance and whether it was written on the pre-task plan. That is a suggestion, not a requirement."
+    }
+   ]
+  },
+  {
+   "heading": "Where the standard is plain: working near a circuit",
+   "blocks": [
+    {
+     "type": "quote",
+     "text": "No employer shall permit an employee to work in such proximity to any part of an electric power circuit that the employee could contact the electric power circuit in the course of work, unless the employee is protected against electric shock by deenergizing the circuit and grounding it or by guarding it effectively by insulation or other means.",
+     "source": "S2"
+    },
+    {
+     "type": "p",
+     "text": "This is the general construction rule, in 1926.416(a), and it covers more than overhead lines. It reaches panels, busways, temporary distribution and anything else that could be touched in the course of work. The wording is about what the employee could contact, not about what the work is for. A drywall crew in a hallway that runs past open switchgear is inside it. The protection options are deenergizing and grounding, or guarding by insulation or other means [S2]."
+    },
+    {
+     "type": "quote",
+     "text": "Before work is begun the employer shall ascertain by inquiry or direct observation, or by instruments, whether any part of an energized electric power circuit, exposed or concealed, is so located that the performance of the work may bring any person, tool, or machine into physical or electrical contact with the electric power circuit.",
+     "source": "S2"
+    },
+    {
+     "type": "p",
+     "text": "The same paragraph adds three obligations after the inquiry: post and maintain warning signs where a circuit exists, and advise employees of the location of the lines, the hazards involved and the protective measures to be taken [S2]. The words exposed or concealed are the ones to underline. Underground lines are in the standard too: where the exact location of underground electric power lines is unknown, employees using jackhammers, bars or other hand tools that may contact a line must be given insulated protective gloves [S2]. The standard does not tell the employer how to locate the lines. It tells the employer to find out before work begins."
+    },
+    {
+     "type": "p",
+     "text": "Each employer owes this inquiry for its own employees, but the facts are unevenly distributed: the excavation sub needs to know what the electrical sub pulled last week. A coordinator who keeps one current underground and overhead utility drawing, and gets it to every crew starting in a new area, makes each employer's inquiry cheaper. Keep a dated record of who received it, since the first question after an incident is what each employer knew."
+    },
+    {
+     "type": "p",
+     "text": "Barriers or other guarding must keep the workspace for electrical equipment from being used as a passageway while energized parts are exposed, and walkways must be kept clear of cords [S2]. Around equipment at 600 volts or less, working space must be kept clear; Table K-1 sets three feet of clear distance for 0 to 150 volts to ground (more in some conditions at higher voltage), plus at least 30 inches of width in front of the equipment [S18]. This is the rule behind the pallet of ductwork staged at an electrical room door, and a compliance officer can measure it."
+    }
+   ]
+  },
+  {
+   "heading": "Energized sources on a data center build: temporary power, switchgear and the sequence nobody owns",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "On a modern job the owner's permanent power comes alive in stages while construction continues, and the rules for temporary and permanent systems meet in the same rooms."
+    },
+    {
+     "type": "p",
+     "text": "The ground-fault rule is explicit about that boundary. Its text requires ground-fault protection for employees on construction sites by one of two methods: ground-fault circuit interrupters on the covered outlets, or an assured equipment grounding conductor program [S4]. The covered outlets are described in the rule: all 120-volt, single-phase, 15- and 20-ampere receptacle outlets on construction sites that are not part of the permanent wiring of the building and that employees are using [S4]."
+    },
+    {
+     "type": "quote",
+     "text": "All 120-volt, single-phase, 15- and 20-ampere receptacle outlets on construction sites, which are not a part of the permanent wiring of the building or structure and which are in use by employees, shall have approved ground-fault circuit interrupters for personnel protection.",
+     "source": "S4"
+    },
+    {
+     "type": "p",
+     "text": "The sentence excludes receptacles that are part of the permanent wiring. This paragraph does not say what protects people at permanent receptacles, and what else in the electrical subpart does was not checked, so do not read it as saying they need nothing. It also exempts receptacles on a two-wire, single-phase portable or vehicle-mounted generator rated not more than 5 kW whose circuit conductors are insulated from the generator frame and other grounded surfaces [S4]. Whether a given generator fits that description is a question for the sub; ask."
+    },
+    {
+     "type": "p",
+     "text": "The alternative is the assured equipment grounding conductor program. It requires a written description at the jobsite, designated competent persons, a visual inspection of every cord set, plug, receptacle and cord-and-plug tool before each day's use, and continuity and grounding tests before first use, after repair, after any incident that could have damaged the equipment (the standard's example is a cord set that has been run over), and at intervals not exceeding three months (six for fixed cord sets not exposed to damage). Results must be recorded and available at the jobsite, and equipment that has not met the paragraph may not be made available [S4]."
+    },
+    {
+     "type": "p",
+     "text": "In practice, the assured program is how a large sub with a fleet of tools handles ground-fault protection. When walking a site, read the cord tag and ask where the log is; the record, not the tag color, is what an inspector would ask for. That is a practical check, not a rule."
+    },
+    {
+     "type": "p",
+     "text": "The equipment sections add basic rules that the cases below test. Worn or frayed cords or cables may not be used, extension cords may not be fastened with staples, hung from nails or suspended by wire [S2], flexible cords and cables must be protected from damage, and extension cord sets used with portable electric tools and appliances must be of the three-wire type designed for hard or extra-hard usage [S7]. Electric power-operated tools must be either of the approved double-insulated type or grounded, and electric cords may not be used for hoisting or lowering tools [S5]."
+    }
+   ]
+  },
+  {
+   "heading": "Cords, ground pins and the power tool that was shocking the carpenter all morning",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "OSHA's eTool collects fatality summaries for each hazard category. They are short, they are not dated in the eTool text for most entries, and some are plainly old (two are dated 1986 in the text) [S1]. They are included here because the failure patterns they show are the same ones that appear in the current enforcement releases, and because a site coordinator will recognize every one of them from a punch list."
+    },
+    {
+     "type": "case",
+     "title": "Three cord deaths where the ground path was broken or missing",
+     "paragraphs": [
+      "In the first, a worker chipping from an aluminum stepladder used a fan on an extension cord whose insulation was cut through, exposing energized conductors that touched the ladder; the ground wire was not attached at the plug. The eTool says the path to ground ran through the worker, and he died [S1].",
+      "In the second, a 22-year-old carpenter was using a portable saw at an apartment complex site on July 10, 1986. The power came from a temporary service pole 50 feet away that had not been inspected by the city and was not grounded. He used a home-made extension cord plugged into an ungrounded receptacle on the pole, with a UL-approved cord running from it to the saw [S1]. The site was wet and humid, and he was sweating. He was reportedly shocked throughout the morning and replaced one extension cord in an attempt to stop the shocks, but the source of the shocks, the saw, was not replaced [S1]. Shifting the saw between hands as he climbed down a makeshift ladder, he was shocked again, fell into a puddle still holding it, and a co-worker disconnected the cord too late [S1].",
+      "In the third, two workers were using a 110-volt auger to install tie-down rods for a manufactured home on May 27, 1986. Power came from a series of 50-foot extension cords from an adjacent property whose outlet had no ground-prong socket, so an adapter was used, and its ground wire was not grounded. Two cords had no ground prongs and some were taped. The eTool says one worker received a shock from a ground fault in the auger, and the auger fell across the other worker, a 24-year-old, whose thigh was wrapped by the cord; the workers disconnected power but he did not survive [S1]."
+     ],
+     "takeaway": "Look at what the three have in common: the person with the problem was told by the equipment, and the problem stayed in service. The carpenter was shocked all morning and swapped a cord instead of the tool. The auger crew taped cords. None of this requires an inspector's eye, only someone with the authority to pull a tool from a crew. The standard gives that authority: any machinery, tool, material or equipment not in compliance with an applicable requirement is prohibited, and it must be identified as unsafe by tagging or by locking the controls so it cannot be operated, or physically removed [S8]. A coordinator can make removal normal by deciding, before the job starts, that a shock report means the tool and the cord come out of service that hour with no discussion of whose rental it is. That is a suggestion, not a requirement."
+    },
+    {
+     "type": "case",
+     "title": "A missing ground pin and a broken connector",
+     "paragraphs": [
+      "The eTool describes a 29-year-old welder who tried to connect a portable arc welder to an outlet through an extension cord with the welder's power switch already on. The cord's spring-loaded female end had apparently been dropped and broken, with parts missing, so the welder's ground prong did not seat in the ground terminal. As soon as a connection was made, the welder's metal case became energized and he was electrocuted. The eTool notes he was deaf in one ear and had diminished hearing in the other and may not have heard the connector break when he dropped it [S1]."
+     ],
+     "takeaway": "A broken connector is a tool-room failure, not a site-electrical one. The cord was apparently dropped and broken, and nothing in the account shows anyone inspecting it before it was used. Do not stage the check at the point of use. Two practical points follow: issue cords from a place that inspects them, and build the daily visual check the assured program requires into the crew's start-up, so that the inspection happens before the plug goes into the wall [S4]. That is a reading, not the text of the case."
+    }
+   ]
+  },
+  {
+   "heading": "Lockout and tagout: what construction actually requires",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The construction lockout rule is shorter than most people expect. Controls that are to be deactivated during work on energized or deenergized equipment or circuits shall be tagged, deenergized equipment and circuits shall be rendered inoperative and tagged at all points where they can be energized, and tags shall plainly identify the equipment or circuits being worked on [S3]. That is the entire section, three paragraphs, and the word lock does not appear in it."
+    },
+    {
+     "type": "quote",
+     "text": "Equipment or circuits that are deenergized shall be rendered inoperative and shall have tags attached at all points where such equipment or circuits can be energized.",
+     "source": "S3"
+    },
+    {
+     "type": "p",
+     "text": "That does not make locks optional on a data center job. Other construction text mentions locking: the general provision says unsafe equipment must be identified by tagging or by locking the controls to render them inoperable [S8]. And OSHA's own interpretation letters say the two lockout standards in general industry both mandate locks and/or tags [S16]. The coordinator's trap is to read the regulation, see only tags, and conclude that nothing stricter applies. Owner contracts and sub programs often add locks; that is an observation of how jobs run, not something in these sources."
+    },
+    {
+     "type": "p",
+     "text": "A letter OSHA sent in 2000 states which standard governs: the general industry lockout/tagout standard does not cover construction activities, or maintenance of electric power generation, control, transformation, transmission and distribution lines and equipment. A construction employer must comply with the lockout and tagout provisions of Part 1926, with 1926.417 and 1926.555(a)(7) cited as examples, and power-line maintenance falls under 1910.269 instead [S16]."
+    },
+    {
+     "type": "case",
+     "title": "A chiller switched off on a screen, Kansas City, August 2022",
+     "paragraphs": [
+      "A fourth-year apprentice HVAC technician employed by U.S. Engineering Services was fatally electrocuted on August 24, 2022, after contacting energized parts while repairing equipment at a charter school in Kansas City, Missouri [S11]. OSHA's investigation, as the release describes it, found the worker was cleaning a chiller unit in the mechanical room. The chiller's fan motor had been turned off through the building's HVAC management system, but no lock or tag was placed on the unit's control switch to ensure power was drained from the coils and the air handler [S11]. Neither arc flash protective equipment nor lockout/tagout equipment was on site [S11].",
+      "OSHA said the company failed to de-energize equipment and prevent it from unintentionally starting during repairs or maintenance, failed to conduct hazard assessments to identify PPE needs for field employees at contracted sites, and allowed a damaged extension cord to be used at the repair site [S11]. It cited the company for three serious and two repeat violations and proposed $197,642 in penalties, and said the company settled and paid the penalties assessed [S11]. The release says the company was cited for similar violations after a July 2021 fatality in Wichita, Kansas, when another company HVAC technician was electrocuted while working on a rooftop air conditioning unit that had not been drained of all its energy [S11]. The release does not name the standards cited."
+     ],
+     "takeaway": "The detail that matters for a data center is the building management system. A chiller shut down from a screen has been commanded off; it has not been isolated. On a data center the cooling plant is run from a controls platform, and the person who stops a unit at the screen is often not the person who opens its disconnect. A coordinator can make that gap visible by never accepting a controls-side stop as evidence of isolation, asking for the physical lock or tag location on the daily plan, and noting who verified zero energy, not who requested it. The release says the same company had a repeat citation after an earlier death, which also argues for asking each sub what it changed after its last incident and not just whether it has a program [S11]. "
+    }
+   ]
+  },
+  {
+   "heading": "Utility-side cases: approach distance, jumpers and the energized switch",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "These come from the power-line standards, but they show what a missed isolation looks like when the crew has formal training. The same pattern appears in OSHA's account of two 19-year-old Pike Electric apprentices who died on a 7,200-volt line on August 31, 2021: OSHA said the company let them repair a downed line without ensuring all jumpers were removed from the power source and had not trained them to recognize the hazards, and proposed $43,506 for three serious violations [S13]. A utility contractor also works under different rules than the building crews around it."
+    },
+    {
+     "type": "p",
+     "text": "That subpart covers the construction of electric power transmission and distribution lines and equipment, including erection of new lines and the alteration, conversion and improvement of existing ones, and it applies in addition to other part 1926 standards [S17]. It contains an information transfer provision: before work begins, the host employer informs contract employers of the characteristics of its installation that relate to the safety of the work and of known conditions, and provides information about the design and operation of the installation that the contract employer needs to make required assessments [S17]. The crane rule also treats subpart V work as a separate category, exempting it from the proximity-device and spotter list and from the restriction on operations below power lines [S6]. On a data center with a new utility interconnection, the coordinator should expect two sets of crews under two sets of rules working inside one fence. Write down which crew is working under which regime on the daily plan."
+    },
+    {
+     "type": "case",
+     "title": "A pole replaced into an energized transmission line, Seminole, Florida, August 2025",
+     "paragraphs": [
+      "OSHA's March 2026 release says a work crew from Primoris Services Corp., operating as Primoris T&D Services LLC, was replacing a utility pole at a Seminole site when the pole contacted an energized overhead transmission line [S15]. One lineman was fatally electrocuted and two other workers were sent to the hospital [S15]. OSHA cited three serious violations: failing to ensure employees maintained the required minimum approach distance from exposed energized parts or have the line deenergized, failing to assign a designated observer to monitor approach distances and provide warnings, and failing to ensure the job briefing covered special precautions required when working under energized transmission lines [S15]. It proposed $49,650 in penalties. The employer has contested the citations before the independent Occupational Safety and Health Review Commission, and OSHA's release notes penalties and citations may be adjusted [S15]."
+     ],
+     "takeaway": "Three citations, three different controls: distance, an observer, and a briefing. The briefing item is the one a coordinator can influence, because job briefings are a site routine and not a utility one. If a crew from another employer is working under or beside a line you are responsible for scheduling around, ask what its briefing covered. Because the case is contested, treat the citations as allegations."
+    },
+    {
+     "type": "case",
+     "title": "A broken switch that was still energized, Coaling, Alabama",
+     "paragraphs": [
+      "Dexter Fortson Associates Inc. was restoring distribution power to natural gas pumps after a storm with a three-person crew. A 44-year-old foreman trying to replace a broken switch suffered fatal electrocution from voltage in energized overhead lines, and OSHA inspectors later learned the switch was energized when it happened [S14]. OSHA listed, among its findings, expired electrical protective equipment, inadequate briefings on hazards, work procedures, special precautions, energy-source controls and PPE, live-line tools that should have been removed from service every two years, and workers using tools within nine inches of an energized cutout switch without ensuring all equipment was deenergized [S14]. OSHA issued seven serious violations and one other-than-serious violation and proposed $84,789 in penalties [S14]."
+     ],
+     "takeaway": "Emergency restoration is where isolation is most often assumed and not confirmed. The data center equivalent is the outage-driven switching window, where the owner, a utility and the electrical sub agree on a time and nobody confirms who opened what. The release's list works as a pre-job checklist for any energized-adjacent task: protective gear in date, hazard recognition done first, a briefing that covers energy control, and confirmed deenergization. That mapping is judgment, not OSHA's."
+    }
+   ]
+  },
+  {
+   "heading": "Employer responsibilities: what the text puts on the employer, and what a coordinator can do about it",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The accident-prevention provision puts the base duty on each employer: initiate and maintain the programs needed to comply with Part 1926, with frequent and regular inspections of the job sites, materials and equipment by competent persons the employer designates [S8]. The same section says the employer shall permit only employees qualified by training or experience to operate equipment and machinery [S8]."
+    },
+    {
+     "type": "quote",
+     "text": "The use of any machinery, tool, material, or equipment which is not in compliance with any applicable requirement of this part is prohibited.",
+     "source": "S8"
+    },
+    {
+     "type": "p",
+     "text": "The employer must also instruct each employee in recognizing and avoiding unsafe conditions and the regulations that apply to the work environment [S9], and the crane rule adds training for operators, crew and dedicated spotters [S6]. Those are individual-employer duties; the coordinator cannot cure a missing one with a form."
+    },
+    {
+     "type": "p",
+     "text": "What the coordinator can do is shorten the distance between a hazard and the person who can fix it. A few moves that follow from the text above, offered as practice and not as law:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Put overhead and underground lines on the logistics drawing, and require crane and boom-truck setups to be cleared against it. The crane standard's planning meeting, work zone and utility confirmation all assume someone knows the lines before the lift [S6].",
+      "Ask every sub with cord-and-plug tools which ground-fault method it uses, GFCIs or the assured program, and ask to see the record if it is the assured program, which the standard requires to be available on the jobsite [S4].",
+      "Track isolations as physical objects. Where a lock or tag is the proof, make the daily plan name the location and the person who verified zero energy. The Kansas City case turned on a unit that had been commanded off but not isolated [S11].",
+      "Have a standing rule that a shock report pulls the tool and its cord. The 1986 carpenter case shows what happens when it does not [S1], and the standard supports tagging or removing noncompliant equipment [S8].",
+      "Keep electrical rooms clear; the working-space clearances are measurable [S18].",
+      "For utility crews, require a named contact, ask what the crew's briefing covered, and record which standard governs their work [S6][S17]."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What has and has not changed since a 2017 course guide",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Several of the core electrical text sections are old. The history lines on the pages show 1926.416 and 1926.417 last amended in 1996, 1926.403 and 1926.404 in 1996, 1926.302 in 1993, and the crane power-line section in 2010 [S2][S3][S18][S4][S5][S6]. If a 2017 guide gives the 20-foot rule, Table A, the GFCI or assured-program choice and the tagging section, those descriptions still match the current text."
+    },
+    {
+     "type": "p",
+     "text": "Things that did change: the general safety provisions and the wiring methods page show amendments in February 2020 [S7][S8]. Those amendments were not read, so what they altered is not stated here. The power transmission and distribution subpart shows its most recent history entries in 2014 and 2015 [S17], which is before a 2017 guide, so there is no change to report from that page either. If a figure in an older guide differs from the current text, trust the page; and be careful with penalty amounts in the news releases, which are proposed amounts at the time of each release and not current maximums."
+    },
+    {
+     "type": "p",
+     "text": "Most requirements you live with day to day may not come from OSHA at all. A 2015 OSHA letter, written about general industry electrical work, says NFPA 70E is an industry consensus standard that is generally not enforced by OSHA, though compliance with it is an acceptable means of hazard abatement [S19]. Do not carry that over to construction automatically. No source here covers contract practice, so this part is observation: owner electrical safety programs tend to be stricter than the construction text, and they will apply on your site first."
+    }
+   ]
+  }
+ ]
+}

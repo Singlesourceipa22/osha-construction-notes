@@ -1,0 +1,423 @@
+{
+ "module": 4,
+ "title": "Struck-By Hazards",
+ "sources": [
+  {
+   "id": "S1",
+   "title": "29 CFR 1926.1425, Keeping clear of the load",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1425"
+  },
+  {
+   "id": "S2",
+   "title": "29 CFR 1926.1424, Work area control",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1424"
+  },
+  {
+   "id": "S3",
+   "title": "29 CFR 1926.1419, Signals, general requirements",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1419"
+  },
+  {
+   "id": "S4",
+   "title": "29 CFR 1926.1428, Signal person qualifications",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1428"
+  },
+  {
+   "id": "S5",
+   "title": "29 CFR 1926.601, Motor vehicles",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.601"
+  },
+  {
+   "id": "S6",
+   "title": "29 CFR 1926.602, Material handling equipment",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.602"
+  },
+  {
+   "id": "S7",
+   "title": "29 CFR 1926.501, Duty to have fall protection",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.501"
+  },
+  {
+   "id": "S8",
+   "title": "29 CFR 1926.451, General requirements (scaffolds)",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.451"
+  },
+  {
+   "id": "S9",
+   "title": "29 CFR 1926.100, Head protection",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.100"
+  },
+  {
+   "id": "S10",
+   "title": "29 CFR 1926.102, Eye and face protection",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.102"
+  },
+  {
+   "id": "S11",
+   "title": "29 CFR 1926.201, Signaling",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.201"
+  },
+  {
+   "id": "S12",
+   "title": "29 CFR 1926.651, Specific excavation requirements",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.651"
+  },
+  {
+   "id": "S13",
+   "title": "OSHA, Preventing Backovers",
+   "url": "https://www.osha.gov/preventing-backovers"
+  },
+  {
+   "id": "S14",
+   "title": "OSHA news release, Clearwater crane load fatality (Apr. 18, 2022)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20220418"
+  },
+  {
+   "id": "S15",
+   "title": "OSHA news release, Bal Harbor pressurized HVAC piping fatality (2026)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20260304"
+  },
+  {
+   "id": "S16",
+   "title": "OSHA news release, New Smyrna Beach horizontal drilling fatality (Sept. 23, 2026)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20260923"
+  },
+  {
+   "id": "S17",
+   "title": "OSHA news release, Austin trench fatality (Apr. 21, 2022)",
+   "url": "https://www.osha.gov/news/newsreleases/dallas/20220421"
+  },
+  {
+   "id": "S18",
+   "title": "OSHA news release, Converse mini-excavator fatality (July 13, 2026)",
+   "url": "https://www.osha.gov/news/newsreleases/dallas/20260713"
+  },
+  {
+   "id": "S19",
+   "title": "29 CFR 1926.1401, Definitions (cranes and derricks)",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1401"
+  },
+  {
+   "id": "S20",
+   "title": "29 CFR 1926.95, Criteria for personal protective equipment",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.95"
+  },
+  {
+   "id": "S21",
+   "title": "29 CFR 1926.302, Power-operated hand tools",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.302"
+  },
+  {
+   "id": "S22",
+   "title": "29 CFR 1926.1404, Assembly/disassembly general requirements",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1404"
+  },
+  {
+   "id": "S23",
+   "title": "29 CFR 1926.250, General requirements for storage",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
+  },
+  {
+   "id": "S24",
+   "title": "29 CFR 1926.20, General safety and health provisions",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.20"
+  }
+ ],
+ "sections": [
+  {
+   "heading": "Struck-by is mostly a sequencing problem",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The course teaches struck-by as four flavors: flying, falling, swinging and rolling. On a large build the more useful split is by who controls the thing doing the striking. A crane load belongs to the crane contractor, the truck belongs to the hauler, the pipe belongs to the mechanical sub, and the person standing in the wrong place belongs to a fourth company. Nobody in that chain is careless on purpose. The hazard shows up where one trade's work crosses another trade's path, and that crossing is exactly what a coordinator sees on the schedule before anyone on the ground does."
+    },
+    {
+     "type": "p",
+     "text": "OSHA itself frames it as a top-tier problem. A 2026 release on a fatality at a mall expansion says struck-by objects are part of OSHA's construction \"Focus Four\" and are among the top four hazards causing many construction-related deaths [S15]. The cases below are mostly handoff or overlap failures: a crane lift with people in the fall zone, a truck backing near a worker in a vest, a pressurized system, and a rotating drill stem."
+    },
+    {
+     "type": "p",
+     "text": "Three things recur in the standards and the incidents: a defined zone (fall zone, swing radius, backing path) that someone marks and keeps clear, a communication system between the person moving the thing and the person near it, and a check done before the exposure starts. Those questions find most gaps in a lift plan, a delivery schedule or a pressure test."
+    }
+   ]
+  },
+  {
+   "heading": "Suspended loads: the fall zone and who is allowed in it",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The crane rule puts the line in a specific place. It does not say nobody is ever near a load. It says that while the operator is not moving a suspended load, nobody is in the fall zone except people hooking, unhooking or guiding it, people making the initial attachment to a component or structure, and people operating a concrete hopper or bucket [S1]. The fall zone is defined as the area, not limited to directly beneath the load, where it is reasonably foreseeable that suspended or partly suspended material could fall in an accident [S19]. That wording matters on a data center slab where a load of prefab electrical skids or chillers travels over several active areas: the fall zone is the whole path, not the spot where the hook is."
+    },
+    {
+     "type": "quote",
+     "text": "While the operator is not moving a suspended load, no employee must be within the fall zone",
+     "source": "S1"
+    },
+    {
+     "type": "p",
+     "text": "When people are hooking, unhooking, guiding or making the initial connection inside the fall zone, the material must be rigged to prevent unintentional displacement, hooks must have self-closing latches or the equivalent, and the rigging must be done by a qualified rigger [S1]. The standard also asks for hoisting routes that minimize exposure of employees to hoisted loads, where available and consistent with public safety [S1]."
+    },
+    {
+     "type": "p",
+     "text": "During a tilt-up or tilt-down operation, nobody may be directly under the load, and only employees essential to the operation may be in the fall zone, and then only if the employer can show it is infeasible to do the task from outside the zone [S1]. The standard's own list of essential tasks is short: physically guiding the load, closely monitoring and instructing its movement, or attaching or detaching it, such as making an initial connection or installing bracing [S1]."
+    },
+    {
+     "type": "p",
+     "text": "The swing radius is a separate hazard from the load. Where the rotating superstructure poses a reasonably foreseeable risk of striking or pinching an employee, the employer must train the people working near the equipment to recognize those areas and must mark the boundaries with control lines, warning lines, railings or similar barriers [S2]. Warning signs and high-visibility markings on the equipment are allowed instead only where the employer can show barriers are infeasible on both the ground and the equipment [S2]."
+    },
+    {
+     "type": "quote",
+     "text": "Erect and maintain control lines, warning lines, railings or similar barriers to mark the boundaries of the hazard areas.",
+     "source": "S2"
+    },
+    {
+     "type": "p",
+     "text": "The same section has a communication rule that is easy to miss. Before an employee goes to a spot in the hazard area that is out of the operator's view, the employee or someone instructed by the employee must make sure the operator is told. If the operator knows an employee went there, the operator must not rotate the superstructure until a pre-arranged system of communication confirms the employee is in a safe position [S2]. The assembly and disassembly rule carries a parallel obligation for crew members going out of view, and it also bars employees from standing under the boom or jib while pins are being removed, with a narrow exception where site constraints require it and the assembly director sets procedures to minimize the risk [S22]."
+    },
+    {
+     "type": "case",
+     "title": "Clearwater, Florida: a pile on a damaged sling and six people in the trench",
+     "paragraphs": [
+      "On Oct. 6, 2021, a 47-year-old carpenter employed by Archer Western – De Moya JV II died on the Pinellas Gateway Express project in Clearwater. He and five other employees were working inside a trench box cutting concrete piles with a gas-powered chop saw. OSHA found that the pile being cut was attached to a crane by a damaged wire rope sling. During the cutting the pile broke free, struck the worker in the chest and pinned him against the wall [S14].",
+      "OSHA cited the employer for struck-by and crushed-by exposures. The listed reasons were allowing workers to remain in the danger zone while tension was applied to the crane's load, in direct contravention of the crane manufacturer's procedures; failing to train workers to recognize and avoid unsafe conditions and failing to train or qualify the signal person before the person directed the crane; failing to ensure the operator and signal person agreed on hand signals before the lift; and using a wire rope sling whose capacity information tags were damaged. The agency proposed $60,084 in penalties [S14]. The release is an archived document and says the company had 15 business days to comply, ask for an informal conference or contest, so the proposed figure is not a final outcome [S14].",
+      "The release does not say who owned the crane or whether other contractors were on the lift, and it does not describe what the damaged tags looked like. What it does show is a task (cutting a pile) being done inside a trench box while the pile was still held under crane tension, which put the cutting crew in the crane load's danger zone [S14]."
+     ],
+     "takeaway": "Sequence is the control here. A lift that holds a member under tension while another crew works on it needs a written step that says who is clear of the zone before tension is applied, and the coordinator is the person positioned to ask whether the cutting crew and the crane crew have ever talked. Slings with unreadable capacity tags are a pre-lift inspection item that a coordinator can check on a walk without any engineering knowledge. This is judgment, not a rule in the release."
+    }
+   ]
+  },
+  {
+   "heading": "Signals and the people who direct a crane",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "A signal person is required in three situations: the point of operation (the load travel or the area near or at load placement) is not in full view of the operator; the view in the direction of equipment travel is obstructed; or site-specific safety concerns lead either the operator or the person handling the load to decide one is needed [S3]. "
+    },
+    {
+     "type": "quote",
+     "text": "The point of operation, meaning the load travel or the area near or at load placement, is not in full view of the operator.",
+     "source": "S3"
+    },
+    {
+     "type": "p",
+     "text": "Signals must be by hand, voice, audible or new signals, and hand signals must use the Standard Method in the standard's appendix unless that is infeasible [S3]. If non-standard hand signals are used, the signal person, operator and lift director (where there is one) must contact each other before the operation and agree on them [S3]."
+    },
+    {
+     "type": "p",
+     "text": "Qualification is a documented thing, not a reputation. The signal person's employer must make sure each signal person meets the qualification requirements before giving signals, by one of two routes: documentation from a third-party qualified evaluator, or an assessment by the employer's own qualified evaluator [S4]. The employer-evaluator route is not portable, meaning another employer may not rely on it [S4]. The documentation must be at the site and must specify each type of signaling the person qualifies for [S4]. Qualification includes understanding the dynamics of swinging and stopping loads, an oral or written test and a practical test [S4]."
+    },
+    {
+     "type": "p",
+     "text": "For a coordinator, the practical consequence of the non-portable route is that a rigger who qualified under one sub's evaluator does not carry that card to another sub's lift. On a job with several lifting contractors, ask for the signal person's documentation for the specific employer who has them on the radio that day. The standard does not say a general contractor must collect it; it is a cheap check, and at Clearwater OSHA cited the employer for failing to train or qualify the signal person [S14]."
+    },
+    {
+     "type": "p",
+     "text": "The crane section also addresses what happens when two cranes share airspace. Where any part of one crane is within the working radius of another, the controlling entity must institute a system to coordinate operations, or, if there is no controlling entity, the employer or employers must [S2]. The definitions section describes a controlling entity as a prime contractor, general contractor, construction manager or other legal entity with overall responsibility for the construction of the project, including its planning, quality and completion [S19]. On a site with a tower crane and several mobile cranes, that is a named duty with a named owner, so find out who that is."
+    }
+   ]
+  },
+  {
+   "heading": "Objects falling from above",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The general rule for falling objects is a hard hat plus one of three physical measures. The employer must erect toeboards, screens or guardrails to keep objects from falling from higher levels; or erect a canopy and keep potential falling objects far enough from the edge that they would not go over if displaced; or barricade the area below, prohibit entry, and keep objects back from the edge [S7]. A hard hat alone is never the whole answer in that text."
+    },
+    {
+     "type": "quote",
+     "text": "When an employee is exposed to falling objects, the employer shall have each employee wear a hard hat and shall implement one of the following measures",
+     "source": "S7"
+    },
+    {
+     "type": "p",
+     "text": "Scaffolds have their own version. In addition to hard hats, employees on a scaffold must be protected from falling hand tools, debris and small objects with toeboards, screens, guardrail systems, debris nets, catch platforms or canopies, and objects too large or heavy to be contained must be placed away from the edge and secured [S8]. For people below, the employer must barricade the area and keep employees out, or use toeboards on platforms more than 10 feet up, screening where material is piled above the toeboard, a guardrail with small enough openings, or a canopy, net or catch platform strong enough for the impact [S8]."
+    },
+    {
+     "type": "p",
+     "text": "Storage on elevated floors is a quieter source of falling objects, and it is the part a coordinator controls through laydown planning. Material stored inside a building under construction may not be placed within 6 feet of a hoistway or floor opening, nor within 10 feet of an exterior wall that does not extend above the top of the stored material [S23]. Materials may not be stored on scaffolds or runways in excess of what is needed for immediate operations [S23]. Anything stored in tiers must be stacked, racked, blocked, interlocked or otherwise secured against sliding, falling or collapse [S23]. The current text also requires the weight of stored materials on floors not to exceed safe load limits and requires the limits to be conspicuously posted in storage areas, except on slab on grade or in some residential structures [S23]. The posted limit is the number that makes a laydown plan enforceable."
+    },
+    {
+     "type": "p",
+     "text": "Excavations add a related rule. No employee may be permitted underneath loads handled by lifting or digging equipment, and employees must stand away from any vehicle being loaded or unloaded to avoid spillage or falling material [S12]. The same rule allows operators to remain in the cab only where the vehicle has the cab shield or canopy required by the motor-vehicle standard [S12][S5]."
+    },
+    {
+     "type": "p",
+     "text": "Coordinator attention belongs, as judgment rather than rule, on overhead work stacked above other trades. The schedule decides whether the exposure exists. A cable tray crew working at height over a floor where the electricians are pulling wire is a sequencing choice. If the overlap cannot be avoided, the barricade or canopy has to be built by someone, and it is worth asking in the coordination meeting who that is. If nobody volunteers, the control does not exist."
+    }
+   ]
+  },
+  {
+   "heading": "Vehicles and equipment on the ground",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Off-highway jobsite vehicles have a short list of required equipment. All must have service, emergency and parking brake systems, brake lights regardless of light conditions, and an adequate audible warning device at the operator's station [S5]. A vehicle with an obstructed view to the rear may not be used unless it has a reverse signal alarm audible above the surrounding noise level or is backed only when an observer signals that it is safe [S5]. All vehicles in use must be checked at the beginning of each shift for brakes, tires, horn, steering, coupling devices, seat belts, controls and safety devices, and defects must be corrected before the vehicle goes into service [S5]."
+    },
+    {
+     "type": "p",
+     "text": "Earthmoving and compacting equipment has its own parallel rule, and it is worded slightly differently. Bidirectional machines such as rollers, compactors, front-end loaders and bulldozers must have a horn distinguishable from surrounding noise, operated as needed when moving in either direction [S6]."
+    },
+    {
+     "type": "quote",
+     "text": "No employer shall permit earthmoving or compacting equipment which has an obstructed view to the rear to be used in reverse gear unless the equipment has in operation a reverse signal alarm distinguishable from the surrounding noise level or an employee signals that it is safe to do so.",
+     "source": "S6"
+    },
+    {
+     "type": "p",
+     "text": "Two details matter in practice. The alarm requirement is a choice between an alarm and a signaling employee, not a requirement for both, so a site can be fully compliant with a beeping truck and nobody watching [S6]. And the alarm only has to be distinguishable from surrounding noise, which a data center site, with generators, compressors and concrete saws running, can make a moving target. OSHA's backover guidance lists exactly that as a cause: workers may not hear backup alarms because of other noise or because the alarms are not working [S13]."
+    },
+    {
+     "type": "p",
+     "text": "The roads themselves are covered. No employer may move equipment or vehicles on an access roadway or grade unless it is constructed and maintained to accommodate safely the equipment involved, and emergency access ramps and berms must be built to restrain and control runaway vehicles [S6]. Trucks loaded by cranes, shovels or loaders must have a cab shield or canopy adequate to protect the operator from shifting or falling material [S5]."
+    },
+    {
+     "type": "case",
+     "title": "A vest, a working alarm and a dump truck, June 2009",
+     "paragraphs": [
+      "OSHA's backover page lists two examples. In one, on June 18, 2009, an employee was working inside a work zone wearing his reflective safety vest. A dump truck operating in the work zone backed up and struck him with its rear passenger-side wheels, and he was killed. The page notes the truck had an audible back-up alarm and operating lights [S13].",
+      "The page gives no company name, no citations and no account of whether a spotter was used; it cites only an OSHA inspection number [S13]. So the case cannot be used to say what the employer did wrong. It can be used for what it shows: a high-visibility garment and a functioning alarm were both present. The same page lists the other ways these incidents happen: drivers cannot see a worker in a blind spot, alarms go unheard, a spotter helping one truck may not see another truck behind him, workers riding on vehicles fall off, and drivers assume the area is clear without looking [S13]. For the years 2005 to 2010 the page counts dump trucks first among vehicle types in backover fatalities, with 67, ahead of semi tractor-trailers at 40 [S13]."
+     ],
+     "takeaway": "PPE and an alarm are the last layers, not the plan. The coordinator's lever is one of the fixes OSHA lists: an internal traffic control plan that tells drivers where to drive, reduces the need to back up, and separates people on foot from operating equipment [S13]. Routing deliveries so trucks pull through instead of reverse into a laydown yard is a drawing exercise that costs almost nothing before the yard is built."
+    },
+    {
+     "type": "p",
+     "text": "The page also names spotters, in-vehicle cameras, radar or sonar proximity detection and tag-based warning systems, and suggests putting people who work around vehicles in the driver's seat to see the blind spots [S13]. It presents these as options and does not say any is required. Judgment, not a rule: treat the traffic plan as the control and the devices as backup, because a plan removes the exposure and a device only reports it."
+    },
+    {
+     "type": "p",
+     "text": "A related example: in January 2026 at Converse Elementary School in Texas, a D L Bandy Constructors employee was removing accumulated dirt from a crawl space with a mini-excavator and became trapped between the machine and a concrete beam, with fatal injuries [S18]. OSHA cited the company with one willful violation for removing the rollover protective structures from mini-excavators and adding fabricated parts so the equipment could fit inside the crawl space, plus 15 serious violations tied to confined space hazards [S18]. Proposed penalties were $276,399 for the contractor, and the release says the companies could contest [S18]. This is a caught-between event rather than a struck-by one, but it belongs in the same conversation: when a machine does not fit the space, the temptation is to change the machine, and the change here was to strip a protective structure [S18]."
+    }
+   ]
+  },
+  {
+   "heading": "Pressure, rotation and other energy that strikes back",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Some of the most dangerous struck-by events involve no crane and no vehicle. They involve stored energy: a pressurized pipe, a rotating drill stem, a compressed air line. Two recent OSHA releases show how OSHA classifies these as struck-by, which is useful because the course's four categories do not mention them."
+    },
+    {
+     "type": "case",
+     "title": "Bal Harbor, Florida: end caps on a pressurized system",
+     "paragraphs": [
+      "On Aug. 28, 2025, a pipefitter employed by Hyvac Inc., who was installing a new air-conditioning system for a mall expansion project at the Bal Harbor Shops, was fatally injured from a pressurized HVAC piping system [S15]. OSHA cited the contractor with two serious violations for exposing workers to struck-by hazards: not verifying that piping was free of stored pressure before employees worked on the system, and not training workers to recognize and avoid hazards associated with removing HVAC end caps on pressurized piping systems [S15]. OSHA proposed $28,135 in penalties, and the release notes that penalties and citations may be adjusted during the case process [S15].",
+      "The release does not describe the mechanism in more detail, for example what pressure the system held, whether it was a pressure test or a leftover charge, or who else was on the job [S15]. Those are the things a coordinator would want to know, and the source does not supply them."
+     ],
+     "takeaway": "Chilled water, refrigerant and compressed air piping are everywhere on a data center build (an observation, not the release's), and the handoff between the crew that pressurizes a system for testing and the crew that later opens it is where this risk lives. A tag or sign-off that says a system is verified at zero pressure before any end cap, cap plug or flange comes off is a simple control, and the coordinator can require it be part of the turnover between test and install. That is advice, not a requirement stated in the release; the release only says OSHA found the employer did not verify piping was free of stored pressure [S15]."
+    },
+    {
+     "type": "case",
+     "title": "New Smyrna Beach, Florida: a drill stem that turned",
+     "paragraphs": [
+      "On March 17, 2026, employees of T & T Pipeline Co. Inc. were replacing a drill bit on a horizontal drilling machine when the pipe stem began to rotate and fatally struck an employee [S16]. OSHA cited the employer for a willful violation for exposing employees to struck-by hazards when working on a horizontal directional drilling machine, and proposed $165,514 in penalties [S16]. The company had 15 business days to comply, request an informal conference or contest the findings [S16].",
+      "The release is brief. It does not say why the stem began to rotate, whether the machine was locked out, who was operating the controls, or what OSHA's willful finding was based on beyond the exposure itself [S16]. What it does establish is that a routine maintenance task on a machine ended in a fatal strike, and that OSHA treated it as willful rather than serious [S16]."
+     ],
+     "takeaway": "A coordinator is rarely in the pit when a bit is changed on a subcontractor's drilling machine, so the control has to sit in the plan: a requirement that maintenance on drilling and boring equipment follows the manufacturer's procedure for stopping and isolating the machine, and a confirmation of who has that procedure on the crew. The release does not state a lockout violation, so this is a question to ask, not a conclusion about T & T."
+    },
+    {
+     "type": "p",
+     "text": "Power tools produce a smaller version of the same thing. Pneumatic power tools must be secured to the hose or whip by a positive means to prevent accidental disconnection, and pneumatic impact tools must have safety clips or retainers to keep attachments from being expelled [S21]. Pneumatic nailers and staplers operating above 100 p.s.i. at the tool must have a safety device on the muzzle that prevents ejecting fasteners unless the muzzle is in contact with the work surface [S21]. Compressed air may not be used for cleaning except below 30 p.s.i. with effective chip guarding and PPE, with an exception for concrete form, mill scale and similar cleaning [S21]. Hoses may not be used for hoisting or lowering tools [S21]."
+    }
+   ]
+  },
+  {
+   "heading": "Work zones, flaggers and who is wearing what",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "OSHA's construction signaling standard gives flaggers one instruction: the use of flaggers, signaling by flaggers and the warning garments they wear must conform to Part 6 of the MUTCD [S11]. The standard itself does not restate the MUTCD's content, and the MUTCD was not opened for this supplement, so what Part 6 requires is not described. The point for a coordinator is that flagging is held to the traffic-control manual, and that a project that touches public roads, such as a utility entrance or an off-site turn lane, usually has a traffic control plan owned by someone."
+    },
+    {
+     "type": "p",
+     "text": "The excavation standard has a separate warning-garment rule. Employees exposed to public vehicular traffic must be provided with, and must wear, warning vests or other suitable garments marked with or made of reflectorized or high-visibility material [S12]. Note the trigger: public vehicular traffic. The standard does not read on its face as requiring a vest for every worker near an internal haul road [S12]. Whether the project requires high-visibility garments site-wide is a project rule to check in the site safety plan; it is not something the OSHA text says."
+    },
+    {
+     "type": "p",
+     "text": "Excavations also bring a warning-system rule for mobile equipment. When mobile equipment operates adjacent to an excavation, or must approach its edge, and the operator does not have a clear and direct view of the edge, a warning system such as barricades, hand or mechanical signals, or stop logs must be used [S12]."
+    },
+    {
+     "type": "case",
+     "title": "Austin, Texas: sent back into the trench",
+     "paragraphs": [
+      "On Oct. 23, 2021, two workers for D Guerra Construction LLC, installing a residential wastewater line, escaped a partial collapse of a 13-foot-deep unprotected trench. Hours later both were told to go back in to finish, and the trench collapsed again, burying one worker, who died, and partially burying the second, who was seriously injured [S17]. OSHA's willful citations included failing to have a trench protective system, exposing workers to cave-in hazards, failing to inspect the excavation, and exposing workers to the dangers of being struck by material and equipment [S17]. Serious citations covered failing to train employees working in and around an excavation, exposing workers to struck-by hazards, and failing to protect against cave-in when water was present in the trench; OSHA also cited the company for not reporting a hospitalization within 24 hours [S17]. Proposed penalties totaled $243,406 [S17].",
+      "The release lists struck-by by material and equipment as its own citation alongside the cave-in items, and does not say what specific material or equipment OSHA had in mind [S17]."
+     ],
+     "takeaway": "After any partial collapse, the stop-work call has to come from someone with authority and no stake in finishing the task. A coordinator who sees a trench event reported in the morning log has a reason to ask that afternoon whether the excavation has been re-inspected, by whom, and what changed. Spoil piles and equipment at the edge are part of the question."
+    }
+   ]
+  },
+  {
+   "heading": "Head, eye and face protection: what the current text asks for",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Head protection is required wherever there is a possible danger of head injury from impact, from falling or flying objects, or from electrical shock and burns [S9]."
+    },
+    {
+     "type": "quote",
+     "text": "Employees working in areas where there is a possible danger of head injury from impact, or from falling or flying objects, or from electrical shock and burns, shall be protected by protective helmets.",
+     "source": "S9"
+    },
+    {
+     "type": "p",
+     "text": "The criteria section says the employer must provide head protection meeting ANSI Z89.1-2009, Z89.1-2003 or Z89.1-1997, and that head protection used by employees exposed to high-voltage shock must also meet the electrical insulation section of those standards [S9]. An employer may use a device it demonstrates is at least as effective as one built to those standards [S9]. The standard does not say how to check a helmet on a walk or when to replace one; That was not researched."
+    },
+    {
+     "type": "p",
+     "text": "For eyes and face, the employer must ensure each affected employee uses appropriate protection when exposed to hazards from flying particles, molten metal, liquid chemicals, acids, caustic liquids, chemical gases or vapors, or potentially injurious light radiation [S10]. Where there is a hazard from flying objects, the eye protection must provide side protection, and detachable side protectors such as clip-on or slide-on shields are acceptable [S10]. Prescription-lens wearers need protection that incorporates the prescription or fits over their glasses [S10]. Protectors must fit snugly and not unduly interfere with the wearer's movements [S10]."
+    },
+    {
+     "type": "p",
+     "text": "The consensus standards named for eye and face devices are ANSI/ISEA Z87.1-2010, Z87.1-2003 and Z87.1-1989 (R-1998), with the same at-least-as-effective allowance [S10]. The general PPE criteria add two employer duties: PPE must be of safe design and construction for the work, and it must be selected to ensure that it properly fits each affected employee [S20]. Except for listed exceptions, PPE used to comply with the part must be provided by the employer at no cost [S20]. The page lists exceptions, including non-specialty safety-toe footwear, so check them before telling a subcontractor who pays [S20]."
+    },
+    {
+     "type": "p",
+     "text": "The fit clause makes the employer, not the worker, responsible for matching equipment to the person [S20]."
+    }
+   ]
+  },
+  {
+   "heading": "What has changed since the 2017 course guide",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The pages show no struck-by rule that OSHA changed after 2017 in a way the page text confirms. The pages show amendment histories, and those histories are read here rather than used to infer what changed. The storage standard's history lists a May 14, 2019 notice, and its current text includes an exception from the load-posting requirement for single-family residential and wood-framed multi-family structures [S23]. The page does not say which change that notice made, so it is not claimed that the notice created the exception. "
+    },
+    {
+     "type": "p",
+     "text": "The head protection text refers to the 2009, 2003 and 1997 ANSI Z89.1 editions, and eye protection to the 2010, 2003 and 1989 editions of Z87.1 [S9][S10]. Those are the editions the pages name today. No newer ANSI edition was checked against OSHA's position, so a newer-edition product needs the at-least-as-effective allowance in both sections to apply [S9][S10]."
+    },
+    {
+     "type": "p",
+     "text": "The crane rule is older than the course guide, dating to the August 2010 final rule, but it is the current framework: signal person qualification, fall zone control and swing radius marking all come from it [S1][S2][S4]. The Clearwater release, from 2022, shows OSHA citing signal person training, agreed hand signals and manufacturer procedures under that framework [S14]. If your course material treats crane signals and fall zones as general common sense, the practical update is that they are specific, documented duties."
+    }
+   ]
+  },
+  {
+   "heading": "A coordinator's review list",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Everything in this section is judgment about how to use the above, not an OSHA requirement."
+    },
+    {
+     "type": "list",
+     "items": [
+      "For each lift: who is the signal person, what is the employer of record, and where is the documentation [S4]? Is the landing zone out of the operator's view [S3]? Which areas are marked as swing radius, and who maintains the barriers [S2]? Which trades are scheduled inside the fall zone while the load is held [S1]?",
+      "For every overlap of trades at different levels: who builds the barricade, screen or canopy, and was that cost carried in anyone's price [S7][S8]?",
+      "For laydown and storage on elevated floors: is the posted load limit in place, and is material kept back from openings and unprotected edges by the distances in the standard [S23]?",
+      "For deliveries and haul traffic: is there an internal traffic control plan that reduces backing and separates people on foot, and do trucks that must reverse use a spotter instead of relying only on an alarm [S13][S6]?",
+      "For pressure tests and turnovers: is there a sign-off that a system is at zero stored pressure before anyone opens it, and is that sign-off part of the handoff between the test crew and the install crew [S15]?",
+      "For drilling, boring and rotating equipment: does the crew have and follow the manufacturer's procedure for stopping and isolating the machine before maintenance [S16]?",
+      "After any partial collapse, tool failure or near miss: has someone with authority stopped work, inspected, and recorded what changed before people go back [S17][S24]?",
+      "For PPE: do helmets and eye protection carry the listed standard marking, do eye protectors have side protection for flying-object work, and does the gear fit the person wearing it [S9][S10][S20]?"
+     ]
+    },
+    {
+     "type": "p",
+     "text": "The accident prevention rule adds one structural point. Employers must set up programs with frequent and regular inspections of job sites, materials and equipment by competent persons they designate, and any machinery or equipment not in compliance must be tagged out or locked out of service, or removed [S24]. Employers may permit only employees qualified by training or experience to operate equipment [S24]. On a multi-employer site the inspection duty belongs to each employer, so the coordinator's job is to confirm that the inspection is actually happening and that the tag-out authority is used, not to perform it."
+    }
+   ]
+  }
+ ]
+}

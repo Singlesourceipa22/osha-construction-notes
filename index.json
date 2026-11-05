@@ -1,0 +1,78 @@
+[
+ {
+  "module": 1,
+  "title": "Intro to OSHA"
+ },
+ {
+  "module": 2,
+  "title": "Fall Hazards"
+ },
+ {
+  "module": 3,
+  "title": "Electrocution Hazards"
+ },
+ {
+  "module": 4,
+  "title": "Struck-By Hazards"
+ },
+ {
+  "module": 5,
+  "title": "Caught-In or -Between Hazards"
+ },
+ {
+  "module": 6,
+  "title": "Health Hazards in Construction"
+ },
+ {
+  "module": 7,
+  "title": "Materials Handling"
+ },
+ {
+  "module": 8,
+  "title": "Tools: Hand and Power"
+ },
+ {
+  "module": 9,
+  "title": "Safety Programs and Subpart C"
+ },
+ {
+  "module": 10,
+  "title": "Stairways and Ladders"
+ },
+ {
+  "module": 11,
+  "title": "Fire Protection and Prevention"
+ },
+ {
+  "module": 12,
+  "title": "Welding and Cutting"
+ },
+ {
+  "module": 13,
+  "title": "Scaffolds"
+ },
+ {
+  "module": 14,
+  "title": "Cranes, Derricks, Hoists, Elevators and Conveyors"
+ },
+ {
+  "module": 15,
+  "title": "Excavations"
+ },
+ {
+  "module": 16,
+  "title": "Concrete and Masonry"
+ },
+ {
+  "module": 17,
+  "title": "Personal Protective Equipment"
+ },
+ {
+  "module": 18,
+  "title": "Confined Space Entry"
+ },
+ {
+  "module": 19,
+  "title": "Signs, Signals and Barricades"
+ }
+]

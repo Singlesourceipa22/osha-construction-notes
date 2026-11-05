@@ -1,0 +1,390 @@
+{
+ "module": 19,
+ "title": "Signs, Signals and Barricades",
+ "sources": [
+  {
+   "id": "S1",
+   "title": "29 CFR 1926.200, Accident prevention signs and tags",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.200"
+  },
+  {
+   "id": "S2",
+   "title": "29 CFR 1926.201, Signaling",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.201"
+  },
+  {
+   "id": "S3",
+   "title": "29 CFR 1926.6, Incorporation by reference",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.6"
+  },
+  {
+   "id": "S4",
+   "title": "OSHA index of 29 CFR 1926 standards (Subpart G listing)",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926"
+  },
+  {
+   "id": "S5",
+   "title": "OSHA directive CPL 02-01-054, Inspection and Citation Guidance for Roadway and Highway Construction Work Zones (Oct. 16, 2012)",
+   "url": "https://www.osha.gov/sites/default/files/enforcement/directives/CPL_02-01-054.pdf"
+  },
+  {
+   "id": "S6",
+   "title": "29 CFR 1926.1419, Signals, general requirements",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1419"
+  },
+  {
+   "id": "S7",
+   "title": "29 CFR 1926.1428, Signal person qualifications",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1428"
+  },
+  {
+   "id": "S8",
+   "title": "OSHA news release, Archer Western - De Moya JV II, Clearwater, FL (Apr. 18, 2022)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20220418"
+  },
+  {
+   "id": "S9",
+   "title": "OSHA, Preventing Backovers",
+   "url": "https://www.osha.gov/preventing-backovers"
+  },
+  {
+   "id": "S10",
+   "title": "OSHA letter of interpretation, operating trucks in reverse on construction sites (Mar. 2, 2010)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/2010-03-02"
+  },
+  {
+   "id": "S11",
+   "title": "OSHRC, KS Energy Services, Inc., Docket No. 06-1416",
+   "url": "https://oshrc.gov/wp-content/uploads/06-1416.htm"
+  },
+  {
+   "id": "S12",
+   "title": "OSHRC, The Ruhlin Company, Docket No. 04-2049",
+   "url": "https://www.oshrc.gov/wp-content/uploads/04-20491.html"
+  },
+  {
+   "id": "S13",
+   "title": "OSHA letter of interpretation, high-visibility garments in highway work zones (Aug. 5, 2009)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/2009-08-05"
+  },
+  {
+   "id": "S14",
+   "title": "OSHA letter of interpretation, traffic directing at highway construction areas (Jan. 4, 2011)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/2011-01-04"
+  },
+  {
+   "id": "S16",
+   "title": "29 CFR 1926.1422, Signals, hand signal chart",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1422"
+  },
+  {
+   "id": "S15",
+   "title": "OSHA, Highway Work Zones and Signs, Signals, and Barricades",
+   "url": "https://www.osha.gov/highway-workzones"
+  }
+ ],
+ "sections": [
+  {
+   "heading": "What Subpart G actually covers",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Subpart G is two sections long. Section 1926.200 covers accident prevention signs, tags and traffic control devices. Section 1926.201 covers signaling: flaggers, and a pointer sending crane and hoist signals to other rules [S1][S2][S4]. That is the whole text, and OSHA's own index of Part 1926 lists only those two sections under the subpart heading, \"Signs, Signals, and Barricades\" [S4]. This module is about what the thin text means on a large site where the traffic is forklifts, flatbeds, cranes and delivery trucks as much as public cars."
+    },
+    {
+     "type": "p",
+     "text": "A change to know about: older OSHA material refers to a separate barricade section, 1926.202, and a definitions section, 1926.203. OSHA's 2012 work zone directive quotes both, including the definition of a barricade as \"an obstruction to deter the passage of persons or vehicles\" [S5]. The current list of Part 1926 sections does not show either one [S4], and the current 1926.200(g)(2) now names barricades itself in its list of traffic control devices [S1]. The pages fetched do not say why 1926.202 and 1926.203 no longer appear, so treat any citation to them in old paperwork as something to check against the current code before relying on it."
+    },
+    {
+     "type": "p",
+     "text": "The practical effect is that barricades, signs, signals and markings used to protect workers from traffic all route through one sentence, 1926.200(g)(2), which sends the design and use of those devices to Part 6 of a federal highway manual [S1]. That manual is where the real detail lives, which is why the next section matters."
+    }
+   ]
+  },
+  {
+   "heading": "The MUTCD edition and why it matters",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Both 1926.200(g)(2) and 1926.201(a) say traffic control devices and flagging must \"conform to Part 6 of the MUTCD\", the Manual on Uniform Traffic Control Devices [S1][S2]. Section 1926.6 says which edition: the 2009 Edition (December 2009), including Revision 1 and Revision 2, both dated May 2012 [S3]. That is a change from the 2012 OSHA directive, which discusses two older editions (the 1988 Edition, Revision 3, and the Millennium Edition) and notes in passing that the 2009 Edition was then the most recent [S5]. If a 2017-era guide or an old safety plan names an older edition, the current rule text names the 2009 one."
+    },
+    {
+     "type": "p",
+     "text": "The fetched OSHA pages say nothing about any MUTCD edition newer than 2009. The Highway Work Zones page on osha.gov likewise lists the 2009 Edition with Revisions 1 and 2 as the current MUTCD [S15]. A project owned by a state DOT may hold its contractors to a newer edition by contract. Whether the contract demands it is a question for the contract documents, not for the OSHA text."
+    },
+    {
+     "type": "p",
+     "text": "One more piece of fine print decides most enforcement fights. Section 1926.6 says only the mandatory provisions of an incorporated standard are adopted, meaning the provisions that use \"shall\" or other mandatory language [S3]. OSHA's directive tells inspectors the same thing in practice: cite 1926.200(g)(2) for violations of the mandatory (\"shall\" or \"must\") MUTCD provisions and name the provision [S5]. A traffic control plan full of \"should\" language from the manual is guidance. The \"shall\" statements are the ones with legal weight. The two review commission decisions below turn on exactly that line."
+    }
+   ]
+  },
+  {
+   "heading": "Accident prevention signs: what the colors commit you to",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Section 1926.200 sets out a small family of sign types. Each has a trigger and a color scheme, and the triggers are narrower than most sites treat them."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Danger signs: only where an immediate hazard exists, red as the predominating color for the upper panel, black outline, white lower panel for wording [S1].",
+      "Caution signs: only to warn against potential hazards or caution against unsafe practices, yellow as the predominating color, a black upper panel and borders with yellow \"caution\" lettering, and a yellow lower panel with black wording [S1].",
+      "Exit signs, when required: legible red letters at least 6 inches high on a white field, principal stroke at least three-fourths inch wide [S1].",
+      "Safety instruction signs, when used: white with a green upper panel and white letters for the main message, additional wording in black on white [S1].",
+      "Directional signs, other than automotive traffic signs: white with a black panel and a white directional symbol [S1].",
+      "Accident prevention tags: a temporary warning of an existing hazard, such as defective tools or equipment [S1]."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "The specifications trace to ANSI sign standards that the rule incorporates. Danger signs are to follow ANSI Z35.1-1968 or Z535.2-2011, and tags follow ANSI Z35.2-1968 or Z535.5-2011; paragraph (i) says those ANSI documents contain additional rules the employer must follow [S1]. The rule text is explicit that the employer must comply with the additional rules in these ANSI standards [S1], so a site that only knows the color chart is not done."
+    },
+    {
+     "type": "p",
+     "text": "Two sentences in 1926.200 carry most of the weight on a real site. The first is about visibility and removal."
+    },
+    {
+     "type": "quote",
+     "text": "Signs and symbols required by this subpart shall be visible at all times when work is being performed, and shall be removed or covered promptly when the hazards no longer exist.",
+     "source": "S1"
+    },
+    {
+     "type": "p",
+     "text": "The second half of that sentence is the one that gets ignored. A DANGER sign left on a door after the hazard is gone teaches the crew that DANGER signs are decoration. On a long job with many phases, a coordinator can treat sign removal as a closeout item for each phase handoff: when the trade that created the hazard leaves, someone confirms the sign came down or was covered. That is advice about how to manage the rule, not additional text from it."
+    },
+    {
+     "type": "p",
+     "text": "The second sentence is about tags, which are the most misused item in the subpart."
+    },
+    {
+     "type": "quote",
+     "text": "Accident prevention tags shall be used as a temporary means of warning employees of an existing hazard, such as defective tools, equipment, etc. They shall not be used in place of, or as a substitute for, accident prevention signs.",
+     "source": "S1"
+    },
+    {
+     "type": "p",
+     "text": "On a site with a dozen subcontractors, tags are what you see hanging on a damaged ladder or a lift with a hydraulic leak. The rule treats them as a temporary measure for an existing hazard on a specific item, not as a replacement for a posted sign at a location [S1]. The text does not say how long \"temporary\" is, and the fetched OSHA page gives no guidance on that. A tag that has been on the same item for weeks is a sign the item should have been repaired or removed from the site, which is judgment, not a stated requirement."
+    },
+    {
+     "type": "p",
+     "text": "Notice also the word \"immediate\" in the danger sign rule [S1]. Overusing danger signs for ordinary conditions weakens them. A common way to keep the tiers meaningful is to reserve red for hazards that can hurt someone the moment they step in (an open shaft, an energized panel, an active swing radius) and use yellow for the rest. That mapping is a practice choice. The standard only ties danger to \"immediate hazard\" and caution to \"potential hazards\" [S1]."
+    }
+   ]
+  },
+  {
+   "heading": "Traffic control signs and devices at points of hazard",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Section 1926.200(g) is the traffic part of the subpart, and its first paragraph is short."
+    },
+    {
+     "type": "quote",
+     "text": "At points of hazard, construction areas shall be posted with legible traffic control signs and protected by traffic control devices.",
+     "source": "S1"
+    },
+    {
+     "type": "p",
+     "text": "That wording is current text. OSHA's 2012 directive quotes an earlier version of the same paragraph (\"Construction areas shall be posted with legible traffic signs at points of hazard\") [S5]. The directive's guidance still helps explain the idea: inspectors were told to cite the \"points of hazard\" paragraph when no sign warns of a point of hazard or when a sign there is illegible, and to cite the MUTCD paragraph when signs exist but fail the manual's mandatory provisions [S5]. The directive also says inspectors may use even the non-mandatory MUTCD provisions to identify a point of hazard [S5]. So the manual's advisory language can show where OSHA expects a sign, while only the mandatory language can be the basis for a citation that the sign was done wrong."
+    },
+    {
+     "type": "p",
+     "text": "The directive covers any construction activity on and near roadways or highways where public or construction vehicular traffic exposes workers to struck-by hazards, with examples like road, highway, sidewalk or utility construction [S5]. It does not stop at highways. It also says the label an employer uses is not decisive: many road \"maintenance\" activities such as crack sealing, overlaying and surface treatments are considered construction [S5]. For a data center build the relevant parts of that logic are the utility tie-ins, the temporary haul roads, the public road frontage and the entrance where trucks turn in. Any place where public traffic meets site work is in the territory."
+    },
+    {
+     "type": "p",
+     "text": "The directive's examples of when advance warning is called for are a closed shoulder, work on the traveled way and closed lanes [S5]. The advance warning area is the stretch of highway used to inform road users about what to expect [S5]. In mobile operations, such as moving work, the directive says the transition area moves with the work space, and signs or channelizing devices are still expected at that point [S5]."
+    },
+    {
+     "type": "p",
+     "text": "Channelizing devices are the cones, tubular markers, vertical panels, drums, barricades and longitudinal channelizing devices that warn road users and guide them [S5]. Where a protective vehicle (the \"shadow truck\") is used, the directive says it must be located properly in advance of the workers or equipment it protects, so vehicles cannot go around it and strike them [S5]."
+    }
+   ]
+  },
+  {
+   "heading": "Case: a shared work zone with one warning sign",
+   "blocks": [
+    {
+     "type": "case",
+     "title": "KS Energy Services: a quarter-mile lane closure on a 55 mph county road",
+     "paragraphs": [
+      "KS Energy Services was installing an underground natural gas pipeline along a county road near Langes Corners, Wisconsin. It created a temporary traffic control zone around the worksite and shared it with Dorner Stahl, a construction company working along the same section of road [S11]. The zone was about a quarter mile long, blocked the eastbound lane and shoulder, and sat on a road with a 55 mph speed limit [S11]. KS Energy put its signs and cones at the western end. Dorner put its signs and pylons at the eastern end [S11]. Both companies used the whole blocked-off lane and shoulder to stage equipment, vehicles and materials, and their employees routinely operated and moved around inside it [S11].",
+      "On May 25, 2006, in response to a complaint, an OSHA compliance officer inspected. Approaching from the west, she saw a \"Utility Work Ahead\" sign placed about 150 feet before an arrow sign and cones that routed eastbound traffic into the westbound lane [S11]. OSHA cited KS Energy for a serious violation of 1926.200(g)(2), alleging it failed to give motorists the advance warning that section 6G.03 of the MUTCD requires [S11]. The review commission described that section as one that requires warning conveying three categories of information: that work is taking place, information about highway conditions, and how traffic can move through the zone [S11].",
+      "KS Energy argued the manual was too vague, because it is full of \"should\" and \"may\" language. The Commission rejected that: advisory provisions are not incorporated, and section 6G.03 is designated a \"standard,\" so it is mandatory [S11]. It also found that the company's foreman had received MUTCD training and testified it was standard practice to place three signs at each end of a coned area [S11]. The company argued its work space was off the road. The Commission relied on unrebutted testimony that employees also worked inside the blocked lane and shoulder, running machinery and moving pipe, so the work space was in the traveled way [S11]. It rejected the \"short duration\" exception (work up to one hour) because the crew had worked at least three hours before the inspection and returned the next day, and it rejected the \"mobile\" exception because the work stayed in one place for two days [S11].",
+      "On the signs themselves, the Commission found the one \"Utility Work Ahead\" sign met only the first category. The arrow sign was placed right after the cones began, so it was not in advance of the transition area, and the cones created an immediate shift into the oncoming lane at the point where the work space began [S11]. The Commission affirmed the citation and the $875 penalty [S11]."
+     ],
+     "takeaway": "Count what the plan says against what the road shows. Three signs per end was the crew's own habit, and one sign was what went up. When two contractors share a closure, put one name on the traffic control plan and have that party walk both ends at setup, since here each company built its own end [S11]. Also decide whether work will fit the manual's short-duration and mobile exceptions before relying on them: the burden of proving an exception sat with the employer in this case [S11]."
+    }
+   ]
+  },
+  {
+   "heading": "Flaggers and signaling",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Section 1926.201(a) says flagger signaling, the use of flaggers and the warning garments they wear must conform to Part 6 of the MUTCD [S2]. The standard stops there. Everything about how a flagger stands, signals and dresses is in the manual [S2][S5]."
+    },
+    {
+     "type": "p",
+     "text": "A 2011 OSHA letter describes the two hand-signal methods that Part 6 allowed under the editions then incorporated. The preferred method is an octagonal STOP/SLOW paddle at least 18 inches wide on a long pole, with a red STOP face with a white border and an orange SLOW face. The emergency-situation method is a 24-by-24-inch red flag on a staff 36 inches long [S14]. The letter describes those under the older editions, and the current 2009 Edition governs now [S3], so check the dimensions in the current Part 6 before writing them into a plan."
+    },
+    {
+     "type": "p",
+     "text": "The 2012 directive adds several points about how inspectors treat flagging [S5]:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Flaggers without the required high-visibility clothing are cited under 1926.201(a) and the MUTCD's flagger apparel section [S5].",
+      "If a flagger uses the wrong hand signals, that can be evidence the employer never trained the flagger to recognize and avoid unsafe work zone conditions; if training was not provided, the directive tells the inspector to cite the construction training standard, 1926.21(b)(2), and not 1926.201(a) [S5].",
+      "Where a qualified person has not applied the manual's provisions with engineering judgment, the inspector can cite the appropriate Part 1926 standard together with the manual's section on knowledgeable persons [S5]."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "The coordination point sits in the second item. A flagger is usually supplied by a traffic control subcontractor or a laborer pulled off another task on a busy morning. Under the directive, bad flagging is a training problem for whoever employs the flagger [S5]. A coordinator who schedules deliveries around a flagged entrance should confirm who trained the flagger and who is empowered to stop trucks, instead of assuming the delivery company will handle it. That is a judgment about managing the handoff, not a legal duty the sources assign to a general contractor."
+    },
+    {
+     "type": "p",
+     "text": "Subpart G's apparel requirement reaches flaggers only. How OSHA handled everyone else in the work zone is the next case."
+    }
+   ]
+  },
+  {
+   "heading": "Case: the vest citation that was vacated",
+   "blocks": [
+    {
+     "type": "case",
+     "title": "The Ruhlin Company: nine workers without vests on a four-lane highway job",
+     "paragraphs": [
+      "Ruhlin was the general contractor on a project widening a four-lane highway in Akron, Ohio. It set up a work zone about an eighth of a mile long on the eastbound shoulder, with three-foot orange cones closing the right lane and an arrow board directing traffic to the left lane at a reduced 30 mph [S12]. On September 30, 2004, an OSHA compliance officer saw vehicles entering, leaving and moving inside the work zone and nine Ruhlin employees working in it without high-visibility vests [S12]. Ruhlin made vests available to flaggers and other employees but required only its flaggers to wear them [S12].",
+      "OSHA first cited the PPE standard, 1926.95(a), and then added the general duty clause, section 5(a)(1), in the alternative [S12]. The review commission concluded that the PPE standard's language does not indicate whether protective equipment includes warning vests, and found OSHA's reading of it unreasonable, partly because the standards that do require warning garments say so expressly, as 1926.201(a) does for flaggers [S12]. On the general duty clause item, the Commission held that the manual's high-visibility clothing section is advisory (it says workers close to traffic \"should\" wear bright clothing), so it is not incorporated as an OSHA standard through 1926.200(g)(2) and does not block a general duty clause citation. It still vacated the citation in its entirety for lack of fair notice, because of what OSHA's May 2004 letter had told employers [S12].",
+      "OSHA's response is in an August 5, 2009 letter. It says the Commission read OSHA's earlier 2004 letter as failing to give employers fair notice, so OSHA withdrew the old answer and replaced it [S13]. The new answer: OSHA standards require high-visibility garments in two circumstances, for flaggers and for workers exposed to public vehicular traffic near excavations, and for other construction workers in highway work zones, the general duty clause requires similar protection [S13]. The directive repeats this, adding that flaggers are covered by 1926.201(a) and excavation workers by 1926.651(d) [S5]."
+     ],
+     "takeaway": "The fight over vests was not about whether vests help. It was about which rule applied and whether employers had notice. A coordinator should not rely on that gap. Put high-visibility apparel in the site rules for anyone who works in or crosses a vehicle route, since OSHA's stated position since 2009 is that the general duty clause reaches those workers [S13][S5]. That is a policy choice by the site, backed by OSHA's published position, rather than a specific written standard."
+    }
+   ]
+  },
+  {
+   "heading": "Barricades, barriers and keeping people out of the path",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Barricades now sit under the same sentence as signs and signals: the design and use of traffic control devices, including barricades, for protection of construction workers must conform to MUTCD Part 6 [S1]. The 2012 directive, when 1926.202 was still being cited, treated the Type I, II and III barricades from the manual as barricades, and also treated temporary or portable barrier systems as within the definition because they can channelize or physically deter traffic [S5]. As noted earlier, the current code pages do not list 1926.202, so the safe reading today is that these devices fall under 1926.200(g)(2) [S1][S4]."
+    },
+    {
+     "type": "p",
+     "text": "Two other points from the directive translate directly to site logistics. First, setting and retrieving traffic cones is one of the activities the directive lists as a possible general duty clause problem, because it exposes the employee to being struck by traffic or equipment or falling from a vehicle [S5]. Second, crossing live lanes of high-speed traffic is another [S5]. Each is a task that gets assigned casually, and the person sent out to do it is often the newest member of a crew. The list is the directive's examples of conditions where a general duty clause citation may be appropriate, and it notes that the inspector must be able to document all elements of such a citation or issue a hazard alert letter instead [S5]."
+    },
+    {
+     "type": "p",
+     "text": "The directive also lists the sort of material OSHA could use to show a hazard was recognized, such as the operator's manual of a vehicle, an ANSI work zone standard, and an industry association brochure on installing and removing traffic control devices from moving vehicles [S5]. If your traffic control subcontractor cannot show how it sets and retrieves devices, that gap can matter."
+    }
+   ]
+  },
+  {
+   "heading": "Crane and hoist signals: the other half of 1926.201",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Section 1926.201(b) hands crane and hoist signals to other rules [S2]. For cranes and derricks in construction, the signal rules are in Subpart CC, starting at 1926.1419, which the older guide may describe as ANSI-based. Subpart CC now sets the requirements itself [S6]."
+    },
+    {
+     "type": "p",
+     "text": "A signal person must be provided when the point of operation (the load travel or the area at or near load placement) is not in full view of the operator, when the equipment is traveling and the view in the direction of travel is obstructed, or when site-specific safety concerns lead the operator or the person handling the load to decide one is needed [S6]. Signals can be by hand, voice, audible or new signals. When hand signals are used, the Standard Method in Appendix A must be used, with a narrow exception [S6]. If non-standard hand signals are used, the signal person, the operator and the lift director (where there is one) must contact each other before the operation and agree on them [S6]. Hand signal charts must be posted on the equipment or conspicuously in the vicinity of the hoisting operation [S16]. "
+    },
+    {
+     "type": "quote",
+     "text": "During operations requiring signals, the ability to transmit signals between the operator and signal person must be maintained. If that ability is interrupted at any time, the operator must safely stop operations requiring signals until it is reestablished and a proper signal is given and understood.",
+     "source": "S6"
+    },
+    {
+     "type": "p",
+     "text": "On a data center site, this is the rule that matters during heavy picks such as generators, chillers and switchgear. A dropped radio channel or a signal person who walks behind a building is a stop, not a continue. Only one person may give signals to a crane at a time, with one exception: anyone who becomes aware of a safety problem must alert the operator or signal person by giving the stop or emergency stop signal [S6]."
+    },
+    {
+     "type": "quote",
+     "text": "Anyone who becomes aware of a safety problem must alert the operator or signal person by giving the stop or emergency stop signal.",
+     "source": "S6"
+    },
+    {
+     "type": "p",
+     "text": "The signal person has to be qualified, and the employer of the signal person is the one who must ensure it before any signals are given [S7]. There are two routes: documentation from a third-party qualified evaluator, or an assessment by the employer's own qualified evaluator, which is not portable to other employers [S7]. The documentation must be available at the site and must specify each type of signaling the person is qualified for, such as hand or radio signals [S7]. A qualified signal person must understand the signal type used, be competent in applying it, have a basic understanding of the equipment's operation and limits (including swinging and stopping loads and boom deflection), know the relevant rules, and pass an oral or written test plus a practical test [S7]."
+    },
+    {
+     "type": "p",
+     "text": "The portability point is one coordinators miss. A rigger who was assessed by one subcontractor's evaluator may not simply bring that card to the next employer's pick [S7]. If subcontractors swap signal people between lifts, ask each employer to show its own documentation for the specific type of signals in use. The rule puts the duty on the employer of the signal person, so that employer should be able to produce the record at the site [S7]."
+    }
+   ]
+  },
+  {
+   "heading": "Case: a signal person nobody had qualified",
+   "blocks": [
+    {
+     "type": "case",
+     "title": "Archer Western - De Moya JV II: a pile breaks free of a crane sling in Clearwater",
+     "paragraphs": [
+      "On October 6, 2021, a 47-year-old carpenter employed by Archer Western - De Moya JV II was fatally injured at the Pinellas Gateway Express project in Clearwater, Florida. He and five other employees were working inside a trench box, using a gas-powered chop saw to cut concrete piles that form footers for elevated lanes [S8]. The pile was attached to a crane by a damaged wire rope sling. During the cutting, the pile broke free and struck the worker in the chest, pinning him against the wall [S8].",
+      "OSHA's release says the employer allowed workers to remain in the load's danger zone while tension was applied to the crane's load, contrary to the crane manufacturer's procedures [S8]. It also cited the employer for failing to train workers to recognize and avoid unsafe conditions and to train or qualify the signal person before the signal person directed crane operation, for failing to ensure the operator and signal person agreed on hand signals before the lift, and for using a sling with damaged capacity tags [S8]. OSHA proposed $60,084 in penalties and the company had 15 business days to comply, request an informal conference or contest the findings [S8]. The release does not state the section numbers cited, and it does not say how the case ended."
+     ],
+     "takeaway": "Three of the four findings are paperwork a coordinator can check before a pick: the signal person's qualification, the agreed signals, and the condition of the rigging. The fourth, people standing in the load's path, is a field condition that needs someone with authority to clear the area before tension goes on. Ask for the qualification record and the rigging inspection the day before a critical lift, and treat \"who is in the trench box\" as part of the lift plan. The release describes proposed findings; it does not say how the case concluded."
+    }
+   ]
+  },
+  {
+   "heading": "Backing vehicles: observer signals and alarms",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Backing is where signals meet ordinary site traffic. OSHA's construction rules for vehicles and equipment say that an employer may not use a motor vehicle with an obstructed view to the rear unless the vehicle has a reverse alarm audible above the surrounding noise level, or is backed up only when an observer signals that it is safe [S10]. The equivalent rule for earthmoving or compacting equipment is in 1926.602(a)(9)(ii) [S10]."
+    },
+    {
+     "type": "quote",
+     "text": "No employer shall use any motor vehicle equipment having an obstructed view to the rear unless:",
+     "source": "S10"
+    },
+    {
+     "type": "p",
+     "text": "That sentence continues with the two options just described. A March 2010 letter adds two interpretations. Where a backup camera gives the driver an unobstructed view to the rear, a clear view of the path so the driver can see anyone in it or about to enter it, the alarm-or-observer requirement is not triggered [S10]. And a radar or doppler system can satisfy the requirement, as long as it gives adequate warning to workers in the path and to those walking toward it in time to avoid contact [S10]. The letter notes that OSHA's rules give employers flexibility in the technology used to meet the requirement [S10]."
+    },
+    {
+     "type": "p",
+     "text": "OSHA's backover page lists how these incidents happen: drivers may not see a worker in a blind spot, workers may not hear alarms over site noise or because the alarms are not working, a spotter helping one truck may not see another truck behind him, workers riding on vehicles can fall off, and drivers may assume the area is clear [S9]. Dump trucks account for the most backover fatalities in OSHA's 2005 to 2010 data on that page, with 67, ahead of semi tractor-trailers at 40 [S9]."
+    },
+    {
+     "type": "case",
+     "title": "A June 2009 work zone death with an alarm and lights working",
+     "paragraphs": [
+      "OSHA's backovers page describes a June 18, 2009 incident, OSHA Inspection Number 313225377. An employee was working inside a work zone and wearing his reflective safety vest. A dump truck operating in the work zone backed up and struck him with its rear passenger-side wheels, and he was killed. The dump truck had an audible back-up alarm and operating lights [S9]. The page gives no further detail on the work zone, the employer, or any citation."
+     ],
+     "takeaway": "The vest, the alarm and the lights were all present, and the worker was still killed. The page does not explain why, and speculating would go past the source. What it shows is that the two things Subpart G and the vehicle rules ask for, visibility and a warning sound, are not a plan by themselves. A site traffic plan that separates pedestrians from truck routes, assigns an observer where trucks back toward people, and limits who is on foot inside the work zone covers what a vest and an alarm cannot. That is a coordinator's judgment about layering controls, not a rule in the cited pages."
+    }
+   ]
+  },
+  {
+   "heading": "Reading signs and signals as a coordinator",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "None of the sources above gives a site coordinator a checklist, so what follows is judgment built on what the sources say."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Pick one owner for the traffic control plan at each entrance and each closure. KS Energy and Dorner built opposite ends of the same zone, and the citation landed on one of them [S11].",
+      "Walk the approach as a driver would, from the direction traffic comes. In the KS Energy case the compliance officer approached by car from the west, and the Commission found the arrow sign too close to the transition [S11].",
+      "Ask for the signal person's and flagger's training record, and for the equipment's posted hand signal chart, before the first pick or the first delivery day [S5][S6][S7][S16].",
+      "Put sign removal on the phase closeout, since signs required by the subpart are to be removed or covered promptly when the hazard is gone [S1].",
+      "Decide up front who sets and retrieves cones and with what vehicle, since the directive flags that task as a general duty clause exposure [S5].",
+      "When trades stack on one laydown area, mark the truck routes and the walking routes differently, since backing and blind spots are how most of the backover deaths in OSHA's data happened [S9]."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "A last note on sources. The work zone directive is dated October 16, 2012, and quotes the standards as they read then [S5]. The fetched copy does not say whether it has been replaced. The 2009 high-visibility letter and the 2010 backing letter are interpretations that say they cannot create additional employer obligations beyond the standards [S13][S10]. Treat all three as OSHA's stated reading of the rule, not as the rule."
+    }
+   ]
+  }
+ ]
+}

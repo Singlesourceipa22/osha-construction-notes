@@ -1,0 +1,304 @@
+{
+ "module": 2,
+ "title": "Fall Hazards",
+ "sources": [
+  {
+   "id": "S1",
+   "title": "29 CFR 1926.501, Duty to have fall protection",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.501"
+  },
+  {
+   "id": "S2",
+   "title": "29 CFR 1926.502, Fall protection systems criteria and practices",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.502"
+  },
+  {
+   "id": "S3",
+   "title": "29 CFR 1926.451, Scaffolds: general requirements",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.451"
+  },
+  {
+   "id": "S4",
+   "title": "29 CFR 1926.1053, Ladders",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1053"
+  },
+  {
+   "id": "S5",
+   "title": "29 CFR 1926.503, Fall protection training requirements",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.503"
+  },
+  {
+   "id": "S6",
+   "title": "29 CFR 1926.500, Fall protection scope, application and definitions",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.500"
+  },
+  {
+   "id": "S7",
+   "title": "29 CFR 1926.1060, Ladder and stairway training requirements",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1060"
+  },
+  {
+   "id": "S8",
+   "title": "OSHA engineering report, Investigation of the January 10, 2020, Scaffold Collapse in Saipan (July 2020)",
+   "url": "https://www.osha.gov/sites/default/files/2023-07/2020_r_01.pdf"
+  },
+  {
+   "id": "S9",
+   "title": "OSHA news release, Fort Lauderdale tower crane rigger fall (Oct. 29, 2024)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20241029"
+  },
+  {
+   "id": "S10",
+   "title": "OSHA news release, Brooklyn scaffold erector fall (June 16, 2021)",
+   "url": "https://www.osha.gov/news/newsreleases/new-york-city/20210616"
+  },
+  {
+   "id": "S11",
+   "title": "OSHA news release, Port of Wilmington scaffold fall (Aug. 8, 2019)",
+   "url": "https://www.osha.gov/news/newsreleases/philadelphia/20190808"
+  },
+  {
+   "id": "S12",
+   "title": "OSHA news release, Florida roofing company fatal fall (Apr. 24, 2026)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20260424"
+  }
+ ],
+ "sections": [
+  {
+   "heading": "The numbers that trigger protection, and where they differ",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Six feet is the general line in construction: an employee on a walking/working surface with an unprotected side or edge 6 feet or more above a lower level must be protected by guardrails, safety nets or a personal fall arrest system [S1]. The line moves depending on what the person is standing on. On a scaffold it is 10 feet [S3]. For people near a wall opening it depends on two measurements, the outside bottom edge at least 6 feet above the lower level and the inside bottom edge less than 39 inches above the floor [S1]. Around dangerous equipment, protection starts at any height, because an employee less than 6 feet above it must be kept from falling into or onto it by guardrails or equipment guards [S1]. Anyone coordinating a data hall build who carries only the number six in their head will miss the cases where the rule is stricter."
+    },
+    {
+     "type": "quote",
+     "text": "Each employee on a walking/working surface (horizontal and vertical surface) with an unprotected side or edge which is 6 feet (1.8 m) or more above a lower level shall be protected from falling by the use of guardrail systems, safety net systems, or personal fall arrest systems.",
+     "source": "S1"
+    },
+    {
+     "type": "p",
+     "text": "The definitions do real work here, and they are in the scope section, not in the protection section. A hole is a gap 2 inches or more in its least dimension in a floor, roof or other walking/working surface; an opening, by contrast, is a gap in a wall or partition at least 30 inches high and 18 inches wide [S6]. An unprotected side or edge is any side or edge of a walking/working surface with no wall or guardrail at least 39 inches high [S6]. Lower levels are anything an employee can fall to, and the definition names ground, floors, platforms, excavations, pits, tanks, material, water and equipment [S6]. A floor that has been poured but not yet got its perimeter rail is an unprotected edge. So is the edge of a mezzanine slab where the stair is not yet in."
+    },
+    {
+     "type": "p",
+     "text": "The standard also makes a statement about when protection has to exist. Employers must provide and install the required fall protection systems before the employee begins the work that needs them [S2]. That sentence is the one to hold a late subcontractor to. Fall protection is not part of the work package that gets sorted out after mobilization."
+    },
+    {
+     "type": "quote",
+     "text": "Employers shall provide and install all fall protection systems required by this subpart for an employee, and shall comply with all other pertinent requirements of this subpart before that employee begins the work that necessitates the fall protection.",
+     "source": "S2"
+    }
+   ]
+  },
+  {
+   "heading": "Edges, holes, hoist areas and roofs on a large building",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Holes are where trade stacking does the damage. The rule requires that employees on walking/working surfaces be protected from falling through holes, including skylights, more than 6 feet above a lower level, by personal fall arrest systems, covers or guardrails erected around the hole [S1]. Separate paragraphs add that employees must be protected from tripping in or stepping into holes by covers and from objects falling through holes by covers [S1]. A core drill crew, a sleeve installer and a firestopping crew can each leave a different hole in the same slab on the same day. The practical question for the coordinator is who is walking the deck at end of shift looking for uncovered penetrations and who owns the cover once it has been lifted for a pull."
+    },
+    {
+     "type": "p",
+     "text": "The guardrail rule for hoist areas fits the way material arrives on a big job. Employees in a hoist area must be protected from falling 6 feet or more by guardrails or personal fall arrest systems, and if the rail or its chain or gate is removed so that material can be landed, an employee who has to lean through the opening or out over the edge to receive or guide the load must be on a personal fall arrest system [S1]. When guardrails are used at hoisting areas, a chain, gate or removable guardrail section must be placed across the access opening whenever hoisting is not taking place [S2]. The failure mode is the rail that comes off for the first delivery of the morning and is still off at lunch. The rule for a personal fall arrest system at a hoist area adds that it must be rigged so the employee can move only as far as the edge of the walking/working surface [S2]."
+    },
+    {
+     "type": "p",
+     "text": "Leading edges get their own treatment. A leading edge is the edge of a floor, roof or formwork that changes location as more decking, forms or floor sections are placed, and it counts as an unprotected side and edge whenever it is not actively and continuously under construction [S6]. Employees constructing a leading edge 6 feet or more above a lower level are covered by the same three options of guardrails, nets or personal fall arrest. There is one exception: if the employer can show that all of these are infeasible or create a greater hazard, it must develop and implement a written fall protection plan meeting paragraph (k) of the criteria section [S1]. The standard does not treat this as a normal alternative. It says there is a presumption that at least one conventional system is feasible and will not create a greater hazard, and that the employer carries the burden of showing otherwise [S1]. The plan option exists only for leading edge work, precast concrete erection and residential construction [S2]. A coordinator who is handed a fall protection plan for steel deck or tilt-up panel work should ask what makes conventional systems infeasible there, because the standard puts that question on the employer and the presumption runs against the plan."
+    },
+    {
+     "type": "p",
+     "text": "For a large flat roof the options for a roof with unprotected sides and edges 6 feet or more up are the usual three plus combinations that involve a warning line: warning line with guardrail, with net, with personal fall arrest, or with a safety monitoring system [S1]. A safety monitoring system alone, without a warning line, is allowed only on roofs 50 feet or less in width [S1]. A data center roof is unlikely to be that narrow, so monitoring alone will rarely be available there. That is a reading of the width limit, not the standard's words. Warning lines go not less than 6 feet from the roof edge when no mechanical equipment is being used, and not less than 10 feet from an edge perpendicular to the direction of equipment operation when mechanical equipment is in use [S2]. The monitor has to be competent to recognize fall hazards, on the same surface and within sight of the person monitored, close enough to talk to them, and must have no other duties that could pull attention away [S2]."
+    }
+   ]
+  },
+  {
+   "heading": "Guardrails: dimensions that decide whether a rail counts",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Guardrail height is 42 inches plus or minus 3 inches above the walking/working level, and it may exceed 45 inches as long as everything else in the paragraph is satisfied [S2]. A midrail, screen, mesh or intermediate member is required between the top edge and the surface when there is no wall or parapet at least 21 inches high, with midrails midway between the top edge and the surface, balusters no more than 19 inches apart, and no opening wider than 19 inches [S2]. The top rail must withstand 200 pounds applied within 2 inches of the top edge, in any outward or downward direction, and when that load is applied downward the top edge may not deflect below 39 inches [S2]. Midrails and the like must withstand 150 pounds [S2]."
+    },
+    {
+     "type": "p",
+     "text": "Steel or plastic banding may not be used as a top rail or midrail, and wire rope used as a top rail must be flagged with high-visibility material at intervals of no more than 6 feet [S2]. One rule matters for how crews improvise: personal fall arrest systems may not be attached to guardrail systems, and may not be attached to hoists except as other subparts allow [S2]. A guardrail is a barrier, not an anchorage."
+    }
+   ]
+  },
+  {
+   "heading": "Personal fall arrest: where most of the paperwork and most of the failures live",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Body belts have not been acceptable as part of a personal fall arrest system since January 1, 1998, and only locking snaphooks are permitted [S2]. If a 2017 era guide still shows belts in an arrest diagram, it is wrong. Dee-rings and snaphooks need a minimum tensile strength of 5,000 pounds, and lanyards and vertical lifelines a minimum breaking strength of 5,000 pounds [S2]. The system must be rigged so an employee cannot free fall more than 6 feet or contact any lower level, limit the deceleration distance to 3.5 feet and cap the arresting force on a body harness at 1,800 pounds [S2]. Attachment is at the center of the back near shoulder level or above the head [S2]."
+    },
+    {
+     "type": "p",
+     "text": "The anchorage rule is where the paper and the field separate. Anchorages must be independent of any anchorage being used to support or suspend platforms, and capable of supporting at least 5,000 pounds per employee attached, or be designed, installed and used as part of a complete system with a safety factor of at least two under the supervision of a qualified person [S2]."
+    },
+    {
+     "type": "quote",
+     "text": "Anchorages used for attachment of personal fall arrest equipment shall be independent of any anchorage being used to support or suspend platforms and capable of supporting at least 5,000 pounds (22.2 kN) per employee attached",
+     "source": "S2"
+    },
+    {
+     "type": "p",
+     "text": "On a large job the anchor is usually a structural member someone else is about to modify. A beam flange that carried a tie-off on Monday may have a bracket welded to it on Wednesday. The standard does not make the coordinator the person who determines anchor capacity, since that falls to the employer and its competent or qualified person, but a site that has no list of approved tie-off points and who certified them is relying on each foreman's guess. The Brooklyn case below includes a citation for exactly that missing determination [S10]."
+    },
+    {
+     "type": "p",
+     "text": "Use and inspection rules are short. Systems must be inspected before each use for wear, damage and other deterioration, and defective components must be removed from service [S2]. A system or component that has been subjected to impact loading must be removed from service immediately and not used again until a competent person inspects it and decides it is undamaged and suitable for reuse [S2]. Lifelines must be protected against being cut or abraded [S2]. Harnesses and belts may not be used to hoist materials [S2]."
+    }
+   ]
+  },
+  {
+   "heading": "Case: the tower crane climb at Fort Lauderdale",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The Fort Lauderdale release is useful because it names two companies on one lift and shows how fall protection and equipment condition fail together."
+    },
+    {
+     "type": "case",
+     "title": "Rigger falls about 30 stories from a tower crane platform",
+     "paragraphs": [
+      "OSHA's release says an investigation found two contractors could have prevented a crane collapse at a Fort Lauderdale residential construction site in April 2024, in which a 27-year-old rigger fell approximately 30 stories and was fatally injured [S9]. Two workers employed by Phoenix Rigging & Erecting LLC were installing a section on a tower crane to increase its height when a support cable failed and the platform they stood on became displaced [S9]. One of the two was wearing the required fall protection and was tied off, and was rescued [S9]. The other worker's lanyard was not connected to an anchor point, and that worker died [S9].",
+      "OSHA cited Phoenix with three serious violations, for failing to identify and replace or repair corroded and cracked pins or bolts designed to secure the crane's climbing frame and to apply end connections properly, for failing to ensure the use of fall protection equipment, and for failing to conduct pre-inspections of crane components before work began [S9]. The release also cited the crane rental company, Maxim Crane Works LP, for two serious violations: observing deficiencies to significantly corroded and cracked pins and bolts and improperly applied end connections, and allowing employees to start work without pre-inspections of components such as U-bolt clamps, bolts, pins, thimbles and wire ropes by a qualified person [S9]. The proposed penalties for the five serious violations were $61,299, which the release describes as the maximum amount OSHA can legally recommend, and both companies had 15 business days to comply, ask for an informal conference or contest [S9]. The release does not say how the cases were resolved, and it does not say who the general contractor was or what the project owner knew."
+     ],
+     "takeaway": "This one is a lesson in what the tie-off was doing. The same event killed the worker who was not connected and spared the one who was, while the equipment failure was shared by everyone on the platform. A coordinator cannot inspect a crane's pins, and the release shows OSHA cited both the rental company and the rigging contractor over it. What the coordinator can do is require that the lift plan names the anchor each person will use before the climb starts, that someone other than the crew checks connection at the start, and that the rental company's inspection record is in the pre-lift package. Treat a missing record as a stop. These are recommendations; the release states only what OSHA found and cited."
+    }
+   ]
+  },
+  {
+   "heading": "Scaffolds: design, load, and the person who is supposed to be watching",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The scaffold standard starts with strength. Each scaffold and scaffold component must support, without failure, its own weight and at least four times the maximum intended load applied or transmitted to it [S3]. Each suspension rope, including connecting hardware, on non-adjustable suspension scaffolds must support at least six times the maximum intended load on that rope, and the same six-times rule applies to adjustable suspension scaffolds [S3]. Scaffolds must be designed by a qualified person and constructed and loaded in accordance with that design [S3]."
+    },
+    {
+     "type": "quote",
+     "text": "each scaffold and scaffold component shall be capable of supporting, without failure, its own weight and at least 4 times the maximum intended load applied or transmitted to it.",
+     "source": "S3"
+    },
+    {
+     "type": "p",
+     "text": "Those ratios are not paperwork. In the case below, OSHA's engineers ran them against the scaffold that fell."
+    },
+    {
+     "type": "case",
+     "title": "Hotel expansion scaffold collapse in Saipan, January 10, 2020",
+     "paragraphs": [
+      "Three employees were working on a scaffold attached to the fourth floor of a hotel on Saipan when the cables supporting it failed and it collapsed. The scaffold was about 17 feet long and 15 feet wide, and was being used to pass materials into the building; the employees and materials fell 10 feet to the concrete floor below, and all three were injured [S8]. The project was an expansion of an existing hotel and casino. The owner, Imperial Pacific International, LLC, was also the general contractor [S8]. The report says five other scaffolds of similar design were in use on the site, in different configurations, without specifications or proper engineering drawings [S8].",
+      "These scaffolds resembled needle beam scaffolds. One end was attached to the building beams on the platform's own level and the other end hung from four cables looped over beams and columns on higher floors [S8]. A crane moved material from the ground to the platform, and the scaffold components were then taken down and moved to a new location by the contractor and reassembled there by the general contractor [S8]. At the time of the collapse the platform held a crate of granite reinforced concrete panels. The platform was weighed after the fact at about 4,000 pounds and the material at about 12,000 pounds [S8]. The contractor's sketch showed no section details or properties for the steel, and no connection details for the supports or cables [S8].",
+      "The cables were half-inch steel guy wire, wrapped around beams and columns without protection, and the Salt Lake Technical Center found them extremely corroded, with corrosion assisted brittle failure of the wires and bending around a small radius also contributing [S8]. The report says the rope clips were not installed properly [S8]. It concludes that the two cables nearest the building slid through their connections and became ineffective, which shifted load to the two outer cables and the beam supports, which then failed [S8]. In the engineers' model, the load at the time of the collapse produced a cable tension below the assumed breaking strength, so the report tested higher multiples. At four times the live load the cables nearest the building would carry 21,400 pounds against an assumed 16,140 pound breaking strength, and at six times they would carry 31,400 pounds [S8]. The 16,140 figure assumed a 40 percent reduction from the cable's maximum 26,900 pound strength to allow for corrosion, and the report states that the quality of the steel was not determined [S8]. OSHA concluded the scaffold did not meet the four-times requirement or the six-times requirement for suspension ropes, that it was not built and loaded according to a design, and that the contractor had never determined its safe load capacity [S8]. The report is an engineering assessment prepared with remote help from the Directorate of Construction; the engineers did not visit the site [S8]. It does not say what citations or penalties followed, so none are stated here."
+     ],
+     "takeaway": "The failure was visible to anyone who knew what to look for: rusted cable, wire wrapped on sharp beam corners, clips installed improperly, no drawing, a 12,000 pound crate. A coordinator's early signs are simpler. Ask for the scaffold design and load rating for any platform that is not a catalog product, and ask what the stated maximum load is. If the answer is that the crew has always done it this way, the load on the platform is unknown. A reused, field-built platform that moves from opening to opening is a design question each time it moves. Also note that OSHA's analysis found the platform's geometry was not a contributing factor, so a platform that looks sturdy tells you nothing about its supports [S8]."
+    },
+    {
+     "type": "p",
+     "text": "Daily practice is where scaffolds are held to account. Scaffolds and components must be inspected for visible defects by a competent person before each work shift and after any occurrence that could affect structural integrity [S3]. Scaffolds must be erected, moved, dismantled or altered only under the supervision and direction of a competent person qualified in those tasks, and the work must be done by experienced, trained employees selected by that competent person [S3]. A scaffold may not be loaded beyond its maximum intended load or rated capacity, whichever is less [S3]. A scaffold may not be moved horizontally while employees are on it, unless it was designed by a registered professional engineer for that movement or, for mobile scaffolds, specific rules are followed [S3]."
+    },
+    {
+     "type": "quote",
+     "text": "Each employee on a scaffold more than 10 feet (3.1 m) above a lower level shall be protected from falling to that lower level.",
+     "source": "S3"
+    },
+    {
+     "type": "p",
+     "text": "What protects people depends on scaffold type. Employees on boatswains' chairs, catenary scaffolds, float scaffolds, needle beam scaffolds or ladder jack scaffolds need a personal fall arrest system, and those on single-point or two-point adjustable suspension scaffolds need both a personal fall arrest system and a guardrail [S3]. For platforms in general, guardrails must be installed along all open sides and ends before the scaffold is released for use by anyone other than the erection and dismantling crews [S3]. Top rails on supported scaffolds placed in service after January 1, 2000 sit between 38 and 45 inches above the platform, a different range from the 42 inches plus or minus 3 in the general guardrail rule [S3]. The scaffold also has to be planked: gaps between units and between the platform and the uprights may be no more than 1 inch, except where the employer can demonstrate a wider space is needed, in which case the platform is decked as fully as possible and the remaining opening cannot exceed 9.5 inches [S3]."
+    },
+    {
+     "type": "case",
+     "title": "Brooklyn: scaffold erector, harness not tied off",
+     "paragraphs": [
+      "The first people on a scaffold are the ones building it. A 21-year-old laborer fell nearly 50 feet on November 13, 2020 while installing a supported tubular welded frame scaffold on a seven-story Brooklyn building under construction [S10]. OSHA's investigation determined his employer, Everest Scaffolding Inc. of the Bronx, failed to ensure his fall arrest harness was attached [S10].",
+      "OSHA proposed $300,370 in penalties for two willful and two serious violations. The release lists four findings: failing to evaluate the feasibility of fall protection and to use feasible fall protection during erection of a supported scaffold; not properly training employees on fall hazards associated with scaffold work; not inspecting fall arrest systems before use; and not determining whether the anchorage for employees' personal fall arrest systems could support at least 5,000 pounds [S10]. The company contested the findings before the Occupational Safety and Health Review Commission [S10], so these are OSHA's allegations as of the release and not a final ruling."
+     ],
+     "takeaway": "The scaffold standard treats erectors differently from users: a competent person determines the feasibility and safety of providing fall protection for people erecting or dismantling supported scaffolds, and the employer must provide it where installing and using it is feasible and does not create a greater hazard [S3]. The release shows the practical gap: a harness on the worker is not the same thing as a harness connected to something rated for 5,000 pounds. For a coordinator, the erection and dismantle phase is when scaffold subcontractors are most likely to be under schedule pressure and least likely to have a second person looking at them. Ask the scaffold sub for its written determination before the crew arrives, and ask who checks tie-off at the start of each shift."
+    },
+    {
+     "type": "quote",
+     "text": "Employers are required to provide fall protection for employees erecting or dismantling supported scaffolds where the installation and use of such protection is feasible and does not create a greater hazard.",
+     "source": "S3"
+    },
+    {
+     "type": "p",
+     "text": "The Port of Wilmington release shows what the multi-employer version of a scaffold fall looks like. In January 2019 a Blastco employee fell 40 feet from a scaffold while two contractors, Enerfab Process Solutions & Fabricated Products Inc. and Industrial Services Group Inc., renovated a 1.5 million gallon storage tank at an orange juice processing facility [S11]. OSHA issued willful citations to both companies for scaffolding and fall protection hazards, plus serious citations for electrical, confined space and respiratory protection, with proposed penalties of $687,619 [S11]. The release is not clear about which company employed the worker beyond saying the Blastco employee fell and that Industrial Services Group does business as Universal Blastco, so it should not be read as an allocation of fault between them [S11]. Enerfab filed a notice of contest [S11]. For a coordinator the lesson is the one the release states by naming both firms: when two employers share a scaffold-related exposure, OSHA can cite both, and the same release cites electrical, confined space and respiratory protection violations on top of the fall hazards."
+    }
+   ]
+  },
+  {
+   "heading": "Portable ladders: short rules, constant violations",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The ladder rules are mundane, which is why they are skipped. A portable ladder used for access to an upper landing must have side rails extending at least 3 feet above the landing. If that is not possible because of the ladder's length, it must be secured at the top to a rigid support that will not deflect, and a grasping device such as a grabrail must be provided [S4]. Non-self-supporting ladders are used at an angle where the horizontal distance from the top support to the foot is approximately one-quarter of the working length [S4]. Ladders may be used only on stable and level surfaces unless secured to prevent accidental displacement [S4]."
+    },
+    {
+     "type": "quote",
+     "text": "When portable ladders are used for access to an upper landing surface, the ladder side rails shall extend at least 3 feet (.9 m) above the upper landing surface to which the ladder is used to gain access",
+     "source": "S4"
+    },
+    {
+     "type": "p",
+     "text": "On a data center the doorway rule is the one that fails. Temporary corridors, double doors into the electrical rooms and the aisle between racks are all traffic paths, and a stepladder left open in a doorway while someone goes for a tool is a displaced-ladder case waiting for a forklift or a cart. Another rule matters when ladders are used in electrical rooms: ladders must have nonconductive side rails if the employee or ladder could contact exposed energized electrical equipment [S4]. A metal ladder in a room that is about to be energized is a hazard the ladder standard speaks to directly, and it belongs on the same walk as the lockout plan."
+    },
+    {
+     "type": "p",
+     "text": "A ladder placed where it can be displaced by workplace activities or traffic, such as in passageways or doorways, must be secured or barricaded off [S4]. Ladders may not be moved, shifted or extended while occupied, and a defective portable ladder must be tagged \"Do Not Use\" or similar and withdrawn until repaired [S4]. Ladders need nonconductive side rails where the employee or ladder could contact exposed energized electrical equipment [S4]. A stepladder left open in a temporary doorway while someone fetches a tool is a displaced-ladder case waiting for a cart; a metal ladder in a room about to be energized belongs on the same walk as the lockout plan."
+    },
+    {
+     "type": "p",
+     "text": "The ladder standard has its own training section, separate from the fall protection training rule. The employer must train each employee who uses ladders and stairways, by a competent person, in the nature of fall hazards in the work area, the proper construction, use, placement and care in handling of all stairways and ladders, and the maximum intended load-carrying capacities of ladders used [S7]."
+    }
+   ]
+  },
+  {
+   "heading": "Training, certification, and what is current",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The fall protection training rule requires a program for each employee who might be exposed to fall hazards that enables the employee to recognize the hazards and trains the employee in the procedures to minimize them [S5]. The training is by a competent person qualified in the nature of fall hazards in the work area, the correct procedures for erecting, maintaining, disassembling and inspecting the systems to be used, the use and operation of guardrail systems, personal fall arrest systems, nets, warning lines, safety monitoring systems and controlled access zones, the role of employees in a safety monitoring system and in fall protection plans, and the standards in the subpart [S5]."
+    },
+    {
+     "type": "p",
+     "text": "The employer verifies it with a written certification record that contains the name or other identity of the employee trained, the date or dates of training, and the signature of the trainer or the employer [S5]. If the employer relies on training by another employer or training done before the rule took effect, the record must show the date the employer determined that earlier training was adequate [S5]. The latest certification must be kept [S5]. That is useful on a multi-employer site. A card from a prior job is not training for the system in use on this one, and the record has to reflect the employer's own determination."
+    },
+    {
+     "type": "p",
+     "text": "Retraining is required when the employer has reason to believe an affected employee lacks the understanding or skill, including when changes in the workplace or in the types of fall protection equipment make earlier training obsolete, or when the employee's knowledge or use of the equipment shows inadequacy [S5]. A site that changes anchorage method halfway through a building, say from a horizontal lifeline to self-retracting lanyards, has triggered that clause for the crews affected."
+    },
+    {
+     "type": "p",
+     "text": "Training is cited on its own and as an add-on to the hazard itself. In the April 2026 release on Pasat Roofing and Solar Energy, two workers slipped from a two-story residence roof into an empty pool on September 24, 2025, one fatally; OSHA cited the employer for one willful violation for allowing both employees to work without personal fall protection at heights over 20 feet, along with serious violations for inadequate training on recognizing fall hazards and for lacking a hazard communication program, proposing $172,324 in penalties, and the company contested [S12]. The Brooklyn release makes the same pairing, with a training finding alongside the fall protection findings [S10]."
+    },
+    {
+     "type": "p",
+     "text": "On what is current: the pages show how recently each standard was amended. The fall protection duty and criteria sections, 1926.501 and 1926.502, show amendments through 1994 and 1995, and the training section 1926.503 through the same dates [S1][S2][S5]. The scaffold standard shows amendments through 1996 [S3]. The ladder standard shows a last amendment in 2014 [S4]. Those pages show no change after 2017 to the numbers above, so a 2017 guide that gives 6 feet, 10 feet on scaffolds, 42 inches for guardrails, 200 pounds and 5,000 pounds is still right on them. The older-guide error to watch for is the belt: body belts are not acceptable as part of a personal fall arrest system and only locking snaphooks may be used, both effective January 1, 1998 [S2]. Regulatory actions outside these pages were not checked."
+    }
+   ]
+  },
+  {
+   "heading": "What to ask for before the work starts",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "This is judgment, not a legal list. The standards say who must do what; a coordinator's work is making sure the answers exist before the crew is on the deck."
+    },
+    {
+     "type": "list",
+     "items": [
+      "For every elevated surface, who owns the edge and hole protection, and who checks the covers and rails at the end of each shift. The rules require protection before the work begins [S2].",
+      "For every crew working from a harness, the named anchor and who rated it. The standard asks for 5,000 pounds per employee, or an engineered system with a safety factor of two under a qualified person, and independence from anything that supports a platform [S2].",
+      "For every scaffold that is not a standard catalog build, the design by a qualified person and the load rating, and the name of the competent person who inspects it before each shift [S3].",
+      "For erection and dismantle phases, the written feasibility determination for fall protection, and who is watching the tie-off [S3][S10].",
+      "For rescue, a plan that names equipment and people, since the standard requires prompt rescue or self-rescue and offers no time figure [S2].",
+      "For rentals and field-built equipment, the inspection record before use. The Fort Lauderdale release cites a rental company for not catching what a pre-inspection should have found [S9].",
+      "For training, the certification record with the employer's own name and the date, not a prior employer's card [S5]."
+     ]
+    }
+   ]
+  }
+ ]
+}

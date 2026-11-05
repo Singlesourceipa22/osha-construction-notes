@@ -1,0 +1,445 @@
+{
+ "module": 14,
+ "title": "Cranes, Derricks, Hoists, Elevators and Conveyors",
+ "sources": [
+  {
+   "id": "S1",
+   "title": "29 CFR 1926.1400, Cranes and derricks: scope",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1400"
+  },
+  {
+   "id": "S2",
+   "title": "29 CFR 1926.1402, Ground conditions",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1402"
+  },
+  {
+   "id": "S3",
+   "title": "29 CFR 1926.1408, Power line safety (up to 350 kV)",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1408"
+  },
+  {
+   "id": "S4",
+   "title": "29 CFR 1926.1404, Assembly/disassembly: general requirements",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1404"
+  },
+  {
+   "id": "S5",
+   "title": "29 CFR 1926.1412, Inspections",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1412"
+  },
+  {
+   "id": "S6",
+   "title": "29 CFR 1926.1417, Operation",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1417"
+  },
+  {
+   "id": "S7",
+   "title": "29 CFR 1926.1419, Signals: general requirements",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1419"
+  },
+  {
+   "id": "S8",
+   "title": "29 CFR 1926.1420, Signals: radio and electronic",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1420"
+  },
+  {
+   "id": "S9",
+   "title": "29 CFR 1926.1421, Signals: voice",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1421"
+  },
+  {
+   "id": "S10",
+   "title": "29 CFR 1926.1424, Work area control",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1424"
+  },
+  {
+   "id": "S11",
+   "title": "29 CFR 1926.1427, Operator training, certification and evaluation",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1427"
+  },
+  {
+   "id": "S12",
+   "title": "29 CFR 1926.1428, Signal person qualifications",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1428"
+  },
+  {
+   "id": "S13",
+   "title": "29 CFR 1926.1431, Hoisting personnel",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1431"
+  },
+  {
+   "id": "S14",
+   "title": "29 CFR 1926.1435, Tower cranes",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1435"
+  },
+  {
+   "id": "S15",
+   "title": "29 CFR 1926.552, Material hoists, personnel hoists, and elevators",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.552"
+  },
+  {
+   "id": "S16",
+   "title": "29 CFR 1926.555, Conveyors",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.555"
+  },
+  {
+   "id": "S17",
+   "title": "29 CFR 1926.551, Helicopters",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.551"
+  },
+  {
+   "id": "S18",
+   "title": "29 CFR 1926.1401, Cranes and derricks: definitions",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1401"
+  },
+  {
+   "id": "S19",
+   "title": "29 CFR 1926.1432, Multiple-crane/derrick lifts",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1432"
+  },
+  {
+   "id": "S20",
+   "title": "OSHA news release, Palm Bay crane electrocution (Feb. 8, 2024)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20240208"
+  },
+  {
+   "id": "S21",
+   "title": "OSHA news release, Orlando SR-417 crane tip-over (Apr. 23, 2024)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20240423"
+  },
+  {
+   "id": "S22",
+   "title": "OSHA news release, Fort Lauderdale tower crane fall (Oct. 29, 2024)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20241029"
+  },
+  {
+   "id": "S23",
+   "title": "OSHA news release, Houston personnel platform fall (Sept. 17, 2021)",
+   "url": "https://www.osha.gov/news/newsreleases/dallas/20210917"
+  },
+  {
+   "id": "S24",
+   "title": "OSHA news release, Beaumont I-10 crane collapse (Oct. 14, 2021)",
+   "url": "https://www.osha.gov/news/newsreleases/dallas/20211014"
+  },
+  {
+   "id": "S25",
+   "title": "OSHA news release, New York City mini-crane fall (Jan. 7, 2019)",
+   "url": "https://www.osha.gov/news/newsreleases/new-york-city/20190107"
+  },
+  {
+   "id": "S26",
+   "title": "OSHA news release, Miami Beach pulley hoist fatality (Jan. 31, 2024)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20240131"
+  }
+ ],
+ "sections": [
+  {
+   "heading": "What the crane standard covers, and what it leaves out",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Subpart CC covers power-operated equipment used in construction that can hoist, lower and horizontally move a suspended load. The list runs well past the crawler and truck crane in everyone's head: articulating knuckle-boom cranes, boom trucks, floating cranes, tower cranes, overhead and gantry cranes, derricks, sideboom cranes, and multi-purpose machines when they are configured to lift on a winch or hook [S1]. Attachments count as part of the package, including concrete buckets, magnets, augers and personnel platforms [S1]."
+    },
+    {
+     "type": "p",
+     "text": "The exclusions matter more for coordination than the inclusions, because they decide which rulebook a piece of equipment falls under. Excavators, backhoes and wheel loaders are outside the subpart even when they are used with chains or slings to pick up a suspended load [S1]. Forklifts are outside it except when configured to hoist and lower on a winch or hook [S1]. Aerial lifts and self-propelled elevating work platforms are outside it [S1]. Helicopter cranes are outside it and fall under 1926.551 instead [S1][S17]. The standard also carves out knuckle-boom delivery trucks that only set material on the ground, and, with an automatic overload prevention device, ones that place sheet goods or packaged building supplies on a structure from a fork or cradle [S1]."
+    },
+    {
+     "type": "p",
+     "text": "A note on currency. The Subpart CC section pages carry amendment histories. The operator section, 1926.1427, lists August 9, 2010, September 26, 2014, November 9, 2017 and November 9, 2018 [S11]. If the course guide you were handed predates the 2018 changes, the operator-qualification material in it is likely stale; that section is covered below."
+    }
+   ]
+  },
+  {
+   "heading": "Ground and underground: the part the controlling entity owns",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Cranes tip over because of what is under the outriggers as often as because of what is on the hook. Subpart CC defines ground conditions as the ability of the ground to support the equipment, including slope, compaction and firmness [S2]. The equipment may not be assembled or used unless the ground is firm, drained and graded well enough that, with supporting materials if needed, the manufacturer's specifications for support and level are met [S2]."
+    },
+    {
+     "type": "p",
+     "text": "What is unusual about this section is who it assigns the problem to. The rule defines the controlling entity as the employer that is the prime contractor, general contractor, construction manager or other entity with overall responsibility for the project's planning, quality and completion [S18]. On the ground question, that entity has two duties. First, it provides the ground preparation:"
+    },
+    {
+     "type": "quote",
+     "text": "Ensure that ground preparations necessary to meet the requirements in paragraph (b) of this section are provided.",
+     "source": "S2"
+    },
+    {
+     "type": "p",
+     "text": "Second, it tells the crane user and operator where the hazards beneath the set-up area are (voids, tanks, utilities), if those hazards appear in documents the controlling entity holds, whether on site or off, such as site drawings, as-built drawings and soil analyses, or are otherwise known to it [S2]. If the assembly director or the operator decides the ground does not meet the requirement, that person's employer must raise it with the controlling entity so the needed preparation gets done [S2]."
+    },
+    {
+     "type": "p",
+     "text": "On a data center site the sentence about as-builts is the one to build a process around. These sites have duct banks, underground conduit, stormwater vaults, fuel tank pads and backfilled trenches that appear on a civil drawing set the crane subcontractor never saw. Sending the relevant sheets to the lift planner is not a courtesy under this rule; the controlling entity is the party the standard expects to do it. That is judgment, not rule text."
+    },
+    {
+     "type": "case",
+     "title": "Orlando, October 2023: a crane tips on a ramp and the swing radius is occupied",
+     "paragraphs": [
+      "Employees of two contractors were installing precast concrete sound barrier panels on a southbound SR-417 ramp in Orlando in October 2023 [S21]. OSHA's account is that a Concrete Impressions of Florida employee was working in an aerial lift while an Adcock Cranes employee lifted a 10,700-pound panel into place. An outrigger gave way and tipped the Liebherr crane toward a slope, and the boom struck the lift operator, who was in the crane's swing radius. The worker, 37, died [S21].",
+      "OSHA cited Adcock Cranes with one serious violation for not ensuring the ground conditions were adequate to support the crane, and proposed $16,131 in penalties [S21]. It cited Concrete Impressions with one serious violation for allowing workers to take apart and use extension ladders to reach the panels and one other-than-serious violation for not documenting the required 12-month record of inspections of a chain used to lift the panels, and proposed $4,839 [S21]. These are citations and proposed penalties as announced; the release does not report any outcome after contest.",
+      "The release does not say who prepared the slope or who knew what about it, so it cannot be read as an answer to the controlling-entity question. It does show two trades in the same few square yards at once: a crane crew setting panels and another employer's worker positioned in an aerial lift inside the swing radius."
+     ],
+     "takeaway": "The rule on rotating-superstructure hazards (covered below) exists for exactly this arrangement. When two subcontractors share a lift zone, the person coordinating should ask, before the panel leaves the truck, who is positioned where the boom can reach, who is checking the outrigger pads, and who answers if the pads are on fill. Aerial lifts are outside Subpart CC, so the lift crew's rulebook does not automatically tell the other trade to stay out; the zone has to be set by the schedule and the pre-lift talk."
+    }
+   ]
+  },
+  {
+   "heading": "Power lines: the rule is simple and the failures are in the setup",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The core of the power line rule: before operating, the employer identifies the work zone, either by marking boundaries and stopping the operator from working past them, or by treating the whole 360 degrees out to the maximum working radius as the zone [S3]. Then it determines whether any part of the equipment, the load line or the load, including rigging and lifting accessories, could get closer than 20 feet to a power line when operated up to that radius [S3]. If so, it picks one of three options: have the utility de-energize and visibly ground the line at the worksite, hold a 20-foot clearance with the encroachment precautions in the rule, or use the Table A minimum approach distance for the line's voltage, with the same precautions [S3]."
+    },
+    {
+     "type": "p",
+     "text": "The assumption rule does the most work:"
+    },
+    {
+     "type": "quote",
+     "text": "The employer must assume that all power lines are energized unless the utility owner/operator confirms that the power line has been and continues to be deenergized and visibly grounded at the worksite.",
+     "source": "S3"
+    },
+    {
+     "type": "p",
+     "text": "The precautions behind the 20-foot option include a planning meeting with the operator and nearby workers, non-conductive tag lines, an elevated warning line at the clearance distance, and at least one more measure such as a proximity alarm or a dedicated spotter [S3]. Where Table A is used, the utility must give the voltage within two working days of the request [S3], which makes it a schedule item: a lift planned for Thursday needs the request in early in the week. Operators and crew must also be trained to stay in the cab after contact unless fire or explosion forces them out [S3]."
+    },
+    {
+     "type": "case",
+     "title": "Palm Bay, August 2023: one uncertified operator, one truss lift, two 13,200-volt lines",
+     "paragraphs": [
+      "According to OSHA, on August 23, 2023, Capt'n Hook's Crane Service sent an uncertified crane operator alone to a residential construction project to lift and place metal-frame roof trusses [S20]. The crane was set up on an unpaved driveway. After the operator extended the boom for the first lift, the steel wire rope and chain rigging hanging from the boom contacted two 13,200-volt power lines next to the property. The operator, 34, was electrocuted [S20].",
+      "OSHA cited three serious violations: using an uncertified operator, operating a hydraulic crane within 20 feet of overhead power lines, and not putting the crane on a stable foundation with adequate cribbing. Two other-than-serious violations covered unmarked rigging equipment and illegible warning labels [S20]. Penalties were proposed and the employer had the usual right to contest [S20].",
+      "The release does not say whether any planning meeting, spotter or warning line was in place, and does not say who else was on site."
+     ],
+     "takeaway": "Single-crew crane deliveries show up on large projects too: a boom truck dropping a pallet of bus duct, a rental crane setting a chiller. The coordinator controls the part that failed here, which is the gate. Make the lift plan and the operator's certification a condition of the crane entering the site, with the power line check done on the day and recorded, not just assumed from the site logistics plan."
+    }
+   ]
+  },
+  {
+   "heading": "Operators, signal persons and who is allowed to be in the swing",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Under Subpart CC the employer must make sure each operator is trained, certified or licensed, and evaluated before operating covered equipment, with exceptions for derricks, sideboom cranes and equipment rated 2,000 pounds or less (those carry their own training rules) [S11]. Someone who has not been certified or licensed and evaluated can only run the equipment as an operator-in-training:"
+    },
+    {
+     "type": "quote",
+     "text": "An employee who has not been certified/licensed and evaluated to operate assigned equipment in accordance with this section may only operate the equipment as an operator-in-training under supervision in accordance with the requirements of paragraph (b) of this section.",
+     "source": "S11"
+    },
+    {
+     "type": "p",
+     "text": "An operator-in-training needs a trainer who is continuously monitoring, with direct line of sight (direct communication for tower cranes) and no distracting tasks, and the trainee may not run the equipment near power lines at the 20-foot and 50-foot thresholds in the rule, hoist personnel, work multiple-equipment lifts, or work over a shaft, cofferdam or tank farm unless certified [S11]."
+    },
+    {
+     "type": "p",
+     "text": "Where the 2017 course guide likely lags: the certification options. Certification from an accredited crane operator testing organization has to be based on equipment type, or type and capacity [S11]. The employer must also run its own evaluation of the operator, by someone with the knowledge, training and experience to assess operators, and document the operator's name, the evaluator's name and signature, the date, and the make, model and configuration of the equipment used [S11]. The evaluation and documentation provisions took effect February 7, 2019, and the rest of the revised section on December 10, 2018 [S11]. The documentation has to be available at the worksite while the operator works for the employer [S11]. So a card is necessary and still not enough; the second piece of paper is the employer's evaluation on the specific equipment."
+    },
+    {
+     "type": "p",
+     "text": "Signal persons are a separate qualification. The standard requires one when the point of operation is out of the operator's full view, when travel is obstructed, or when the operator or the person handling the load decides site conditions call for one [S7]:"
+    },
+    {
+     "type": "quote",
+     "text": "The point of operation, meaning the load travel or the area near or at load placement, is not in full view of the operator.",
+     "source": "S7"
+    },
+    {
+     "type": "p",
+     "text": "A signal person is qualified either by documentation from a third-party qualified evaluator or by the employer's own qualified evaluator, with the second option not portable to another employer, and the documentation must be at the site and say which kinds of signaling the person is qualified for [S12]. Signals can be hand, voice, audible or other approved types. Hand signals use the Standard Method in the subpart's appendix unless a non-standard set is agreed beforehand by the signal person, operator and lift director [S7]. Voice signals need the same advance agreement and a fixed order of function, direction, distance or speed, then function and stop [S9]. Radio or other electronic signals require on-site testing, a dedicated channel (shared only by multiple cranes and signal persons coordinating one operation, or the railroad exception), and hands-free reception by the operator [S8]."
+    },
+    {
+     "type": "p",
+     "text": "The standard also covers people on foot. Where the rotating superstructure poses a reasonably foreseeable strike or pinch risk in accessible areas, the employer must train authorized personnel to recognize the hazard areas and erect control lines, warning lines, railings or similar barriers, or, only if it shows barriers are not feasible, use warning signs and high-visibility markings on the equipment [S10]. Before an employee goes into a part of the hazard area that the operator cannot see, the operator has to be told, and the operator must not rotate the superstructure until a pre-arranged system of communication confirms the employee is in a safe position [S10]. For multiple cranes in one area:"
+    },
+    {
+     "type": "quote",
+     "text": "Where any part of a crane/derrick is within the working radius of another crane/derrick, the controlling entity must institute a system to coordinate operations.",
+     "source": "S10"
+    },
+    {
+     "type": "p",
+     "text": "That sentence is the one that lands on a coordinator's desk. On a campus with several tower or crawler cranes setting structural steel, precast and mechanical yard equipment, the controlling entity owns the coordination system, whatever the individual crane subs do. Where more than one crane supports one load, a separate section requires a qualified person to plan the operation to meet the subpart [S19]."
+    }
+   ]
+  },
+  {
+   "heading": "Tower cranes and assembly: where the long-lead hazards sit",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Assembly and disassembly must be directed by an A/D director, meaning a person who is both competent and qualified, or a competent person assisted by qualified persons [S4]. The director has to understand the applicable procedures, review them right before the work unless familiar with that exact equipment and configuration, and make sure the crew understands the hazards of their tasks and the locations to avoid, repeating this when crew members change tasks or new people join [S4]. The director must address hazards that include site and ground bearing conditions [S4]. Employees must not be under the boom, jib or other components while pins are being removed, except where site constraints require it and the director uses procedures to minimize the risk and the duration of exposure [S4]."
+    },
+    {
+     "type": "p",
+     "text": "Tower cranes get supplemental rules. Foundations and structural supports must be designed by the manufacturer or a registered professional engineer, and the A/D director must determine that they were installed per the design [S14]. Towers must be plumb to the manufacturer's tolerance or, if none is specified, at least 1:500, about 1 inch in 40 feet, verified by a qualified person [S14]. Before and during climbing, a registered professional engineer must verify that the host structure can sustain the forces imposed through the braces, anchorages and supporting floors [S14]. Where more than one fixed-jib tower crane is on a jobsite, the cranes must be placed so none can contact another's structure, though they may pass over each other [S14]."
+    },
+    {
+     "type": "case",
+     "title": "Fort Lauderdale, April 2024: a tower crane climb and a lanyard not clipped to anything",
+     "paragraphs": [
+      "OSHA's account is that two Phoenix Rigging & Erecting workers were installing a section on a tower crane at a Fort Lauderdale residential construction site, to increase its height, in April 2024 [S22]. A support cable failed and the platform they stood on became displaced. One worker, tied off with the required fall protection, was rescued. The other, whose lanyard was not connected to an anchor point, fell about 30 stories and was fatally injured. He was 27 [S22].",
+      "OSHA cited Phoenix Rigging & Erecting, the assembly contractor, for three serious violations: not identifying and replacing or repairing corroded and cracked pins or bolts that secure the crane's climbing frame and applying end connections properly, not ensuring use of fall protection, and not conducting pre-inspections of crane components before work started [S22]. It cited Maxim Crane Works, the crane rental company, for two serious violations: not acting on the same deficiencies in the corroded and cracked pins and bolts and improperly applied end connections, and allowing employees to start work without pre-inspections of components including U-bolt clamps, bolts, pins, thimbles and wire ropes [S22]. Total proposed penalties were $61,299, which the release calls the maximum amount OSHA can legally recommend [S22]. The contractors had the right to contest.",
+      "The release names the cited conditions but does not state which standard sections were cited, so it should not be matched to a specific paragraph of 1926.1404 or 1926.1435."
+     ],
+     "takeaway": "Two firms were cited, a rigger and the equipment owner, with the owner cited for what it should have caught in the hardware before the work began. For a coordinator the transferable point is the handoff: a rented tower crane changes hands from the rental company to a climbing crew to the general contractor's site, and each handoff is a chance for nobody to look at the pins. Ask for the pre-climb inspection record by name, and for who signed it, before the climb is scheduled."
+    }
+   ]
+  },
+  {
+   "heading": "Inspections and rated capacity: two places where paperwork and physics meet",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The inspection cycle in Subpart CC has layers. A competent person starts a visual inspection before each shift the equipment is used and completes it before or during the shift [S5]. Each month in service the equipment gets a documented inspection, and at least every 12 months a qualified person inspects it, with disassembly as necessary; the documentation of the annual inspection must be kept for at least 12 months by the employer that conducted it [S5]. Equipment idle for three months or more has to get the monthly-level inspection before use [S5]. Modifications and additions that affect safe operation, and repairs or adjustments that relate to it, require a qualified person's inspection, including functional testing, before the equipment is used again [S5]."
+    },
+    {
+     "type": "p",
+     "text": "The operating rules add the capacity discipline. The load chart and operator's manual must be in the cab at all times [S6]. The equipment must not be operated beyond its rated capacity, and the operator must not be required to operate in a way that would violate that [S6]. The operator verifies the load by one of two methods: a weight determined from a recognized source or calculation, supplied to the operator on request before the lift, or starting the hoist and using a load weighing device, moment indicator, or rated capacity indicator or limiter to see whether the load exceeds 75 percent of maximum rated capacity at the longest radius to be used, and if it does, not proceeding until the weight is verified another way [S6]. The operator also may not use a cell phone while operating, other than for signal communication, and may not leave the controls with a load suspended except under conditions in the rule [S6]."
+    },
+    {
+     "type": "case",
+     "title": "Beaumont, April 2021: an unweighed load and a boom put together wrong",
+     "paragraphs": [
+      "A Lufkin pile-driving contractor, Hemphill WBE Pile Driving, was installing supports for an elevated section of highway near Beaumont, Texas, in April 2021, according to OSHA [S24]. The operator did not determine the correct weight of the load while using the crane to retrieve a helmet box and a hammer that had been driven 3 feet into the ground. The boom, which OSHA found was not assembled correctly, buckled and landed on a passing vehicle on Interstate 10, killing its two occupants [S24].",
+      "OSHA cited three willful and two serious violations, including operating a crane beyond its rated load capacity and failing to assemble the boom properly, and proposed $212,599 [S24]. The release says the company has about 11 employees [S24]. The release states OSHA's findings and proposed penalties; the company's right to contest is noted in it."
+     ],
+     "takeaway": "The load was equipment driven into the ground, not a planned pick with a known weight. Pulling buried or stuck items is a lift where the weight is unknown. A coordinator who hears 'we're just going to pull it with the crane' should treat that as a critical lift that needs a weight source before it begins. Note also that the victims were the public. Where a crane boom can reach a public road, the exclusion zone is a coordination item with the owner and the traffic-control sub, not just a crane-crew matter."
+    },
+    {
+     "type": "case",
+     "title": "New York City, June 2018: a mini-crane that was not secured",
+     "paragraphs": [
+      "An unsecured mini-crane overturned and fell four stories at an East 125th Street worksite on June 25, 2018, according to OSHA, which cited Western Waterproofing Co., doing business as Western Specialty Contractors, and proposed $155,204 in penalties [S25]. The release says OSHA cited the company for not ensuring the employee assigned to operate the crane was trained, evaluated and determined competent; for operating the crane above its rated lifting capacity; and for not verifying that the load was within the rated capacity [S25].",
+      "The release adds that the Manhattan District Attorney's Office separately announced a deferred prosecution agreement with the company and the indictment of the company's project manager and superintendent on criminal charges in connection with the incident [S25]. The release does not describe the outcome of those proceedings, and it is a 2019 archive document that says it may not reflect current policy [S25]."
+     ],
+     "takeaway": "Small equipment gets the least planning, and a trade that does not think of itself as running a crane may be running one. The operator evaluation and the load-weight check apply anyway. Criminal charges against a project manager and superintendent, as announced here, show that supervisors can face exposure of their own."
+    }
+   ]
+  },
+  {
+   "heading": "Personnel platforms: hoisting people with a crane",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The default under the rule is that people are not hoisted with a crane. The exception is narrow:"
+    },
+    {
+     "type": "quote",
+     "text": "The use of equipment to hoist employees is prohibited except where the employer demonstrates that the erection, use, and dismantling of conventional means of reaching the work area, such as a personnel hoist, ladder, stairway, aerial lift, elevating work platform, or scaffold, would be more hazardous",
+     "source": "S13"
+    },
+    {
+     "type": "p",
+     "text": "That sentence is followed by 'or is not possible because of the project's structural design or worksite conditions,' and steel erection and routine shaft access to underground work are handled by their own subparts [S13]. The point for planning is that the demonstration sits with the employer. 'It is faster than rigging a scaffold' does not fit the rule."
+    },
+    {
+     "type": "p",
+     "text": "When it is allowed, a long list of conditions stacks up [S13]:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Employees ride in a personnel platform designed by a qualified person familiar with structural design. The platform and its suspension must stay within 10 degrees of level, must hold at least five times the maximum intended load, and must have a guardrail system enclosed from toeboard to mid-rail with solid material or expanded metal openings no larger than half an inch [S13].",
+      "The equipment must be within one percent of level on footing a qualified person has found firm and stable, with all outriggers extended and locked [S13].",
+      "The total load on a suspended platform may not exceed 50 percent of rated capacity at the radius and configuration used [S13].",
+      "A trial lift with the unoccupied platform loaded at least to the anticipated lift weight is made to each location, immediately before each shift in which people will be hoisted and again after a set-up move or a lift-route change, with a competent person's inspection after it [S13].",
+      "The platform and rigging are proof tested to 125 percent of the platform's rated capacity at each jobsite and after any repair or modification, held suspended at least five minutes, and inspected by a competent person afterward [S13].",
+      "Occupants wear and use personal fall arrest tied to a structural member within the platform (except over water), and wind above 20 mph at the platform triggers a qualified person's decision on whether the lift can proceed [S13].",
+      "The operator stays at the equipment controls, on site and in view, whenever the platform is occupied, and no lifts are made on other load lines while people are in the platform, except in pile driving [S13]."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Required equipment includes a boom angle indicator and hoist limiting device on variable-angle booms and an anti-two-blocking device; if a required device stops working, personnel hoisting stops and alternative measures are not permitted [S13]."
+    },
+    {
+     "type": "case",
+     "title": "Near Houston, date not given in the release: a platform that was not secured to the jib",
+     "paragraphs": [
+      "One electrical construction worker died and another was severely injured after falling about 15 stories from a platform suspended from a crane, while erecting electrical transmission lines near Houston, according to OSHA [S23]. OSHA's investigation determined that Mesa Line Services LLC failed to secure the personnel platform to the crane's jib as required, and took minimal steps to reconfigure the crane for use as an aerial lift. OSHA also identified several deficiencies in how the platform was attached [S23].",
+      "OSHA cited seven serious violations, including failing to follow manufacturer procedures when using a crane as an aerial lift, exceeding the rated capacity of a personnel platform, and failing to secure the platform to the jib assembly. It proposed $95,571 [S23]. The release does not give the date of the incident, and describes citations and proposed penalties, which the company could contest [S23]."
+     ],
+     "takeaway": "Look at the shape of the failure. A crane was converted into a work platform with minimal reconfiguration. In the rule, that conversion is a project of its own: a designed platform, a proof test, trial lifts, a level machine and a competent person signing off each step. A coordinator who sees a basket hung from a crane on a schedule update should ask for the written justification for not using a lift or scaffold, the proof test record and the trial lift record, because those exist only if somebody planned the lift as a personnel lift. The rule's trial-lift step also resets with each shift and each move, so the paperwork from Monday does not cover Tuesday."
+    }
+   ]
+  },
+  {
+   "heading": "Hoists, elevators and conveyors: the older standards",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Material hoists, personnel hoists and construction elevators fall under 1926.552, a much older text than Subpart CC. Its section was last amended on February 18, 2020, according to the history on the page [S15]. The general rule is to follow the manufacturer's specifications and limitations, and where none exist, limitations based on the determination of a professional engineer competent in the field. Rated load, recommended speeds and special hazard warnings are posted on cars and platforms [S15]."
+    },
+    {
+     "type": "p",
+     "text": "On material hoists the line is clear:"
+    },
+    {
+     "type": "quote",
+     "text": "No person shall be allowed to ride on material hoists except for the purposes of inspection and maintenance.",
+     "source": "S15"
+    },
+    {
+     "type": "p",
+     "text": "The hoist must carry posted operating rules including the signal system and a 'No Riders Allowed' notice [S15]. Hoistway entrances need gates or bars across the full width of the landing, painted with diagonal contrasting colors and fitted with latches [S15]. Material hoist towers must be designed by a licensed professional engineer, anchored to the structure at intervals not exceeding 25 feet, and enclosed per the rule [S15]. Car arresting devices must work if the rope fails [S15]."
+    },
+    {
+     "type": "p",
+     "text": "Personnel hoist cars must be fully enclosed, with door contacts that stop the hoist when a door is open and a marked emergency stop switch in the car [S15]. After assembly and before service, and after a major alteration, an inspection and test of all functions and safety devices is made under a competent person's supervision, with a certification record, and all hoists must be inspected and tested at no more than 3-month intervals [S15]."
+    },
+    {
+     "type": "case",
+     "title": "Miami Beach, July 2023: a pulley hoist arm that came off a scaffold",
+     "paragraphs": [
+      "A scaffold pulley system failed while workers were hoisting buckets of concrete at a Stucco Works Inc. residential site in Miami Beach in July 2023; the hoist arm detached from the scaffold and struck a 22-year-old worker across the head, who died [S26]. OSHA cited Stucco Works with 12 serious violations, among them a struck-by hazard from a pulley-hoisting device not installed per the manufacturer's directions, along with hazard communication, accident prevention program and scaffold violations, and proposed $74,555 in penalties, which the release's headline rounds to $75K; the release says the company has contested the findings [S26].",
+      "This is a small device, not a Subpart CC crane or a 1926.552 hoist, and the release does not cite either section. It is included because the same principle (follow the manufacturer's installation directions) is what the hoist and crane rules say, and because the failure was a hoisting accessory fixed to temporary structure."
+     ],
+     "takeaway": "Any hoisting arm or davit a trade attaches to a scaffold or frame is a point where nobody may check the structure carrying it. Ask each trade who inspects what the device is attached to, and against whose instructions."
+    },
+    {
+     "type": "p",
+     "text": "Conveyors are covered in 1926.555. Requirements include an emergency means of stopping at the operator's station and at a remote motor location if the operator is remote, an audible warning signal sounded immediately before start-up, emergency stop switches that must be reset before the conveyor can restart, guarding of screw conveyor flights, guards where a conveyor passes over work areas, aisles or thoroughfares, conspicuously marked crossovers and aisles, and lockout or tagout with a 'Do Not Operate' tag during repairs and when operation is hazardous to maintenance workers [S16]. Conveyors in use must also meet the design, construction, inspection, testing and maintenance requirements of the ANSI B20.1-1957 code [S16]."
+    }
+   ]
+  },
+  {
+   "heading": "Helicopter cranes, briefly",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Helicopter cranes sit outside Subpart CC and under 1926.551, which expects compliance with the applicable FAA regulations [S1][S17]. A briefing must be held before each day's operation setting out the plan for the pilot and ground personnel [S17]. Tag lines must be a length that will not permit being drawn up into the rotors, and the signal system between aircrew and ground personnel, radio or hand, must be understood and checked in advance; hand signals are as shown in Figure N-1 of that section [S17]. One ground crew member acts as signalman with constant reliable communication to the pilot, and must be distinctly recognizable from other ground personnel [S17]."
+    },
+    {
+     "type": "p",
+     "text": "Also in the section: employees receiving the load wear complete eye protection and hard hats secured by chinstraps; no loose-fitting clothing likely to flap in the downwash; loose gear within 100 feet of the lift and set-down points secured or removed; no unauthorized person within 50 feet of the helicopter when the rotor blades are turning; static charge on the suspended load dissipated by a grounding device before ground personnel touch it, or protective rubber gloves worn [S17]. The helicopter operator is responsible for the size, weight and manner in which loads are connected, and if the operator believes a lift cannot be made safely it is not made [S17]."
+    }
+   ]
+  },
+  {
+   "heading": "What to take to the site",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "What follows is judgment on using the rules above, not a requirement in any standard."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Treat the lift as a document set. Before a lift day, a coordinator can ask each crane employer for the operator's certification and the employer's evaluation record for that machine, the shift inspection, the load weight source, the power line check and the ground information that was passed to them.",
+      "Send the underground drawings. Ground conditions, voids, tanks and utilities are on the controlling entity's side of the line [S2].",
+      "Build the crane interaction plan. The controlling entity owns the system for cranes whose working radii overlap [S10], and the system should be written, not just a radio conversation.",
+      "Keep other trades out of swing. Put the barriers where the rotating superstructure can strike or pinch [S10], and make it part of the morning huddle for any trade whose work is near the lift.",
+      "Slow down personnel lifts. Ask for the justification, platform design, proof test and trial lift records [S13]. A lift crew that needs to say 'we've done this a hundred times' to explain why the record is missing is the answer to the question.",
+      "Watch the handoffs. The Fort Lauderdale release cited the rental company and the erection contractor for the same hardware [S22]; in the Orlando release, two employers shared the lift zone [S21].",
+      "Small equipment is equipment. Mini-cranes, boom trucks and rigged machines deserve the same operator evaluation and load check [S25]."
+     ]
+    }
+   ]
+  }
+ ]
+}

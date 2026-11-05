@@ -1,0 +1,363 @@
+{
+ "module": 6,
+ "title": "Health Hazards in Construction",
+ "sources": [
+  {
+   "id": "S1",
+   "title": "29 CFR 1926.1153, Respirable crystalline silica",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1153"
+  },
+  {
+   "id": "S2",
+   "title": "29 CFR 1926.62, Lead",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.62"
+  },
+  {
+   "id": "S3",
+   "title": "29 CFR 1926.1101, Asbestos",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1101"
+  },
+  {
+   "id": "S4",
+   "title": "29 CFR 1910.1200, Hazard communication",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
+  },
+  {
+   "id": "S5",
+   "title": "29 CFR 1926.52, Occupational noise exposure",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.52"
+  },
+  {
+   "id": "S6",
+   "title": "29 CFR 1926.59, Hazard communication (construction)",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.59"
+  },
+  {
+   "id": "S7",
+   "title": "OSHA heat overview page",
+   "url": "https://www.osha.gov/heat-exposure"
+  },
+  {
+   "id": "S8",
+   "title": "OSHA ergonomics page",
+   "url": "https://www.osha.gov/ergonomics"
+  },
+  {
+   "id": "S9",
+   "title": "OSHA news release, Houston school roof collapse citations (Dec. 14, 2023)",
+   "url": "https://www.osha.gov/news/newsreleases/dallas/20231214"
+  },
+  {
+   "id": "S10",
+   "title": "OSHA news release, New Jersey painting contractor and lead (July 24, 2019)",
+   "url": "https://www.osha.gov/news/newsreleases/new-york-city/20190724"
+  },
+  {
+   "id": "S11",
+   "title": "OSHA news release, Alabama sewage gas fatalities (Feb. 17, 2026)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20260217"
+  }
+ ],
+ "sections": [
+  {
+   "heading": "Health hazards behave differently from safety hazards",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "A fall or a trench collapse announces itself. A health hazard usually doesn't. Silica dust, lead fume, a solvent vapor or a noisy saw does its damage over hours, months or years, and the first sign that something was wrong may be a diagnosis long after the job closed out. That changes what a coordinator has to do. You cannot walk the site, see the problem and ask for it to be fixed. You have to know which tasks produce the exposure, ask the right trade whether anyone measured it, and keep the work sequenced so that the people who did not create the exposure are not standing in it."
+    },
+    {
+     "type": "p",
+     "text": "Nearly every limit in this module is written as an 8-hour time-weighted average. The silica standard, for example, defines its limit as a concentration \"calculated as an 8-hour TWA\" [S1], and the lead standard averages over an 8-hour period [S2]. The practical meaning is that a short, dirty task is judged against the whole shift, and a long shift changes the allowance: the lead standard says that when someone works more than 8 hours in a day, the allowable exposure drops according to a formula, 400 divided by hours worked [S2]. Overtime on a lead or silica task is not free."
+    },
+    {
+     "type": "p",
+     "text": "The construction noise standard states the control order plainly. Feasible administrative or engineering controls come first, and protective equipment fills whatever gap remains [S5]. The silica standard repeats the same logic for dust: engineering and work practice controls first, respirators to supplement them where controls alone are not enough [S1]. For a coordinator that order is a scheduling question as much as a safety one. Moving a cutting task into a different time window, or into a bay where nobody else is working, is an administrative control, and it costs nothing but planning."
+    },
+    {
+     "type": "quote",
+     "text": "feasible administrative or engineering controls shall be utilized",
+     "source": "S5"
+    },
+    {
+     "type": "p",
+     "text": "Every standard in this module also assigns a duty to someone who controls the work: a competent person for silica and asbestos [S1][S3], a written program for lead, silica and hazard communication [S1][S2][S4]. When a site has no named person for each one, the duty exists on paper and nobody is holding it. The first thing to look for on a large job is that name."
+    },
+    {
+     "type": "p",
+     "text": "Biological hazards and wood preservative chemicals are not covered here; check them against your course material."
+    }
+   ]
+  },
+  {
+   "heading": "Air contaminants and the incident that shows what no entry plan looks like",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Air contaminants on a construction site come in forms you can name by what they do to a lung: dusts, fumes, vapors and gases. Most are handled by a chemical-specific standard, and the hazard communication standard covers the rest. The one condition that turns an ordinary contaminant into a fatal one is a confined space, because the air cannot clear and the only way out is the way in."
+    },
+    {
+     "type": "case",
+     "title": "Mobile, Alabama: three workers in a manhole, two dead (August 2025)",
+     "paragraphs": [
+      "On Aug. 11, 2025, three Construction Labor Services Inc. workers were installing and repairing sewer lines inside a manhole in Mobile, Alabama, when they were overcome by sewer gas and became unresponsive [S11]. One regained consciousness and got out on their own. The other two died [S11].",
+      "OSHA's investigators determined that the employer lacked confined space entry programs, procedures, training and emergency response plans, including plans to determine acceptable entry conditions [S11]. OSHA cited the company with 16 serious violations and proposed penalties of $257,707 [S11]. The release says penalties and citations may be adjusted as the case proceeds, so treat the figures as proposed rather than final [S11]. The release does not say which specific standards were cited or who else was on the site, and no other source here supplies it."
+     ],
+     "takeaway": "The release names what was missing: a way to decide entry conditions, procedures, training and rescue planning. A coordinator can ask for each of those in writing before a crew goes into any manhole, vault, tank or below-grade enclosure, and can make permit sign-off a hold point in the schedule. Underground utility work on a large campus is exactly where one sub's crew enters a space that another sub's work has changed. Ask who last tested the air, when, and who is standing outside with a rescue plan that does not depend on a second worker going in."
+    },
+    {
+     "type": "p",
+     "text": "The detail worth keeping from that release is how fast it went. Three people were overcome, and the one who escaped did so unaided [S11]. A rescue plan that starts after someone collapses is not a plan. Whatever your own site rule is, it should say before entry who watches, who calls, and what equipment gets the person out without anyone else entering."
+    }
+   ]
+  },
+  {
+   "heading": "Silica: the dust that follows the cutting",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Respirable crystalline silica is released when concrete, masonry, block, brick, stone and similar materials are cut, drilled, ground or broken. On a data center that means slab saw-cutting, core drilling for conduit and piping penetrations, chipping and demolition of existing structure, and cleanup of all of it. The construction standard applies to all occupational exposures to respirable crystalline silica in construction work, except where exposure will stay below 25 micrograms per cubic meter as an 8-hour average under any foreseeable conditions [S1]."
+    },
+    {
+     "type": "p",
+     "text": "The numbers are these. The permissible exposure limit is 50 micrograms per cubic meter, and the action level is 25, both as 8-hour averages [S1]. The action level matters because it triggers the duty to assess exposure for anyone who is or may reasonably be expected to be exposed at or above it [S1]."
+    },
+    {
+     "type": "p",
+     "text": "The part that makes this standard easier to run than most is Table 1. For a list of common tasks, the employer can follow the specified engineering controls, work practices and respiratory protection, and then does not have to measure exposure for that task [S1]. The standard says the employer must fully and properly implement what Table 1 specifies for the task unless the employer instead assesses and limits exposure by measurement [S1]. Examples from the table:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "Handheld power saws, any blade diameter: a saw with an integrated water delivery system that continuously feeds water to the blade, operated and maintained per the manufacturer's instructions. Used outdoors, no respirator is listed. Indoors or in an enclosed area, the table lists an assigned protection factor of 10 [S1].",
+      "Jackhammers and handheld powered chipping tools: a tool with a water delivery system that supplies a continuous stream or spray at the point of impact, or a tool with a commercially available shroud and dust collection system. Indoors or enclosed, the table lists a protection factor of 10 [S1].",
+      "Handheld saws for fiber-cement board with a blade of 8 inches or less: for outdoor tasks only, a saw with a commercially available dust collection system, with a collector that provides the airflow the manufacturer recommends and a filter at least 99 percent efficient [S1]."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Read that last item twice. Dust collection for fiber-cement board is listed for tasks performed outdoors only [S1]. A crew that moves the same cut inside a building to get out of the weather has left Table 1 for that task, and is now relying on measurement. This is how a compliant method becomes a violation without anyone changing tools."
+    },
+    {
+     "type": "p",
+     "text": "Other duties in the standard that a coordinator will meet on paper:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "A written exposure control plan describing the tasks that involve silica exposure, the controls and respiratory protection for each, and the housekeeping measures [S1].",
+      "A designated competent person making frequent and regular inspections of job sites, materials and equipment to implement that plan [S1].",
+      "Medical surveillance, at no cost to the employee, for each employee who will be required to use a respirator for 30 or more days per year [S1].",
+      "Training, where each covered employee can demonstrate knowledge of the health hazards, the specific tasks that could expose them, and the measures the employer has implemented [S1]."
+     ]
+    },
+    {
+     "type": "quote",
+     "text": "The employer shall not allow dry sweeping or dry brushing where such activity could contribute to employee exposure to respirable crystalline silica",
+     "source": "S1"
+    },
+    {
+     "type": "p",
+     "text": "That housekeeping rule is the one most often broken by a crew that did nothing else wrong. A sub finishes a wet cut and a laborer from a different company sweeps the slab dry at the end of the shift. The standard lets wet sweeping, HEPA-filtered vacuuming or other methods substitute, and it limits compressed air for cleaning in the same way [S1]. The coordinator's job is to make sure the cleanup method is written into the scope of whoever generates the dust, and that the sweeper is not the one person on the site who never saw the plan."
+    },
+    {
+     "type": "case",
+     "title": "Friendswood, Texas: a demolition sequence skipped, and silica citations on the side (June 2023)",
+     "paragraphs": [
+      "In June 2023 a roof collapsed at Friendswood High School during demolition. Four workers were injured, one of whom later died [S9]. OSHA found that supervisors of ICI Construction Inc., the general contractor, and Emanuel Enterprises LLC, the demolition contractor, failed to complete an engineering survey before demolition began, and allowed demolition to continue even after hazards became apparent [S9]. OSHA said they directed employees to keep working under the structure that later collapsed [S9]. The release quotes OSHA's area director saying that ignoring federal standards and the company's own policies prevented them from identifying a load-bearing wall that was shown on the construction drawings [S9].",
+      "The health piece is smaller in the release but belongs here. OSHA also cited Emanuel Enterprises for three serious violations tied to failing to protect workers from silica exposure and to use respirators properly [S9]. Total proposed penalties were $315,643, of which $175,010 was Emanuel's and $140,633 was ICI's [S9]. The release describes Emanuel as specializing in lead, asbestos and mold abatement and remediation, and demolition [S9]. The companies had 15 business days to comply, request an informal conference or contest, so these are proposed figures [S9]. The release does not say how the silica exposure occurred or what tasks were involved."
+     ],
+     "takeaway": "Demolition is where a safety hazard and a health hazard share one scope. The survey that was skipped is the same document that should tell the demolition sub what is in the building. If your own site is demolishing or cutting existing concrete, ask for the survey, the written silica plan and the named competent person at the same meeting, and treat a sub who cannot produce all three as unready to start. The release does not connect the collapse to the silica citations, so do not read more into their sitting side by side than the agency stated."
+    }
+   ]
+  },
+  {
+   "heading": "Asbestos: the owner knows, and the standard says so",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Asbestos on a modern data center campus is mostly an issue on retrofit and expansion work: tie-ins to existing buildings, demolition of an older structure to clear a pad, and roofing. The standard sorts the work by what you do to the material. Class I is removal of thermal system insulation and surfacing material. Class II is removal of other asbestos-containing material, such as wallboard, floor tile and sheeting, roofing and siding shingles, and mastics. Class III is repair and maintenance where the material is likely to be disturbed. Class IV is maintenance and custodial work where employees contact but do not disturb it, and cleanup of the debris from the other classes [S3]."
+    },
+    {
+     "type": "p",
+     "text": "The limits are 0.1 fiber per cubic centimeter as an 8-hour average and 1.0 fiber per cubic centimeter over a 30-minute sampling period [S3]. All Class I, II and III work is conducted inside regulated areas [S3]. The standard also assumes the worst about older buildings: it defines presumed asbestos-containing material as thermal system insulation and surfacing material found in buildings constructed no later than 1980, and lets the designation be rebutted by a procedure in the standard [S3]."
+    },
+    {
+     "type": "p",
+     "text": "The duty that matters most to a coordinator is not on the abatement contractor. It is on the owner. Before work covered by the standard begins, building and facility owners must determine the presence, location and quantity of asbestos-containing material and presumed material at the work site [S3]. They must notify prospective employers applying or bidding for work whose employees can reasonably be expected to work in or next to those areas, and the notice can be in writing or a personal communication [S3]. So the survey is the owner's to produce, and a bid package for work in an older building that is silent on it is a flag, not a formality."
+    },
+    {
+     "type": "p",
+     "text": "Asbestos is also folded into hazard communication. The employer includes it in the program under the Hazard Communication Standard, and each employee has access to labels and safety data sheets and training on the hazards the standard lists, including cancer and lung effects [S3]."
+    },
+    {
+     "type": "quote",
+     "text": "Asbestos hazards at a multi-employer work site shall be abated by the contractor who created or controls the source of asbestos contamination.",
+     "source": "S3"
+    },
+    {
+     "type": "p",
+     "text": "That sentence changes who owns a breach. The standard's own example is a significant breach of an enclosure around Class I work: the employer that erected the enclosure repairs it immediately [S3]. Separately, an employer doing work that requires a regulated area must tell the other employers on site about the nature of the work, the regulated areas and the measures taken to keep their employees out of exposure [S3]. For a coordinator, that is a notification step to schedule, not assume. An electrician pulling cable next to an abatement enclosure should hear about it from the abatement sub before the first shift, and the other trades' foremen should be able to say where the line is."
+    },
+    {
+     "type": "p",
+     "text": "The competent person on asbestos work has a higher bar than on most topics. For Class I and II work, the standard requires a person specially trained in a course meeting the criteria of EPA's Model Accreditation Plan for supervisors, or its equivalent [S3]. All Class II work must be supervised by a competent person [S3]. Ask for the training record, not a name on a sign-in sheet."
+    }
+   ]
+  },
+  {
+   "heading": "Lead: small quantity, long tail",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Lead shows up in construction as old paint on steel and walls, solder and lead-containing coatings, and cutting or abrasive work on anything coated. The permissible exposure limit is 50 micrograms per cubic meter averaged over 8 hours, and the action level is 30 micrograms per cubic meter as an 8-hour average [S2]."
+    },
+    {
+     "type": "quote",
+     "text": "no employee is exposed to lead at concentrations greater than fifty micrograms per cubic meter of air",
+     "source": "S2"
+    },
+    {
+     "type": "p",
+     "text": "The construction lead standard has a feature that surprises people who expect to wait for air results. For a list of lead-related tasks, until the employer performs an exposure assessment and documents that the employee is not exposed above the PEL, the employer must treat the employee as exposed above the PEL, and not in excess of ten times the PEL, and apply the interim protections [S2]. The full task list was not read for this supplement, so check it for your work. The interim protections include appropriate respiratory protection, protective clothing and equipment, change areas, hand washing facilities, and biological monitoring [S2]."
+    },
+    {
+     "type": "quote",
+     "text": "the employer shall treat the employee as if the employee were exposed above the PEL",
+     "source": "S2"
+    },
+    {
+     "type": "p",
+     "text": "A written compliance program is required for the controls, and the standard lists what it must contain, starting with a description of each activity in which lead is emitted, including the equipment, materials, controls, crew size and employee responsibilities [S2]. Medical removal is part of the standard: an employee is removed from work with exposure at or above the action level on each occasion that periodic and follow-up blood tests show a blood lead level at or above 50 micrograms per deciliter, as stated on the page [S2]."
+    },
+    {
+     "type": "case",
+     "title": "Easton, Pennsylvania: a follow-up inspection finds the paperwork still missing (2019)",
+     "paragraphs": [
+      "In July 2019 OSHA announced citations against Scot Christopher Rule LLC, a Frenchtown, New Jersey painting and wall covering contractor, for exposing workers to lead and other hazards while renovating a worksite in Easton, Pennsylvania [S10]. Proposed penalties were $104,637 [S10]. OSHA began the follow-up inspection in February 2019 after the company failed to provide proof of abatement related to a 2017 investigation [S10].",
+      "The four willful violations included failing to give employees training and information on lead and hazardous chemicals, failing to make an initial determination of employees' lead exposure level, and not having a written lead compliance program [S10]. OSHA also cited improper respirator use as a serious violation, and a second inspection in May 2019, after a complaint about fall hazards on aerial lifts, added serious violations [S10]. OSHA's area director said the most effective way to minimize exposure is to use engineering controls, provide training, and use protective clothing and equipment [S10]. The company had 15 business days to comply, ask for an informal conference or contest [S10]. This is an older release, flagged by OSHA as possibly out of date, and that page reports no later outcome."
+     ],
+     "takeaway": "What stands out is that the three willful items the release lists are all paperwork that exists before work starts: training, the first exposure determination and the written program. A coordinator can verify each in minutes. Ask a painting, coatings or demolition sub whether lead-containing coatings are present on the scope, and if the answer is yes or unknown, ask to see the exposure determination and the written program before the first day, and ask who holds the respirator fit records. The release also shows what a second inspection looks like: one finding opens the door to the rest of the site."
+    }
+   ]
+  },
+  {
+   "heading": "Chemical hazards and hazard communication on a multi-employer site",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Hazard communication is the one health standard that every trade on the site meets, daily. The construction version, 1926.59, says its requirements are identical to those in 1910.1200 [S6], so everything below is the general industry text that applies on a construction site. Employers must develop, implement and maintain at each workplace a written hazard communication program. It has to describe how labels and other forms of warning, safety data sheets and employee training will be handled, and it must include a list of the hazardous chemicals known to be present, using a product identifier that matches the safety data sheet, plus how the employer informs employees of the hazards of non-routine tasks [S4]."
+    },
+    {
+     "type": "p",
+     "text": "The sentence that makes this a coordinator topic is the multi-employer paragraph. An employer who produces, uses or stores hazardous chemicals in a way that employees of other employers may be exposed, the text's own example being employees of a construction contractor working on-site, must also include in its program the methods it will use to give the other employers on-site access to safety data sheets, to inform them of precautionary measures, and to inform them of the labeling system used in the workplace [S4]. On a data center, a general contractor and the owner's facility group may both store chemicals; trade contractors bring their own; and nobody's program covers the person next door unless somebody sets that up."
+    },
+    {
+     "type": "p",
+     "text": "Labels have a defined shape. A label on a shipped container carries a product identifier, a signal word, hazard statements, pictograms, precautionary statements, and the name, address and telephone number of the responsible party [S4]. The signal word is either danger, for the more severe hazards, or warning, for the less severe [S4]. Eight pictograms are designated [S4]. In the workplace, each container of hazardous chemicals must be labeled with either that full set of information or with the product identifier plus words, pictures or symbols giving at least general information about the hazards, which together with other information available to employees tells them the specific hazards [S4]. The rule on existing labels is blunt: do not remove or deface them unless the container is immediately marked with the required information [S4]. A decanted spray bottle with a marker label is a workplace label question, and the product identifier is what ties it to a data sheet."
+    },
+    {
+     "type": "p",
+     "text": "Safety data sheets must be in the workplace for each hazardous chemical the employer uses, and the manufacturer's sheet must be in English with a prescribed order of section headings, starting with identification, hazard identification and composition [S4]. The employer must keep copies readily accessible during each work shift to employees in their work area, electronic access is allowed as long as it creates no barriers to immediate access, and for workers who travel between locations during a shift the sheets may be kept at the primary workplace if the information can be obtained immediately in an emergency [S4]. The failure points are practical. The binder is in the trailer and the crew is on the fourth floor. The tablet has no signal in the electrical room. The sheet is for a product that was swapped when the original was backordered."
+    },
+    {
+     "type": "quote",
+     "text": "Employers shall provide employees with effective information and training on hazardous chemicals in their work area at the time of their initial assignment",
+     "source": "S4"
+    },
+    {
+     "type": "p",
+     "text": "Training is required at initial assignment and whenever a new chemical hazard the employees were not previously trained on is introduced into their work area [S4]. Employees must be informed of the requirements of the section, operations in their work area where hazardous chemicals are present, and the location and availability of the written program [S4]. Training has to cover at least methods to detect the presence or release of a hazardous chemical, the physical, health, simple asphyxiation, combustible dust and pyrophoric gas hazards, and the protective measures including specific work practices [S4]. A product substitution mid-job is the trigger most sites miss: a new sealant or coating means new chemical hazards, and those crews have to hear about it."
+    },
+    {
+     "type": "p",
+     "text": "What has changed. The standard's page shows it became effective July 19, 2024 in its revised form, with a transition period [S4]. It sets employer deadlines for updating workplace labels, the written program and training for newly identified hazards: by November 20, 2026 for substances, and by May 19, 2028 for mixtures [S4]. At the time of this supplement, November 2026, the substances date is days away. The page also lists an amendment dated January 15, 2026, which was not read in detail [S4]. If your course guide dates from 2017, expect it to describe the older version of the label and sheet requirements. Treat the course content as the structure and this page as the current text."
+    }
+   ]
+  },
+  {
+   "heading": "Noise",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The construction noise standard is shorter than most people expect, and its numbers are the permissible exposure table. At 8 hours per day the allowed level is 90 dBA measured on the A-scale at slow response, and the table steps up as time shortens: 92 for 6 hours, 95 for 4, 97 for 3, 100 for 2, 105 for 1, 110 for half an hour, and 115 for a quarter hour or less [S5]. Protection is required when sound levels exceed those values [S5]. Where they do, feasible administrative or engineering controls are used, and if those fail to bring the level within the table, protective equipment is provided and used [S5]."
+    },
+    {
+     "type": "p",
+     "text": "Mixed exposure is computed rather than judged. When a day contains periods at different levels, the standard adds up each period's time divided by the permitted time at that level, and the combined effect is considered rather than each period alone [S5]. A saw at 100 dBA for an hour and a hammer drill at 92 for two hours is not two separate passes; the fractions are added. Where levels exceed the table, the standard requires a continuing, effective hearing conservation program [S5]. Other numeric action thresholds from general industry rules are not cited because that standard was not read for this supplement."
+    },
+    {
+     "type": "p",
+     "text": "What this looks like at coordination level is trade stacking. A noisy task in an open bay exposes everyone in range for the same minutes, including crews that do nothing noisy. Concrete coring, powder-actuated fastening, generator and chiller testing, and demolition all travel through open structures. The administrative control the standard names is the one a coordinator controls: separate the noisy work in time, give it its own window, and avoid putting a quiet trade, an inspector or an owner's rep in the path."
+    }
+   ]
+  },
+  {
+   "heading": "Ergonomic hazards",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Ergonomics is the health topic where the agency page itself is the least prescriptive, and it says so by what it describes. The OSHA page defines musculoskeletal disorders as affecting muscles, nerves, blood vessels, ligaments and tendons, and names risk factors including lifting heavy items, bending, reaching overhead, pushing and pulling heavy loads, awkward body postures and repetitive tasks [S8]. It gives examples such as carpal tunnel syndrome, tendinitis, rotator cuff injuries, trigger finger and muscle strains and low back injuries [S8]. It describes ergonomics as fitting a job to a person [S8]. The page describes a process and guidelines rather than quoting a numeric limit, and the page contains no construction-specific ergonomics standard text."
+    },
+    {
+     "type": "p",
+     "text": "The process it lays out has the pieces you would expect: management support, worker involvement in assessing worksites and developing solutions, training, identifying problems before they cause MSDs, encouraging early reporting of symptoms, implementing solutions, and evaluating progress [S8]. It also notes that early reporting can speed up the job assessment and improvement process and help prevent progression of serious injuries [S8]. The same page lists occupations at higher risk from Bureau of Labor Statistics data, including laborers and freight, stock and material movers, plumbers, pipefitters and steamfitters, and heating, air conditioning and refrigeration mechanics and installers [S8]. Those are trades on any mechanical-heavy build."
+    },
+    {
+     "type": "p",
+     "text": "The coordinator's levers are in logistics, not medicine. Where a pipe spool, a rack or a pallet of cable lands in relation to where it is installed decides how far it gets carried. Lay-down areas close to the work, material delivered to the floor it is used on, and lifts planned with equipment are scheduling and sequencing decisions. Overhead work compounds with awkward posture: a long run of overhead anchor drilling is the kind of repetitive reaching the page identifies [S8]. Everything in this paragraph is judgment from those listed risk factors rather than an agency requirement. The cheapest control in the page's list is the least glamorous one: a crew that reports a sore shoulder in week two is easier to fix than one that does in week twelve."
+    }
+   ]
+  },
+  {
+   "heading": "Heat",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The heat page lists construction among the industries where workers have had heat illness, with road work, roofing and other outdoor work called out, and says hazardous exposure can occur in any season if conditions are right [S7]. It names the occupational risk factors as heavy physical activity, warm or hot conditions, lack of acclimatization and clothing that holds in body heat [S7]. Heat dissipation happens through sweating and increased blood flow to the skin. When it does not happen quickly enough, symptoms progress from thirst, irritability, rash and cramping to heat exhaustion and heat stroke [S7]."
+    },
+    {
+     "type": "p",
+     "text": "Heat stroke is the one that matters for site rules. The page describes mental dysfunction such as unconsciousness, confusion, disorientation or slurred speech, and the instruction is to cool the worker immediately and call 911 [S7]. Confusion and stumbling can be mistaken for something else, and the person least able to report symptoms is the one in trouble."
+    },
+    {
+     "type": "p",
+     "text": "Acclimatization is the control most easily missed through scheduling. The page says workers who have not spent time recently in warm or hot environments need time to build tolerance, and during their first few days employers should encourage fluids, shorter shifts, frequent breaks and quick identification of symptoms [S7]. A crew mobilized from a cooler region onto a July slab, or a new hire at full production on day one, is the situation described. Engineering controls named include air conditioning with cooled air and increased air flow, and the page also names changes to workload and schedule, such as scheduling work for the morning, shorter shifts and rest breaks in the shade [S7]."
+    },
+    {
+     "type": "p",
+     "text": "How hot is too hot is not a single number. The page lists physical activity, air temperature, humidity, sunlight, heat sources such as heat-absorbing roofs and road surfaces, air movement, clothing and personal risk factors as contributors [S7]. It calls an on-site wet bulb globe temperature meter the most accurate way to measure the environmental heat effect, because WBGT combines temperature, humidity, sunlight and air movement into one measurement, and says the NIOSH/OSHA Heat App provides heat index, not WBGT [S7]. It also notes that heat stress can degrade fine motor performance, such as rebar tying, even in acclimatized people [S7]."
+    },
+    {
+     "type": "p",
+     "text": "What is current. The page highlights a National Emphasis Program on outdoor and indoor heat-related hazards, OSHA directive CPL 03-00-024, dated April 10, 2026 [S7]. The directive itself was not read; the page fetched for it returned little usable text, so its targeting criteria and inspection triggers are not stated here. The overview page gives no numeric limit of the kind found in the silica or lead standards. A site can treat heat as a planning item the way it treats weather: a written plan, water, rest and shade placed where the work is, acclimatization for new and returning crews, and a named person who can stop work."
+    }
+   ]
+  },
+  {
+   "heading": "What to put on the coordinator's list",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "None of the following is a regulatory requirement. It is a way to turn the sources above into checks you can run in a pre-task meeting."
+    },
+    {
+     "type": "list",
+     "items": [
+      "For any task that cuts, grinds, chips or drills concrete, masonry or stone: which Table 1 entry applies, whether the work is indoors or outdoors, who is the competent person, where the written plan is, and what the cleanup method is [S1].",
+      "For any work in or next to an older building: the owner's asbestos survey, whether the material is presumed, and who tells the other trades where the regulated area is [S3].",
+      "For coatings, steel cutting, demolition and painting scopes: whether lead is on the scope, who made the initial exposure determination, and whether the written program exists [S2].",
+      "For any space with limited air movement: the entry conditions, the attendant, the rescue plan and who is excluded from the area [S11].",
+      "For every new product that arrives on site: the safety data sheet, the container label, which crews are near it, and who tells the neighbors [S4].",
+      "For noisy work: the time window, who is in range, and what separates the others from it [S5].",
+      "For hot weather: acclimatization for new crews, where shade and water are relative to the work, and who can call a stop [S7]."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "The health standards share one structural weakness: each assumes an employer who knows its own hazard and has told everyone nearby. On a multi-employer site, that assumption fails at the handoff. The pre-task meeting is where you find out whether it did."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,343 @@
+{
+ "module": 12,
+ "title": "Welding and Cutting",
+ "sources": [
+  {
+   "id": "S1",
+   "title": "29 CFR 1926.350, Gas welding and cutting",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.350"
+  },
+  {
+   "id": "S2",
+   "title": "29 CFR 1926.351, Arc welding and cutting",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.351"
+  },
+  {
+   "id": "S3",
+   "title": "29 CFR 1926.352, Fire prevention",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.352"
+  },
+  {
+   "id": "S4",
+   "title": "29 CFR 1926.353, Ventilation and protection in welding, cutting, and heating",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.353"
+  },
+  {
+   "id": "S5",
+   "title": "29 CFR 1926.354, Welding, cutting, and heating in way of preservative coatings",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.354"
+  },
+  {
+   "id": "S6",
+   "title": "OSHA enforcement memo, Welding, Cutting, and Heating in Confined Spaces (Feb. 6, 2019)",
+   "url": "https://www.osha.gov/memos/2019-02-06/welding-cutting-and-heating-confined-spaces-enforcement-memo"
+  },
+  {
+   "id": "S7",
+   "title": "OSHA Fatal Facts No. 19, Confined Space Fire (2023)",
+   "url": "https://www.osha.gov/sites/default/files/publications/OSHA_FF-4278.pdf"
+  },
+  {
+   "id": "S8",
+   "title": "OSHA, Soybean Soapstock Storage Tank Explosion",
+   "url": "https://www.osha.gov/sites/default/files/publications/OSHA4140.pdf"
+  },
+  {
+   "id": "S9",
+   "title": "OSHA news release, St. John's Ship Building welder fatality (Apr. 10, 2024)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20240410"
+  },
+  {
+   "id": "S10",
+   "title": "OSHA news release, South Marine Systems hold fire in Ashtabula (Sept. 16, 2024)",
+   "url": "https://www.osha.gov/news/newsreleases/chicago/20240916"
+  },
+  {
+   "id": "S11",
+   "title": "OSHA Fact Sheet, Controlling Hazardous Fume and Gases during Welding",
+   "url": "https://www.osha.gov/sites/default/files/publications/OSHA_FS-3647_WELDING.pdf"
+  },
+  {
+   "id": "S12",
+   "title": "29 CFR 1926.1126, Chromium (VI)",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1126"
+  },
+  {
+   "id": "S13",
+   "title": "OSHA letter of interpretation, Applicability of the hexavalent chromium standard to welders (Feb. 23, 2011)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/2011-02-23-1"
+  },
+  {
+   "id": "S14",
+   "title": "29 CFR 1926.62, Lead",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.62"
+  },
+  {
+   "id": "S15",
+   "title": "OSHA Fact Sheet, Fire Watch Duties during Hot Work (shipyard employment)",
+   "url": "https://www.osha.gov/sites/default/files/publications/OSHA4188.pdf"
+  }
+ ],
+ "sections": [
+  {
+   "heading": "Hot work is a fire problem before it is a welding problem",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Subpart J spends most of its words on fire, not on the weld. The core rule says that when practical, the object to be welded, cut or heated gets moved to a designated safe location, and if it can't be moved, every movable fire hazard nearby is taken away or protected [S3]. If the hazards can't all be removed, the employer must take positive means to confine the heat, sparks and slag and to protect the fixed hazards from them [S3]. The standard also bars the work outright where flammable paints, other flammable compounds or heavy dust concentrations create a hazard, and it requires fire extinguishing equipment to be immediately available in the work area and kept ready for instant use [S3]."
+    },
+    {
+     "type": "quote",
+     "text": "additional personnel shall be assigned to guard against fire while the actual welding, cutting, or heating operation is being performed, and for a sufficient period of time after completion of the work to ensure that no possibility of fire exists.",
+     "source": "S3"
+    },
+    {
+     "type": "p",
+     "text": "Those same personnel must be instructed on the specific anticipated fire hazards and how the firefighting equipment is used [S3]. Subpart J gives no number of minutes for the after-watch. OSHA's shipyard fire watch fact sheet, a different standard for a different industry, says the person doing the hot work cannot be the fire watch and that someone on watch cannot carry other duties [S15]. It is a fair benchmark when a sub proposes a watch who is also flagging traffic and fetching materials."
+    },
+    {
+     "type": "p",
+     "text": "The next rule is the one that burns buildings down. When the work is on a wall, floor or ceiling, direct penetration of sparks or heat transfer can start a fire in the adjacent area, so the same precautions have to be taken on the opposite side [S3]."
+    },
+    {
+     "type": "quote",
+     "text": "the same precautions shall be taken on the opposite side as are taken on the side on which the welding is being performed.",
+     "source": "S3"
+    },
+    {
+     "type": "p",
+     "text": "On a data center this is a scheduling problem more than a welding one. The welder's permit covers the welder's side; the other side may be cable-loaded or foam-sealed space belonging to another trade, entered through a different door on a different shift. Whoever coordinates the area has to know what is behind the wall."
+    },
+    {
+     "type": "p",
+     "text": "Containers get their own rules. Drums, pails and other containers that hold or have held flammable liquids stay closed except when contents are being removed or transferred, and empties go to a safe area apart from hot work or open flames [S3]. A drum, container or hollow structure that has held toxic or flammable substances has to be either filled with water or thoroughly cleaned, ventilated and tested before heat goes on it, and a vent or opening must exist before heat is applied so built-up pressure can escape [S3]. In construction terms: a capped pipe, an old fuel tank, a sealed duct and a hollow structural section are all containers until someone shows otherwise."
+    },
+    {
+     "type": "case",
+     "title": "The heat gun and the connected towers",
+     "paragraphs": [
+      "OSHA's Fatal Facts No. 19 describes two contract crews working inside a connected pair of pulp bleaching towers at a paper mill. One crew was installing fiber reinforced plastic with a flammable resin; the other was sandblasting to prepare for the same installation [S7]. The first crew's resin was not hardening fast enough in cold weather, and a worker used an electric heat gun to warm it. The gun fell into the resin bucket and ignited the resin [S7].",
+      "The upflow crew evacuated the tower. The towers were joined by a crossover pipe but were treated as separate structures, and the fire spread through the pipe into the tower where the second crew was working [S7]. Two of the downflow crew were trapped, and the support scaffolding collapsed and fell approximately 94 feet onto the workers [S7]. The document says two contract workers died of smoke inhalation and multiple blunt-force injuries [S7].",
+      "The listed likely causes read like a coordinator's checklist. The mill issued confined space entry permits to the contractors, but the contractors did not recognize the heat gun as an ignition source and did not complete a hot work permit, and cold work options were not considered for the long resin hardening time [S7]. There was no communication between contractors about concurrent work or planned changes, a fire extinguisher was not immediately available during the hot work, and the entry permit was missing required sections including a designated entry supervisor [S7]."
+     ],
+     "takeaway": "Nothing in this incident was a welder. The ignition source was a heat gun, and the document's point is that nobody called it hot work. A permit system that is triggered by the word 'welding' misses grinders, heat guns, torches for roofing and shrink-wrap, and anything else that makes a flame or enough heat. The second lesson is geography: two crews in structures that looked separate and were not. Before releasing hot work, ask what the space connects to through pipe, duct, sleeve, cable tray or shaft, and who is working at the far end of each connection today."
+    },
+    {
+     "type": "case",
+     "title": "The welder nobody told about the vent",
+     "paragraphs": [
+      "Another OSHA hazard document covers a November 2015 explosion of a soybean soapstock storage tank. A welder employed by a specialty subcontractor was installing a catwalk across the tops of two tanks and was welding catwalk supports onto one of them, working alone and near an open vent on top of the tank [S8]. The tank was in active use, and the document says it exploded when flammable gases venting from it were ignited; the explosion killed the welder [S8]. OSHA's wording on the ignition is that welding sparks likely dropped near the open vent [S8].",
+      "The facility had a hot work program. According to the document, an evaluation of the dangers of welding near the tank vent was not completed by, or communicated to, the subcontractor, the welder was not informed of the dangers of welding in that area, and no hot work permit was prepared for the job [S8]. There was no air monitoring for explosive gases and no steps were taken to make the weld area safe by eliminating the fire and explosion hazards [S8]. The corrective measures OSHA lists include a job hazard assessment with input from the subcontractor and a knowledgeable facility worker, a permit before work starts, routine monitoring if hazards may develop, and the host sharing information about ongoing operations that could create hazards with specialty subcontractors [S8]."
+     ],
+     "takeaway": "This is a host-to-sub handoff failure, which is exactly where a coordinator sits. The facility owned a program and the sub owned the weld, and the hazard lived in the space between them. On a data center, the owner's existing plant, a utility interface or an adjacent live building takes the place of the soapstock tank. Ask the host in writing what is vented, stored or running within reach of the hot work, and put the answer in the sub's hands before the permit is issued, not after the welder is on the roof."
+    }
+   ]
+  },
+  {
+   "heading": "Cylinders, manifolds and hose: where the stored energy sits",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Gas cylinders are where Subpart J gets specific, and most of the rules are checkable from a walk-around. Valve protection caps stay in place and secured. Hoisting is on a cradle, slingboard or pallet, never by magnets or choker slings. Cylinders are moved by tilting and rolling on their bottom edges, are not intentionally dropped or struck, and ride vertically and secured when moved by a powered vehicle [S1]. Unless a cylinder is firmly secured on a special carrier, the regulator comes off and the cap goes on before it moves [S1]. Cylinders are secured upright at all times except for short periods while being hoisted or carried, and the valve is closed when work finishes, when the cylinder is empty, or whenever it is moved [S1]."
+    },
+    {
+     "type": "p",
+     "text": "Storage is a separation rule. The oxygen has to be kept away from fuel gas and from anything combustible, with the oil-and-grease clause pointing at the real failure mode, which is a regulator or hose that has been handled with greasy gloves."
+    },
+    {
+     "type": "quote",
+     "text": "Oxygen cylinders in storage shall be separated from fuel-gas cylinders or combustible materials (especially oil or grease), a minimum distance of 20 feet (6.1 m)",
+     "source": "S1"
+    },
+    {
+     "type": "p",
+     "text": "The standard's alternative to the 20 feet is a noncombustible barrier at least 5 feet high with a fire-resistance rating of at least one-half hour [S1]. Inside buildings, cylinders go in a well-protected, well-ventilated, dry location at least 20 feet from highly combustible material, in assigned places away from elevators, stairs and gangways, where they won't be knocked over by passing or falling objects or tampered with, and not in unventilated enclosures such as lockers and cupboards [S1]. A closed job-box used as a cylinder locker fails that last clause unless it is ventilated. If the cylinders are wherever the crew left them, nobody assigned a place."
+    },
+    {
+     "type": "p",
+     "text": "In use, cylinders stay far enough from the work that sparks, hot slag or flame won't reach them (or behind fire-resistant shields), and where they cannot become part of an electrical circuit; electrodes may not be struck against a cylinder [S1]. Fuel gas cylinders stand valve end up, and cylinders of oxygen, acetylene or other fuel gas are not taken into confined spaces [S1]. Cylinders, full or empty, are not rollers or supports [S1]."
+    },
+    {
+     "type": "p",
+     "text": "Fuel gas handling is something the employer must instruct employees on. The valve is cracked briefly to clear dirt before a regulator is connected, from the side of the outlet and away from sparks, flame or other ignition sources, and fuel gas valves are not opened more than 1 1/2 turns so they can be closed fast [S1]. A stem leak that a tightened gland nut doesn't stop means the cylinder is tagged and removed from the work area [S1]."
+    },
+    {
+     "type": "p",
+     "text": "Manifolds and hoses are the quiet half of the section. Manifolds carry the name of their contents in letters at least 1 inch high, sit in safe, well-ventilated, accessible locations, and are not located within enclosed spaces [S1]. Hose connections must be such that hose cannot be interchanged between fuel gas and oxygen manifolds, and adapters may not defeat that [S1]. Every hose in use is inspected at the start of each working shift and defective hose comes out of service [S1]. Torches get the same start-of-shift inspection and are lighted by friction lighters or other approved devices, not by matches or from hot work [S1]. Hoses, cables and other equipment are kept clear of passageways, ladders and stairs [S1]."
+    }
+   ]
+  },
+  {
+   "heading": "Arc welding: the cable, the ground and the structure",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Arc welding in construction is mostly an electrical hazard with a fire problem attached, and Subpart J's rules are about the cable, the holder and the return path. Only holders designed for arc welding and cutting, rated for the maximum current the electrodes require, are allowed, and the current-carrying parts passing through the grip, plus the outer surfaces of the jaws, must be fully insulated against the maximum voltage to ground [S2]. Cable must be completely insulated and flexible and sized for the current at the duty cycle of the work [S2]. Only cable free from repair or splices for a minimum distance of 10 feet from the electrode-holder end may be used, unless the cable has standard insulated connectors or splices whose insulating quality equals the cable's [S2]. Cable that needs repair is not used, and worn cable with bare conductor exposed must have the exposed part protected by rubber and friction tape or equivalent insulation [S2]."
+    },
+    {
+     "type": "p",
+     "text": "The return path is where field practice drifts from the standard. The ground return cable must have a safe current-carrying capacity at least equal to the maximum output of the unit it serves, and if one return cable serves several units, its capacity must equal or exceed the total maximum output of all of them [S2]. On a big job with several welding machines clamped to the same steel, the second rule is the one that gets missed."
+    },
+    {
+     "type": "quote",
+     "text": "Pipelines containing gases or flammable liquids, or conduits containing electrical circuits, shall not be used as a ground return.",
+     "source": "S2"
+    },
+    {
+     "type": "p",
+     "text": "The standard does allow a structure or pipeline to carry the return circuit, with conditions. Electrical contact must be confirmed at every joint, and if an arc, sparks or heat appear at any point, the structure is rejected as a ground circuit [S2]. When a structure or pipeline is continuously used this way, all joints must be bonded and inspections made periodically to ensure no electrolysis or fire hazard exists [S2]. Cable tray, conduit and process piping are the attractive wrong answers because they run exactly where the welder is."
+    },
+    {
+     "type": "p",
+     "text": "Machine frames must be grounded either through a third wire in the cable carrying the circuit conductor or through a separate wire grounded at the source of current [S2]. Grounding circuits other than the structure are to be checked to ensure that the resistance between the ground and the grounded power conductor is low enough to let enough current flow to trip the fuse or breaker [S2]. All ground connections are inspected to be mechanically strong and electrically adequate [S2]."
+    },
+    {
+     "type": "p",
+     "text": "Operating instructions the employer must give are short. Electrodes are removed from holders left unattended, and the holders are placed or protected so they can't touch people or conductive objects [S2]. Hot holders are not dipped in water, which can expose the welder to shock [S2]. If the welder leaves the work, stops for an appreciable time, or the machine is moved, the power supply switch is opened [S2]. Faulty or defective equipment is reported to the supervisor [S2]. All arc welding and cutting are shielded by noncombustible or flameproof screens whenever practicable to protect people nearby from the direct rays of the arc [S2]."
+    },
+    {
+     "type": "p",
+     "text": "Trades that follow a welder through an open floor work in view of the arc unless somebody sets up the screen, so the screen belongs on the area plan, not only on the welder's list."
+    }
+   ]
+  },
+  {
+   "heading": "Fumes, ventilation and the metals that change the rules",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Subpart J's ventilation rule is a default with named exceptions. Welding, cutting or heating that doesn't involve a confined space, the listed toxic metals or inert-gas metal-arc welding may normally be done without mechanical ventilation or respiratory protective equipment, but where unusual physical or atmospheric conditions produce an unsafe accumulation of contaminants, suitable mechanical ventilation or respirators have to be provided [S4]. Everyone who welds gets suitable eye protection [S4]. OSHA's fact sheet adds that welding outdoors or in open work areas does not guarantee adequate ventilation, and says stay upwind in open conditions [S11]."
+    },
+    {
+     "type": "p",
+     "text": "When ventilation is required it has to be real. General mechanical ventilation must have enough capacity and arrangement to produce the number of air changes needed to keep fumes and smoke within safe limits [S4]. Local exhaust is a set of freely movable hoods that the welder or burner places as close as practicable to the work, sized to remove fumes at the source and keep concentration in the breathing zone within safe limits [S4]. Exhausted air goes to the open air or otherwise clear of the intake, and replacement air must be clean and respirable [S4]. Oxygen may not be used for ventilation, comfort cooling, blowing dust from clothing or cleaning the work area [S4]."
+    },
+    {
+     "type": "p",
+     "text": "The metals list is where scope changes. In any enclosed space, zinc-bearing base or filler metals or metals coated with zinc-bearing materials, lead base metals, cadmium-bearing filler materials, and chromium-bearing metals or metals coated with chromium-bearing materials require either general mechanical or local exhaust ventilation [S4]. A second group needs local exhaust or air line respirators in an enclosed space: metals containing lead other than as an impurity or coated with lead-bearing materials, cadmium-bearing or cadmium-coated base metals, metals coated with mercury-bearing metals, and beryllium-containing metals [S4]. For beryllium, the standard says work shall be done with both local exhaust ventilation and air line respirators because of its high toxicity [S4]. In the open air, workers on these metals wear filter-type respirators, or air line respirators if beryllium is involved [S4]."
+    },
+    {
+     "type": "quote",
+     "text": "Other employees exposed to the same atmosphere as the welders or burners shall be protected in the same manner as the welder or burner.",
+     "source": "S4"
+    },
+    {
+     "type": "p",
+     "text": "That sentence is the one for a coordinator, because the welder is rarely the only person who breathes the fume. The helper, the laborer sweeping behind, the electrician working the same enclosure and the inspector who walks in to check the weld are all 'other employees exposed.' Galvanized strut, galvanized duct and zinc-coated pipe supports are everywhere on a data center, and the zinc-bearing item on the list is the one most likely to apply. OSHA's fact sheet lists zinc among the metals in welding fume and names acute symptoms such as eye, nose and throat irritation, dizziness and nausea, with the instruction that workers who feel them leave and get fresh air [S11]. It also says prolonged manganese exposure can cause Parkinson's-like symptoms [S11]. Stainless is the other trap: the fact sheet says chromium in stainless steel and some consumables is converted to hexavalent chromium during welding, that Cr(VI) fume is highly toxic and can cause cancer, and that OSHA regulates it at 29 CFR 1910.1026 and 1926.1126 [S11]."
+    },
+    {
+     "type": "p",
+     "text": "The construction Cr(VI) standard sets a permissible exposure limit of 5 micrograms per cubic meter as an 8-hour average and an action level of 2.5 [S12]. OSHA has said, in a letter about the parallel general industry standard, that there are no general exceptions for welding in the clothing and hygiene paragraphs, which turn on potential skin or eye exposure rather than job type [S13]."
+    },
+    {
+     "type": "p",
+     "text": "Inert-gas metal-arc welding (the MIG and TIG family) gets its own paragraph in Subpart J. The standard says the process produces ultraviolet radiation at 5 to 30 times the intensity of shielded metal-arc welding, and breaks down chlorinated solvents into toxic fumes [S4]. Before anyone does or is exposed to the process, chlorinated solvents must be kept at least 200 feet from the arc unless shielded, surfaces prepared with them must be thoroughly dry, exposed employees not screened from the arc need filter lenses, welders exposed to each other's arc wear filter lens goggles under the helmets, and skin must be covered completely against ultraviolet burns [S4]. Helmets and hand shields must be free of leaks, openings and highly reflective surfaces [S4]. On stainless, the standard requires the same enclosed-space protections as for the second metals group because of nitrogen dioxide [S4]."
+    }
+   ]
+  },
+  {
+   "heading": "Coatings, paint and the lead that comes with them",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Subpart J does not leave coatings to the welder's judgment. Before heat goes on a surface covered by a preservative coating whose flammability is unknown, a competent person tests it. That is stated as a duty on the employer's side with a named role attached."
+    },
+    {
+     "type": "quote",
+     "text": "Before welding, cutting, or heating is commenced on any surface covered by a preservative coating whose flammability is not known, a test shall be made by a competent person to determine its flammability.",
+     "source": "S5"
+    },
+    {
+     "type": "p",
+     "text": "Coatings are considered highly flammable when scrapings burn with extreme rapidity, and highly flammable hardened coatings are stripped from the area to be heated [S5]. For toxic coatings, the rule splits by location. In enclosed spaces, toxic-coated surfaces are stripped for at least 4 inches from the area of heat application, or the employees are protected by air line respirators; in the open air, employees wear a respirator [S5]. The coating must be removed far enough that the unstripped metal's temperature is not appreciably raised, and the surrounding metal may be artificially cooled to limit the size of the area to be cleaned [S5]."
+    },
+    {
+     "type": "p",
+     "text": "Lead is the usual toxic coating on existing steel in renovation and tenant work, and it is covered by its own standard. The construction lead standard applies to all construction work with potential lead exposure, including demolition and renovation, and sets a PEL of 50 micrograms per cubic meter as an 8-hour average with an action level of 30 [S14]. It also requires interim protection when lead-containing coatings are present on structures and abrasive blasting, welding, cutting or torch burning are performed [S14]. The practical point is that the welder cutting an old beam out of a brownfield site is a lead job on the day the paint is cut, whatever the scope sheet calls it. A pre-job paint test is a cheap answer, and nobody should discover the coating after the first cut."
+    },
+    {
+     "type": "case",
+     "title": "The hold fire and the two languages",
+     "paragraphs": [
+      "OSHA says a crew was aboard the iron ore vessel Cuyahoga at the Port of Ashtabula in March 2024 when a large fire erupted as a worker used welding equipment to remove paint in a cargo hold [S10]. Many crewmembers who had been working below the hold were on lunch break at the time and avoided being trapped below decks [S10]. The release is an enforcement announcement: the agency says its inspectors found these facts, and it cited the employer, South Marine Systems, for 15 serious violations and one other-than-serious violation and proposed $164,540 in penalties [S10]. The company had 15 business days to comply, request an informal conference or contest [S10]. The release does not say whether it did.",
+      "The findings are plain. The employer did not designate a competent person able to identify hazards, had no marine chemist test for hazardous atmospheres before welding started, and did not stop work when small fires began, to assess the conditions [S10]. It failed to determine the flammability of the preservative coating on the bulkhead before hot work, and did not provide a fire hose with a fog nozzle while a worker used a welder to remove the coating [S10]. It also did not ensure that a Chinese-speaking employee doing hot work could communicate with a Spanish-speaking employee on fire watch, and did not train the fire watch employees in the very basic elements of fighting a fire [S10]."
+     ],
+     "takeaway": "This is a ship, and maritime standards governed the citations, so the rule numbers don't transfer. The sequence does. The coating-flammability test is the same duty that Subpart J puts on a construction employer, and the release lists the warning signs: small fires, no competent person, and a fire watch who could not talk to the person welding. Treat small fires as a stop-work event and write that into the hot work procedure before the job starts. When a crew is mixed-language, check that the watch and the welder can actually exchange a warning, and have the competent person confirm it, not assume it."
+    }
+   ]
+  },
+  {
+   "heading": "Confined spaces: where Subpart J and Subpart AA meet",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Welding in a confined space adds three things on top of general hot work. Mechanical ventilation, general or local exhaust, is required whenever welding, cutting or heating is done in a confined space, with exceptions in the standard itself [S4]. If enough ventilation can't be had without blocking access, employees inside are protected by air line respirators and an employee outside is assigned to keep communication with them and aid in an emergency [S4]. Where the welder enters through a manhole or other small opening, there has to be a way to remove the person quickly, any harness or lifeline attached so the body can't jam in the opening, and an attendant with a pre-planned rescue procedure stationed outside, watching at all times [S4]."
+    },
+    {
+     "type": "p",
+     "text": "Torches get a separate rule for these spaces. The gas supply to a torch must be positively shut off at some point outside the enclosed space whenever the torch is not in use or left unattended for a substantial period such as the lunch hour [S3]. Overnight and at shift change, the torch and hose are removed from the confined space, and open-end fuel gas and oxygen hoses come out immediately when disconnected from the torch [S3]. The reason is a leaking torch valve filling a dead space with gas while everyone is at lunch. Cylinders of oxygen, acetylene or other fuel gas are not taken into confined spaces at all [S1]."
+    },
+    {
+     "type": "p",
+     "text": "On the relationship between the welding rules and the newer confined spaces in construction rule, OSHA put it in a February 2019 enforcement memo. Subpart J continues to apply to the hazards of welding, cutting and heating in a confined space, while subpart AA covers the other confined space hazards [S6]. The memo says the definition in subpart AA, at 1926.1202, is now the one used when deciding whether 1926.353(b)(1) was violated, because OSHA replaced the earlier definition [S6]. It adds that welding in a confined space inherently creates a risk because the task itself produces metal fume, gases and smoke, and there is a risk of incapacitation if carbon dioxide, carbon monoxide or smoke suddenly spike [S6]."
+    },
+    {
+     "type": "p",
+     "text": "The memo also changes what OSHA has to prove. Section 1926.353(b)(1) is triggered by the act of welding, cutting or heating in a confined space, regardless of whether the atmosphere is likely to exceed any particular exposure level, and a serious violation should be considered if no mechanical or local exhaust ventilation was used [S6]. The exception is narrow: open ventilation, such as a space with many openings to the outside or one that is entirely open on one side but still has limited access, plus air sampling showing natural ventilation holds the atmosphere below the threshold limit values in Appendix A to 1926.55. If both are established, the failure to provide mechanical ventilation is to be treated as de minimis unless sampling shows an atmospheric hazard [S6]. A confined-space welder who is working without exhaust and without sampling data has nothing to rebut with."
+    },
+    {
+     "type": "case",
+     "title": "Four feet by eight feet and no air test",
+     "paragraphs": [
+      "OSHA's April 2024 release describes an August 2023 incident at a shipbuilder in Palatka, Florida. A welder arrived at 5 a.m. to do fabrication work in a 4-foot by 8-foot space in a ship's hull [S9]. Less than two hours after he entered, a supervisor found him unconscious and signaled for help, then lost consciousness himself, and a third employee alerted emergency responders [S9]. All three were taken to a hospital; the welder died of a lack of oxygen, while the supervisor and third worker were treated and released [S9].",
+      "OSHA's finding was that the company exposed workers to oxygen deficiency by sending the welder into a confined space without first testing the air for oxygen content, and that the presence of welding gas in the space created an oxygen-deficient atmosphere [S9]. The agency cited four serious violations and proposed $55,539 in penalties; the release also describes missing annual inspections of six cranes [S9]. The company contested the findings before the Occupational Safety and Health Review Commission [S9]."
+     ],
+     "takeaway": "The details that matter: a normal start of shift, a small space, and the first rescuer became the second victim. The release also warns that welding gas itself creates the deficiency, which means a pre-entry test is not enough on its own if the shielding gas keeps flowing. OSHA's fact sheet makes the same point generally, saying gases such as helium, argon and carbon dioxide displace oxygen and can suffocate welders in confined or enclosed spaces [S11]. A coordinator should ask three questions at the permit desk: is the space tested at the start and kept monitored while gas is flowing, who is stationed outside and are they forbidden from entering, and does the sub know what to do about the supervisor who wants to go in after the worker."
+    }
+   ]
+  },
+  {
+   "heading": "Physical hazards that don't make the headlines",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Most of Subpart J's physical hazard rules protect people near the welder. Arc shielding protects anyone in the vicinity from the direct rays of the arc [S2], skin must be covered completely against ultraviolet burns in the inert-gas process [S4], and eye protection is required for anyone welding, cutting or heating [S4]. Hot electrode holders stay out of water [S2]. Oxygen shall not be directed at oily surfaces, greasy clothes, or inside a fuel oil or other storage tank or vessel, which is how people catch fire without an arc [S1]."
+    }
+   ]
+  },
+  {
+   "heading": "A coordinator's checklist for welding and cutting on a large job",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "This is judgment, not regulation. It follows from the standards and cases above, and each item can be checked without welding experience."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Hot work permit status. Every torch, arc, grinder, heat gun or open flame has a named person who released it, a named fire watch who isn't the welder, and a stated end time for the watch [S3]. If a host owner has its own program, get its permit as well as the sub's.",
+      "The other side of the wall. Name what is on the opposite side of any wall, floor or ceiling being worked and confirm precautions there [S3].",
+      "Coating and metal ID before the first cut. Ask for the coating test result or the plan for one [S5], the lead question for existing steel [S14], and whether the base metal or filler is galvanized, stainless or cadmium-plated [S4].",
+      "The people next to the welder. Whatever protection the welder needs, others in the same atmosphere need too [S4]. List who that is for the shift.",
+      "Confined and connected space. Test before entry and while gas flows, post an outside attendant, and check what the space connects to [S9][S7][S4]. No fuel gas or oxygen cylinders enter [S1], and torches are shut off at the source outside during breaks [S3].",
+      "Stop-work trigger. Any small fire stops the work and gets assessed by the person with authority [S10]. Make sure the watch and the welder can warn each other in a language both speak [S10]."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What has changed since a 2017 guide",
+   "blocks": [
+    {
+     "type": "list",
+     "items": [
+      "Confined spaces in construction (subpart AA) now exists as a separate rule. The 2019 enforcement memo says Subpart J still governs the welding, cutting and heating hazards in a confined space, and the subpart AA definition at 1926.1202 now decides whether 1926.353(b)(1) applies [S6]. A course guide that cites the old general confined space definition in 1926.21 is out of date on that point, because the memo records that OSHA replaced it [S6].",
+      "1926.353(b)(1) is triggered by the act of welding in a confined space, not by a measured exposure, and the memo gives inspectors a narrow de minimis path that depends on open ventilation and air sampling [S6].",
+      "Subpart J's own text is old. It points to a 1965 Compressed Gas Association pamphlet and ANSI Z49.1 dated 1967 [S1], so the changes that matter in practice come from neighboring standards.",
+      "Hexavalent chromium in construction is regulated under its own standard at 1926.1126, with a PEL of 5 micrograms per cubic meter [S12]. An OSHA letter says there are no general exceptions for welders in the parallel general industry clothing and hygiene paragraphs [S13]. A course that lists chromium only as a metal of toxic significance in Subpart J misses the exposure standard behind it."
+     ]
+    }
+   ]
+  }
+ ]
+}

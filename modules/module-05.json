@@ -1,0 +1,348 @@
+{
+ "module": 5,
+ "title": "Caught-In or -Between Hazards",
+ "sources": [
+  {
+   "id": "S1",
+   "title": "29 CFR 1926.300, General requirements (tools and guarding)",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.300"
+  },
+  {
+   "id": "S2",
+   "title": "29 CFR 1926.555, Conveyors",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.555"
+  },
+  {
+   "id": "S3",
+   "title": "29 CFR 1926.600, Equipment",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.600"
+  },
+  {
+   "id": "S4",
+   "title": "29 CFR 1926.601, Motor vehicles",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.601"
+  },
+  {
+   "id": "S5",
+   "title": "29 CFR 1926.1424, Work area control (cranes)",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1424"
+  },
+  {
+   "id": "S6",
+   "title": "29 CFR 1910.147, The control of hazardous energy (lockout/tagout)",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147"
+  },
+  {
+   "id": "S7",
+   "title": "OSHA letter of interpretation, Nov. 16, 2000, applicability of LOTO standards",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/2000-11-16"
+  },
+  {
+   "id": "S8",
+   "title": "OSHA news release, John Oliveira & Sons Stamp Concrete, Braintree MA (Dec. 1, 2023)",
+   "url": "https://www.osha.gov/news/newsreleases/boston/20231201"
+  },
+  {
+   "id": "S9",
+   "title": "OSHA news release, LMA Services Company, Braintree MA (Jan. 18, 2024)",
+   "url": "https://www.osha.gov/news/newsreleases/boston/20240118"
+  },
+  {
+   "id": "S10",
+   "title": "OSHA news release, TJ Campbell Construction, Oklahoma City (May 4, 2022)",
+   "url": "https://www.osha.gov/news/newsreleases/dallas/20220504"
+  },
+  {
+   "id": "S11",
+   "title": "OSHA Hazard Alert, Working Safely with Scissor Lifts (HA-3842)",
+   "url": "https://www.osha.gov/sites/default/files/publications/OSHA3842.pdf"
+  },
+  {
+   "id": "S12",
+   "title": "OSHA video transcript, Swinging Cranes (struck-by accidents in construction)",
+   "url": "https://www.osha.gov/vtools/construction/struck-by-crane-fnl-eng-web-transcript"
+  },
+  {
+   "id": "S13",
+   "title": "29 CFR 1926.1404, Assembly/disassembly (cranes)",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.1404"
+  },
+  {
+   "id": "S14",
+   "title": "29 CFR 1904.39, Reporting fatalities, hospitalizations, amputations and losses of an eye",
+   "url": "https://www.law.cornell.edu/cfr/text/29/1904.39"
+  },
+  {
+   "id": "S15",
+   "title": "29 CFR 1926.417, Lockout and tagging of circuits",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.417"
+  }
+ ],
+ "sections": [
+  {
+   "heading": "One event, three labels",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "OSHA does not file a pinning under one heading. In its January 2024 release on a Brockton, Massachusetts earthwork fatality, the agency says the contractor exposed employees to \"struck-by and caught between hazards\" around a single compact track loader, and the worker was fatally injured \"after being struck by the loader and pinned between the ground and the bucket\" [S9]. Same machine, same second, two categories. The same release quotes the Bureau of Labor Statistics at 484 struck-by fatalities in 2022 and says roughly 75 percent of struck-by deaths involve heavy equipment such as trucks or cranes [S9]. That figure is for struck-by only, so do not read it as a caught-between count, but it shows where the energy is. Most of what traps a person on a construction site is something big that moves."
+    },
+    {
+     "type": "p",
+     "text": "Trench cave-ins, the buried-in version of this category, get their own treatment in Module 15. This module covers machinery with exposed moving parts and equipment that pins a person against something, because on a large mechanical and electrical job those are the ones that show up in the daily plan. The useful way to think about them is mechanism, not label. Something with stored or live energy moves, and a person is in the gap it moves into. The control is almost always the same two moves: take the energy away before anyone is in the gap, or keep people out of the gap while the energy is on."
+    },
+    {
+     "type": "p",
+     "text": "A coordinator does not run the machine and does not hold the lock. What the coordinator does control is the sequence: which trade is working under, behind or beside which machine, on which shift, with what handoff. The cases below are mostly sequence failures. Someone was asked to do a routine task at a moment when the machine was not made safe, or when another crew was moving equipment into the space."
+    }
+   ]
+  },
+  {
+   "heading": "Case: the soil screener and the loader bucket",
+   "blocks": [
+    {
+     "type": "case",
+     "title": "John Oliveira & Sons Stamp Concrete, East Freetown, Massachusetts",
+     "paragraphs": [
+      "On September 6, 2023, an employee of a concrete contractor was fatally injured while maintaining a soil screener. OSHA's release says the company instructed the employee to remove a soil screen on a conveyor, and that the employee was then crushed between the conveyor and its frame, because the company did not make sure the conveyor's power source was disabled to prevent unintended startup during the maintenance [S8].",
+      "OSHA's list of what the investigation found the company had not done is more instructive than the headline. It did not have an energy control program to isolate the conveyor's power source. It did not provide locks, tags or other hardware to isolate or block machines from their energy sources. It did not adequately maintain the soil screener, which OSHA says had numerous defects and missing parts. It did not forbid employees from riding in a front-end loader's bucket. It did not record each work-related fatality, injury or illness on the OSHA Form 300 or equivalent [S8].",
+      "OSHA cited six violations, three willful, two serious and one other-than-serious, with $200,905 in proposed penalties [S8]. Those are proposed penalties. The release says the company had 15 business days to comply, ask for an informal conference or contest, and it does not say what happened next, so this write-up does not either [S8].",
+      "Two details are worth slowing down on. The task was ordinary maintenance on a screening conveyor, not an emergency. And the same release says the company did not forbid employees from riding in a front-end loader's bucket, which is a separate crush and fall exposure on the same site [S8]. When one site shows a missing lockout program and no rule against riding in a bucket, the inspector is looking at a pattern of how work gets done, not a single lapse."
+     ],
+     "takeaway": "Ask for the energy-isolation method for every piece of powered process equipment before a crew is allowed to clean, unjam or change a part on it, and ask who on that crew holds the lock. If the answer is 'we just shut it off', the task is not ready to start. Treat a worker in a loader bucket the same way you would treat a missing guardrail: stop it that minute, whoever employs the person."
+    }
+   ]
+  },
+  {
+   "heading": "Lockout on a construction site: the standard people think applies, and the ones that do",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The general-industry lockout/tagout standard is the one most people name. It does not apply to construction. Its scope paragraph says the standard does not cover \"Construction and agriculture employment\" [S6]. OSHA repeated this in a 2000 letter to a construction company that serviced general-industry clients: 1910.147 does not cover construction activities, and a construction employer \"must comply with the lockout and tagout provisions of 29 CFR Part 1926,\" with 1926.417 and 1926.555(a)(7) given as examples [S7]. That letter is old and was written for one set of facts, and no newer OSHA statement that changes the point turned up. The text of 1910.147 as currently posted still carries the exclusion [S6]."
+    },
+    {
+     "type": "quote",
+     "text": "Controls that are to be deactivated during the course of work on energized or deenergized equipment or circuits shall be tagged.",
+     "source": "S15"
+    },
+    {
+     "type": "p",
+     "text": "That is the electrical rule, and it is thin: it is about tagging controls and circuits so that nobody energizes them while work is under way [S15]. For conveyors the construction standard is more direct."
+    },
+    {
+     "type": "quote",
+     "text": "Conveyors shall be locked out or otherwise rendered inoperable, and tagged out with a \"Do Not Operate\" tag during repairs and when operation is hazardous to employees performing maintenance work.",
+     "source": "S2"
+    },
+    {
+     "type": "p",
+     "text": "Notice what is not in the two sections quoted above. There is no requirement in them for a written, machine-specific procedure, a periodic inspection of the procedure, or a defined group lockout method, which is what 1910.147 supplies for general industry [S6]. Whether a particular crew has those things is a matter of company policy, owner requirements or what the contract says, not something these Part 1926 sections spell out. On a data center, owners and their insurers often impose a full lockout program on the whole project. If yours does, that program is doing work the Part 1926 text does not do, and the coordinator should know which parts of the site's practice are contractual and which are regulatory when an inspector or a sub's safety manager asks."
+    },
+    {
+     "type": "p",
+     "text": "Practical gap to watch: a commissioning or startup crew from an equipment vendor arrives with its own company procedure written for general-industry plants. That is fine as a floor. The question is whether the procedure names the building's actual isolation points, and whether the vendor's tech, the electrical sub and the mechanical sub are all putting a lock on the same device or each trusting that someone else did. Judgment, not law: put the isolation points on the commissioning plan, with a named owner for each lock, before the first startup test."
+    }
+   ]
+  },
+  {
+   "heading": "Case: the asphalt plant conveyor",
+   "blocks": [
+    {
+     "type": "case",
+     "title": "TJ Campbell Construction, Oklahoma City",
+     "paragraphs": [
+      "On November 2, 2021, an 18-year-old worker was pulled into a hot asphalt silo while trying to remove debris from a conveyor in Oklahoma City, according to OSHA's May 2022 release. The worker, OSHA's Area Director said, was barely three months on the job [S10].",
+      "OSHA determined the conveyor system was not locked out or tagged out to avoid accidental startup. It issued willful citations for failing to develop and use procedures for controlling hazardous energy when servicing or cleaning the asphalt conveyor system, and for not training workers adequately on hazardous-energy requirements [S10]. The same release lists unguarded pulleys, chain and sprockets on walking and working surfaces, failure to apply energy isolation devices, missing handrails on stairways and uncovered holes in the floor of walking-working surfaces [S10]. Proposed penalties were $370,347 [S10].",
+      "The release does not name the standards cited. Its language about developing procedures and training workers on them tracks the general-industry lockout standard, but the release itself does not say so, and since 1910.147 excludes construction, the part of the regulations OSHA used for a paving contractor's own plant is not assumed [S6][S10]. What the release does establish is the combination: a debris-clearing task, a conveyor that was not isolated, a very new worker, and unguarded drive parts nearby [S10].",
+      "The release says the company had 15 business days to comply, request an informal conference or contest the findings. It does not report an outcome [S10]."
+     ],
+     "takeaway": "The most dangerous worker on a site for this hazard is the newest one who has been told to 'clear it'. When a sub brings an apprentice or a recent hire onto a system with conveyors, augers, rollers or similar drives, ask who tells that person that clearing a jam means isolation first, and whether anyone on the crew would stop them. A site orientation that covers falls and PPE and says nothing about the plant on the same site leaves this one exposed."
+    }
+   ]
+  },
+  {
+   "heading": "Guarding and the other end of the conveyor",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Guarding is the other half of the caught-in rule, and the construction text is short. Anything with moving parts that people can reach needs a guard."
+    },
+    {
+     "type": "quote",
+     "text": "Belts, gears, shafts, pulleys, sprockets, spindles, drums, fly wheels, chains, or other reciprocating, rotating or moving parts of equipment shall be guarded if such parts are exposed to contact by employees or otherwise create a hazard.",
+     "source": "S1"
+    },
+    {
+     "type": "p",
+     "text": "The standard also lists examples of guarding methods, among them barrier guards, two-hand tripping devices and electronic safety devices [S1]. It adds that guarding shall meet an ANSI mechanical power transmission safety code of 1953 vintage as reaffirmed in 1958, a reminder of how old some of this text is [S1]. Nothing in the version of 1926.300 posted by OSHA shows an amendment after 1996 [S1]."
+    },
+    {
+     "type": "p",
+     "text": "Conveyors have their own rules in 1926.555, and several are the kind that a coordinator can check from a walkway. Screw conveyors must be guarded to prevent contact with turning flights. Where a conveyor passes over work areas, aisles or thoroughfares, suitable guards must protect employees who work below. Crossovers, aisles and passageways must be conspicuously marked with signs. Emergency stop switches must be arranged so the conveyor cannot restart until the switch is reset [S2]. And the rule that matters when more than one trade is near the line:"
+    },
+    {
+     "type": "quote",
+     "text": "Conveyor systems shall be equipped with an audible warning signal to be sounded immediately before starting up the conveyor.",
+     "source": "S2"
+    },
+    {
+     "type": "p",
+     "text": "A startup horn solves the problem of someone being in the wrong place at the wrong moment, but only if somebody can still hear it. It does nothing for the person already inside the frame doing maintenance, who is covered by the lockout rule [S2]. These are two different controls for two different people, and a site that has one and calls it both has a gap."
+    },
+    {
+     "type": "p",
+     "text": "Rental and vendor equipment is where guards go missing. The Oliveira release says the soil screener had numerous defects and missing parts, and the TJ Campbell release lists unguarded pulleys, chain and sprockets [S8][S10]. The releases do not say how either company got or kept the equipment, so whether it was rented is unknown, but on any large job equipment comes in on a delivery ticket and goes to work the same day. A short check at receipt, with a photograph of the drive and guards in place, costs minutes and gives you a record. That is advice, not a requirement in these standards."
+    }
+   ]
+  },
+  {
+   "heading": "Case: under the bucket",
+   "blocks": [
+    {
+     "type": "case",
+     "title": "LMA Services Company LLC, Brockton Hospital site, Massachusetts",
+     "paragraphs": [
+      "In June 2023, an employee of an earthwork general contractor suffered fatal injuries while working near a compact track loader doing excavation for a new building at Brockton Hospital, according to OSHA's January 2024 release. OSHA investigators found the loader's bucket was elevated and being used to load and unload crushed stone on uneven ground while an employee worked beneath it. The employee was struck by the loader and pinned between the ground and the bucket [S9].",
+      "OSHA issued a willful citation for failing to adequately protect employees. The citation noted the employer could have protected them by training them to follow the manufacturer's safety warnings, by being aware of hazards in the work area and by establishing a site-specific safety plan [S9]. A second, other-than-serious citation covered a delay in providing injury and illness records: after OSHA served subpoenas for documents and for managers to testify, the employer delayed providing records that employers must provide within four hours of OSHA's request [S9]. Proposed penalties were $142,642 [S9].",
+      "Unlike the other two cases, the release states the outcome so far: the company contested its citations and penalties before the independent Occupational Safety and Health Review Commission [S9]. The facts above are OSHA's allegations and findings as stated in its release, not a finished adjudication."
+     ],
+     "takeaway": "Crushed-stone placement, pipe bedding and backfill put a loader and a laborer in the same few square meters on uneven ground. Make the plan for any spot where a person works on foot near a loader specify who spots, where the laborer stands while the bucket is raised, and what the signal is. If the laborer's job requires being under a raised bucket, the job is wrong. The manufacturer's warnings on the machine are part of the plan and should be read at the pre-task meeting by whoever is running the crew, not found after."
+    }
+   ]
+  },
+  {
+   "heading": "Mobile equipment: the rules that carry the weight",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Three paragraphs in the construction equipment standards cover most of the pinned-by-a-machine cases. The first is about parked and repaired equipment."
+    },
+    {
+     "type": "quote",
+     "text": "Bulldozer and scraper blades, end-loader buckets, dump bodies, and similar equipment, shall be either fully lowered or blocked when being repaired or when not in use.",
+     "source": "S3"
+    },
+    {
+     "type": "p",
+     "text": "The same paragraph requires heavy machinery or parts held aloft by slings, hoists or jacks to be substantially blocked or cribbed before employees are permitted to work under or between them, and says controls shall be in a neutral position, with the motors stopped and brakes set, unless the work requires otherwise [S3]. The next paragraph requires the parking brake set whenever equipment is parked, with wheels chocked and the brake set on an incline [S3]. In practice this is the tire change, hydraulic hose repair or bucket-tooth swap that gets done in a laydown yard by whoever has a wrench, when the machine is not where the mechanic normally works."
+    },
+    {
+     "type": "p",
+     "text": "The second is about reversing. Under 1926.601, an employer may not use motor vehicle equipment with an obstructed view to the rear unless the vehicle has a reverse signal alarm audible above the surrounding noise level, or is backed only when an observer signals that it is safe [S4]. The standard offers the alarm or the observer. On a site loud enough that no one hears a back-up alarm, the alarm alone is a weak control, and the observer option is the one that works. Which means the observer has to be assigned and positioned, which the coordinator can do in the daily plan."
+    },
+    {
+     "type": "p",
+     "text": "The third is not a rule at all but what OSHA's own cases show: the pinning in Brockton happened with the bucket raised, not with the loader moving [S9]. A raised bucket is a suspended load. Treat it that way."
+    },
+    {
+     "type": "p",
+     "text": "On a data center build, the crowded part is the pad and the mat slab, where trades come in behind civil. Electrical sets conduit and ground grid, then mechanical sets pad-mounted equipment and generators, then the loader that was supposed to be gone is back to backfill a corner nobody finished. That sequence is a reading of how these projects commonly run, not something found in a source, but the point holds on any job: when a machine is returning to an area that other trades have started to occupy, the area changes hands and the plan for who may stand where should change with it."
+    }
+   ]
+  },
+  {
+   "heading": "Swing radius and the crane's tail",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Crane work is where the largest equipment meets the most crowded floor plan, and the construction crane rule has a specific caught-between provision. The swing radius paragraph applies wherever there are accessible areas where the rotating superstructure poses a reasonably foreseeable risk of striking an employee, or of pinching or crushing an employee against another part of the equipment or another object [S5]. To prevent employees from entering those areas, the employer must train authorized personnel to recognize the hazard areas and must put up barriers."
+    },
+    {
+     "type": "quote",
+     "text": "Erect and maintain control lines, warning lines, railings or similar barriers to mark the boundaries of the hazard areas.",
+     "source": "S5"
+    },
+    {
+     "type": "p",
+     "text": "There is an exception when the employer can show it is not feasible to erect barriers on the ground or on the equipment. In that case the hazard areas must be marked by a combination of warning signs, such as \"Danger--Swing/Crush Zone,\" and high-visibility markings on the equipment, and workers must be trained on what the markings mean [S5]. The second provision is about people who must go into a hazard area: before an employee goes to a location in the hazard area that is out of the operator's view, the employee or someone instructed by the employee must make sure the operator is told. If the operator knows an employee has gone there, the operator must not rotate the superstructure until a pre-arranged system of communication confirms that the employee is in a safe position [S5]."
+    },
+    {
+     "type": "p",
+     "text": "OSHA's training video on swinging cranes dramatizes the failure. A flatbed driver delivering steel stood near the crane that was unloading him. The crane company had secured the area with vehicles and two workers to keep out unauthorized people, but there were no barricades to stop anyone coming within the swing radius, and the driver was allowed to stay because he was a friend and knew the operator. He moved closer, out of the operator's line of sight, and was crushed between the crane's counterweight and the right rear outrigger [S12]. The transcript says its scenes are \"based on true stories,\" so it is an illustration, not a documented case with a date and a company, and it is not treated as one here [S12]. What it shows is that the secured area was held by vehicles and two workers but had no barrier at the swing radius, and that being a friend of the operator got the driver let into it."
+    },
+    {
+     "type": "p",
+     "text": "On a data center, think of the delivery windows for generators, transformers, switchgear and chillers. The truck driver, the rigger and the receiving laborer are three people standing near a pick, and one of them may not work for anyone on your project. The crane rule puts the barrier and training requirement on the employer, and the notify-the-operator duty on the employee going into the zone or someone instructed by that employee [S5]. Who actually makes sure the visiting driver is outside the line is a site rule, and on a large project the coordinator is usually the one who can write it into the delivery procedure."
+    },
+    {
+     "type": "p",
+     "text": "When more than one crane or derrick is on the job, 1926.1424(b) adds a coordination duty: where any part of a crane is within the working radius of another, the controlling entity must institute a system to coordinate operations, and if there is no controlling entity the employer or employers must do it [S5]. That text does not define the controlling entity, so check what the contract says about who holds that role before a second crane shows up."
+    },
+    {
+     "type": "p",
+     "text": "Assembly and disassembly is its own exposure. When pins or similar devices are being removed, employees must not be under the boom, jib or other components, unless site constraints require it and the assembly/disassembly director implements procedures to minimize the risk of unintended movement and the duration and extent of exposure under the boom [S13]. A crane going up or coming down on a congested site is the moment to check that the director is a named person and that the ground crews know the rule."
+    }
+   ]
+  },
+  {
+   "heading": "Lifts and the ceiling",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Overhead work in a data hall happens off lifts, and OSHA's scissor lift hazard alert treats crushing as a distinct category alongside falls. It says crushing hazards are present where scissor lifts are used and may expose workers nearby, even those not on the lift, and compares them to the crushing hazard of vehicles and other mobile equipment [S11]. It tells employers to train workers to be watchful when a moving lift is near a fixed object, when a moving vehicle and the lift operate close together, and when the lift passes under a fixed object such as a door frame or support beam [S11]. For positioning it recommends traffic control around the lift, ground guides when operating or moving it, and keeping other equipment from striking it [S11]."
+    },
+    {
+     "type": "p",
+     "text": "The alert is dated 2016 by its publication code, and it is clear that it is not a standard: it creates no new legal obligations, and its recommendations are advisory [S11]. It reports that over a one-year period OSHA investigated ten preventable fatalities and more than 20 preventable injuries involving scissor lifts, and that most resulted from employers not addressing fall protection, stabilization and positioning [S11]. The fatality count is not broken down by cause in the alert, so how many were crushing deaths is not stated."
+    },
+    {
+     "type": "p",
+     "text": "What this means on a build with dense overhead, which is nearly every data center: cable tray, busway, ductwork, sprinkler mains and structural steel hang at working height in the same room where lifts travel. The danger is the operator pinned between the platform rail and something fixed, with a controls panel on the platform that the operator may not be able to reach if they are pressed against the rail. That description of the mechanism is judgment; the alert tells you to watch for the circumstances and does not describe that sequence. The fix on the coordinator's side is sequencing: do not let a lift travel through a zone where another trade is hanging steel or tray at the same level without a ground spotter and an agreed route."
+    }
+   ]
+  },
+  {
+   "heading": "After it happens",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The reporting rule is short. An employer must report a work-related fatality to OSHA within eight hours, and an in-patient hospitalization, amputation or loss of an eye within twenty-four hours, by telephone or in person to the nearest OSHA Area Office, by calling 1-800-321-OSHA, or through the online reporting application [S14]. A crush injury that ends in an amputation or an overnight admission starts the twenty-four-hour clock, so the person who makes the call needs to be named before the day it is needed."
+    },
+    {
+     "type": "p",
+     "text": "There is a records timing issue in the LMA case. The release says the company delayed providing injury and illness records after OSHA subpoenaed documents and managers, and records are due within four hours of OSHA's request [S9]. The company was cited for it, in a separate other-than-serious citation, on top of the willful one for the death itself [S9]. The Oliveira release similarly cites a failure to record the work-related fatality on the OSHA Form 300 or equivalent [S8]. For a coordinator, the lesson is administrative: the sub's recordkeeping person needs to be reachable when something goes wrong, and records need to be where they can be produced in a few hours, not on a laptop in a trailer that is locked."
+    }
+   ]
+  },
+  {
+   "heading": "What has changed since a 2017 guide, and what has not",
+   "blocks": [
+    {
+     "type": "list",
+     "items": [
+      "Lockout/tagout: the exclusion of construction from 1910.147 is still in the current text, and OSHA's own guidance points construction employers to Part 1926 provisions such as 1926.417 and 1926.555(a)(7) [S6][S7]. If a course tells you the general-industry procedure rules apply to your project, they apply because of a contract or a company program, not because 1910.147 reaches construction.",
+      "Cranes: the swing radius and work-area-control text carries a source note of August 9, 2010, which is the cranes rule itself. The page shows no later amendment to 1926.1424. A 2017 guide and today agree on this paragraph [S5].",
+      "Equipment and vehicles: 1926.600 carries a 2010 amendment note, and the page for 1926.601 shows none. Nothing in the paragraphs on blocking, parking and reverse signals has moved [S3][S4].",
+      "Guarding and conveyors: 1926.300 shows its last amendment as 1996, and the page for 1926.555 shows no amendment note, so the guarding and conveyor requirements are the same as in older materials [S1][S2].",
+      "Reporting: the current text of 1904.39 sets the eight-hour and twenty-four-hour clocks described above [S14]. It was not compared with the 2017 version, so what, if anything, changed in the rule's wording is not stated.",
+      "Penalties: the dollar figures in the cases above are the amounts proposed in each release, and they are not a guide to what a citation would cost today, and current penalty maximums were not checked for this module [S8][S9][S10]."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Early signs a coordinator can see from the walkway",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "None of the following is a regulatory requirement. They are the observable conditions that, in the cases above, sat in front of a death, and the coordinator who walks the site is positioned to catch them."
+    },
+    {
+     "type": "list",
+     "items": [
+      "A machine is being cleaned, unjammed or adjusted by someone standing in or on it, and nobody can say where the lock is. The Oliveira and TJ Campbell workers were doing exactly this [S8][S10].",
+      "A guard, cover or rail is off a piece of equipment that has been on site for days. Missing parts and unguarded drives appear in both conveyor releases [S8][S10].",
+      "A person is standing, kneeling or working under a raised bucket, fork, boom or suspended component. In the LMA case the bucket was raised on uneven ground [S9].",
+      "A visitor, driver or laborer is inside a crane's swing line because the barrier stops at the gate, not at the radius [S5][S12].",
+      "The newest worker on the crew has been sent to clear something. The TJ Campbell worker was three months in [S10].",
+      "A lift is being driven through a space where steel, tray or duct is being hung at the same height, with no one on the ground watching its path [S11].",
+      "A second crew has moved into an area that a machine is about to return to, and the plan still shows the original sequence."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "When you find one, the useful move is not to write it up. It is to stop the one task, name the person who owns the fix, and put the change into the next daily plan so it does not depend on who is on shift. The release language in all three cases is some version of 'could have been prevented', and the preventing was done, or not done, in a plan, a toolbox talk or a delivery procedure that someone on the project had the authority to write [S8][S9][S10]."
+    }
+   ]
+  }
+ ]
+}

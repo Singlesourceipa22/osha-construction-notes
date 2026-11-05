@@ -1,0 +1,409 @@
+{
+ "module": 9,
+ "title": "Safety Programs and Subpart C",
+ "sources": [
+  {
+   "id": "S1",
+   "title": "1926.20, General safety and health provisions",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.20"
+  },
+  {
+   "id": "S2",
+   "title": "1926.21, Safety training and education",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.21"
+  },
+  {
+   "id": "S3",
+   "title": "Subpart C index, General Safety and Health Provisions",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926SubpartC"
+  },
+  {
+   "id": "S4",
+   "title": "1926.23, First aid and medical attention",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.23"
+  },
+  {
+   "id": "S5",
+   "title": "1926.24, Fire protection and prevention",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.24"
+  },
+  {
+   "id": "S6",
+   "title": "1926.25, Housekeeping",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.25"
+  },
+  {
+   "id": "S7",
+   "title": "1926.32, Definitions",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.32"
+  },
+  {
+   "id": "S8",
+   "title": "1926.35, Employee emergency action plans",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.35"
+  },
+  {
+   "id": "S9",
+   "title": "1926.28, Personal protective equipment",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.28"
+  },
+  {
+   "id": "S10",
+   "title": "1904.7, General recording criteria",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1904/1904.7"
+  },
+  {
+   "id": "S11",
+   "title": "1904.29, Forms",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1904/1904.29"
+  },
+  {
+   "id": "S12",
+   "title": "1904.30, Multiple business establishments",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1904/1904.30"
+  },
+  {
+   "id": "S13",
+   "title": "1904.31, Covered employees",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1904/1904.31"
+  },
+  {
+   "id": "S14",
+   "title": "1904.35, Employee involvement",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1904/1904.35"
+  },
+  {
+   "id": "S15",
+   "title": "1904.39, Reporting fatalities, hospitalizations, amputations, and losses of an eye",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1904/1904.39"
+  },
+  {
+   "id": "S16",
+   "title": "1904.40, Providing records to government representatives",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1904/1904.40"
+  },
+  {
+   "id": "S17",
+   "title": "1904.41, Electronic submission of injury and illness records",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1904/1904.41"
+  },
+  {
+   "id": "S18",
+   "title": "Appendix B to Subpart E of Part 1904, designated industries",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1904/1904SubpartEAppB"
+  },
+  {
+   "id": "S19",
+   "title": "OSHA 3886, Recommended Practices for Safety and Health Programs in Construction",
+   "url": "https://www.osha.gov/sites/default/files/publications/OSHA3886.pdf"
+  },
+  {
+   "id": "S20",
+   "title": "OSHA 3071, Job Hazard Analysis",
+   "url": "https://www.osha.gov/sites/default/files/publications/OSHA3071.pdf"
+  },
+  {
+   "id": "S21",
+   "title": "OSHA letter of interpretation, competent persons at construction sites (Aug. 31, 1995)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/1995-08-31-0"
+  },
+  {
+   "id": "S22",
+   "title": "OSHA letter of interpretation, multi-employer policy and particular construction standards (Feb. 6, 2012)",
+   "url": "https://www.osha.gov/laws-regs/standardinterpretations/2012-02-06"
+  },
+  {
+   "id": "S23",
+   "title": "OSHA news release, JW Marriott Orlando formwork collapse citations (Mar. 6, 2019)",
+   "url": "https://www.osha.gov/news/newsreleases/atlanta/20190306-0"
+  },
+  {
+   "id": "S24",
+   "title": "OSHA news release, Brothers Construction Services, Boston (Feb. 21, 2024)",
+   "url": "https://www.osha.gov/news/newsreleases/boston/20240221"
+  },
+  {
+   "id": "S25",
+   "title": "OSHA news release, J.D. Wagoner Excavating, Chambersburg, PA (Oct. 7, 2026)",
+   "url": "https://www.osha.gov/news/newsreleases/philadelphia/20261007"
+  },
+  {
+   "id": "S26",
+   "title": "OSHA news release, Richmond Construction, Brooklyn (Dec. 3, 2021)",
+   "url": "https://www.osha.gov/news/newsreleases/new-york-city/20211203"
+  },
+  {
+   "id": "S27",
+   "title": "1904.33, Retention and updating",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1904/1904.33"
+  }
+ ],
+ "sections": [
+  {
+   "heading": "Subpart C is thin on purpose",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Subpart C of Part 1926 is where the construction rules put the idea of a safety program, and it does it in very few words. The subpart index lists general provisions, training, first aid, fire protection, housekeeping, illumination, sanitation, PPE, definitions, exposure records, means of egress and emergency action plans [S3]. Section 1926.22, recording and reporting of injuries, is marked reserved, so there is no construction-specific recordkeeping rule in Part 1926 [S3]. Recordkeeping on a construction job runs through Part 1904, covered below. Most of the weight on a large job is carried by 1926.20 and one definition in 1926.32."
+    },
+    {
+     "type": "p",
+     "text": "Start with 1926.20(a). It restates a contract condition from the Construction Safety Act: no contractor or subcontractor may require any laborer or mechanic to work in surroundings or under working conditions that are unsanitary, hazardous, or dangerous to health or safety [S1]. Then (b)(1): the employer is responsible to initiate and maintain such programs as may be necessary to comply with Part 1926 [S1]. The standard does not say what a program looks like. It does not require a written plan, a safety manager or a particular meeting. What it requires is a program that does the thing in (b)(2), and that sentence is the core of this module."
+    },
+    {
+     "type": "quote",
+     "text": "Such programs shall provide for frequent and regular inspections of the job sites, materials, and equipment to be made by competent persons designated by the employers.",
+     "source": "S1"
+    },
+    {
+     "type": "p",
+     "text": "Three things in that sentence do the work. Inspections must be frequent and regular, which the standard does not turn into a number. They cover materials and equipment as well as the ground. And the people doing them must be competent persons that the employer designated, which means a named choice, not whoever happens to be walking by. The other three paragraphs of (b) are blunter. Equipment or material that does not comply with Part 1926 may not be used, and must be tagged as unsafe, locked out so it cannot run, or physically removed [S1]. Only employees qualified by training or experience may operate equipment and machinery [S1]. On a site with a tool crib, a rental yard and ten subs bringing their own gear, (b)(3) is the paragraph that gets a coordinator out of a conversation about whose scissor lift that is: if it fails its check, it gets a tag or a lock, and it leaves the work area."
+    },
+    {
+     "type": "p",
+     "text": "Two more paragraphs matter for how citations are built. Paragraph (d) says a standard aimed at a specific condition prevails over a general one, and that a general standard still applies where no specific one does [S1]. So 1926.20(b)(2) is a floor under the trench rules, the scaffold rules and the rest, not a replacement for them. Paragraph (f) says the PPE and training duties in Part 1926 are owed to each employee separately, so each failure to provide PPE or training can be a separate violation [S1]. The training section picks that up."
+    },
+    {
+     "type": "p",
+     "text": "Subpart C also holds the housekeeping, fire and first-aid duties, in a few lines each. Housekeeping requires debris and scrap lumber with protruding nails to be kept cleared from work areas, passageways and stairs, combustible scrap removed at regular intervals with safe means provided, and covered containers for oily, flammable or hazardous waste [S6]. Fire protection puts on the employer an effective fire protection and prevention program at the job site throughout all phases of the work [S5]. First aid makes services and provisions for medical care available for every covered employee and sends the specifics to Subpart D [S4]. PPE is the employer's job too: it is responsible for requiring appropriate PPE in all operations with exposure to hazardous conditions or where Part 1926 indicates the need [S9]. On a multi-trade job each is a place where trades hand a problem to each other, and that is where the coordinator lives."
+    }
+   ]
+  },
+  {
+   "heading": "The competent person: two halves, and neither one is a certificate",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The definition in 1926.32(f) has a knowledge half and an authority half."
+    },
+    {
+     "type": "quote",
+     "text": "Competent person means one who is capable of identifying existing and predictable hazards in the surroundings or working conditions which are unsanitary, hazardous, or dangerous to employees, and who has authorization to take prompt corrective measures to eliminate them.",
+     "source": "S7"
+    },
+    {
+     "type": "p",
+     "text": "Courses and cards speak to the first half. The second half is a fact about the org chart: a person who can spot an unprotected edge but cannot stop the pour or pull the crew is not competent under this definition, whatever the training file says. The same section defines a qualified person differently, as one with a recognized degree, certificate or professional standing, or extensive knowledge, training and experience, who has demonstrated the ability to solve problems related to the subject matter, work or project [S7]. A qualified person designs the thing; a competent person walks it daily and can fix what changed. They are often different people."
+    },
+    {
+     "type": "p",
+     "text": "OSHA's own releases use the definition as a test. In the Richmond Construction citations after a worker fell about 60 feet from a Brooklyn roof during demolition, OSHA found the company had not had a competent person inspect the roof, the lifeline systems and the fall arrest harnesses before the employees started work, and the release adds that a competent person has the knowledge to spot hazards and the authority to correct them [S26]. The inspection is a pre-start step, not a weekly walk, in that fact pattern."
+    },
+    {
+     "type": "p",
+     "text": "The harder question on a large job is whose competent person it is. A 1995 letter from OSHA's construction compliance office answers it for multi-employer sites in general terms. The employer doing an activity that requires a competent person is normally the one to provide that person, which often means a subcontractor rather than the general contractor [S21]. The general contractor and other employers with exposed workers do not need a competent person of their own for that activity, but only if they have taken appropriate steps to assure themselves that a competent person is carrying out the prescribed duties [S21]. The letter also says the general contractor shares responsibility for subcontractor violations it could reasonably have detected and had corrected, and it expects general contractors to take the steps needed to satisfy themselves that subs doing competent-person work will meet that obligation as well as the general inspection duty in 1926.20(b)(2) [S21]."
+    },
+    {
+     "type": "quote",
+     "text": "a general contractor may rely on a subcontractor if there is a sound basis for that reliance",
+     "source": "S21"
+    },
+    {
+     "type": "p",
+     "text": "The letter quotes Commission decisions to mark the limit on that reliance: the Act does not require a general contractor to duplicate the specialist's safety efforts, only to apprise itself of which efforts its specialty subcontractors have chosen to make, and reliance must be reasonable, with no reason to foresee that the work will be done unsafely [S21]. It also describes a citation upheld against a formwork subcontractor whose employees worked in an excavation it had not dug: with no competent person of its own, it had to assure itself that someone else filled the role [S21]. If the general contractor takes on inspections itself, the people it assigns must be competent enough to detect the hazards that can arise at that site [S21]. The letter says interpretation letters cannot create additional obligations, and it dates from 1995; the multi-employer directive discussed in Module 1 is the later and fuller statement [S21]."
+    },
+    {
+     "type": "p",
+     "text": "In practice, as judgment and not a legal requirement, the roster is the control. A coordinator wants a one-page list per activity (excavation, scaffolds, crane picks, formwork, energized electrical, confined spaces, hot work) showing the employer, the named competent person, the shift covered and a way to reach them, updated whenever a trade rotates in or a person goes on leave. Relying on a sub's competent person is easier to defend when you can show a name, a sign-off form and a record that someone checked the work against it, and harder when the name on the roster has been on another site for three weeks."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Names and phone numbers for each competent person, by activity and shift, posted where the foremen see them.",
+      "Written inspection records the competent person signs, which the 3886 guide also recommends so that the correction of hazardous conditions can be verified later [S19].",
+      "A spot check by the GC's own safety staff on a sample of those inspections, since the 1995 letter ties the GC's exposure to what it could reasonably have detected [S21]."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Prequalification and what the contract can create",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "OSHA's Recommended Practices for Safety and Health Programs in Construction (publication 3886, October 2016) is guidance, not a rule, and it says so. It is also the clearest official statement of how a general contractor is supposed to run a program across employers. It puts the burden on the general contractor to set the terms before work starts."
+    },
+    {
+     "type": "quote",
+     "text": "Include in contracts and bid documents any safety-related specifications and pre-qualifications and ensure that contractors, subcontractors, and staffing agencies selected for the work meet those requirements.",
+     "source": "S19"
+    },
+    {
+     "type": "p",
+     "text": "The same section of the guide lists what a general contractor should arrange. It communicates with the contractors, subcontractors and staffing agencies to determine which of them will implement and maintain the various parts of the safety and health program, and says these determinations can be written into the contract documents and confirmed in pre-construction meetings [S19]. It should set up a procedure to exchange information about hazards present on site and the controls in place [S19]. Subs, for their part, should give the general contractor information about injuries, illnesses, hazards or concerns their workers report, plus the results of any tracking or trend analysis, and describe the hazards and controls tied to their own work and how they will protect others [S19]. The general contractor should give the subs the right to conduct site visits and inspections and to see injury and illness records and other safety and health information, and should tell them about hazards from nonroutine operations and emergencies before on-site work starts and again when conditions change [S19]."
+    },
+    {
+     "type": "p",
+     "text": "The guide names a coordination failure behind many incidents: if employers have inconsistent policies on when and where to wear PPE, workers may wrongly conclude the equipment is not needed. It tells the general contractor to harmonize policies, including through site-specific training, and to keep managers with decision-making authority available for day-to-day coordination [S19]."
+    },
+    {
+     "type": "p",
+     "text": "Two cautions. First, 3886 does not define a prequalification test or say what a sub's record must look like to qualify. A coordinator building a package is setting the company's own standard, and should treat it that way. Second, the contract is not neutral. The 2012 interpretation letter says the multi-employer policy may apply to 1926.20(b)(1), 1926.20(b)(2) and 1926.21(b)(2) in limited circumstances, with the example of a general contractor contractually obligated to provide training to subcontractors [S22]. The same letter repeats that a controlling employer's duty of reasonable care is less than what is required to protect its own employees [S22]. The safe reading is that a clause where the GC promises to train, inspect or supervise a sub's safety can move it from reliance toward responsibility. That is a drafting question for counsel, and a coordinator asked to sign safety exhibits should know it exists."
+    },
+    {
+     "type": "p",
+     "text": "A prequalification package that fits the guide, offered as judgment: the sub's written program or a statement that it has none; its competent persons by activity; training records for the crew it plans to bring; whether it can produce its injury logs (see below); and what it does when told to stop. One public lookup is worth adding: the Wagoner release points readers to OSHA's establishment search page for inspection and penalty status [S25]. Treat a hit as a reason to ask questions, not a verdict, since the release notes penalties can be contested [S25]."
+    }
+   ]
+  },
+  {
+   "heading": "Pre-task plans, inspections, and sequencing",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Nothing in the Subpart C sections covered here requires a pre-task plan or a daily huddle card. The term is industry practice. What OSHA does publish is a method it calls job hazard analysis, and the two fit together. Publication 3071 defines a job hazard analysis as a technique that focuses on job tasks as a way to identify hazards before they occur, looking at the relationship between the worker, the task, the tools and the work environment [S20]. Its list of jobs that deserve priority is a good filter for which tasks on a large job need a written plan instead of a verbal one: jobs with the highest injury rates, jobs that could cause severe injury even without an accident history, jobs in which one simple human error could lead to a severe accident, jobs that are new or have changed processes, and jobs complex enough to require written instructions [S20]."
+    },
+    {
+     "type": "p",
+     "text": "On a data center build that list reads like the schedule: energizing a room others are still working in, a critical lift over finished slab, hot work near cable tray and a confined space in a vault are all new, complex or one-mistake jobs. The 3886 guide names some of the same situations as nonroutine work: mobilization and demobilization, critical lifts, concrete pours and setting critical structural members [S19]. A practical split, labeled as judgment: routine tasks get a short daily pre-task card the crew fills out and the foreman signs; any task that matches the 3071 priority list or the 3886 nonroutine list gets a written plan that someone other than the crew has read before work starts."
+    },
+    {
+     "type": "p",
+     "text": "Two more points from 3071 make a pre-task plan more than a form. Workers should be involved, because they know the job [S20]. And management has to correct what the analysis finds; otherwise it loses credibility and workers hesitate to raise problems [S20]. OSHA says to review an analysis periodically and after an injury or illness on that job, and treats near misses as signs that existing controls may not be adequate; revised methods need training for affected employees [S20]."
+    },
+    {
+     "type": "p",
+     "text": "Sequencing is where 3886 gets most specific for a coordinator. Under hazard identification it says to plan ahead for the hazards the next trades will bring, with the example of making sure structures can handle additional anticipated loads [S19]. Under hazard control it says to plan the sequencing of trades to reduce overlap where possible and avoid exposing other trades to hazards [S19]. Its inspection steps are concrete: designate a competent person, put workers on the inspection team, document inspections so correction can be verified later, photograph problem areas, include the activities of subcontractors and temporary workers, and create delivery areas and internal traffic control plans for the site and laydown areas [S19]. Its list of typical hazard categories includes work organization and process flow, including staffing and scheduling [S19]. A three-week look-ahead with a safety column (who else is in the area, what this trade leaves behind, what the next trade assumes is in place) does this sequencing step, as judgment and not a requirement."
+    }
+   ]
+  },
+  {
+   "heading": "Orlando, 2019: a pour on formwork OSHA says was not properly inspected",
+   "blocks": [
+    {
+     "type": "case",
+     "title": "JW Marriott Orlando: a seventh-floor pour and a formwork inspection that did not happen",
+     "paragraphs": [
+      "OSHA's March 6, 2019 release says two employees suffered fatal injuries at the new JW Marriott in Orlando, where workers were pouring concrete on the seventh floor when the support structure collapsed [S23]. OSHA cited two contractors, PCL Construction Services Inc. and Universal Engineering Sciences. The release says OSHA found the contractors failed to inspect formwork, shoring, working decks and scaffolds properly before construction to ensure the equipment met the required specified formwork drawings [S23]. PCL also received a willful citation, which the release describes as the maximum allowed by law, for failing to design, fabricate, erect, support and brace the formwork so it could support vertical and lateral loads [S23]. The contractors collectively received three violations totaling $157,792 in proposed penalties [S23].",
+      "The release does not say what role Universal Engineering Sciences played on the job. The two workers who died worked for other companies: OSHA sent hazard alert letters to Puleo's Concrete Inc. and C&C Pumping Services Inc., the employers of the two workers who died, recommending that they develop a workplace policy to follow up with the general contractor to ensure shoring equipment is installed according to the most recent drawings [S23]. A hazard alert letter is not a citation, and the release does not describe those two companies as having violated anything. The area office director is quoted saying specified drawings and shoring plans may have prevented the deaths [S23]. All penalties are proposed, and the release notes the companies could contest them [S23]."
+     ],
+     "takeaway": "Read it as a handoff with three links: the drawing, the build and the inspection. The crews who stand on a pour did not set the shoring, so their protection is that someone with authority checked the structure against the current drawing. Before any placement, a coordinator can ask for written answers to three questions: which revision of the formwork drawing the shoring was built to, who signed the inspection against that revision, and what the stop-work step is if either answer is blank. The hazard alert letter points at the other side of the handoff: the pump and concrete subs can adopt their own rule not to place on a deck until told the inspection is done and which drawings it used. This is judgment drawn from the release, not a requirement in it."
+    }
+   ]
+  },
+  {
+   "heading": "Training: who owes what, and the 2020 change",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Section 1926.21(b)(2) is one sentence long and does a lot of work: the employer shall instruct each employee in the recognition and avoidance of unsafe conditions and the regulations applicable to his work environment to control or eliminate any hazards or other exposure to illness or injury [S2]. Paragraph (b)(3) adds instruction in safe handling, hazards, personal hygiene and protective measures for employees who handle or use poisons, caustics and other harmful substances. Paragraph (b)(4) adds instruction for sites with harmful plants or animals, including first aid for injuries from them. Paragraph (b)(5) adds instruction in safe use of flammable liquids, gases or toxic materials, pointing to Subparts D, F and others [S2]. The 3886 guide suggests the OSHA 10-hour construction course as a starting point for workers, supplemented by site orientation and toolbox talks, and the 30-hour course for managers and supervisors [S19]."
+    },
+    {
+     "type": "p",
+     "text": "What changed is a counting rule. Paragraph (f) of 1926.20 says that where a Part 1926 standard requires the employer to provide PPE, the duty is separate for each employee, and each failure to provide PPE to an employee may be a separate violation [S1]. The same paragraph does the same for training standards [S1]. The page's amendment history ends with a February 18, 2020 Federal Register notice, and it does not say which paragraph that notice changed [S1]."
+    },
+    {
+     "type": "quote",
+     "text": "The employer must train each affected employee in the manner required by the standard, and each failure to train an employee may be considered a separate violation.",
+     "source": "S1"
+    },
+    {
+     "type": "p",
+     "text": "For a coordinator that is arithmetic. A crew of 30 that missed a required orientation is not one finding in the text; each failure may count separately. The duty falls on whichever employer owes the training, so the cleanest control is a sign-in sheet tying each worker to an employer and a topic. The 3886 guide says contractor, subcontractor and temporary agency workers should be trained on program policies, whom to contact, how to report hazards, injuries and close calls, what to do in an emergency, and workers' rights under the OSH Act [S19]. Training should be in a language and at a literacy level workers understand [S19]. For supervisors it recommends training on responding to reports without discouraging them, hazard recognition, the hierarchy of controls and root cause analysis [S19]."
+    },
+    {
+     "type": "p",
+     "text": "The emergency action plan is a related duty, but 1926.35 applies only to plans required by a particular OSHA standard, so it is not a mandate for every job [S8]. Where one is required it must be in writing and cover escape procedures and route assignments, procedures for employees who remain to operate critical plant operations, accounting for everyone after evacuation, rescue and medical duties, the preferred way to report emergencies, and names or titles to contact [S8]. The employer reviews it with each covered employee initially, when duties change and when the plan changes, and reviews the relevant parts on initial assignment [S8]. The written plan is kept at the workplace; employers with 10 or fewer employees may communicate it orally [S8]. On a multi-employer job every sub's workers need the same route and muster point, which means a site-wide plan delivered at the gate."
+    }
+   ]
+  },
+  {
+   "heading": "Recording and reporting: Part 1904 on a multi-employer site",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "The recordkeeping rule is where a safety program leaves paper. Part 1904 requires an employer to record each work-related, new case that meets the general recording criteria: death, days away from work, restricted work or transfer to another job, medical treatment beyond first aid, or loss of consciousness, plus significant injuries or illnesses diagnosed by a physician or other licensed health care professional [S10]. The log and incident report must be completed within seven calendar days of receiving information that a recordable case has occurred, on the OSHA 300 Log and the 301 Incident Report or equivalent forms [S11]. Records are kept five years after the end of the calendar year they cover, and the 300 Log is updated during that period when classifications change [S27]."
+    },
+    {
+     "type": "p",
+     "text": "The question that matters on a multi-employer site is whose log the case lands on. Part 1904 follows day-to-day supervision, not the paycheck."
+    },
+    {
+     "type": "quote",
+     "text": "If you supervise the contractor employee's work on a day-to-day basis, you must record the injury or illness.",
+     "source": "S13"
+    },
+    {
+     "type": "p",
+     "text": "The full rule has more than that sentence. You must record injuries to employees on your payroll, and also to employees who are not on your payroll if you supervise them on a day-to-day basis [S13]. If a contractor's employee is under the contractor's day-to-day supervision, the contractor records it; the two employers should coordinate so each case is recorded once, either on the log of the one providing day-to-day supervision or on the other employer's [S13]. For temporary or leased workers the same day-to-day test applies [S13]. So if the GC's foreman runs a staffing agency's labor crew all day, the GC's log takes those cases whoever signs the paychecks."
+    },
+    {
+     "type": "p",
+     "text": "Where the log is kept is separate. Part 1904 requires a separate 300 Log for each establishment expected to operate one year or longer; shorter-lived establishments may share one combined log, and each employee is linked to an establishment [S12]. Whether a jobsite is its own establishment is a definition the section does not answer on its face, so ask the sub's safety lead how it logs an 18-month build and write down the answer."
+    },
+    {
+     "type": "p",
+     "text": "Government access has two clocks. Copies of Part 1904 records are due within four business hours of an authorized government representative's request [S16]. A fatality must be reported to OSHA within eight hours; an in-patient hospitalization, amputation or loss of an eye within 24 hours [S15]. Reports go by phone or in person to the nearest Area Office, by the toll-free line, or online; if the Area Office is closed, the 800 number or website must be used, not a voicemail or fax [S15]."
+    },
+    {
+     "type": "p",
+     "text": "Part 1904 also requires a reporting system that works. Employers must set a reasonable procedure for employees to report injuries and illnesses promptly and accurately, and a procedure is not reasonable if it would deter or discourage a reasonable employee from accurate reporting [S14]. Employees must be told the procedure, their right to report and the ban on retaliation, and copies of the 300 Log are due to employees and representatives by the end of the next business day [S14]. Whether a prize tied to zero recordables would discourage reporting is not something the text addresses; the test it sets is whether the procedure would deter a reasonable employee. That is a question for counsel."
+    },
+    {
+     "type": "p",
+     "text": "Submission to OSHA changed in recent years. The current 1904.41 requires electronic submission of Form 300A by establishments with 20 to 249 employees in industries listed in Appendix A, and by every establishment with 250 or more employees that has to keep records [S17]. It also requires establishments with 100 or more employees in the industries listed in Appendix B to submit information from the 300 Log and 301 Incident Report [S17]. Appendix B contains construction code 2381, Foundation, Structure, and Building Exterior Contractors, and no other construction code in the listing [S18]. Submissions are due by March 2 of the following year, and every individual employed at any time during the year counts toward the headcount, temporary and seasonal workers included [S17]."
+    }
+   ]
+  },
+  {
+   "heading": "Two more cases: what a records request and a trench show about a program",
+   "blocks": [
+    {
+     "type": "case",
+     "title": "Brothers Construction Services, Boston: the inspection reached the paperwork",
+     "paragraphs": [
+      "OSHA opened an inspection on August 17, 2023, at a Hyde Park, Boston, residential roofing site after a complaint that workers on the roof were not using fall protection [S24]. The Framingham roofing contractor, Brothers Construction Services Inc., was cited for eight willful, repeat, serious and other-than-serious violations with $306,229 in proposed penalties [S24]. The list of what the release says the employer did not do includes providing fall protection against a 20-foot fall, training employees on fall hazards, having a competent person conduct frequent and regular inspections of the jobsite to identify and correct hazards, providing hard hats and eye protection, and providing inspectors with OSHA 300 injury and illness logs within four business hours [S24]. The release also says OSHA has cited the company and commonly owned companies since 2011 for similar hazards at sites in eight Massachusetts towns and in Windham, New Hampshire [S24]. The release lists these as findings in a proposed citation, and the company has the right to contest them [S24]."
+     ],
+     "takeaway": "This is a small residential roofing job, not a large site, and the point carries: one inspection tested the inspections, training, PPE and records clock at once. The log is the easiest to fix because it is clerical. A coordinator who asks each sub at prequalification to produce its 300 Log and 300A has run that test before an inspector does, and a sub that cannot find its log is telling you something about the rest of its program. This is judgment drawn from the release."
+    },
+    {
+     "type": "case",
+     "title": "J.D. Wagoner Excavating, Chambersburg, Pennsylvania: the competent person and the stop",
+     "paragraphs": [
+      "An October 7, 2026 release says OSHA opened an investigation into Jonas David Wagoner, doing business as J.D. Wagoner Excavating, on April 2, 2026. OSHA found workers installing a storm sewer 12 feet below ground in a trench not adequately protected from soil collapse; when part of the wall failed, the unrestrained soil engulfed one worker, and the release says a young worker was fatally injured [S25]. OSHA issued a willful violation for failing to protect workers from cave-ins and two repeat violations: for failing to assign a competent person to conduct daily trench inspections, and for removing employees from hazardous conditions [S25]. It also issued serious violations for failing to provide construction hazard prevention training, to establish a safe means of exit, to keep materials at least two feet from the edge of the excavation, and to restrain side materials from becoming roll-in hazards. The release calls these three serious violations but lists four items, and does not explain how they were grouped [S25]. Proposed penalties were $254,884, and the employer had 15 business days to request a conference or contest [S25]."
+     ],
+     "takeaway": "The pairing in the repeat citations is the useful part: one is about assigning the competent person, the other about removing employees from hazardous conditions. Those are the two halves of the 1926.32(f) definition, identifying hazards and acting on them [S7]. A coordinator checking an excavation sub should ask for the name of the person who inspects daily, the written record of today's inspection and the answer to what that person does when the trench fails the check. The release does not name the standards behind these items."
+    }
+   ]
+  },
+  {
+   "heading": "Keeping the program alive: a coordinator's rhythm",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "What follows is judgment built on the sources above, not a legal requirement, and a company's own contract and counsel may change it. It turns the sources into a rhythm a coordinator can run on a large job."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Before mobilization: put safety requirements in the bid documents and subcontract exhibits, confirm in a pre-construction meeting who runs which part of the program, and collect the competent-person roster and training records [S19]. Have counsel read any clause where the GC promises training or inspection services [S22].",
+      "At gate and orientation: deliver the site-wide emergency plan, the reporting procedure and the stop-work rule to every worker, in a language they read, with the sign-in tied to employer and topic [S8][S19][S14].",
+      "Daily: pre-task cards for routine work, written plans for anything on the 3071 priority list or the 3886 nonroutine list, and competent-person inspections documented the same day [S19][S20]. Walk the delivery and laydown areas the traffic plan covers [S19].",
+      "Weekly: check the look-ahead against the roster for overlap and for what the next trade inherits from the last, and collect each sub's hazard reports and trends [S19].",
+      "On every incident or close call: start the investigation immediately, ask why at each step instead of stopping at worker error, and ask whether the worker had the tools, time, training and supervision [S19]. Decide who records the case using the day-to-day supervision test, and start the 8-hour or 24-hour clocks if they apply [S13][S15].",
+      "On any government request for records: the four-business-hour clock begins at the request [S16]. Know which person holds each sub's log and which holds yours."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "State plans are the last wrinkle. Publication 3071 says 24 states and two territories run their own approved programs, which may have standards differing slightly from federal ones, and tells employers there to check with the state agency; that count comes from a 2002 publication and may be out of date [S20]. The 1904.41 text confirms State Plan states share the electronic submission requirement [S17]."
+    }
+   ]
+  },
+  {
+   "heading": "What has changed since a 2017 guide",
+   "blocks": [
+    {
+     "type": "list",
+     "items": [
+      "Paragraph (f) of 1926.20 makes PPE and training duties per-employee, and each failure may be a separate violation; the page's last amendment note is a February 18, 2020 notice [S1].",
+      "Section 1904.41 now has three categories of routine electronic submission, including 300 Log and 301 report submission by 100-plus-employee establishments in the Appendix B industries, and its last listed amendment is dated July 21, 2023 [S17][S18].",
+      "The OSHA recommended practices for construction (publication 3886) are dated October 2016, so a 2017 course guide would postdate them [S19].",
+      "Section 1926.22 remains reserved; recording and reporting for construction employers run through Part 1904 [S3].",
+      "The competent-person letter dates from 1995 and the multi-employer policy letter from 2012; nothing in the sources read for this module replaces them [S21][S22]."
+     ]
+    }
+   ]
+  }
+ ]
+}
